@@ -1,0 +1,9 @@
+Được rút tiền tại ATM bằng mã QR
+(Dân trí) - Không cần thẻ, khách hàng của 6 ngân hàng có thể rút tiền qua máy rút tiền tự động (ATM) bằng mã QR.
+Công ty cổ phần Thanh toán Quốc gia Việt Nam (Napas) phối hợp các ngân hàng thành viên hoàn thiện phát triển dịch vụ rút tiền qua ATM liên thông giữa các ngân hàng bằng mã VietQR. 
+Như vậy, khách hàng từ nay có thể rút tiền mà không cần dùng thẻ vật lý. Hạn mức và phí giao dịch tương tự như quy định hiện nay đối với giao dịch rút tiền trên ATM bằng các loại thẻ. 
+Phương thức giao dịch là khách truy cập ứng dụng thanh toán của các ngân hàng, sau đó quét mã QR hiển thị trên màn hình ATM. 
+8 ngân hàng áp dụng giai đoạn đầu có BIDV, VietinBank, Vietcombank, Agribank, Saigonbank, Sacombank, NCB và Nam A Bank. Trong đó, khách có thể triển khai ngay với 6 ngân hàng, trừ NCB và Nam A Bank. Sau đó, việc này sẽ được áp dụng rộng rãi. 
+Không cần có thẻ vẫn rút được tiền tại ATM (Ảnh minh họa: DT).
+Ông Lê Văn Tuyên - Phó vụ trưởng Vụ Thanh toán (Ngân hàng Nhà nước) - cho biết việc này giúp tối ưu hóa hiệu quả đầu tư hệ thống ATM, giảm chi phí phát hành thẻ vật lý đặc biệt với những người chỉ có nhu cầu giao dịch trực tuyến. 
+Tuy nhiên, ông lưu ý, Napas và các ngân hàng cần tuân thủ các quy định pháp luật hiện hành về hoạt động thanh toán, cũng như các quy định liên quan đến thiết bị chấp nhận thanh toán (bao gồm ATM, POS), các quy định yêu cầu kỹ thuật, đảm bảo an toàn bảo mật, an toàn thông tin, có giải pháp phòng ngừa rủi ro và bảo vệ quyền lợi hợp pháp của khách hàng... 

@@ -1,0 +1,10 @@
+Hai trạm thu phí không dừng bị lỗi hệ thống 
+Hai trạm thu phí không dừng Bến Thủy và Bến Thủy 2 ở Nghệ An bị mất kết nối khiến hệ thống không thể tự động trừ tiền khi xe qua trạm.
+Tình trạng này vừa được đại diện chủ đầu tư - chi nhánh BOT tuyến tránh thành phố Vinh báo cáo Cục Đường bộ Việt Nam.
+Theo báo cáo, từ tháng 4, chi nhánh đã bàn giao việc vận hành thu phí tại hai trạm thu phí Bến Thủy và Bến Thủy 2 cho Công ty TNHH Thu phí tự động VETC. Tuy nhiên, hệ thống xảy ra nhiều lỗi. Trong tháng 8-9, có 4 lần hệ thống mất kết nối với máy chủ. Lần gần nhất, hệ thống tại hai trạm mất kết nối 2 giờ.
+Khi xảy ra lỗi, ôtô chạy qua trạm thu phí BOT không được hệ thống nhận diện để thanh toán tự động. Nhân viên trạm phải nhập biển số thủ công cho barrie mở xe qua và thao tác trừ tiền trên hệ thống. Việc các xe dừng chờ nhập biển số gây ùn tắc tại trạm và tiềm ẩn nguy cơ thất thoát doanh thu của nhà đầu tư BOT.
+Cục Đường bộ Việt Nam đã yêu cầu Công ty VETC nhanh chóng rà soát, khắc phục lỗi này; báo cáo nguyên nhân, phương án sửa chữa và kết quả khắc phục.
+Ông Nguyễn Lê Thắng, Phó tổng giám đốc Công ty TNHH Thu phí tự động VETC, cho biết việc mất kết nối mạng đầu tháng 9 là do tủ điện tại trạm Bến Thủy bị nhảy aptomat chống rò khiến bộ lưu điện của máy chủ cạn pin và mất điện máy chủ. Công ty VETC đã lắp đặt toàn bộ còi cảnh báo khi hệ thống thiết bị tại trạm bị mất điện lưới.
+Giữa tháng 9, kênh truyền dẫn đến kết nối hệ thống Backend (hệ thống xử lý trung tâm) bị chập chờn nên hệ thống thu phí bị lỗi. VETC đã phối hợp với nhà cung cấp dịch vụ kênh truyền dữ liệu khôi phục và có giải pháp ngăn ngừa sự cố.
+Hồi tháng 8, các trạm thu phí Bến Thủy có hai lần mất kết nối do hệ thống xử lý xe qua trạm bị quá tải khiến giao dịch chậm. Công ty VETC đã có kế hoạch nâng cấp tổng thể hệ thống Backend, dự kiến hoàn thành trong năm 2023.
+Từ ngày 1/8/2022, thu phí tự động không dừng áp dụng cho các cao tốc, trạm BOT trên quốc lộ chỉ còn một làn thu phí hỗn hợp. Cả nước đã có 155 trạm thu phí không dừng với 893 làn thu phí. Hiện 4,97 triệu ôtô (chiếm 96%) đã dán thẻ và mở tài khoản thu phí không dừng.

@@ -1,0 +1,19 @@
+Tầng một nên cao bao nhiêu mét? 
+Tầng một (trệt) nhà tôi cao 3,2 m nhưng một số người nói nên cao 3,6-3,9 m, tôi có nên yêu cầu bên thi công sửa không?
+Độc giả: Hải Vân
+Kiến trúc sư Trương Thành Trung (Công ty tư vấn thiết kế kiến trúc và nội thất T&T), khuyên độc giả cần lên kế hoạch tổng thể những việc sẽ phải thực hiện trong quá trình xây dựng và hoàn thiện nhà chứ không nên "đẽo cày giữa đường", thay đổi thiết kế giữa chừng. Nếu độc giả không đủ kiến thức và kinh nghiệm xây dựng thì tốt nhất nên thuê kiến trúc sư hỗ trợ. Việc này giúp tiết kiệm thời gian, tiền bạc, vì không bị đội những chi phí phát sinh.
+Việc lựa chọn chiều cao tầng một bao nhiêu là hợp lý phải phụ thuộc vào công năng sử dụng cũng như kiến trúc ngôi nhà. Nếu nhà bạn ở ngoại thành, chỉ xây một, hai tầng thì chiều cao tầng một nên 3,6-3,9 m, để đảm bảo tính tỷ lệ. Còn trong nội đô xây nhiều tầng hơn, chiều cao tầng một nên từ 3,3 đến 3,6 m.
+Chiều cao tầng sẽ được tính toán như sau:
+Bước một: Lấy chiều cao cổ bậc thang (17-17,5 cm) x số bậc thang (19-21-23-25), sẽ ra con số chiều cao tầng bạn mong muốn.
+Ví dụ: Cổ bậc thang 17 cm x 21 bậc = 3m57 (chiều cao tầng)
+* Lưu ý: Cổ bậc thang trong nhà ở dân dụng có chiều cao lý tưởng là 16,5-17,5 cm.
+Bước 2: Để ra được chiều cao hoàn thiện sau này, bạn phải trừ đi chiều cao của dầm (20-25 cm) và độ dày của trần thạch cao phẳng (5-10 cm).
+Với chiều cao tầng 3m57 như ví dụ phía trên, để ra được chiều cao hoàn thiện của tầng một, ta thực hiện công thức:
+Chiều cao tầng 3.570 mm - chiều cao dầm 200 mm - trần thạch cao 50 mm = 3.320 mm.
+Như vậy, kích thước thông thủy từ sàn đến trần (chiều cao hoàn thiện của tầng một) sẽ là 3m32.
+Cách tính cũng tương tự với các tầng trên.
+Với kiến trúc nhà hiện đại, bạn nên để chiều cao tầng là 2m7 (chiều cao thông thủy) từ sàn đến trần giả thạch cao. Còn nhà kiến trúc tân cổ, bạn có thể để 3-3,2 m, bởi kiến trúc nội thất của nhà tân cổ thường đóng trần giật cấp, phào chỉ... vì thế nên để trần cao.
+Còn để xử lý vấn đề của bạn hiện tại, kích thước thô đang là 3,2 m, nếu muốn cao hơn, bạn có thể giữ nguyên chiều cao, không đóng trần giả thạch cao. Cách thứ hai là đóng trần thạch cao hai cấp, với cấp một sát trần bê tông, cấp hai xử lý che những vị trí có dầm.
+Tốt nhất là bạn nên mời kiến trúc sư tham gia hỗ trợ càng sớm càng tốt, tránh những việc không thể thay đổi hoặc phải đập đi làm lại nhiều lần.
+Trang Vy
+Độc giả cần tư vấn bất kỳ vấn đề nào liên quan tới nhà ở, gửi câu hỏi trực tiếp tại đây

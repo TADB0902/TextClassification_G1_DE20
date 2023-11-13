@@ -1,0 +1,24 @@
+Trường Đại học Kinh tế Quốc dân công bố điểm chuẩn xét tuyển kết hợp
+(Dân trí) - Trường Đại học Kinh tế Quốc dân xét tuyển kết hợp theo ba nhóm đối tượng, trong đó cao nhất là ngành Kinh doanh quốc tế với 28,1 điểm.
+Các ngành như Thương mại điện tử, Kiểm toán, Phân tích kinh doanh..., ở mức điểm chuẩn 27-27,56. Điểm chuẩn tập trung nhiều nhất ở mức 18 đến 27 điểm.
+Trường xét tuyển theo 3 nhóm đối tượng
+Nhóm 1: Những thí sinh có chứng chỉ quốc tế SAT và ACT.
+Nhóm 2:  gồm những thí sinh có điểm đánh giá năng lực năm 2022 hoặc 2023 của Đại học Quốc gia Hà Nội (ĐH), ĐH Quốc gia TPHCM hoặc điểm thi đánh giá năng lực năm 2023 của ĐH Bách khoa Hà Nội.
+Nhóm 3: là những thí sinh có chứng chỉ tiếng Anh quốc tế kết hợp với điểm thi đánh giá năng lực năm 2022 hoặc 2023 của ĐH Quốc gia Hà Nội, ĐH Quốc gia TPHCM hoặc điểm thi đánh giá năng lực năm 2023 của ĐH Bách khoa Hà Nội.
+Điểm chuẩn cụ thể từng ngành (Nguồn: ĐHKTQD).
+Cụ thể ở nhóm 1: ĐXT = điểm SAT*30/1600 + điểm ưu tiên (nếu có).
+ĐXT = điểm ACT*30/36 + điểm ưu tiên (nếu có).
+Nhóm 2: ĐXT = Điểm thi đánh giá năng lực ĐH Quốc gia Hà Nội *30/150 + điểm ưu tiên (nếu có).
+ĐXT = Điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM *30/1200 + điểm ưu tiên (nếu có).
+ĐXT = Điểm thi đánh giá tư duy ĐH Bách khoa Hà Nội *30/100 + điểm ưu tiên (nếu có).
+Điểm chuẩn cụ thể từng ngành (Nguồn: ĐHKTQD).
+Nhóm 3: ĐXT = [Điểm quy đổi CCTAQT + (Điểm thi đánh giá năng lực ĐH Quốc gia Hà Nội *30/150)*2/3]*30/35 + điểm ưu tiên (nếu có).
+ĐXT = [Điểm quy đổi CCTAQT + (Điểm thi đánh giá năng lực ĐH Quốc gia TP.HCM *30/1200)*2/3]*30/35 + điểm ưu tiên (nếu có).
+ĐXT = [Điểm quy đổi CCTAQT + (Điểm thi đánh giá tư duy ĐH Bách khoa Hà Nội *30/100)*2/3]*30/35 + điểm ưu tiên (nếu có).
+Theo Trường Đại học Kinh tế Quốc dân, điểm ưu tiên được tính theo từng nhóm đối tượng, cụ thể: Điểm ưu tiên= [(30 - tổng điểm đạt được)/7,5].
+Mức điểm ưu tiên áp dụng đối với thí sinh đạt tổng điểm từ 22,5 trở lên.
+Thí sinh đủ điều kiện trúng tuyển cần đăng ký và điều chỉnh nguyện vọng phù hợp để trúng tuyển chính thức (nếu có nguyện vọng) trên hệ thống của Bộ GD&ĐT theo quy định từ ngày 10 - 30/7.
+Điểm chuẩn xét tuyển từng ngành (Nguồn: ĐHKTQD).
+Trước đó, Trường ĐH Y Hà Nội cũng công bố danh sách 129 thí sinh vừa trúng tuyển vào Trường ĐH Y Hà Nội theo diện tuyển thẳng và xét tuyển thẳng. Trong số đó, có 108 em trúng tuyển vào ngành Y khoa.
+Hội đồng tuyển sinh Học viện Báo chí và Tuyên truyền thông báo công nhận 75 thí sinh trúng tuyển diện tuyển thẳng, ưu tiên xét tuyển hệ đại học chính quy tập trung năm 2023.
+Học viện Báo chí và Tuyên truyền lưu ý, các thí sinh trúng tuyển cần có điểm thi tốt nghiệp THPT năm 2023 theo tổ hợp xét tuyển của Học viện (tương ứng với từng ngành trúng tuyển) đạt ngưỡng đảm bảo chất lượng đầu vào 16,0 điểm trở lên.

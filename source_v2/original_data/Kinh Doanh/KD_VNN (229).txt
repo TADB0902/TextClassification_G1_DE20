@@ -1,0 +1,26 @@
+Trăm tên miền giả ngân hàng quen thuộc để lừa đảo
+Các vụ việc lừa đảo trên mạng có xu hướng gia tăng, trong đó hầu hết là website giả mạo các tổ chức tài chính ngân hàng.
+Gia tăng tấn công mạng vào ngân hàng
+Dữ liệu từ Bộ Thông tin và Truyền thông cho thấy, trong nửa đầu năm 2023, cơ quan này đã nhận được hơn 4.000 báo cáo từ người dùng Internet về các hành vi lừa đảo. Trong đó hơn 95% là các hành vi lừa đảo nhắm vào lĩnh vực ngân hàng, tài chính. 
+Trong thời gian qua, xuất hiện nhiều cuộc tấn công mạng nhằm vào ngân hàng.
+Trong năm 2021, theo báo cáo "Security Endpoint Threat Report", Việt Nam đứng thứ 2 châu Á về số lượng mã độc tống tiền (ransomware), tăng 200% so với năm 2020. 
+Nghiên cứu của công ty mạng Viettel năm 2021 cũng cho thấy, 90% cuộc tấn công mạng liên quan đến hệ thống tài chính - ngân hàng trong năm 2021, tăng đến 42,4% so với năm 2020.
+Năm 2022, Group-IB, một công ty về an ninh mạng có trụ sở chính tại Singapore, đã phát hiện một vụ tấn công lừa đảo chưa từng có tiền lệ tại Việt Nam.
+Theo đó, 240 tên miền liên kết giả mạo nhằm mạo danh 27 tổ chức tài chính, ngân hàng quen thuộc của Việt Nam để tìm cách thu thập chi tiết thông tin cá nhân của các khách hàng, thậm chí là đánh cắp tài khoản ngân hàng của họ và sử dụng các kỹ thuật vượt qua bước xác minh OTP.
+Tại buổi tọa đàm Chia sẻ kinh nghiệm triển khai giải pháp đảm bảo an ninh dữ liệu cho lĩnh vực ngân hàng diễn ra sáng 6/10, đại diện CDNetworks đã chia sẻ những tổng hợp mới nhất về tình hình an ninh mạng hiện nay. 
+Theo các chuyên gia của CDNetworks, các ngân hàng thường phải đối mặt với các hình thức tấn công vào Layer 3/4, Layer 7 DDoS và các ứng dụng web với đa dạng phương thức tấn công. 
+Các cuộc tấn công mạng cũng trở nên phức tạp hơn, thống kê cho thấy hơn 87% các cuộc tấn công có sự kết hợp từ 2 phương thức tấn công trở lên. 
+Bên cạnh đó, hệ thống ngân hàng cũng phải đối mặt với nguy cơ khả năng kết nối chậm với các ứng dụng toàn cầu, ảnh hưởng lớn đến trải nghiệm của khách hàng. 
+Ngân hàng liên tục cảnh báo
+Trước thực trạng trên, các ngân hàng liên tục phát đi khuyến cáo về những chiêu thức lừa đảo mới nhằm chiếm đoạt tài khoản của khách hàng. 
+Ngân hàng Agribank cho biết, thời gian gần đây, lợi dụng nhu cầu vay tiền của một số người dân, nhiều đối tượng đã giả danh ngân viên ngân hàng để tạo lập các trang Fanpage/Group/tài khoản Facebook núp bóng dịch vụ "chăm sóc khách hàng", "hỗ trợ khách hàng", "vay vốn nhanh", "hỗ trợ vay tín chấp", "vay tiên trực tuyến"… để lừa đảo, chiếm đoạt tài sản.
+Đối tượng sẽ yêu cầu khách hàng cung cấp thông tin (số điện thoại, thông tin cá nhân), sau đó gọi điện trực tiếp để tư vấn, mời vay vốn và yêu cầu chuyển các loại phí.
+
+Các đối tượng lừa đảo tạo lập hàng trăm website/tài khoản facebook với các nguồn thông tin giả, tham gia vào các hội nhóm, diễn đàn, đăng bài quảng cáo cho vay tín chấp với lãi suất thấp, thủ tục vay đơn giản, không cần gặp trực tiếp; nợ xấu vẫn vay được; không thế chấp, không thẩm định, chỉ cần Chứng minh nhân dân/ Căn cước công dân và có tài khoản ngân hàng/thẻ ATM là có thể vay được tiền...
+Khi có người vay tiếp cận, các đối tượng sẽ dẫn dụ, yêu cầu người vay cung cấp thông tin cá nhân, như: họ tên, số điện thoại, ảnh chụp CMND/CCCD, ảnh chụp chân dung… phục vụ làm hồ sơ vay, sau đó các đối tượng yêu cầu người vay phải chuyển trước một số khoản tiền nhỏ (khoảng từ 500.000 đồng đến 5 triệu đồng), để phục vụ hỗ trợ xác minh, duyệt khoản vay…
+Sau khi dụ người vay chuyển tiền phục vụ hỗ trợ xác minh, duyệt khoản vay, các đối tượng tiếp tục viện dẫn hàng loạt các lý do khoản vay không được giải ngân xuất phát từ lỗi khai hồ sơ của người vay (như khai sai tên người hưởng thụ, đổi cách viết tên người hưởng thụ từ chữ in thường sang in hoa, không đủ điều kiện vay, thừa hoặc sai một số trên số căn cước công dân…).
+Từ đó, chúng yêu cầu người vay phải nộp thêm các khoản tiền để bảo đảm khoản vay hoặc khắc phục lỗi hệ thống; hứa hẹn sẽ hoàn trả lại số tiền đã gửi cho khách hàng sau khi khoản vay được giải ngân. Tuy nhiên, khi người vay chuyển tiền vào số tài khoản của các đối tượng cung cấp, các đối tượng sẽ lập tức chiếm đoạt và ngắt liên lạc.
+Trường hợp khách hàng không chuyển tiền theo yêu cầu, chúng sẽ đe dọa khách hàng là khoản vay khách hàng bị chuyển thành nợ xấu để yêu cầu phải chuyển tiền.
+Với thủ đoạn lừa đảo tinh vi trên, người bị hại không những bị mất tiền mà còn bị mất toàn bộ thông tin danh tính cá nhân, tiềm ẩn nguy cơ tiếp tục bị lợi dụng để phục vụ cho các hoạt động vi phạm pháp luật khác, ví dụ như: đăng kí SIM không chính chủ, đăng kí mở tài khoản ngân hàng, ví điện tử phục vụ các hoạt động lừa đảo, rửa tiền, cá độ trực tuyến…
+Các ngân hàng khuyến cáo khách hàng không truy cập vào bất kỳ đường link website/fanpage/facebook giả danh cán bộ ngân hàng hỗ trợ vay vốn nhanh, thủ tục nhanh... Không cung cấp bất kỳ thông tin cá nhân (Chứng minh nhân dân/Căn cước công dân, địa chỉ, hình ảnh nhận diện khuôn mặt…) khi chưa xác định chính xác website, ứng dụng và danh tính tư vấn viên.
+Không cung cấp thông tin tài khoản ngân hàng, mã OTP được gửi vào hòm thư, điện thoại di động cho các đối tượng. Không chuyển tiền vào tài khoản cá nhân mà các đối tượng lạ cung cấp, dụ dỗ….

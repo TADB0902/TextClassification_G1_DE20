@@ -1,0 +1,11 @@
+Câu đố xếp số lên cạnh của tam giác 
+Cho các số từ 1 đến 9, bạn hãy sắp xếp sao cho tổng các điểm trên ba cạnh của tam giác đều bằng 17.
+Câu 1: Dùng 4 đoạn thẳng để nối 9 điểm dưới đây:
+>> Đáp án
+Câu 2: Nối 9 điểm bằng ba đoạn thẳng
+>> Đáp án
+Câu 3: Dùng 6 đoạn thẳng để nối 16 điểm
+>> Đáp án
+Câu 4: Xếp các chữ số từ 1 đến 9 sao cho phép tính trên mỗi cạnh của tam giác đều bằng 17
+>> Đáp án
+Theo Bright Side

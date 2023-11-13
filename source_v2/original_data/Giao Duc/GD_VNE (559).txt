@@ -1,0 +1,7 @@
+Bài toán tìm tọa độ trong bảng số của học sinh lớp 5 
+Trong ba phút, bạn có thể giải một bài toán tìm tọa độ trong bảng số của học sinh lớp 5?
+Đề bài:
+Viết các số tự nhiên lẻ liên tiếp 1, 3, 5, 7, ... , 2021, 2023 thành bảng sau:
+Mỗi số trong bảng trên được xác định vị trí bởi tọa độ là một cặp số (chỉ số hàng và số cột của nó). Ví dụ, số 9 nằm trên hàng 2, cột 4 sẽ có tọa độ là cặp số (2; 4). Gọi (a; b) là cặp số xác định tọa độ của số 2023.
+Tính a + b.­­­
+Trần Phương

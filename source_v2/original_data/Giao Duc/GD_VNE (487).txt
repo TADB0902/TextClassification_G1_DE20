@@ -1,0 +1,18 @@
+Cách giải bài toán thi học sinh giỏi bậc tiểu học của Hong Kong 
+Dựa vào mối quan hệ tỷ lệ nghịch giữa vận tốc và thời gian, bạn có thể giải bài toán bằng phương pháp của học sinh tiểu học.
+Đề bài:
+Một ôtô đi du lịch từ thành phố A đến thành phố B với vận tốc không đổi. Biết rằng nếu ôtô tăng vận tốc thêm 20% thì chuyến đi mất ít hơn 1 tiếng so với dự định; và nếu ôtô đi với vận tốc hiện tại trong 100 km trước khi tăng lên 30% thì chuyến đi cũng mất ít hơn 1 tiếng so với dự định.
+Tính khoảng cách giữa hai thành phố A và B.
+Cách 1: Phương pháp đại lượng tỷ lệ
+Nếu ôtô tăng 20% thì vận tốc bằng 120%, hay bằng 6/5 vận tốc hiện tại và thời gian tương ứng bằng 5/6 thời gian dự định.
+Kết hợp với dữ kiện: hai khoảng thời gian chênh lệch nhau 1 tiếng, suy ra thời gian ôtô đi với vận tốc hiện tại là 6 giờ và thời gian với vận tốc khi được tăng thêm 20% là 5 giờ.
+Trên cùng một quãng đường (AB -100) km, nếu vận tốc mới của ôtô bằng 130% vận tốc hiện tại thì thời gian tương ứng bằng 10/13 thời gian dự định. Do hai khoảng thời gian ôtô đi trên quãng đường (AB - 100) km chênh lệch nhau 1 tiếng, nên thời gian ôtô đi với vận tốc hiện tại là 13/3 giờ và thời gian đi khi tăng vận tốc thêm 30% là 10/3 giờ.
+Từ đó, ta có thời gian ôtô đi quãng đường 100 km với vận tốc hiện tại là:
+6 -13/3 = 5/3 (giờ) và quãng đường AB là (100 : 5/3) x 6 = 360 (km)
+Cách 2: Phương pháp so sánh bù trừ
+So sánh hai cách đi cùng mất ít hơn 1 tiếng so với cách đi thực tế, ta có:
+Ôtô đi 100 km rồi mới tăng vận tốc 30% so với ôtô tăng vận tốc 20% ngay từ đầu thì 10% chênh lệch vận tốc ở đoạn đường sau có thể bù cho 100km đầu tiên để ôtô tăng vận tốc 20%. Khi đó thời gian ôtô đi trên đoạn đường sau với vận tốc tăng 30% phải gấp đôi thời gian đi 100km đầu tiên.
+Từ đó suy ra đoạn đường sau dài 2 x 100 x 130 % = 260 (km)
+Vậy khoảng cách hai thành phố A, B là 100 + 260=360 (km)
+Đáp số: 360 km
+Trần Phương

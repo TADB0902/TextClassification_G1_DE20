@@ -1,0 +1,11 @@
+Di chuyển que diêm để có kết quả đúng 
+Chỉ với việc đổi chỗ các que diêm, liệu bạn có thể thực hiện các yêu cầu dưới đây?
+Câu 1: Thay đổi một que diêm để hươu cao cổ quay về bên trái
+>> Đáp án 
+Câu 2: Di chuyển ba que diêm để cá quay sang phải
+>> Đáp án
+Câu 3: Đưa đồng xu ra khỏi ly bằng cách thay đổi hai que diêm
+>> Đáp án
+Câu 4: Xoay chiều con cá xuống dưới bằng cách đổi chỗ ba que diêm
+>> Đáp án
+Theo Puzzled

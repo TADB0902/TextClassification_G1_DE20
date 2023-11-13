@@ -1,0 +1,11 @@
+Tìm quy luật dãy số trong 30 giây 
+Cho dãy số 18, 10, 6, 4. Trong 30 giây, liệu bạn có tìm được quy luật để điền số tiếp theo vào dãy?
+Câu 1:
+>>Đáp án
+Câu 2: Nếu 1 + 4 = 5, 2 + 5 = 12, 3 + 6 = 21, trong 45 giây, bạn hãy tìm ra quy luật của các phép tính trên để điền đúng kết quả của 9 + 13 =?
+>>Đáp án
+Câu 3:
+>>Đáp án
+Câu 4:
+>>Đáp án
+Theo Bright side

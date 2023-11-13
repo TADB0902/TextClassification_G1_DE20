@@ -1,0 +1,10 @@
+Bệnh viện tại TP.HCM sẽ dùng AI để phát hiện loại ung thư phổ biến ở phụ nữ
+Ung thư cổ tử cung là loại ung thư rất thường gặp ở phụ nữ. Trung bình mỗi ngày, Việt Nam có khoảng 14 phụ nữ mắc bệnh và 7 phụ nữ tử vong do ung thư cổ tử cung.
+Sở Y tế TP.HCM vừa cho biết trong thời gian tới, các bệnh viện chuyên khoa sản gồm Bệnh viện Hùng Vương và Bệnh viện Từ Dũ sẽ thử nghiệm ứng dụng trí tuệ nhân tạo (AI) trong sàng lọc ung thư cổ tử cung.
+Theo Sở Y tế TP, AI trong sàng lọc ung thư cổ tử cung có tên là CerviCare AI, do một công ty khởi nghiệp sáng tạo tại Hàn Quốc tạo ra.
+Hệ thống này được đào tạo trên một tập dữ liệu khổng lồ gồm hơn 100.000 hình ảnh cổ tử cung, bao gồm cả hình ảnh bình thường và bất thường. Hệ thống phân tích hình ảnh sử dụng trí tuệ nhân tạo giúp phát hiện sớm các dấu hiệu ung thư cổ tử cung.
+Cơ quan kiểm nghiệm thuốc và thực phẩm Hàn Quốc đã thực hiện thử nghiệm lâm sàng trên 1.000 phụ nữ từ 25 đến 65 tuổi. Những phụ nữ này được chụp ảnh cổ tử cung bằng phương pháp soi cổ tử cung truyền thống và bằng ứng dụng CerviCare AI.
+Kết quả cho thấy ứng dụng AI này có thể phát hiện ung thư cổ tử cung giai đoạn sớm với độ chính xác lên đến 98% khi kết hợp với xét nghiệm phết tế bào cổ tử cung. Ngoài ra, độ chính xác trong phát hiện các dấu hiệu bất thường khác là 95%, thời gian phân tích hình ảnh là 5 phút.
+Theo Sở Y tế TP.HCM, ứng dụng này sẽ giúp phát hiện sớm ung thư cổ tử cung nên tăng khả năng điều trị thành công, giảm thiểu chi phí và thời gian điều trị, tăng cường khả năng tiếp cận với dịch vụ chăm sóc sức khỏe. Ngoài Hàn Quốc, hiện có Nhật Bản, Thái Lan đã áp dụng công cụ này tại cơ sở y tế.
+Theo Globocan, năm 2020, thống kê tỷ lệ mắc mới ung thư cổ tử cung tại Việt Nam là 6,6/100.000 người, chiếm 2,3% bệnh ung thư chung. Trong đó, tỷ lệ tử vong do ung thư cổ tử cung gây ra là 3,4/100.000 người. Trung bình mỗi ngày, Việt Nam có khoảng 14 phụ nữ mắc bệnh và 7 phụ nữ tử vong do ung thư cổ tử cung. 
+Linh Anh

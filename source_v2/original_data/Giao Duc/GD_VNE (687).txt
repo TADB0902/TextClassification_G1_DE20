@@ -1,0 +1,15 @@
+Thử thách tìm số hình vuông 
+Từ 20 điểm nối cho trước, trong 30 giây, hãy tìm ra số lượng hình vuông có thể tạo thành.
+Câu 1:
+Từ điểm nối cho trước, tìm số lượng hình vuông có thể tạo thành trong 30 giây?
+>>Đáp án
+Câu 2:
+Với 15 giây, tìm số lượng khối hộp vuông trong hình mẫu?
+>>Đáp án
+Câu 3:
+Đếm số hình tam giác từ mô hình mèo trong 30 giây?
+>>Đáp án
+Câu 4:
+Với 30 giây, tìm số hình tam giác của mô hình đèn ông sao?
+>>Đáp án
+Theo Bright Side

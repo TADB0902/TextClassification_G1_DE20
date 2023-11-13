@@ -1,0 +1,13 @@
+Sắp xếp từ vựng tiếng Anh với 7 chữ cái 
+Với 7 chữ cái cho sẵn, bạn hãy sắp xếp lại vị trí của chúng để tạo thành một từ có nghĩa.
+Câu 1:
+>> Đáp án 
+Câu 2:
+>> Đáp án
+Câu 3:
+>> Đáp án
+Câu 4:
+>> Đáp án
+Câu 5:
+>> Đáp án
+Theo SW-Scramble

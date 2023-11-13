@@ -1,0 +1,16 @@
+Hai cách kiểm tra giấy phép lái xe giả 
+Công ty tôi bị một người dùng giấy phép lái xe giả để xin vào làm vị trí lái xe đưa đón nhân viên, nảy sinh vài rắc rối không đáng có. (Độc giả Duy Hùng)
+Lần này tuyển dụng người khác, tôi có thể làm cách nào để biết giấy phép lái xe họ cung cấp cho công ty tôi là thật hay giả, xin được tư vấn.
+Luật sư tư vấn
+Hiện có hai cách kiểm tra giấy phép lái xe là thật hay giả dễ dàng và thông dụng nhất, cụ thể:
+Cách 1: Kiểm tra trên website của Tổng cục đường bộ Việt Nam.
+Bước 1: Truy cập Trang thông tin giấy phép lái xe của Tổng cục đường bộ Việt Nam tại địa chỉ https://gplx.gov.vn/.
+Bước 2: Nhập các thông tin bao gồm: Loại giấy phép lái xe; số giấy phép lái xe; ngày, tháng, năm sinh; mã bảo vệ. Cuối cùng chọn "Tra cứu giấy phép lái xe".
+Bước 3: Xem kết quả
+Nếu hệ thống không hiện đầy đủ thông tin (bao gồm: họ và tên, ngày sinh, số giấy phép lái xe, số phôi thẻ giấy phép lái xe, nơi cấp giấy phép lái xe, ngày cấp giấy phép lái xe, ngày hết hạn giấy phép lái xe, hạng giấy phép lái xe, ngày trúng tuyển) hoặc thông tin không trùng khớp với thông tin trên giấy phép lái xe thì là giả.
+Cách 2: Kiểm tra bằng mã QR trên Giấy phép lái xe.
+Theo Điều 47 Thông tư 12/2017/TT-BGTVT ngày 15/4/2017 quy định về đào tạo, sát hạch, cấp giấy phép lái xe cơ giới đường bộ; được sửa đổi bởi khoản 28 Điều 1 Thông tư 38/2019/TT-BGTVT về giấy phép lái xe, giấy phép lái xe được cấp sau ngày 1/06/2020 mà không có mã QR ở mặt sau thì có thể là giả.
+Theo đó, với giấy phép lái xe có mã QR, bạn có thể tiến hành quét mã QR đó bằng các ứng dụng quét mã. Sau khi quét mã sẽ hiện ra các thông tin: Số giấy phép lái xe; họ tên, ngày, tháng, năm, sinh; hạng giấy phép lái xe; nơi cấp giấy phép lái xe.
+Nếu quét mã QR mà không ra các thông tin nói trên hoặc các thông tin trên không trùng với thông tin trên giấy phép lái xe thì có thể đó là giả.
+Tuy nhiên, ngoài trường hợp giấy phép lái xe là giả, việc tra cứu cũng có thể không ra kết quả bởi một số lý do như người dùng nhập sai thông tin, thông tin về giấy phép lái xe chưa kịp cập nhật trên hệ thống cơ sở dữ liệu. Vì vậy, khi tra cứu thông tin giấy phép lái xe, bạn cần kiểm tra kỹ thông tin nhập.
+Luật sư Phạm Thanh BìnhCông ty Luật Bảo Ngọc, Hà Nội

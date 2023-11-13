@@ -1,0 +1,6 @@
+Bài toán cân 10 đồng xu 
+Bài toán cân 10 đồng xu dành cho học sinh lớp 6. Liệu bạn có thể giải bài toán này trong 5 phút?
+Đề bài:
+Cho 10 đồng xu, trong đó có ít nhất 9 đồng xu thật. Đồng xu cuối cùng có thể là đồng xu thật hoặc đồng xu giả. Tất cả các đồng xu thật có khối lượng như nhau. Đồng xu giả có thể nặng hơn hoặc nhẹ hơn so với đồng xu thật. Cần xác định trong 10 đồng xu, có xu giả hay không, nếu có thì đồng xu giả nặng hơn hay nhẹ hơn một đồng xu thật, với một chiếc cân hai đĩa.
+Hỏi cần ít nhất bao nhiêu lần cân trên một chiếc cân hai đĩa để xác định?
+Trần Phương

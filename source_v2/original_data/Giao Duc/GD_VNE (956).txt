@@ -1,0 +1,13 @@
+Thử thách đoán con vật 
+Với hình vuông và đường ray tàu, bạn đoán xem đây là từ tiếng Anh chỉ con vật gì?
+Câu 1:
+>> Đáp án
+Câu 2:
+>> Đáp án
+Câu 3:
+>> Đáp án
+Câu 4:
+>> Đáp án
+Câu 5:
+>> Đáp án
+Theo The Quiz Camp

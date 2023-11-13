@@ -1,0 +1,14 @@
+Máy đào Bitcoin bị bán tháo để trả nợ 
+Thua lỗ buộc các công ty đào Bitcoin bán máy hiệu suất cao với giá rẻ hơn 77% so với năm ngoái.
+Theo hãng dịch vụ đào tiền số Luxor Technology, các máy đào Bitcoin hiện được chỉ được bán với giá 24 USD mỗi terahash (đơn vị đo hiệu suất của máy). Năm ngoái, con số này là 106 USD.
+Các công ty đào Bitcoin như Core Scientific đã mở rộng hoạt động rất nhanh khi thị trường tiền số bùng nổ. Họ đi vay hàng trăm triệu USD để mua phần cứng và xây nhà xưởng chứa các phần cứng này. Những công ty này có lãi khi Bitcoin và các tiền số tăng giá.
+Nhưng khi Cục Dự trữ liên bang Mỹ (Fed) bắt đầu nâng lãi, tài sản rủi ro dần trở nên kém hấp dẫn. Giá tiền số và cổ phiếu công nghệ lao dốc. Bitcoin đã mất giá 70% so với năm ngoái, khiến chi phí hoạt động, đặc biệt là tiền trả nợ, của các công ty đào Bitcoin lớn hơn doanh thu. Một số phải bán máy đào để có tiền mặt.
+Giữa tuần này, Core Scientific – một trong những công ty đào Bitcoin lớn nhất thế giới, thông báo sẽ không thể thanh toán "một số khoản nợ và chi phí thiết bị". Họ dự kiến cạn kiệt tiền mặt vào cuối năm nay và đang tìm giải pháp. Cổ phiếu hãng này lao dốc vì nhà đầu tư lo phá sản. Mã này hiện chỉ có giá 0,16 USD – giảm gần 99% trong năm nay.
+Đây là tình trạng chung của nhiều hãng đào tiền số khác. Cổ phiếu TeraWulf giảm 93% năm nay. Stronghold Digital Mining mất 94%. Riot Blockchain giảm 74%. Hut 8 Mining và Marathon Digital Holdings mất gần 70%.
+Một số công ty thậm chí bán máy đào ngay khi nhận được. Argo Blockchain tuần trước cho biết sẽ bán 3.800 máy đào còn chưa mở hộp để có thêm vốn.
+COO Luxor Ethan Vera cho biết bên bán như Argo giờ tràn ngập thị trường. Luxor quản lý một sàn giao dịch thiết bị đào tiền số. Ông ước tính ở Tây bán cầu chỉ có khoảng vài chục người mua lớn. "Giờ gần như ai cũng bán", ông nói.
+Dù vậy, việc đào tiền số vẫn có lời với các công ty không vay nợ nhiều. Bitdeer Technologies là một trong các công ty đang mua thêm máy đào. Họ vừa lập một quỹ trị giá 250 triệu USD để mua và vận hành máy đào.
+Tỷ lệ băm (hash rate - đơn vị đo lường khả năng giải thuật toán của thiết bị đào tiền mã hóa) gần đây liên tiếp lập kỷ lục, theo Blockchain.com. Đây là dấu hiệu thêm nhiều máy đào được đưa vào hoạt động. Các máy mới hơn, hiệu suất cao và cho lời nhiều hơn đã kéo hashrate lên cao, Andy Long – CEO hãng đào Bitcoin White Rock cho biết.
+Việc các máy đào bị bán tháo cũng hấp dẫn người mua săn món hời. Công ty quản lý tài sản Grayscale Investments mới lập một quỹ để mua và vận hành các máy đào được bán tháo. Họ đang tìm nhà đầu tư và yêu cầu góp vốn tối thiểu 25.000 USD. Nhữg người này sẽ được chia lợi nhuận từ việc đào tiền số.
+"Nhìn chung, ngành công nghiệp đang chịu sức ép. Tuy nhiên, nhà đầu tư lại coi đó là cơ hội", CEO Grayscale Michael Sonnenshein.
+Hà Thu (theo WSJ)

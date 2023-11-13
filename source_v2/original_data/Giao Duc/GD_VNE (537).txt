@@ -1,0 +1,12 @@
+Đáp án bài toán tìm tọa độ trong bảng số của học sinh lớp 5 
+Nhiều bạn đọc đã giải theo cách của học sinh lớp 5 để tìm được đáp số đúng là 258.
+Đề bài:
+Viết các số tự nhiên lẻ liên tiếp 1, 3, 5, 7, ... , 2021, 2023 thành bảng sau:
+Mỗi số trong bảng trên được xác định vị trí bởi tọa độ là một cặp số (chỉ số hàng và số cột của nó). Ví dụ, số 9 nằm trên hàng 2, cột 4 sẽ có tọa độ là cặp số (2; 4). Gọi (a; b) là cặp số xác định tọa độ của số 2023.
+Tính a + b.­­­
+Giải:
+Nhận thấy mỗi hàng trong bảng số đều có bốn số. Trong đó, xét từ trái sang phải, bốn số ở cùng hàng lẻ tăng dần và bốn số ở cùng hàng chẵn giảm dần. Ngoài ra, các số ở hàng lẻ đều xếp lệch bên phải một cột so với các số ở hàng chẵn.
+Số 2023 có số thứ tự (2023 – 1) : 2 + 1= 1012, nên 2023 nằm ở hàng 1012 : 4 = 253 (hàng lẻ) và từ trái sang phải lần lượt là các số 2017, 2019, 2021, 2023. Suy ra 2023 nằm ở cột thứ năm trong bảng số.
+Như vậy, trong bảng số 2023 có tọa độ (a; b) = (253; 5), nên a + b = 258.
+Đáp số: 258
+Trần Phương

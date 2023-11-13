@@ -1,0 +1,11 @@
+Tế bào não nuôi cấy trong phòng thí nghiệm chơi điện tử 
+Australia
+800.000 tế bào não người và chuột nuôi cấy trong phòng thí nghiệm thể hiện khả năng thích ứng tốt khi chơi game đánh bóng Pong.
+Nhóm nghiên cứu tại Melbourne phát triển 800.000 tế bào não người và chuột trong đĩa thí nghiệm và để chúng chơi trò chơi điện tử Pong. Nghiên cứu mới xuất bản trên tạp chí Neuron hôm 12/10, cho thấy các tế bào não nuôi cấy trong phòng thí nghiệm cũng thể hiện trí thông minh và điều chỉnh hành vi qua thời gian.
+Đầu tiên, nhóm nghiên cứu kết nối các tế bào với một máy tính để chúng nhận được phản hồi về việc thanh chắn trong trò chơi có đánh trúng bóng hay không. Họ theo dõi hoạt động và phản ứng của tế bào với phản hồi này bằng cách sử dụng máy dò điện ghi nhận những "gai nhọn" trên một mạng lưới.
+Các gai trở nên mạnh hơn khi tế bào di chuyển thanh chắn và đánh trúng bóng. Khi đánh hụt, lối chơi của tế bào sẽ bị một chương trình phần mềm của Phòng thí nghiệm Cortical, Melbourne, phê bình. Nghiên cứu chứng minh các tế bào có thể điều chỉnh hoạt động để thích ứng với môi trường thay đổi, theo cách có định hướng và theo thời gian thực.
+"Một kích thích bất ngờ được đặt lên các tế bào và toàn bộ hệ thống sẽ tái tổ chức hoạt động của mình để chơi tốt hơn và giảm thiểu phản ứng ngẫu nhiên. Nếu chỉ chơi trò chơi, đánh bóng và nhận những kích thích có thể đoán trước, thì sẽ tạo ra nhiều môi trường dễ đoán hơn", Brett Kagan, giám đốc khoa học tại Phòng thí nghiệm Cortical ở Melbourne, thành viên nhóm nghiên cứu, cho biết.
+Nghiên cứu mới bắt nguồn từ nguyên lý năng lượng tự do. Cụ thể, bộ não sẽ thích nghi với môi trường bằng cách thay đổi thế giới quan hoặc hoạt động của mình để phù hợp hơn với thế giới xung quanh.
+Pong không phải trò chơi duy nhất mà nhóm nghiên cứu thử nghiệm. "Bạn biết đấy, khi trình duyệt Google Chrome gặp sự cố, bạn có thể chơi trò khủng long nhảy qua chướng ngại vật (Dự án Bolan). Chúng tôi đã thử nghiệm với trò chơi này và thu được một số kết quả sơ bộ tốt. Tuy nhiên, chúng tôi vẫn còn nhiều điều phải làm để xây dựng các môi trường mới cho mục đích cụ thể", Kagan nói.
+Nhóm chuyên gia cho biết, nghiên cứu mới có tiềm năng ứng dụng trong việc lập mô hình bệnh, phát hiện thuốc, giúp nâng cao hiểu biết về cách não hoạt động và cách trí thông minh xuất hiện.
+Thu Thảo (Theo Science Daily)

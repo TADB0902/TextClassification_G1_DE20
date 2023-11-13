@@ -1,0 +1,11 @@
+Thử thách đoán hình trong 15 giây 
+Từ hình ảnh 3D cho sẵn bạn hãy lựa chọn hình dáng 2D phù hợp theo góc nhìn từ mũi tên trong vòng 15 giây.
+Câu 1:
+>>Đáp án 
+Câu 2:
+>>Đáp án
+Câu 3:
+>>Đáp án
+Câu 4:
+>>Đáp án
+Theo Quiz Beez

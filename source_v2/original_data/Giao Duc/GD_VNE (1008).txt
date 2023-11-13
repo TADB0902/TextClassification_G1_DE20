@@ -1,0 +1,6 @@
+Bài toán 'những cái bắt tay' của học sinh lớp 6 
+Trong 5 phút, bạn có thể giải được bài toán hỏi về việc bắt tay nhau trong hội thảo dành cho học sinh lớp 6?
+Đề bài:
+Tại một cuộc hội thảo quốc tế, cứ hai người bất kỳ luôn bắt tay nhau, ngoại trừ Alex chỉ bắt tay với một số người.
+Biết rằng không có hai người nào bắt tay nhau quá một lần và tổng số cái bắt tay là 2014, hỏi Alex bắt tay với bao nhiêu người trong hội thảo?
+Trần Phương

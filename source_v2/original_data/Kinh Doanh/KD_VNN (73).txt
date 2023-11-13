@@ -1,0 +1,16 @@
+Thanh toán không dùng tiền mặt đạt 138,3 triệu tỷ đồng
+Theo Ngân hàng Nhà nước, trong 8 tháng đầu năm 2023, giao dịch thanh toán không dùng tiền mặt đạt 6,85 tỷ giao dịch với giá trị đạt 138,3 triệu tỷ đồng.
+Theo báo cáo của Ngân hàng Nhà nước gửi Quốc hội, đến tháng 8/2023, có 82 tổ chức tín dụng (TCTD) triển khai thanh toán qua Internet và 52 TCTD triển khai thanh toán qua Mobile. 51 tổ chức trung gian thanh toán (TGTT) có cấp giấy phép hoạt động. 
+Trong 8 tháng đầu năm 2023, giao dịch thanh toán không dùng tiền mặt (TTKDTM) đạt 6,85 tỷ giao dịch với giá trị đạt 138,3 triệu tỷ đồng (tăng 348,54% về số lượng và 69,84% về giá trị).
+Trong đó, giao dịch qua kênh Internet đạt 1,33 tỷ giao dịch với giá trị đạt 36,76 triệu tỷ đồng (tăng 372,91% về số lượng và 110,97% về giá trị).
+Giao dịch qua kênh điện thoại di động đạt 4,76 tỷ giao dịch với giá trị đạt 34,48 triệu tỷ đồng (tăng 598,27% về số lượng và 382,22% về giá trị).
+Qua phương thức QR code đạt 86,50 triệu giao dịch với giá trị đạt 47,26 nghìn tỷ đồng (tăng 871,82% về số lượng và 761,93% về giá trị).
+Thanh toán dịch vụ công tiếp tục được mở rộng triển khai rộng rãi, NHNN đã chỉ đạo các ngân hàng thương mại, tổ chức cung ứng dịch vụ TGTT, doanh nghiệp thực hiện thí điểm dịch vụ Mobile-Money tích cực tham gia thúc đẩy thanh toán lệ phí, học phí không dùng tiền mặt, hỗ trợ triển khai thanh toán trực tuyến lệ phí đăng ký xét tuyển đại học. 
+Đến cuối năm 2022, Cổng Dịch vụ công quốc gia đã phục vụ hơn 4 triệu giao dịch thanh toán trực tuyến với số tiền hơn 3,53 nghìn tỷ đồng.
+So với năm 8 tháng đầu năm 2020, trong 8 tháng đầu năm 2023, hệ thống thanh toán điện tử liên ngân hàng đã xử lý khoảng 84,89 triệu giao dịch với giá trị đạt trên 125,87 triệu tỷ đồng, giảm 9,9% về số lượng và tăng 86,53% về giá trị.
+Hệ thống chuyển mạch tài chính và bù trừ điện tử xử lý gần 4,62 tỷ giao dịch với giá trị đạt khoảng 34,01 triệu tỷ đồng (tăng 544,49% về số lượng và 481,07% về giá trị). 
+Đến cuối tháng 8/2023, số lượng ATM trên toàn thị trường đạt 21.337 máy, số lượng POS đạt 490.096 máy (tăng lần lượt 9,19% và 78,52% về số lượng).
+Các TCTD, tổ chức cung ứng dịch vụ TGTT đã đầu tư, xây dựng và phát triển được hệ thống công nghệ thông tin, nền tảng vận hành, xử lý nghiệp vụ vững mạnh, tin cậy dựa trên công nghệ, dữ liệu và có thể tiếp cận khách hàng qua các kênh số, thiết kế, cung ứng sản phẩm, dịch vụ ngân hàng an toàn, tiện ích theo hướng lấy khách hàng làm trung tâm, hướng tới cung cấp trải nghiệm giao dịch vượt trội cho khách hàng. 
+Bên cạnh đó, các TCTD, tổ chức TGTT tại Việt Nam đã ứng dụng nhiều công nghệ số tiên tiến như điện toán đám mây (Cloud Computing), phân tích dữ liệu lớn (Big Data), tự động hóa quy trình bằng rô-bốt (RPA), trí tuệ nhân tạo/máy học (AI/ML) để tối ưu hóa, đơn giản hóa quy trình nghiệp vụ, nâng cao hiệu quả hoạt động và trải nghiệm giao dịch khách hàng.
+Năm 2022, hoạt động chuyển đổi số trong hoạt động ngân hàng đã đạt được kết quả đáng ghi nhận. NHNN được xếp thứ 4 về an toàn thông tin mạng, thứ 3 về kiến tạo thể chế và thứ 4 về hoạt động chuyển đổi số theo Chỉ số đánh giá chuyển đổi số (DTI) của Bộ Thông tin và Truyền thông. 
+Ngọc Tuân

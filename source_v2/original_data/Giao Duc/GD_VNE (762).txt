@@ -1,0 +1,15 @@
+Bốn câu đố toán học thử thách IQ 
+Cho trước dãy số, trong 10 giây hãy điền thêm ký tự toán học còn thiếu để tìm ra đáp án đúng.
+Câu 1:
+Thêm ký tự toán học còn thiếu để phép toán chính xác?
+>>Đáp án
+Câu 2:
+Di chuyển các con số (không thay đổi chữ số) để được một phép toán đúng?
+>>Đáp án
+Câu 3:
+Suy luận để tìm ra phép toán có đáp án chính xác như mẫu?
+>>Đáp án
+Câu 4:
+Thêm đường thẳng bất kỳ vào phép toán cho trước để tìm được đáp án đúng?
+>>Đáp án
+Theo 7-Second Riddles

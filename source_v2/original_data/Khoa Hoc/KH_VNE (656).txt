@@ -1,0 +1,12 @@
+Hệ thống định vị chính xác hơn GPS 
+Hà Lan
+Các chuyên gia phát triển hệ thống định vị sử dụng mạng viễn thông di động thay cho vệ tinh, đạt độ chính xác 10 cm trong thử nghiệm.
+Nhóm nghiên cứu tại Đại học Công nghệ Delft, Đại học Vrije Amsterdam và Viện Đo lường Quốc gia Hà Lan (VSL) đang phát triển hệ thống định vị mới có khả năng chính xác hơn GPS, đặc biệt là trong môi trường đô thị. Nghiên cứu xuất bản trên tạp chí Nature hôm 16/11.
+Những hệ thống vệ tinh định vị toàn cầu phổ biến như GPS (Mỹ) và Galileo (Liên minh châu Âu) có một số hạn chế. Khi truyền xuống Trái Đất, tín hiệu vô tuyến của chúng yếu và không thể định vị chính xác nếu bị các tòa nhà phản xạ hoặc chặn lại.
+"Điều này có thể khiến GPS trở nên không đáng tin cậy trong môi trường đô thị. Đây là vấn đề cần cân nhắc nếu chúng ta muốn sử dụng các phương tiện tự động", chuyên gia Christiaan Tiberius tại Đại học Công nghệ Delft cho biết.
+Nhóm nghiên cứu triển khai dự án SuperGPS với mục tiêu phát triển một hệ thống định vị sử dụng mạng viễn thông di động thay cho vệ tinh, có thể chính xác và đáng tin cậy hơn GPS.
+"Chúng tôi nhận ra rằng với một số đổi mới, mạng viễn thông có thể được chuyển đổi thành một hệ thống định vị thay thế rất chính xác, độc lập với GPS. Chúng tôi đã phát triển thành công một hệ thống có thể cung cấp sự kết nối giống như mạng di động và Wi-Fi hiện nay, đồng thời phân phối thời gian và định vị chính xác như GPS", Jeroen Koelemeij, nhà nghiên cứu tại Đại học Vrije Amsterdam, nói.
+Một trong những đổi mới là kết nối mạng di động với đồng hồ nguyên tử siêu chính xác, giúp truyền phát các thông tin chuẩn giờ để định vị, giống như những gì vệ tinh GPS làm với sự trợ giúp của đồng hồ nguyên tử tích hợp. Sự kết nối này được thực hiện thông qua mạng cáp quang sẵn có.
+Hơn nữa, hệ thống mới sử dụng các tín hiệu vô tuyến với băng thông lớn hơn nhiều loại thường dùng. "Các tòa nhà phản xạ tín hiệu vô tuyến và có thể khiến thiết bị định vị nhầm lẫn. Băng thông lớn của hệ thống mới giúp loại bỏ sự phản xạ tín hiệu gây nhầm lẫn này, cho phép định vị chính xác hơn", chuyên gia Gerard Janssen tại Đại học Công nghệ Delft giải thích.
+Trong thử nghiệm, nguyên mẫu của hệ thống đạt độ chính xác tới 10 cm. Công nghệ mới đóng vai trò quan trọng trong việc triển khai những ứng dụng cần xác định vị trí, bao gồm các phương tiện tự hành, truyền thông lượng tử và hệ thống truyền thông di động tiên tiến.
+Thu Thảo (Theo SciTechDaily)

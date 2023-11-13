@@ -1,0 +1,16 @@
+Đáp án bài toán bốc bi trong hộp 
+Bài toán dành cho học sinh lớp 5 thu hút nhiều độc giả tham gia với các câu trả lời khác nhau, nhưng chỉ duy nhất một người giải đúng.
+Đề bài:
+Ba anh em Tôm, Cua, Cá lần lượt bốc các viên bi trong một hộp chứa bi theo quy luật như sau: Tôm bốc 1 viên, Cua bốc 2 viên, Cá bốc 3 viên, sau đó Tôm bốc 4 viên, Cua bốc 5 viên, Cá bốc 6 viên, rồi Tôm lại bốc 7 viên,... và cứ tiếp tục luân phiên bốc tuần hoàn tăng liên tiếp như thế. Đến khi trong hộp không còn đủ hạt cho lượt bốc tiếp theo thì người bốc cuối cùng sẽ được bốc hết số hạt còn lại.
+Biết rằng sau khi bốc xong, Tôm có tổng cộng 2022 viên bi. Hỏi ban đầu trong hộp có bao nhiêu viên bi?
+Đáp án
+Tổng số bi mà Tôm bốc sau n lượt bốc theo quy luật là:
+1+ 4 + 7+ ... + (3n – 2) = [n (3n-1)] : 2
+Để ý rằng: [36 (3 x 36 - 1)] : 2 = 1926 < 2022 < 2035 = [37 (3 x 37 - 1)] : 2
+Từ đó suy ra Cua và Cá mỗi người có 35 lượt bốc bi, Tôm có 36 lượt bốc và lượt cuối bốc hết số bi còn lại.
+Tổng số bi mà Cua, Cá và Tôm lần lượt bốc là:
+U = 2 + 5 + 8 + ... + 104 = 1855 (sau 35 lượt)
+A = 3 + 6 + 9 + ... + 105 = 1890 (sau 35 lượt)
+T = 1+4 +7+ ... + 106 + 96 = 2022 (sau 36 lượt)
+Vậy ban đầu tổng số bi trong hộp là: 1855 +1890 + 2022 = 5767 (viên bi).
+Trần Phương

@@ -1,0 +1,22 @@
+Cá nhân được vay ngân hàng bao nhiêu tiền?
+(Dân trí) - Không ít người chia sẻ họ không thể vay ngân hàng 50 triệu đồng dù có tài sản thế chấp là bất động sản, ô tô… Vì sao lại như vậy? Một người có thể vay ngân hàng bao nhiêu tiền?
+Một số khách hàng phản ánh có tài sản là bất động sản, ô tô… với giá trị lên đến vài tỷ đồng nhưng không thể vay được 70% giá trị những tài sản đó, thậm chí là 10-20%..., dù vẫn chứng minh tài chính, cung cấp hồ sơ, thông tin đầy đủ…
+Có nhiều lý do về vấn đề không vay được nhiều tiền ngân hàng, và một trong những lý do đó chính là chỉ số DTI của khách hàng quá thấp.
+DTI được viết tắt của cụm từ tiếng anh Debt To Income - biểu thị hệ số nợ trên thu nhập của cá nhân/tổ chức. DTI là chỉ số được ngân hàng/tổ chức tín dụng được sử dụng để tính khả năng trả nợ của khách hàng khi họ có nhu cầu vay tiền.
+DTI được sử dụng nhiều trong công việc liên quan đến tín dụng ngân hàng hay công ty tài chính với công thức tổng quát:
+DTI = Tổng dư nợ phải trả mỗi tháng/Tổng thu nhập mỗi tháng
+Trong đó:
+- Tổng dự nợ phải trả mỗi tháng được tính tổng nợ vay tín chấp/thế chấp, thẻ tín dụng của khách tại ngân hàng/tổ chức tín dụng.
+- Tổng thu nhập mỗi tháng của khách hàng phải được thể hiện qua sao kê tài khoản thanh toán/xác nhận lương/lịch sử đóng bảo hiểm...
+Thông thường, hệ số DTI càng thấp sẽ càng tốt khi khách hàng thực hiện khoản bởi DTI tỷ lệ nghịch với thu nhập và tỷ lệ thuận với nợ. Khi chỉ số này thấp, chứng tỏ khả năng trả nợ của khách càng tốt.
+Chỉ số DTI thấp chứng tỏ khả năng trả nợ của khách càng tốt (Ảnh minh họa: Mạnh Quân).
+Với mỗi cá nhân, DTI dưới 0,7 (70%) hoặc 0,8 (80%) (tùy thuộc khẩu vị từng ngân hàng) là tỷ lệ thường được các ngân hàng xem xét cho vay.
+Lý do khi DTI dưới 70% mới được ngân hàng xem xét cho vay mà không phải cao hơn vì DTI bằng nợ tháng/thu nhập tháng, hầu hết chỉ cho phép tối ta nợ tháng bằng 70% thu nhập tháng, 30% còn lại của thu nhập để lại cho cá nhân chi trả cho chi phí sinh hoạt, chi tiêu. Các khách hàng đã đạt DTI đến 70% hầu như khó vay được thêm các ngân hàng.
+Khi tính ra được DTI, các ngân hàng sẽ biết khách hàng đang nợ bao nhiêu hàng tháng và còn khả năng trả nợ dựa trên thu nhập của khách hàng hay không, từ đó mới có đủ tham số để đưa ra quyết định cho vay.
+Đơn cử, một ngân hàng chỉ cho vay khi khách hàng có DTI thấp hơn 70%. Khách hàng A có DTI là 40% thì sẽ được ngân hàng cho vay một số tiền nhất định để chia ra hàng tháng phải trả trong 30% (70-40%) còn lại của DTI.
+Để có được DTI tốt nhất, khách hàng nên gia tăng thu nhập hàng tháng (Ảnh minh họa: Mạnh Quân).
+Ví dụ: Khách hàng A thu nhập 25 triệu đồng/tháng, nợ vay mua nhà phải trả hàng tháng là 7 triệu đồng, thẻ tín dụng phải trả 3 triệu đồng (giả sử thẻ 60 triệu và trả mức thấp nhất 5% dư nợ hàng tháng).
+DTI = (7+3)/25 = 40%. Ngân hàng cho vay tối đa DTI 70% thu nhập thì dư địa DTI còn lại là 30% (70-40%) của thu nhập hàng tháng, tương đương số tiền còn lại để trả nợ hàng tháng là 30% x 25 triệu đồng = 7,5 triệu đồng.
+7,5 triệu đồng này là khả năng trả nợ hàng tháng, sẽ là căn cứ để ngân hàng tính toán ra khoản tiền cho khách hàng vay để chia ra số tiền phải trả hàng tháng dưới 7,5 triệu. Vậy nên, nếu DTI của khách hàng đã đạt đến ngưỡng 70%, thì hầu như sẽ không vay tiền được nữa từ các ngân hàng.
+Để có được DTI tốt nhất, khách hàng nên gia tăng thu nhập hàng tháng, đặc biệt là các thu nhập có thể hiện qua tài khoản ngân hàng, bảng lương, hợp đồng lao động, tỷ lệ đóng bảo hiểm xã hội...
+Bên cạnh đó, khách nên giảm các khoản nợ để số tiền nợ phải trả hàng tháng tại các ngân hàng xuống mức tối ưu hiệu quả nhất có thể, bao gồm cả giảm hạn mức thẻ tín dụng nếu như không có ý định chi tiêu hoặc sử dụng đến hạn mức đó.

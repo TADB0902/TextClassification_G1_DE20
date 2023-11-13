@@ -1,0 +1,12 @@
+CSGT chưa áp dụng kiểm tra giấy tờ xe tích hợp trên VNeID 
+Người dân đã tích hợp giấy phép lái xe, đăng ký xe trên app VNeID vẫn cần mang giấy tờ gốc khi tham gia giao thông do CSGT chưa áp dụng kiểm tra điện tử.
+Tại dự thảo lần thứ tư Luật Trật tự, an toàn giao thông đường bộ đang được Bộ Công an lấy ý kiến, điều 33 quy định: Người điều khiển phương tiện khi tham gia giao thông phải mang đăng ký xe, giấy phép lái xe... Trường hợp thông tin các loại giấy tờ trên đã đồng bộ vào tài khoản định danh điện tử trên ứng dụng VNeID thì không phải mang theo.
+Về phía cảnh sát giao thông, khoản 5 điều 54 dự thảo nêu: Khi tuần tra kiểm soát, nếu thông tin giấy tờ của phương tiện, người điều khiển phương tiện đã được đồng bộ trên VNeID thì cảnh sát giao thông thực hiện kiểm tra trên ứng dụng điện tử.
+Việc kiểm tra qua app VNeID như dự thảo hiện được nhắc đến trong khoản 2 điều 12 Thông tư 32/2023 có hiệu lực từ 15/9. Theo đó, cảnh sát giao thông kiểm tra giấy tờ thông qua ứng dụng định danh điện tử sẽ có giá trị như kiểm tra trực tiếp giấy tờ bản giấy.
+Như vậy, người dân được phép xuất trình giấy tờ như giấy phép lái xe, bằng lái xe,... đã tích hợp trên VNeID thay cho các giấy tờ bản giấy khi cảnh sát giao thông kiểm tra. Đây là một điểm mới khi các quy định từ trước đến nay đều bắt buộc phải mang theo bản giấy của giấy phép lái xe, đăng ký, bảo hiểm bắt buộc...
+Tuy nhiên hiện nay cảnh sát giao thông chưa áp dụng kiểm tra qua VNeID.
+Ngày 26/9, tại Tọa đàm trao đổi về các dự án luật do Bộ Công an chủ trì soạn thảo, thiếu tướng Phạm Công Nguyên (Cục trưởng Pháp chế và Cải cách hành chính, tư pháp, Bộ Công an) cho biết "nhà chức trách cần thời gian để chuẩn bị các trang thiết bị đọc dữ liệu và đào tạo".
+Theo ông Nguyên phải có thời gian để người dân tiếp tục tích hợp các loại giấy tờ vào VNeID và thay đổi thói quen cầm bản giấy. "Khi nào mọi người sẵn sàng thay đổi thói quen và hạ tầng hoàn thiện sẽ áp dụng", tướng Nguyên nói
+Luật sư Trần Ngọc Thạch cho biết khi Luật Trật tự An toàn giao thông đường bộ chưa có hiệu lực và các giấy tờ tích hợp trên VNeID chưa được cảnh sát chấp nhận thì người tham gia giao thông vẫn phải mang theo các giấy tờ bản giấy như bằng lái, đăng ký xe...
+Ai không mang theo giấy đăng ký xe sẽ bị xử phạt 100.000-200.000 đồng, theo Nghị định 100/2019. Mức phạt sẽ tăng gấp đôi với người điều khiển xe ôtô, máy kéo và các loại xe tương tự ôtô.
+Cả nước hiện có hơn 55,6 triệu giấy phép lái xe được cấp. Tại ứng dụng VNeID, hơn 31,3 triệu giấy phép đã tích hợp thành công.

@@ -1,0 +1,13 @@
+Di chuyển hai que diêm để có số lớn nhất 
+Trong 30 giây, liệu bạn có thể tạo ra được số lớn nhất nào sau khi thay đổi vị trí hai que diêm từ số 008.
+Câu 1: Hãy thay đổi hai que diêm trong số dưới đây để có số lớn nhất có thể
+>> Đáp án 
+Câu 2: Thêm hai que diêm để có ba hình vuông cùng kích cỡ
+>> Đáp án
+Câu 3: Tìm số lớn nhất có thể sau khi thay đổi vị trí hai que diêm
+>> Đáp án
+Câu 4: Thay đổi hai que diêm để có 5 hình vuông
+>> Đáp án
+Câu 5: Hình dưới đây có 5 hình vuông. Hãy thay đổi một que diêm để có 6 hình vuông
+>> Đáp án
+Theo Simply Logical

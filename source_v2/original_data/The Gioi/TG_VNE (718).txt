@@ -1,0 +1,11 @@
+Hải quân Mỹ bị phạt vì dùng phần mềm lậu 
+Hải quân Mỹ phải bồi thường hơn 154.000 USD do cài phần mềm lên hơn 550.000 máy tính, dù chỉ được cấp phép cho 38 bộ cài.
+Theo bản án được công bố ngày 27/11, tòa án liên bang Mỹ ra phán quyết hải quân vi phạm bản quyền phần mềm của công ty Bit Management Software, có trụ sở tại Đức.
+Hải quân Mỹ phải nộp khoản tiền phạt 154.400 USD cùng khoản tiền bồi thường thiệt hại, ít hơn nhiều so với số tiền lên tới 600 triệu USD mà công ty Đức đưa ra ban đầu.
+Hải quân Mỹ năm 2011 làm việc với Bit Management để thử nghiệm phần mềm thực tế ảo BS Contact Geo của công ty Đức. Quân chủng này được cấp 38 bộ bản quyền, song lại cài phần mềm của công ty Đức lên hơn 550.000 máy tính trong mạng lưới của mình vào năm 2013-2015 trong lúc tiến trình đàm phán vẫn diễn ra.
+Bit Management tháng 7/2016 khởi kiện hải quân Mỹ vi phạm bản quyền. Quân chủng này sau đó gỡ phần mềm BS Contact Geo trên các máy tính, chỉ giữ lại 34 bộ.
+"Bit Management không cấp phép hoặc cho phép cách sử dụng phần mềm này. Hải quân Mỹ chưa bao giờ bồi thường cho Bit Management", công ty Đức cho biết trong đơn kiện. Trong khi đó, hải quân Mỹ cho rằng giấy phép của Bit Management cho phép quân chủng tạo ra các bản sao của phần mềm. Đơn kiện của Bit Management ban đầu bị bác, công ty Đức sau đó kháng cáo.
+Tòa phúc thẩm liên bang Mỹ sau đó phán quyết hải quân nước này vi phạm bản quyền của Bit Management. Tuy nhiên, thay vì mức bồi thường 600 triệu USD mà công ty yêu cầu, tòa cho rằng thiệt hại phải được xác định từ việc hải quân thực tế đã sử dụng BS Contact Geo như thế nào.
+David Kennedy, kế toán viên công chứng và là nhân chứng chuyên gia của hải quân Mỹ, định giá giấy phép mỗi bản sao phần mềm BS Contact Geo là 200 USD do được cung cấp với số lượng lớn. Con số này thấp hơn nhiều mức giá 1.067,76 USD mà Bit Management đưa ra với mỗi bản sao. Thẩm phán Edward J. Damich đồng ý với đánh giá của ông Kennedy.
+Tòa án Mỹ cho biết tổng cộng 635 người đã sử dụng BS Contact Geo, trong đó 597 người dùng phần mềm không được cấp phép, do đó tuyên phạt hải quân Mỹ 119.400 USD. Ngoài ra, hải quân Mỹ phải chi thêm 35.000 USD vào khoản phí cấp phép theo cam kết trước đó. Chưa rõ khi nào hải quân Mỹ sẽ bồi thường cho công ty Đức.
+Nguyễn Tiến (Theo Task&Purpose)

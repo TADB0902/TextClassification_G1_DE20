@@ -1,0 +1,16 @@
+Đáp án bài toán xếp hành lý xách tay khi đi máy bay 
+Trong những độc giả tham gia trả lời, năm người đưa ra đáp án đúng là 12 kg.
+Đề bài
+Ba chị em trong một gia đình đi du lịch bằng đường hàng không. Họ có 6 món đồ với khối lượng 8,5 kg; 6 kg; 5,5 kg; 5 kg; 5 kg; 3,5 kg và muốn xếp 6 món đồ này vào 3 chiếc valy mà khi không chứa đồ có khối lượng như nhau.
+Hãy tìm khối lượng đồ nặng nhất là nhẹ nhất có thể trong một valy?
+Bình luận và lời giải
+Cái hay của bài toán này là hiểu đúng đề bài. Có nhiều khả năng xếp các đồ vào ba valy và trong mỗi trường hợp, valy nặng nhất sẽ có khối lượng khác nhau. Chúng ta cần tìm trường hợp valy nặng nhất có khối lượng nhỏ nhất có thể.
+Xét 2 trường hợp sau đây:
+TH1: Món đồ 8,5 kg được xếp cùng valy với một món đồ khác.
+Khi đó, khối lượng nhẹ nhất có thể của valy đó là: 8,5 + 3,5 = 12 (kg).
+Xếp 4 món đồ còn lại vào hai valy, mỗi valy hai món đồ, thì hai valy này luôn có khối lượng nhỏ hơn 12 kg. Suy ra trường hợp này khối lượng của valy nặng nhất là 12 kg.
+TH2: Món đồ 8,5 kg được xếp riêng vào một valy.
+Tổng khối lượng của hai valy đựng năm món đồ còn lại là: 6 + 5,5 + 5 + 5 + 3,5 = 25 (kg)
+Suy ra, valy nặng nhất phải nặng từ 12,5 kg trở lên (chính xác là 13,5 kg trở lên)
+Kết luận: Valy nặng nhất có khối lượng nhỏ nhất có thể là 12 kg.
+Trần Phương

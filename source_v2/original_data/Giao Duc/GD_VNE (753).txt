@@ -1,0 +1,5 @@
+Bài toán đếm hình lục giác của học sinh lớp 5 
+Với 5 phút liệu bạn có thể đếm chính xác số hình lục giác trong một bài toán của học sinh lớp 5.
+Đề bài:
+Một dãy các hình lục giác được tạo thành từ các que diêm như hình vẽ. Nếu người ta đã dùng 2023 que diêm thì có bao nhiêu hình lục giác được tạo thành?
+Trần Phương
