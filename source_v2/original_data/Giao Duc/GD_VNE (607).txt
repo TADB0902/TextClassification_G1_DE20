@@ -1,4 +1,0 @@
-Bài toán phân số lớp 5 của Trung Quốc 
-Một bài toán phân số dành cho học sinh lớp 5 tại Trung Quốc đã làm khó nhiều tiến sĩ. Trong năm phút, bạn có thể hóa giải được nó?
-Đề bài: Dãy phân số sau đây được viết theo một quy luật. Bạn hãy tìm số hạng thứ 2000.
-Trần Phương 

@@ -1,3 +1,0 @@
-Khái niệm 'thuật toán' ra đời như thế nào? 
-Thuật toán (algorithm), bắt nguồn từ tên nhà toán học người Ba Tư trong thế kỷ 8, là một tập hợp các bước để giải quyết một vấn đề.
-Video: BBC

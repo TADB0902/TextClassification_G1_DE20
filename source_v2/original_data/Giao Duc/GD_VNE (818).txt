@@ -1,6 +1,0 @@
-Việt Nam có bao nhiêu thành phố? 
-Nếu tính cả 5 thành phố trực thuộc trung ương (Hà Nội, TP HCM, Đà Nẵng, Hải Phòng, Cần Thơ), bạn có biết Việt Nam có bao nhiêu thành phố?
-Câu 1: Việt Nam có bao nhiêu thành phố?
-a. 75
-b. 80
-c. 85 

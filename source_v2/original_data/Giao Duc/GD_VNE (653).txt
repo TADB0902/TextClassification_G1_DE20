@@ -1,6 +1,0 @@
-Bài toán đếm dây ô vuông của học sinh lớp 6 
-Trong vài phút, bạn có thể phát hiện quy luật để đếm chính xác số ô vuông trong dây ô vuông màu xám?
-Đề bài:
-Hình dưới đây biểu diễn phần trên cùng bên trái của bảng lưới 2023 x 2023, trong đó có một số ô vuông 1x1 được tô màu xám theo một quy luật để tạo thành một "dây ô vuông màu xám". Dây này bắt đầu từ ô vuông ở góc trên bên trái và tiếp tục kéo "quanh co gấp khúc" cho đến khi không thể kéo dài được nữa.
-Bạn hãy xác định quy luật để xem trong bảng lưới 2023 x 2023 có bao nhiêu ô vuông màu xám 1x1 thuộc "dây ô vuông màu xám"?
-Trần Phương

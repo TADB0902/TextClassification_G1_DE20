@@ -1,9 +1,0 @@
-Thử thách tìm chiếc rương chứa vàng 
-Có ba chiếc rương nhưng chỉ một chiếc chứa vàng. Ba gợi ý lần lượt ghi: vàng không ở rương 2; vàng trong rương 1 hoặc 3; vàng không ở rương 3. Vậy rương nào chứa vàng?
-Câu 1: 
->>Đáp án
-Câu 2: Câu đố này khiến bạn liên tưởng đến loại quả nào: Trong ngôi nhà xanh có ngôi nhà trắng, trong ngôi nhà trắng có ngôi nhà đỏ, trong ngôi nhà đỏ có nhiều vật màu đen.
->>Đáp án
-Câu 3: Đường nào dẫn nhà khoa học tới phòng thí nghiệm?
->>Đáp án
-Theo Bright sides

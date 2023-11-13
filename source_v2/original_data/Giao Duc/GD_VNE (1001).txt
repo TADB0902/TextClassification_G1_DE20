@@ -1,9 +1,0 @@
-Sự khác biệt giữa 'Some' và 'Any' 
-'Some' và 'Any' có chức năng ngữ pháp giống nhau trong câu nhưng được dùng theo cách khác nhau.
-- Some và Any là những đại từ bất định (Indefinite pronouns), được dùng để chỉ số lượng không được xác định rõ ràng, cụ thể hoặc không biết chắc có bao nhiêu.
-Lưu ý khi sử dụng Some và Any:
-Khi danh từ đã được xác định trước đó, chúng ta có thể sử dụng Some và Any mà không cần phải có danh từ đứng sau.
-Ví dụ:
-- I needed some fruit juice, but I couldn’t find any (Tôi cần một ít nước hoa quả nhưng tôi không thể tìm thấy).
-- If you want to have food, I will give you some (Nếu bạn muốn có thức ăn, tôi sẽ cho bạn một ít).
-Đinh Thị Thái Hà
