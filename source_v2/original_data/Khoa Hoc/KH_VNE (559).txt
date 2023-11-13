@@ -1,0 +1,11 @@
+Bể chứa hydro lạnh -253 độ C cho máy bay 
+Airbus đang phát triển mẫu bể chứa hydro siêu lạnh dành cho máy bay không phát thải, dự kiến thử nghiệm vào năm 2026 - 2028.
+Airbus đang thiết kế các bể chứa hydro lạnh mới gọi là "trái tim lạnh" nhằm phục vụ cho mẫu máy bay chạy bằng hydro lỏng ZEROe trong tương lai, Interesting Engineering hôm 26/11 đưa tin.
+"Hydro là chìa khóa cho sứ mệnh đưa máy bay không phát thải ra thị trường vào năm 2035 của chúng tôi, nhưng cần được bảo quản ở nhiệt độ đặc biệt lạnh, -253 độ C. Sử dụng công nghệ này đồng nghĩa với việc phát triển những bể chứa hydro lạnh cải tiến", Airbus cho biết.
+Có hai công nghệ chính cho phép máy bay bay trực tiếp bằng hydro: Cung cấp năng lượng cho một động cơ đốt hydro thông qua động cơ turbine khí đã sửa đổi, hoặc sử dụng pin nhiên liệu hydro để tạo ra điện. Một lựa chọn khác là kết hợp cả hai công nghệ.
+Phương pháp nào cũng đòi hỏi giữ lạnh hydro. Hydro cần được bảo quản ở mức nhiệt -253 độ C và duy trì nhiệt độ này ổn định trong suốt chuyến bay. Đây là lý do khiến bể chứa của máy bay hydro là một bộ phận then chốt. Tuy nhiên, chúng rất khó chế tạo vì hoàn toàn khác với bể chứa của máy bay truyền thống.
+Để phát triển bể chứa, Airbus thành lập các Trung tâm Phát triển Không phát thải (ZEDC) ở Nantes (Pháp) và Bremen (Đức) khoảng 15 tháng trước. Các bể chứa được sản xuất tại Nantes, trong khi các hộp lạnh - có tác dụng khí hóa hydro lỏng - được sản xuất tại Bremen.
+"Chúng tôi muốn tối ưu hóa bể chứa để đạt hiệu quả cao hơn và giảm hơn nữa tác động đến môi trường. Một chiếc máy bay không phát thải cần đạt mức phát thải gần 0 nhất có thể trong suốt vòng đời của nó", Chris Redfern, trưởng bộ phận sản xuất máy bay ZEROe, chia sẻ.
+Bước tiếp theo của nhóm kỹ sư là đánh giá nguyên mẫu và xem có thể cải tiến gì thêm. Họ đang thu thập thông tin chi tiết và dữ liệu thử nghiệm từ mẫu đầu tiên này nhằm phát triển nguyên mẫu thứ hai, dự kiến đổ đầy hydro.
+Mục tiêu chính của nhóm là tối đa hóa không gian, tăng hiệu suất và đơn giản hóa quy trình sản xuất. Họ dự kiến cần khoảng một năm nữa để chế tạo và thử nghiệm nguyên mẫu thứ hai. Mục tiêu cuối cùng là có bể nhiên liệu sẵn sàng cho máy bay A380 thử nghiệm khoảng năm 2026 - 2028.
+Thu Thảo (Theo Interesting Engineering)

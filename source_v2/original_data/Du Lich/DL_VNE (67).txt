@@ -1,0 +1,26 @@
+Ý nghĩa đằng sau mật mã in trên vé máy bay 
+Thẻ lên máy bay chứa các thông tin quan trọng, từ việc bạn có thể trở thành người được lựa chọn để kiểm tra an ninh bổ sung hoặc phải bay chuyến sau do hết chỗ.
+Phần lớn khách du lịch chỉ nhìn vào vé lên máy bay để biết ghế ngồi, cổng ra và giờ cần có mặt để lên máy bay. Nhưng trên tấm vé đó còn nhiều ký hiệu quan trọng không kém mà không phải ai cũng hiểu hết ý nghĩa của chúng.
+PNR
+PNR là mã 6 ký tự gồm số và chữ cái. Hãng hàng không Thổ Nhĩ Kỳ Pegasus giải thích PNR nghĩa là Tham chiếu đặt chỗ hay định danh nội bộ của một hãng hàng không cho chuyến bay. Các ký tự này được tạo bởi hệ thống máy tính hãng bay, không phải từ đại lý du lịch. Hành khách chỉ nhìn thấy 6 ký tự này khi hãng xác nhận yêu cầu đặt chỗ thành công.
+Nó được nhân viên hàng không sử dụng để truy cập vào hệ thống, nắm được thông tin đặt chỗ cũng như yêu cầu bổ sung của khách như có cần hỗ trợ đặc biệt hay không.
+SSSS
+Khách có thể thấy SSSS được in trên thẻ lên máy bay nếu đang đi du lịch trong nước Mỹ, là từ viết tắt của "Lựa chọn sàng lọc an ninh thứ cấp". Trên vé máy bay xuất hiện dòng chữ này nghĩa là hành khách đã được Cục Quản lý An ninh Vận tải (TSA) và Bộ An ninh Nội địa Mỹ lựa chọn để kiểm tra an ninh bổ sung.
+Đồ đạc mang theo sẽ được kiểm tra "vô cùng kỹ lưỡng", theo The Points Guy, website nổi tiếng chuyên đưa tin về lĩnh vực hàng không tại Mỹ. Mọi vật dụng bên trong túi xách có thể sẽ bị lấy ra, kiểm tra cả trong lẫn ngoài. Lớp vải lót bên trong cũng được kiểm tra cẩn thận. Hành khách cũng được kiểm tra kỹ càng khi đi qua máy soi chiếu an ninh. "Hãy chuẩn bị tinh thần để nhân viên TSA thẩm vấn về việc khách có tự đóng gói hành lý hay không hoặc lý do bay là gì", The Points Guy viết.
+Việc kiểm tra an ninh này được lựa chọn ngẫu nhiên từ các hành khách đi máy bay.
+See Agent
+Theo tạp chí du lịch Mỹ Conde Nast Traveller, cụm từ "See Agent" xuất hiện trên vé có thể ngầm xác nhận khách chưa được chỉ định chỗ ngồi trên chuyến bay. Khách cần nói chuyện với nhân viên tại sân bay để được sắp xếp. Điều đó cũng có nghĩa là khách sắp bay trên một chuyến bay liên danh (chuyến bay được khai thác bởi một hãng hàng không khác với hãng đặt vé).
+Dòng chữ này cũng cho biết khách có thể cần xuất trình giấy tờ cho nhân viên xuất nhập cảnh, như thị thực du lịch. Nếu chuyến bay đã bán quá số vé, nhân viên soát vé có thể yêu cầu khách tình nguyện bay chuyến muộn hơn.
+S/O
+Nếu chuyến bay cần nối chuyến hoặc quá cảnh, thẻ lên máy bay có thể chứa mã S/O. Nếu điểm quá cảnh nhiều hơn vài tiếng, S/O có thể được thay bằng mã SPTC.
+SEQ
+Rhys Jones, chuyên gia du lịch người Anh, cho biết một trong những mật mã thú vị nhất trên thẻ lên máy bay chính là SEQ XXX, biểu thị thứ tự hành khách làm thủ tục lên chuyến bay. Nhiều khách bay thường xuyên đã nỗ lực hết sức để có được con số SEQ 001 (hành khách đầu tiên làm thủ tục check-in) đáng mơ ước.
+Flight number
+Số hiệu chuyến bay đại diện cho chuyến bay cụ thể khách sẽ bay, thường xuất hiện dưới dạng hai chữ in hoa và 3-4 số. Vé máy bay có ký hiệu VJ453, nghĩa là khách sẽ bay trên chuyến bay mang số hiệu 453 của hãng Vietjet Air.
+Mã sân bay
+Các mã ba chữ cái này đề cập đến sân bay khởi hành và đến của hành khách. HAN là sân bay Nội Bài còn SNG là chỉ sân bay Tân Sơn Nhất.
+Số ghế
+Seat hay số ghế để chỉ chỗ ngồi của hành khách, thường biểu thị bằng tổ hợp chữ cái và số. Nếu vé có ký tự 12A nghĩa là hành khách ngồi hàng ghế số 12, ghế A.
+Barcode
+Barcode hay mã vạch, thường xuất hiện phía dưới, bên phải thẻ lên máy bay. Nhân viên hãng bay sẽ quét mã này để kiểm tra thông tin hành khách. Mã vạch này thường được gọi là BCBP, quét tại nhiều điểm khác nhau ở sân bay, gồm cả cổng lên máy bay và có tác dụng đẩy nhanh quá trình lên máy bay của hành khách.
+Anh Minh (Theo CnTraveller, The Points Guy)

@@ -1,0 +1,10 @@
+Kiểm tra IQ với bài toán tính tuổi 
+Mẹ hơn con trai 45 tuổi. Biết số tuổi của hai người đều chứa các chữ số nguyên tố, có vị trí đảo ngược nhau. Trong 30 giây, bạn hãy tìm số tuổi của hai mẹ con.
+Câu 1:
+>>Đáp án
+Câu 2: Một con ếch ở dưới giếng cạn, sâu 30 feet. Mỗi ngày, ếch sẽ nhảy được 5 feet nhưng đến tối, nó sẽ tụt xuống 4 feet.
+Hỏi mất bao nhiêu ngày, con ếch có thể nhảy ra khỏi giếng?
+>>Đáp án
+Câu 3: Xe nào có thể tới trung tâm thành phố?
+>>Đáp án
+Theo Bright sides

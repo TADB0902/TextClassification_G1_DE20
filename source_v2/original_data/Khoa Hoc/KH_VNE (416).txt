@@ -1,0 +1,16 @@
+Oppo lần đầu giới thiệu máy theo dõi sức khỏe bằng AI tại Việt Nam 
+OHealth H1 kết hợp sáu chức năng theo dõi sức khỏe gồm đo lượng oxy trong máu, ECG, thính chẩn tim phổi, nhịp tim, giấc ngủ, nhiệt độ, lần đầu xuất hiện tại AI4VN vào 21-22/9.
+Ngày hội Trí tuệ nhân tạo Việt Nam (AI4VN 2023) có chủ đề "Sức mạnh cho cuộc sống". Trong khuôn khổ chương trình, tại AI Expo, Oppo lần đầu đưa thiết bị OHealth H1 về Việt Nam triển lãm. Đây cũng là sản phẩm đầu tiên của hãng trong lĩnh vực công nghệ y tế, vừa ra mắt toàn cầu vào tháng 12/2022.
+OHealth H1 nặng 95 gram, mỏng, nhẹ và dễ cầm. Bộ cảm biến đặt ở phía sau thiết bị với thiết kế nhỏ gọn, đối xứng, dễ vận hành đồng thời tuân thủ các tiêu chuẩn y tế.
+Phép đo theo dõi nhanh trên OHealth H1 có thể đo lượng oxy trong máu, nhịp tim và dữ liệu ECG trong một lần, thời gian chưa đầy 30 giây. Các dữ liệu có thể dùng để hỗ trợ đánh giá chuyên môn từ các tổ chức y tế như bệnh viện và phòng khám.
+Trong sử dụng hàng ngày, máy cho phép theo dõi sáu nhóm dữ liệu sức khỏe. Đầu tiên là tính năng thính chẩn tim phổi. Thiết bị lúc này hoạt động như một ống nghe điện tử với cảm biến nâng cao để bù đắp cho những tần số yếu, cải thiện độ rõ của âm thanh, giảm tiếng ồn môi trường.
+Thứ hai, máy hỗ trợ đo ECG và nhịp tim. Cảm biến ECG trang bị điện cực bằng thép không gỉ cùng độ nhạy cao, gửi cảnh báo chính xác hơn khi phát hiện các bất thường về tim, cho phép phân biệt giữa nhịp tim cao - cực cao cũng như nhịp tim thấp - cực thấp. Máy còn phát hiện nhiều tình trạng tiềm ẩn như rối loạn nhịp tim và rung tâm nhĩ.
+Các tính năng khác của OHealth H1 như đo nồng độ oxy trong máu bằng phép đo quang thể tích (PPG); theo dõi giấc ngủ không cần chạm dựa trên bộ đo lường quán tính SNR cao và độ nhạy cao, phân tích tiếng ngáy. Thiết bị còn tích hợp đo nhiệt độ với sai số nhỏ nhất là 0,2 độ C (với nhiệt độ từ 35-42 độ C).
+Oppo còn hợp tác với Omron để mang đến khả năng đo huyết áp thuận tiện, thông minh và chính xác. Dữ liệu sẽ được chuyển sang ứng dụng OHealth sau khi người dùng đo huyết áp bằng các thiết bị Omron được chọn.
+Sử dụng thuật toán AI, OHealth H1 sẽ có thể xác định những bất thường trong ECG hoặc âm thanh tim phổi. Theo đại diện hãng, việc sử dụng AI để tiến hành sàng lọc sức khỏe ban đầu có thể giúp giảm bớt gánh nặng cho các nguồn lực y tế, mang lại khả năng tiếp cận chẩn đoán, điều trị tốt hơn.
+Cùng Oppo, không gian triển lãm AI Expo có 30 gian trưng bày với nhiều hoạt động AI Show, quầy tuyển dụng từ các doanh nghiệp hàng đầu. Khu triển lãm sẽ mở cửa xuyên suốt hai ngày, đón độc giả tham quan, trải nghiệm sản phẩm ứng dụng trí tuệ nhân tạo.
+AI4VN 2023 tổ chức tại Riverside Palace, 360D Bến Vân Đồn, quận 4, TP HCM. Ngoài triển lãm, sự kiện cập nhật những bài tham luận về tiềm năng, ứng dụng AI trong đa lĩnh vực, giải pháp nổi bật từ các ông lớn đa ngành qua ba phiên AI Summit, CTO Summit, AI workshop.
+Đăng ký tham dự tại đây
+Ngày hội AI4VN do Bộ Khoa học và Công nghệ chỉ đạo, báo VnExpress tổ chức với sự phối hợp của Câu lạc bộ Các Khoa - Viện - Trường Công nghệ thông tin - Truyền thông (FISU).
+Sự kiện quy tụ nhiều đơn vị như: Aqua Việt Nam, Công ty cổ phần FPT, Trung tâm Không gian mạng Viettel, AI Next Global, Tập đoàn Bưu chính Viễn thông Việt Nam (VNPT), FPT Telecom, Naver, VinBigdata, Quỹ đổi mới sáng tạo, Đại học RMIT Việt Nam...
+Minh Tú

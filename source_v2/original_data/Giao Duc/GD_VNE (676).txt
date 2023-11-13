@@ -1,0 +1,10 @@
+Đáp án bài toán tắc kè đổi màu làm khó tiến sĩ 
+Yếu tố then chốt để giải bài toán này là phát hiện tính chất bất biến, dù có vô số cách đổi màu nhiều lần cho hai con tắc kè bất kỳ.
+Đề bài:
+Trên hòn đảo phép thuật có 2021 tắc kè xanh, 2022 tắc kè đỏ và 2023 tắc kè vàng. Biết rằng cứ sau một phút, khi hai con tắc kè khác màu gặp nhau thì chúng sẽ cùng biến đổi sang màu còn lại.
+Hỏi sau ít nhất bao lâu thì tất cả tắc kè biến đổi thành cùng một màu?
+Đáp án:
+Ban đầu, số lượng của ba loại tắc kè là ba số tự nhiên liên tiếp, nên khi chia cho 3 có ba số dư là bộ (0, 1, 2).
+Sau mỗi lần có hai con tắc kè đổi sang màu còn lại thì có hai loại tắc kè giảm 1 và loại tắc kè còn lại tăng 2. Do đó, kết quả số lượng của ba loại tắc kè nhận được vẫn luôn là bộ ba số dư (0, 1, 2) khi chia cho 3.
+Từ đó suy ra: ở mọi thời điểm, số lượng của mỗi loại tắc kè luôn là bộ ba số chia cho 3 dư (0,1,2) nên không bao giờ có thể biến tất cả các con tắc kè thành cùng một màu vì khi đó số lượng tắc kè sẽ là (0,0, 6066), tức là bộ ba số cùng chia hết cho 3.
+Trần Phương

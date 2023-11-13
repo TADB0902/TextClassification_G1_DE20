@@ -1,0 +1,9 @@
+Thiết bị phát điện bằng sức gió và quang năng 
+Công ty Unéole của Pháp ra mắt thiết bị phát điện hỗn hợp có thể tăng sản lượng năng lượng lên 40% so với pin mặt trời truyền thống.
+Nhu cầu về năng lượng tái tạo đang mang lại nhiều đổi mới cho thị trường. Trong khi các công ty như Siemens tập trung chế tạo turbine gió khổng lồ để khai thác năng lượng trên biển, startup Unéole lại tìm kiếm giải pháp sản xuất điện tối ưu bằng những thiết bị nhỏ gọn hơn nhiều, có thể lắp đặt trên các tòa nhà đô thị.
+Về mặt cấu trúc, thiết bị của Unéole là sự kết hợp giữa các turbine gió trục đứng và pin năng lượng mặt trời với tổng chiều cao khoảng 4 m. Kích thước dài và rộng của nó, tương ứng với số lượng turbine và tấm pin mặt trời, có thể được điều chỉnh dựa trên thuật toán để phù hợp với từng công trình.
+Trong khi quang điện phụ thuộc vào bức xạ mặt trời, turbine gió có thể hoạt động vào ban đêm hoặc trong điều kiện mùa đông bức xạ yếu, tạo nên sự bổ sung hoàn hảo. Theo Unéole, giải pháp của họ có thể tối đa hóa sản lượng năng lượng lên 40% so với giải pháp năng lượng mặt trời thuần túy.
+Để đảm bảo lượng khí thải carbon thấp, các turbine gió được chế tạo từ vật liệu tái chế như nhôm và thép không gỉ. Việc sản xuất có thể được thực hiện tại địa phương cũng sẽ giúp giảm lượng khí thải của hệ thống.
+Được thành lập vào năm 2014, Unéole đã thử nghiệm thiết bị của họ cho nhiều khách hàng tại các địa điểm khác nhau. Các turbine gió của công ty đã được cơ quan công quyền của Pháp CEREMA chứng nhận là "hoạt động yên tĩnh và không tạo ra bất kỳ sóng điện từ có hại nào".
+Năm ngoái, Unéole đã lắp đặt một thiết bị thử nghiệm tại địa điểm CD2e LumiWatt ở Loos-en-Gohelle, Pháp. Nếu hiệu suất tiếp tục hứa hẹn như hiện tại, công ty hy vọng có thể đưa thiết bị vào sản xuất quy mô lớn với số vốn đang được huy động.
+Đoàn Dương (Theo Designboom/Interesting Engineering)

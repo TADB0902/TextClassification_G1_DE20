@@ -1,0 +1,6 @@
+Bài toán thi học sinh giỏi bậc tiểu học của Hong Kong 
+Bài toán cấp tiểu học yêu cầu tính khoảng cách giữa hai thành phố làm khó người lớn, bởi không nhiều người có thể áp dụng phương pháp tiểu học để giải.
+Đề bài:
+Một ôtô đi du lịch từ thành phố A đến thành phố B với vận tốc không đổi. Biết rằng nếu ôtô tăng vận tốc thêm 20% thì chuyến đi mất ít hơn 1 tiếng so với dự định; và nếu ôtô đi với vận tốc hiện tại trong 100 km trước khi tăng lên 30% thì chuyến đi cũng mất ít hơn 1 tiếng so với dự định.
+Tính khoảng cách giữa hai thành phố A và B.
+Trần Phương

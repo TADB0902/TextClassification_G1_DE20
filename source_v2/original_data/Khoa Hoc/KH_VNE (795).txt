@@ -1,0 +1,9 @@
+Thử nghiệm thành công miếng dán phục hồi tóc rụng 
+Trung Quốc
+Thử nghiệm trên chuột cho thấy miếng dán vi kim mới giúp lông mọc lại dày và rậm hơn so với phương pháp điều trị bằng testosterone cũ.
+Các nhà khoa học Trung Quốc phát triển miếng dán vi kim mới giúp điều trị một dạng rụng tóc phổ biến và thử nghiệm thành công trên chuột, New Atlas hôm 4/11 đưa tin. Nghiên cứu mới xuất bản trên tạp chí Nano Letters.
+Nghiên cứu tập trung vào dạng rụng tóc phổ biến nhất, rụng tóc nội tiết tố androgen. Mất cân bằng oxy hóa được cho là nguyên nhân chính gây ra tình trạng này. Sự dư thừa các ROS (một nhóm các phân tử và gốc tự do chứa oxy) trên da đầu gây tổn thương cho các tế bào chịu trách nhiệm phát triển nang tóc.
+Trong nghiên cứu mới, nhóm chuyên gia sử dụng công nghệ học máy (machine learning) để sàng lọc hiệu quả 91 "ứng cử viên" nanozyme khác nhau và dự đoán hợp chất nào sẽ hoạt động giống nhất với superoxide dismutase, loại enzyme giúp trung hòa tự nhiên các ROS trong cơ thể. Cuối cùng, hợp chất được chọn là mangan thiophosphate (MnPS3). Nhóm nghiên cứu tích hợp MnPS3 vào các tấm nano và thử nghiệm với các nguyên bào sợi của da người, giúp giảm mức ROS mà không gây hại.
+Tiếp theo, nhóm nhà khoa học tạo ra một miếng dán vi kim chứa hợp chất này và thiết kế sao cho nó khuếch tán sâu vào da để loại bỏ ROS dư thừa. Miếng dán được thử nghiệm trên chuột bị rụng lông nội tiết tố androgen. Trong vòng 13 ngày, chúng đã tái tạo lông, các sợi lông mọc dày và rậm hơn so với những con chuột được điều trị bằng testosterone hoặc minoxidil.
+Nghiên cứu mang lại triển vọng lớn cho việc phát triển các phương pháp điều trị rụng tóc mới. Bên cạnh đó, nhóm nhà khoa học cũng coi đây là bằng chứng cho thấy công nghệ học máy có thể đẩy nhanh sự phát triển của phương pháp trị liệu nanozyme, từ đó phát triển các phương pháp chữa trị vết thương và khối u.
+Thu Thảo (Theo New Atlas)

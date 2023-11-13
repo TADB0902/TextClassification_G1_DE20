@@ -1,0 +1,21 @@
+Tàu vũ trụ sao Hỏa lập kỷ lục truyền dữ liệu 
+Tàu vũ trụ 19 năm tuổi đang truyền dữ liệu cho 7 nhiệm vụ khác nhau trên bề mặt sao Hỏa, lập nên kỷ lục mới đặc biệt.
+Mars Express, con tàu do Cơ quan Vũ trụ châu Âu (ESA) vận hành, gần đây tiến hành thử nghiệm truyền dữ liệu do robot tự hành Perseverance của ESA thu thập về Trái Đất, Sci Tech Daily hôm 12/11 đưa tin. Trạm đổ bộ và robot tự hành trên sao Hỏa thu thập dữ liệu giúp các nhà khoa học trả lời những câu hỏi cơ bản về khí quyển, địa chất, môi trường bề mặt, lịch sử của nước và khả năng tồn tại sự sống trên hành tinh đỏ. Để đạt được điều đó, đầu tiên các phương tiện cần truyền dữ liệu cho tàu vũ trụ bay quanh quỹ đạo sao Hỏa. Sau đó, những tàu này sử dụng bộ truyền phát lớn và mạnh hơn để chuyển tiếp dữ liệu qua không gian tới ăngten lớn trên Trái Đất.
+"Truyền dữ liệu là một phần thiết yếu trong khám phá sao Hỏa", James Godfrey, quản lý vận hành tàu vũ trụ Mars Express ở trung tâm điều khiển nhiệm vụ ESOC của ESA, cho biết. "Chúng tôi rất tự hào khi Mars Express đóng góp vào hệ thống truyền dữ liệu sao Hỏa trong nhiều năm và hỗ trợ nhiều phương tiện trên mặt đất như vậy. Mạng lưới này sẽ hỗ trợ các nhiệm vụ tương lai tới hành tinh đỏ cũng như chiến dịch đưa mẫu vật sao Hỏa trở về Trái Đất".
+Mars Express tới sao Hỏa vào ngày 25/12/2003, cách đây gần 19 năm. Do một năm sao Hỏa tương đương 687 ngày Trái Đất, con tàu kỷ niệm 10 năm sao Hỏa trên quỹ đạo hôm 16/10/2022. Dưới đây là những nhiệm vụ mà Mars Express tham gia.
+Spirit
+Năm 2004, chỉ 2 tháng sau khi tới sao Hỏa, Mars Express bay qua robot tự hành Spirit của NASA. Tàu vũ trụ truyền lệnh cho robot gửi dữ liệu trong thử nghiệm đầu tiên với mạng lưới liên lạc liên cơ quan quanh hành tinh khác. Đầu tiên, các lệnh cho robot được chuyển từ Đội vận hành Spirit ở Phòng thí nghiệm Sức đẩy Phản lực (JPL) của NASA tại Mỹ tới ESOC ở Đức. Tại đây, chúng được dịch thành câu lệnh cho Mars Express, sau đó kết nối với tàu trên quỹ đạo và truyền xuống robot tự hành.
+Opportunity
+7 thử nghiệm liên lạc khác được tiến hành giữa tàu Mars Express và robot tự hành Opportunity của Mỹ vào đầu năm 2008. Dựa trên thử nghiệm với Spirit, quá trình góp phần tối ưu hóa liên lạc của ESA - NASA trên sao Hỏa.
+Phoenix
+Ngày 25/5/2008, tàu Mars Express theo dõi trạm đổ bộ Phoenix hạ cánh và truyền dữ liệu cho NASA để xác nhận dữ liệu từ tàu quay quanh quỹ đạo của cơ quan này. Trong vài tuần sau sự kiện hạ cánh, tàu Mars Express một lần nữa thể hiện khả năng truyền dữ liệu đáng tin cậy từ bề mặt sao Hỏa về Trái Đất.
+Curiosity
+Năm 2012, tàu Mars Express được chọn truyền dữ liệu khoa học quan trọng từ robot Curiosity của NASA về Trái Đất. Đây là một bước tiến nhỏ nhưng quan trọng trong quan hệ hợp tác giữa các cơ quan vũ trụ. Vào ngày 6/10/2012, Mars Express hướng ăngten liên lạc về phía Curiosity. Trong 15 phút, robot NASA truyền dữ liệu khoa học cho con tàu của ESA. Tiếp đó, tàu Mars Express xoay ăngten mạnh hơn về phía Trái Đất và bắt đầu gửi thông tin quý giá.
+Dữ liệu bao gồm ảnh chụp tàu Curiosity chụp một khối đá trong phân tích đất đầu tiên bằng phòng thí nghiệm di động. Tàu Mars Express gửi ảnh cho ESOC ở Đức qua ăngten không gian sâu đường kính 35 m tại New Norcia, Australia. Tất cả dữ liệu chuyển tiếp lập tức truyền tới JPL ở California để xử lý và phân tích.
+InSight
+Con tàu đàn em của Mars Express là tàu Trace Gas Orbiter phụ trách thiết lập hỗ trợ truyền dữ liệu liên hành tinh định kỳ đầu tiên giữa hai cơ quan vũ trụ khi bắt đầu hỗ trợ trạm đổ bộ InSight của NASA. Nhưng Mars Express tiếp tục đóng vai trò quan trọng hỗ trợ trạm mới này.
+Chúc Dung
+Trong năm vừa qua, Mars Express tiến hành thử nghiệm với robot Chúc Dung của Cục Vũ trụ Quốc gia Trung Quốc (CNSA) để đánh giá độ tương thích của hệ thống vô tuyến và khả năng hỗ trợ truyền dữ liệu.
+Perseverance
+Thử nghiệm truyền dữ liệu thành công gần đây với robot Perseverance của NASA đưa tổng số nhiệm vụ trên bề mặt sao Hỏa mà tàu Mars Express hỗ trợ lên con số kỷ lục là 7 nhiệm vụ. Con tàu sẽ tiếp tục cung cấp dịch vụ quan trọng trong khi là một trong những nhiệm vụ có chi phí thấp nhất của ESA.
+An Khang (Theo Sci Tech Daily)

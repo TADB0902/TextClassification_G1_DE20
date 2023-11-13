@@ -1,0 +1,11 @@
+AI thắng phi công trong cuộc đua lái drone 
+Sử dụng camera và cảm biến, drone do AI điều khiển đánh bại các phi công khi vượt qua đường đua đầy chướng ngại vật với tốc độ cao.
+Hệ thống tự động Swift đánh bại 3 phi công lái drone chuyên nghiệp ở 15 trong 25 cuộc đua với đường đua đầy khúc cua và chướng ngại vật do một phi công đua drone chuyên nghiệp thiết kế, Science Alert hôm 31/8 đưa tin. Hệ thống kết hợp các thuật toán AI với một camera và nhiều cảm biến tích hợp để phát hiện môi trường xung quanh cũng như chuyển động của drone.
+Swift do Elia Kaufmann, kỹ sư robot tại Đại học Zurich và các nhà nghiên cứu tại tổ chức Intel Labs thiết kế. Họ hướng đến một hệ thống không phụ thuộc vào dữ liệu đầu vào từ camera chuyển động bên ngoài như những chiếc drone đua tự động trước đây.
+"Việc đạt đến trình độ phi công chuyên nghiệp với drone tự động là một thách thức vì nó cần bay trong giới hạn vật lý của mình, đồng thời ước tính tốc độ và vị trí trong đường đua chỉ bằng các cảm biến trang bị sẵn", nhóm nghiên cứu cho biết.
+Các phi công đeo bộ kính đặc biệt mang lại góc nhìn của "người thứ nhất" (giống như đang ngồi trong drone) thông qua camera gắn trên drone. Drone có thể đạt tốc độ 100 km/h.
+Tương tự, Swift có một camera tích hợp và cảm biến quán tính để đo gia tốc và chuyển động xoay của drone. Dữ liệu này sẽ được hai thuật toán AI phân tích để xác định vị trí của drone so với các chướng ngại vật và đưa ra lệnh điều khiển tương ứng.
+Dù thua 40% số cuộc đua, Swift đã đánh bại phi công nhiều lần và đạt thời gian đua nhanh nhất được ghi nhận, nhanh hơn nửa giây so với thời gian tốt nhất của con người.
+"Nhìn chung, tính trung bình trên toàn bộ đường đua, drone tự động đã đạt tốc độ trung bình cao nhất, tìm ra lộ trình ngắn nhất và thành công duy trì trạng thái hoạt động gần với giới hạn của mình xuyên suốt cuộc đua", Kaufmann cùng các đồng nghiệp cho biết.
+Theo Guido de Croon, nhà nghiên cứu robot tại Đại học Công nghệ Delft ở Hà Lan, sự đổi mới thực sự của Swift là mạng lưới thần kinh nhân tạo thứ hai được triển khai, sử dụng phương pháp học tăng cường sâu. Swift không phải là hệ thống drone đầu tiên có thể bay vượt qua các chướng ngại vật, nhưng nó làm được điều đó với độ chính xác vượt trội. Nghiên cứu mới công bố trên tạp chí Nature.
+Thu Thảo (Theo Science Alert)

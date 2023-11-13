@@ -1,0 +1,10 @@
+Nhà máy sản xuất robot hình người đầu tiên trên thế giới 
+Mỹ
+Công ty Agility Robotics xây nhà máy RoboFab rộng 70.000 m2 ở Salem, bang Oregon, với khả năng sản xuất hơn 10.000 robot hình người Digit mỗi năm.
+Nhà máy RobotFab dự kiến khai trương cuối năm nay và bắt đầu giao sản phẩm cho khách hàng vào năm 2024, New Atlas hôm 19/9 đưa tin. Agility Robotics dự định chế tạo hàng trăm robot Digit trong năm đầu tiên, sau đó tăng quy mô.
+Digit là robot hai chân cao 175 cm, nặng khoảng 65 kg, mang được hàng hóa nặng tới 16 kg bằng cặp tay kẹp. Nó sạc pin tự động và theo lý thuyết có thể làm việc trong 16 tiếng, tương đương với hai ca làm việc toàn thời gian.
+Digit có đôi chân gập về phía sau giống chân chim. Kiểu chân này cũng tương tự với Cassie, mẫu robot khác của công ty Agility Robotics, từng lập Kỷ lục Guinness Thế giới về tốc độ chạy nước rút 100 m của robot hai chân vào năm 2022. Cả hai đều có phần chân trên ngắn hướng về phía trước, bắp chân dài hướng ra sau, khớp cổ chân cao - ở vị trí mà mọi người thường nghĩ sẽ là đầu gối - nối xuống các miếng đệm ngón chân nhỏ tiếp xúc với mặt đất.
+Một ưu điểm là Digit có thể gập hai chân ra phía sau một cách linh hoạt. Nó cũng có thể ngồi xổm xuống trước kệ để lấy hàng hóa mà đầu gối không nhô ra, do đó có thể nhặt chúng mà không cần nghiêng mình về phía trước. Bên cạnh đó, robot cũng trang bị camera quan sát và công nghệ quét laser LiDAR.
+Nhà vận hành có thể điều khiển Digit thông qua máy tính bảng. Robot được mã hóa cứng với nhiều nhiệm vụ khác nhau, chủ yếu thuộc dạng bốc hàng hóa và đặt chúng vào vị trí. Vài tháng qua, Agility Robotics đã thử nghiệm sử dụng AI mô hình ngôn ngữ lớn để khiến Digit tự lập trình và đáp lại các khẩu lệnh.
+Ban đầu, Digit sẽ giúp vận chuyển hộp và túi trong các nhà máy của Agility Robotics và của khách hàng. Tiếp theo, Agility Robotics hy vọng chúng có thể bốc dỡ hàng cho xe tải.
+Thu Thảo (Theo New Atlas)

@@ -1,0 +1,11 @@
+Bài toán tìm số còn thiếu 
+Bạn hãy quan sát các cạnh của hình chữ nhật, tìm ra quy luật và điền số còn thiếu vào dấu hỏi.
+Câu 1:
+>> Đáp án 
+Câu 2:
+>> Đáp án
+Câu 3:
+>> Đáp án
+Câu 4:
+>> Đáp án
+Theo Simply Logical, Logic Channel

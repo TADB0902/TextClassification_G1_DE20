@@ -1,0 +1,11 @@
+Giày đi bộ nhanh nhất thế giới 
+Công ty khởi nghiệp Shift Robotics giới thiệu mẫu giày Moonwalker có thể giúp người đeo tăng 250% tốc độ đi bộ nhờ thuật toán AI.
+Được phát triển bởi một nhóm kỹ sư robot, những người từng làm việc tại Đại học Carnegie Mellon của Mỹ trước khi thành lập công ty khởi nghiệp có tên Shift Robotics, Moonwalker có thể trông giống như những đôi giày trượt patin, nhưng được hỗ trợ bởi thuật toán trí tuệ nhân tạo (AI) giúp người mang đi lại bình thường mà không cần bất kỳ điều khiển nào.
+"Moonwalker không phải là giày trượt. Bạn không trượt trên chúng mà sẽ đi bộ. Bạn cũng không cần phải học cách sử dụng. Những đôi giày này học hỏi từ bạn", Xunjie Zang, nhà sáng lập kiêm Giám đốc điều hành Shift Robotics, nhấn mạnh.
+Thiết kế có dây đeo cho phép Moonwalker được dùng kết hợp với hầu hết mọi đôi giày. Nó có 8 bánh xe bằng polyurethane, giống như giày trượt. Tuy nhiên, những bánh xe này nhỏ hơn nhiều và không nằm trên một đường thẳng. Chúng được cấp năng lượng bởi một động cơ điện 300 watt.
+Bằng cách sử dụng các cảm biến, AI giám sát cách người đeo giày đi bộ và thuật toán tự động điều chỉnh công suất của động cơ để đồng bộ hóa với tốc độ, cho phép tăng và giảm tốc độ khi người dùng đi bộ nhanh hơn hoặc chậm hơn.
+Theo tuyên bố của Shift Robotics, Moonwalker là giày đi bộ nhanh nhất thế giới, có thể làm tăng tốc độ đi bộ của người đeo lên 250% dựa trên phân tích rằng tốc độ đi bộ trung bình của một người là 4 - 6,4 km/h.
+Nó cũng được thiết kế để leo cầu thang và lên xuống dốc thông qua cử động chân đặc biệt giúp kích hoạt chế độ khóa bánh và ngăn bánh xe lăn tự do
+Với tầm hoạt động của pin đạt gần 10 km, Moonwalker có thể là một giải pháp thay thế cho các phương tiện cá nhân như ôtô và xe máy trong những chặng đường ngắn. Kích thước nhỏ gọn cho phép bạn dễ dàng cất gọn chúng dưới bàn làm việc hoặc thậm chí là trong ba lô.
+Shift Robotics đang cố gắng đưa mẫu giày thông minh của mình đến với nhiều người tiêu dùng thông qua một chiến dịch huy động vốn cộng đồng trên Kickstarter, với hy vọng nhận được 90.000 USD. Công ty đã bắt đầu mở bán trước Moonwalker từ tuần này với giá bán lẻ 1.399 USD cho mỗi đôi và dự kiến giao hàng vào tháng 3/2023.
+Đoàn Dương (Theo Gizmodo/New York Post)

@@ -1,0 +1,15 @@
+Thử tài đếm hình qua 4 câu đố 
+Bạn hãy quan sát các hình để tìm ra đáp án .
+Câu 1:
+Tìm số còn thiếu ở vị trí dấu hỏi?
+>>Đáp án
+Câu 2:
+Có bao nhiêu hình tam giác?
+>>Đáp án
+Câu 3: 
+Số lượng hình vuông?
+>>Đáp án
+Câu 4:
+Tìm số hình tam giác?
+>>Đáp án
+Theo Online Training for Everyone

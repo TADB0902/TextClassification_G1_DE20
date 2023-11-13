@@ -1,0 +1,6 @@
+Bài toán xếp hành lý xách tay khi đi máy bay 
+Trong ba phút liệu bạn có thể tìm được đáp số bài toán lớp 5 về chiếc valy chứa đồ nặng nhất là nhẹ nhất có thể để đáp ứng với yêu cầu chung của hãng bay.
+Đề bài. 
+Ba chị em trong một gia đình đi du lịch bằng đường hàng không. Họ có 6 món đồ với khối lượng 8,5 kg; 6 kg; 5,5 kg; 5 kg; 5 kg; 3,5 kg và muốn xếp 6 món đồ này vào 3 chiếc valy mà khi không chứa đồ có khối lượng như nhau.
+Hãy tìm khối lượng đồ nặng nhất là nhẹ nhất có thể trong một valy?
+Trần Phương

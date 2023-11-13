@@ -1,0 +1,9 @@
+Thử thách IQ với câu đố tìm mật khẩu 
+Một mật khẩu có 16 ký tự và gợi ý "12345678", bạn có tìm được đáp án trong 30 giây?
+Câu 1:
+>>Đáp án
+Câu 2: Với ba lần cắt, bạn có thể chia một chiếc bánh kem hình tròn thành 8 phần bằng nhau?
+>>Đáp án
+Câu 3: Theo bạn, con đường từ mũi tên đi vào mê cung (phía dưới bên trái) tới mũi tên đi ra (phía trên bên phải) sẽ đi qua những số nào?
+>>Đáp án
+Theo Bright sides

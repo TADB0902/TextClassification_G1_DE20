@@ -1,0 +1,17 @@
+Giao dịch chuyển tiền sẽ bắt buộc xác thực khuôn mặt
+Dự kiến từ 1/4/2024, khi giao dịch chuyển tiền thì người thực hiện sẽ được kiểm tra sinh trắc học bằng khuôn mặt để đảm bảo an toàn.
+Đó là thông tin đáng chú ý được công bố tại Hội thảo “Chuyển đổi số ngân hàng, tài chính và cơ hội cho nông dân” do Hội Nông dân Việt Nam phối hợp cùng Ngân hàng Nhà nước (NHNN) tổ chức sáng 13/10 tại Hà Nội.
+Ông Phạm Anh Tuấn – Vụ trưởng Vụ Thanh toán, NHNN, cho biết cơ quan này đã nghiên cứu dự thảo, gửi các TCTD lấy ý kiến về biện pháp xác thực bằng sinh trắc học, thu thập dữ liệu từ CCCD gắn chíp.
+Đây là tiền đề để đảm bảo chính chủ khi mở tài khoản bằng eKYC, cũng là tiền đề để đảm bảo người mở tài khoản là người thực hiện dịch vụ thanh toán. 
+Khi thực hiện giao dịch thì người thực hiện giao dịch sẽ được kiểm tra sinh trắc học bằng khuôn mặt. Đây là một trong những biện pháp tăng cường góp phần đảm bảo an toàn cao nhất cho người dân khi thực hiện dịch vụ thanh toán trên môi trường số.
+Dự kiến quyết định này sẽ có hiệu lực từ 1/4/2024 để có đủ thời gian cho các TCTD, các trung gian thanh toán thu thập dữ liệu người dùng. 
+Cơ quan quản lý cũng đã có văn bản yêu cầu các tổ chức tín dụng (TCTD), trung gian thanh toán khi gửi tin nhắn thông qua Email, SMS,… đến người dùng, tuyệt đối không sử dụng đường link trong nội dung thông tin đó.
+Cùng với việc tuyên truyền về nâng cao nhận thức người dùng, người dân sẽ mặc định coi những tin nhắn có chứa đường link là không chính thống. “Hiện nay việc giả mạo đường link trong các tin nhắn lửa đảo đã khiến cho việc nhiều người bị lừa. Chúng tôi yêu cầu tất cả các TCTD khi cung cấp dịch vụ mobile banking tại quầy thì phải xác minh điện thoại chính chủ, điều này hạn chế những thông tin thất thoát, thông tin bị mua bán, trao đổi”, ông Tuấn cho hay.
+Theo Trung tá Triệu Mạnh Tùng, Phó Cục trưởng Cục An ninh mạng và phòng chống tội phạm công nghệ cao (A05), Bộ Công an, để có thể hạn chế hơn các vụ việc lừa đảo, trước tiên người dân cần nâng cao nhận thức về bảo mật thông tin.
+Việc tấn công tài khoản và hack được điện thoại người dùng là rất khó. Hiện các ứng dụng ngân hàng cũng thực hiện bảo mật rất tốt nên rất khó có thể lấy được tài khoản. 
+Thông thường mọi người để mất quyền kiểm soát tài khoản là do để cho các đối tượng lợi dụng sự chủ quan của người sử dụng, thậm chí là người dùng gửi mã OTP, mật khẩu cho đối tượng lừa đảo.  Hai là người dùng click vào đường link có chứa mã độc dẫn đến các đối tượng điều khiến được thiết bị của người dùng. 
+“Chúng ta không nên bấm vào bất kỳ đường link nào nếu không sẽ rất dễ mất tài khoản”, ông Triệu Mạnh Tùng nói.
+Ngoài ra ông Tùng khuyến cáo người dân cảnh giác trước những lời mời gọi trên mạng như tham gia sàn thương mại điện tử với chiết khấu hoa hồng cao, thậm chí là giả danh Công an, VKS, Toà án để yêu cầu nạn nhân chuyển tiền.
+Tại Hội thảo, ông Phạm Văn Quyên, Giám đốc HTX Nông lâm thuỷ hải sản Nam Việt (Tiên Lãng, Hải Phòng) chia sẻ câu chuyện bị hai đối tượng tiếp cận nói chuyện và dụ tham gia tương tác, thúc đẩy bán hàng trên kênh thương mại điện tử.
+Qua câu chuyện này, ông Quyên kiến nghị các cơ quan chức năng phối hợp tìm giải pháp triệt để hơn nữa xử lý những tài khoản rác, từ đó giảm tình trạng lừa đảo và người nông dân cũng sẽ tự tin hơn khi tham gia vào quá trình chuyển đổi số ngành ngân hàng.
+Trong khi đó, ông Nguyễn Văn Nam, Giám đốc một HTX mì Chũ ở Bắc Giang, kiến nghị cơ quan chức năng cần mạnh tay hơn trong việc dẹp vấn nạn lừa đảo trên mạng.  

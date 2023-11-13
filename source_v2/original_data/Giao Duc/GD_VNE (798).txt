@@ -1,0 +1,5 @@
+Bài toán đếm số người dự hội thảo 
+Một bài toán đếm số phần tử trong một tập hợp dành cho học sinh lớp 5-6 đã làm khó nhiều người lớn, liệu bạn có thể hóa giải nó ?
+Đề bài. Một hội thảo quốc tế có 1.000 đại biểu tham dự, trong đó 82% đại biểu biết tiếng Pháp, 74% biết tiếng Đức, 63% biết tiếng Trung Quốc và 96% biết tiếng Anh.
+Biết rằng có ít nhất x % đại biểu biết tất cả bốn thứ tiếng trên. Hãy tìm x.
+Trần Phương

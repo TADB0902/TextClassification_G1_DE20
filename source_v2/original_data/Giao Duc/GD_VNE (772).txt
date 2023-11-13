@@ -1,0 +1,12 @@
+Đáp án bài toán đếm số người dự hội thảo 
+Sử dụng phương pháp phần bù tập hợp, bạn có thể hóa giải nhanh bài toán xác định số đại biểu ít nhất biết cả bốn thứ tiếng.
+Đề bài:
+Một hội thảo quốc tế có 1.000 đại biểu tham dự, trong đó 82% đại biểu biết tiếng Pháp, 74% biết tiếng Đức, 63% biết tiếng Trung Quốc và 96% biết tiếng Anh.
+Biết rằng có ít nhất x % đại biểu biết tất cả bốn thứ tiếng trên. Hãy tìm x.
+Hướng dẫn giải:
+Trong 1.000 đại biểu, 82% biết tiếng Pháp. Suy ra, 18% đại biểu không biết tiếng Pháp.
+Tương tự, 74% đại biểu biết tiếng Đức, 26% không biết tiếng Đức. Tỷ lệ đại biểu biết và không biết tiếng Trung, tiếng Anh lần lượt là 63 và 37%, 96 và 4%.
+Nếu không người nào biết từ hai thứ tiếng trở lên trong các ngôn ngữ Pháp, Đức, Trung, Anh, thì có tối đa 18 + 26 + 37 + 4 = 85% số người không biết ít nhất một trong bốn thứ tiếng.
+Vậy, luôn có ít nhất 100 - 85 = 15% đại biểu (tương đương 150 người) biết cả bốn thứ tiếng.
+Đáp số 15%.
+Trần Phương

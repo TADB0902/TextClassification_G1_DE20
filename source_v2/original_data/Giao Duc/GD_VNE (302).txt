@@ -1,0 +1,30 @@
+Cô trò trường làng vô địch cuộc thi robotics quốc gia 
+Nam Định
+Vượt qua nhiều đội được đầu tư mạnh, cô trò trường Tiểu học Nam Tiến giành chiến thắng cuộc thi robot cấp tiểu học tại Ngày hội STEM quốc gia.
+Xuất phát sau hiệu lệnh của trọng tài, robot KCbot (phiên bản Robot giáo dục được thiết kế chuyên dụng cho giáo dục STEM) của trường Tiểu học Nam Tiến, xã Nam Tiến, huyện Nam Trực bắt đầu tìm đường trong mê cung, căn chỉnh khoảng cách để có những khúc cua. Nhiệm vụ của robot là dò mê cung để cắm cờ về đích. Nhưng đến một đoạn rẽ trái, robot loạng choạng rồi đâm vào tường.
+"Con đã rất hồi hộp vì sợ thua", Đoàn Mạnh Hùng, lớp 4C, kể.
+Hùng là một trong ba thành viên của đội trường Tiểu học Nam Tiến dự vòng chung kết robotics trong Ngày hội STEM quốc gia do Bộ Khoa học và Công nghệ tổ chức hôm 8/10 tại Hà Nội. Hùng và bạn cùng lớp Vũ Minh Quân chịu trách nhiệm lập trình. Thành viên khác của đội là Vũ Thanh Tùng được giao nhiệm vụ quan sát robot để nếu có sự cố sẽ nhanh chóng báo lại.
+Ở phần lập trình, cả ba sẽ cùng thi đấu nhưng đến phần điều khiển robot, chỉ hai thành viên tham gia.
+"Tôi nín thở theo từng chuyển động của robot và thót tim khi gặp sự cố", cô Nguyễn Thị Thoa, giáo viên Tin học kiêm trưởng đoàn, chia sẻ.
+Trường Tiểu học Nam Tiến là một trong 12 đội được chọn thi đấu ở Ngày hội STEM quốc gia. Các đội chia thành ba nhóm để chọn ra ba đội xuất sắc nhất đấu chung kết. Nam Tiến có điểm số thấp nhất trong top 3 do giành chiến thắng hai trận, còn lại hòa và thua ở các vòng thi buổi sáng.
+"Hai đối thủ đến từ một trường song ngữ và học viện STEM được đầu tư cũng như có lực lượng huấn luyện viên hùng hậu. Tôi nghĩ đội mình vào đến chung kết là mừng rồi", cô Thoa nhớ lại.
+Trong lúc sạc pin cho robot thi đấu buổi chiều, cô Thoa phát hiện mắt của thiết bị lệch làm điều hướng không chuẩn dẫn đến trận thua lúc sáng. Nhờ được điều chỉnh kịp thời, robot của trường Nam Tiến lội ngược dòng chiến thắng ở hai trận quyết định, giúp đội lần đầu tiên giành chức vô địch một giải đấu ở tầm quốc gia.
+"Cô và trò đã ôm nhau hò hét vui sướng", cô Thoa nhớ lại, nói chiến thắng có ý nghĩa lớn, ghi nhận sự nỗ lực vượt khó của cô trò. Giải thưởng đội nhận được là tiền mặt 4 triệu đồng, giấy khen và cup vô địch.
+Theo cô Thoa, khó khăn lớn nhất đội gặp phải là sân thi đấu. Không có sân tập, cô Thoa cùng học sinh tập luyện trên nền sân lát gạch và dựng các tấm vách ngăn làm chướng ngại vật. Cô trò lên Hà Nội một hôm trước ngày thi, tranh thủ mượn sân của đội khác. Nhưng sân thi đấu khác mặt sân tập ở nhà.
+"Sao robot đi như say rượu?", cô Thoa nhắc lại câu hỏi của học trò. Cô cho biết ở nhà robot đi trên sân phẳng còn ở đây nó gặp vật cản làm thay đổi ma sát, thay đổi góc cua và góc quay. Nếu để tốc độ nhanh, lực đủ mạnh, robot sẽ vượt qua vật cản, còn không sẽ đứng lại. Góc quay cũng tương tự, tăng tốc độ và thời gian lên để tăng sức mạnh cho robot.
+"Phải giải thích như vậy học sinh mới dễ hình dung và tự biết cách thay đổi chuyển động cho robot", cô nói.
+Nhận xét về ba thành viên đội tuyển, cô Nguyễn Thị Xuân, chủ nhiệm lớp 4C, cho biết các em thông minh, có trí tưởng tượng tốt và biết cách xử lý tình huống. Tùng dày dặn nhất khi từ năm lớp 2 đã theo đuổi môn học này, từng giành giải nhất lập trình Kodu.
+"Bạn ấy được gia đình phát hiện niềm đam mê từ sớm, sau đó được các cô chọn vào đội tuyển để luyện tập", cô Xuân chia sẻ.
+Tùng nói rất thích thú khi nghe cô dạy về lập trình và robot. Không có robot để luyện ở nhà, em tự mày mò và học trên máy tính. Lần đầu tiên tham dự cuộc thi lớn ở Hà Nội nhưng Tùng không run và tự tin với kiến thức được học.
+Với Hùng, ngôn ngữ lập trình khó vì phải làm trên máy tính, rồi làm cho robot quay trái, phải và cân bằng cũng không đơn giản nhưng rất thú vị.
+"Ở nhà con tự tìm hiểu, đến lớp giờ câu lại bộ thì được các cô luyện cho", Hùng cho hay.
+Sau cuộc thi, Tùng và Hùng đều thấy hãnh diện vì giành được cup. Cả hai cho hay sẽ tiếp tục theo đuổi sở thích và đặt mục tiêu cho các cuộc thi tiếp theo.
+Theo các giáo viên, lợi ích lớn nhất của việc học lập trình và robot là giúp học sinh phát triển tư duy, có tinh thần làm việc nhóm. Dù vậy các trường học ở nông thôn không có nguồn kinh phí để đầu tư robot. Phụ huynh chủ yếu làm nông nghiệp, không hiểu biết nhiều STEM hay có điều kiện để đầu tư cho con học.
+"Chúng tôi may mắn có cô Hiệu trưởng Lê Thị Hạnh truyền lửa và tạo điều kiện mọi mặt. Nhờ cô, phong trào STEM, robotics mới lan ra toàn trường", cô Xuân chia sẻ.
+Về trường Tiểu học Nam Tiến năm 2017, cô Hạnh bắt đầu gây dựng câu lạc bộ robot từ kinh nghiệm ở trường cũ, với mong muốn tạo sân chơi cho học sinh. Cô cũng tự học ngôn ngữ lập trình Scratch (kéo thả) để hiểu cách lập trình và nguyên tắc hoạt động của robot rồi cử giáo viên đi tập huấn. Để có thiết bị thực hành, từ đầu năm, trường lập kế hoạch cho các tổ chuyên môn, rà soát xem cần mua gì rồi cân đối và tiết kiệm.
+"Mỗi năm mua một ít như máy cắt lazer, máy in 3D, robot... Với các trường thành phố, kinh phí này có thể không lớn nhưng với chúng tôi là cả vấn đề", cô Hạnh nói, cho biết năm ngoái mua thêm được 2 con robot VEX go để dạy ngôn ngữ lập trình mới. Hiện phòng lab STEM của trường có chục con robot KCbot và một robot VEX IQ.
+Không có nhiều kinh phí để đầu tư, cô trò trường Nam Tiến phải "cái khó ló cái khôn". Chẳng hạn, trong quá trình học, robot va chạm nhiều bị hỏng, các em lớp 3, 4 đã biết "chế" thiết bị cho robot hay đề xuất lắp cảm biến bên hông để nó nhìn được và không bị va.
+Từ năm 2018, trường Nam Tiến bắt đầu tham gia giải thi đấu robot ở địa phương và giành giải nhất. Năm 2021, trường đạt giải nhì cuộc thi robotics quốc gia. Trường cũng thường tổ chức ngày hội STEM để chia sẻ kinh nghiệm với các trường bạn.
+Ông Đỗ Hoàng Sơn, thành viên Liên minh STEM Việt Nam, đánh giá trường Nam Tiến có tinh thần học và phong trào STEM tiêu biểu nhất khối tiểu học cả nước.
+"Trường luôn được Liên minh STEM mời tham dự các sự kiện quốc gia và quốc tế hay giới thiệu với các chuyên gia nước ngoài như Singapore, Australia, Mỹ", ông Sơn cho hay.
+Bình Minh

@@ -1,0 +1,18 @@
+EVNCPC triển khai thay đổi lịch ghi chỉ số công tơ về ngày cuối tháng
+(Dân trí) - Năm 2023, EVNCPC sẽ ghi chỉ số công tơ vào ngày cuối cùng của tháng cho 100% khách hàng tại TP Đà Nẵng và tỉnh Khánh Hòa.
+Ngày 26/9, Tổng công ty Điện lực miền Trung (EVNCPC) cho biết từ tháng 10, EVNCPC sẽ thực hiện lộ trình thay đổi ngày ghi chỉ số công tơ về ngày cuối tháng cho các khách hàng sử dụng điện trên địa bàn 13 tỉnh, thành phố miền Trung - Tây Nguyên (từ Quảng Bình đến Khánh Hòa và 4 tỉnh Tây Nguyên), dự kiến hoàn thành cho 100% khách hàng trong năm 2024.
+Theo đó, trong năm 2023, 100% khách hàng tại thành phố Đà Nẵng và tỉnh Khánh Hòa có lịch ghi chỉ số từ ngày 10 hàng tháng trở về sau sẽ thay đổi ngày ghi chỉ số công tơ về ngày cuối cùng của tháng. Trong năm 2024, đơn vị sẽ thay đổi ngày ghi chỉ số công tơ cho các khách hàng còn lại.
+Theo EVNCPC, việc thay đổi ngày ghi chỉ số công tơ về ngày cuối tháng được thực hiện trên cơ sở sự đồng thuận, thống nhất của khách hàng sử dụng điện, thông qua thỏa thuận và hợp đồng mua bán điện đã ký giữa khách hàng và bên bán điện.
+Trong tháng có thay đổi ngày ghi chỉ số công tơ về ngày cuối tháng, số ngày sử dụng điện của khách hàng sẽ nhiều hơn so với cùng kỳ, tương ứng sản lượng điện tiêu thụ sẽ cao hơn cùng kỳ.
+Bà Lê Thị Phương Cẩm - Phó tổng giám đốc EVNCPC (Ảnh: EVNCPC).
+Việc thay đổi ngày ghi chỉ số không ảnh hưởng đến quyền lợi của khách hàng, định mức sử dụng điện, hóa đơn tiền điện của khách hàng vẫn đảm bảo tính đúng theo quy định tại Thông tư số 16, Thông tư 09 và quyết định về biểu giá điện hiện hành. Các tháng tiếp theo, số ngày sử dụng điện bằng đúng số ngày trong tháng.
+EVNCPC, thông qua công ty điện lực thành viên và điện lực quận, huyện, sẽ thực hiện báo cáo chính quyền địa phương, cơ quan quản lý nhà nước tại địa phương, gửi thông tin thông báo và hướng dẫn cách tính toán tiền điện, công cụ hỗ trợ tính toán tiền điện qua các kênh thông tin chăm sóc khách hàng trước khi triển khai để khách hàng tiện theo dõi, kiểm tra.
+Khách hàng có thể theo dõi sản lượng điện tiêu thụ theo từng ngày, tham khảo công cụ hỗ trợ tính toán tiền điện tại website https://cskh.cpc.vn hoặc qua ứng dụng EVNCPC CSKH (đăng nhập bằng tài khoản khách hàng đăng ký).
+Bà Lê Thị Phương Cẩm - Phó tổng giám đốc EVNCPC - cho biết đến tháng 3/2023, EVNCPC đã hoàn thành lắp đặt công tơ điện tử và hệ thống tự động thu thập dữ liệu đo đếm từ xa cho 100% khách hàng sử dụng điện, đảm bảo hạ tầng để ghi chỉ số vào ngày cuối tháng, thuận lợi cho khách hàng dễ nhớ, dễ kiểm tra, giám sát.
+Hiện tại EVNCPC có 4,7 triệu khách hàng và việc triển khai thay đổi lịch ghi chỉ số công tư về ngày cuối tháng sẽ được thực hiện cho tất cả số khách hàng này.
+Minh họa tính tiền điện trong tháng có thay đổi ngày ghi chỉ số công tơ về ngày cuối tháng:
+- Cách tính mức sử dụng điện của từng bậc trong tháng có thay đổi ngày ghi chỉ số công tơ theo quy định tại Thông tư số 09 ngày 21/4 của Bộ Công Thương:
+Trong đó: Số ngày tròn tháng là số ngày theo lịch của tháng có ngày đầu kỳ của kỳ ghi chỉ số
+- Ví dụ: một khách hàng sinh hoạt (một hộ sử dụng điện) thuộc khu vực ghi chỉ số công tơ vào ngày 10 hàng tháng, trong tháng 10/2023 thực hiện thay đổi ngày ghi chỉ số về ngày cuối tháng, điện năng tiêu thụ là 650 kWh. Kỳ hóa đơn tháng 10/2023 tính từ ngày 10/9 đến ngày 31/10, tổng số ngày sử dụng điện là 52 ngày. Ngày đầu kỳ của kỳ ghi chỉ số là ngày 10/9 nên số ngày tròn tháng là số ngày theo lịch của tháng 9/2023 (30 ngày).
+Mức sử dụng điện của bậc 1 trong tháng 10/2023 được tính như sau:
+Tính tương tự như các bậc khác, tiền điện tháng 10/2023 của khách hàng sẽ như sau:

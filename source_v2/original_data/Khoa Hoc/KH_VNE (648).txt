@@ -1,0 +1,13 @@
+Bổ sung 4 tiền tố mới vào hệ đơn vị đo quốc tế 
+Các nhà khoa học quốc tế hôm 18/11 bổ sung 4 tiền tố số liệu mới để thể hiện các phép đo lớn nhất và nhỏ nhất trên thế giới.
+Tham gia vào hàng ngũ các tiền tố nổi tiếng như kilo và mili là ronna và quetta cho phép đo lớn nhất, cùng ronto và quecto cho phép đo nhỏ nhất, đánh dấu lần đầu tiên sau hơn ba thập kỷ, các tiền tố mới được thêm vào Hệ đơn vị quốc tế (SI), tiêu chuẩn toàn cầu đã được thống nhất cho hệ mét.
+Sự thay đổi đã được bỏ phiếu bởi các nhà khoa học và đại diện chính phủ từ khắp nơi trên thế giới tham dự Đại hội đồng về Cân đo lần thứ 27 tại Cung điện Versailles ở phía tây Paris, Pháp.
+Phòng thí nghiệm Vật lý Quốc gia của Vương quốc Anh, cơ quan dẫn đầu việc thúc đẩy các tiền tố mới, hôm 18/11 xác nhận nghị quyết đã được thông qua trong một tuyên bố.
+Các tiền tố giúp việc diễn đạt số lượng lớn trở nên dễ dàng hơn, ví dụ như gọi một kilomet thay cho một nghìn mét, hoặc một milimet thay cho một phần nghìn mét.
+Kể từ khi SI được thành lập vào năm 1960, nhu cầu khoa học đã dẫn đến số lượng tiền tố ngày càng tăng. Lần gần nhất SI cập nhật là vào năm 1991 với việc bổ sung 2 cặp tiền tố đối xứng: zetta - zepto và yotta - yocto, trong đó zetta biểu thị mười mũ hai mốt (10^21), zepto (10^-21), yotta (10^24) và yocto (10^-24).
+Tuy nhiên, ngay cả tiền số yotta cũng không đủ để đáp ứng nhu cầu dữ liệu khổng lồ của thế giới ngày nay, theo Richard Brown, người đứng đầu bộ phận đo lường tại Phòng thí nghiệm Vật lý Quốc gia của Vương quốc Anh.
+"Về mặt thể hiện dữ liệu tính bằng yottabyte, tiền tố cao nhất hiện nay, chúng ta đang ở rất gần giới hạn. Việc mở rộng các cặp tiền tố đối xứng sẽ rất hữu ích cho khoa học lượng tử và vật lý hạt", Brown nói với AFP.
+Các cặp tiền tố ronna - ronto và quetta - quecto sẽ giúp đơn giản hóa cách chúng ta gọi những con số rất lớn hoặc rất nhỏ. Cụ thể, ronna biểu thị 10^27, ronto (10^-27), quetta (10^30) và quecto (10^-30).
+Theo cập nhật mới này, Trái Đất sẽ nặng xấp xỉ 6 ronnagram (6 x 10^27 g) và sao Mộc nặng khoảng 2 quettagram (2 x 10^30 g).
+Brown cho rằng các tiền tố mới có thể đáp ứng nhu cầu của thế giới về những con số lớn nhất và nhỏ nhất trong 20 đến 25 năm tới.
+Đoàn Dương (Theo AFP/Nature)
