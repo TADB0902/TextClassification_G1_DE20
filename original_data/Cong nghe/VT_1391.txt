@@ -1,0 +1,9 @@
+Theo xu thế phát triển của mạng viễn thông trên toàn thế giới hiện nay, mạng 5G là xu hướng phát triển chính của các nước. Các chuyên gia cũng dự đoán, mạng 5G có thể phổ biến vào năm 2019 tới.
+Chip 5G ReefShark có tốc độ truyền dữ liệu tới 84Gbps, trong khi điện năng tiêu thụ giảm 64%.
+Nokia vốn là một trong những hãng viễn thông đi tiên phong trong việc nâng cấp cơ sở hạ tầng mạng; và để đón đầu xu hướng 5G, mới đây, Nokia đã giới thiệu con chip mang tên ReefShark. Hãng dự kiến sẽ sản xuất đại trà dòng chip mới này trong quý III năm 2018, theo trang Gizmochina.
+Chip 5G này có thể gửi - nhận hàng chục luồng dữ liệu riêng biệt, cung cấp khả năng kết nối mạng gấp nhiều lần so với các dòng chip trước đó và cho khả năng phủ sóng không dây với bán kính lớn hơn. Ngoài ra, ReefShark có thể được đưa vào dòng sản phẩm mạng 4G và 5G của AirScale, nhà sản xuất thiết bị mạng di động số 2 thế giới.
+Về tính năng kỹ thuật, chip ReefShark có thể truyền dữ liệu với tốc độ 84Gbps thay vì chỉ 28Gbps như trước. Đồng thời khi kết nối với nhau, chúng có thể xử lý khối dữ liệu lên tới 6Tbit/s.
+Không chỉ có thế, chip ReefShark cho phép cắt giảm kích thước an-ten, trung bình chỉ còn 45cm so với các an-ten hiện hữu - có kích thước từ 1 mét đến 2,6 mét, và có thể lắp đặt ở nhiều nơi hơn.
+Cuối cùng ReefShark có thể giảm 64% điện năng tiêu thụ. Để làm được những điều đó, ReefShark bao gồm bộ giải mã tín hiệu kỹ thuật số đầu - cuối dành cho mạng LTE và 5G, bộ nhận dạng sóng vô tuyến đầu-cuối và thu phát, bộ xử lý Baseband.
+Đại diện của Nokia cho biết, họ đang làm việc với 30 nhà khai thác di động để triển khai con chip mới vào các trạm thu phát sóng của họ, nghĩa là mạng 5G đầu tiên có thể được nâng cấp vào quý 3 năm 2018 trước khi chính thức triển khai ra toàn bộ thị trường.
+Thanh Trà.

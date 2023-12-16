@@ -1,0 +1,11 @@
+Theo tờ Business insider, NASA đã sử dụng trí tuệ nhân tạo của Google để phát hiện ra hệ sao hoàn toàn mới này.
+Kepler-90i, hành tinh mới quay quanh ngôi sao Kepler-90 giống hệ Mặt Trời, cách 2,545 năm ánh sáng.
+Hành tinh mới phát hiện Kepler-90i là hành tinh nhỏ nhất trong hệ. Kepler 90i hoàn thành một vòng quỹ đạo quanh sao chủ trong 14,4 ngày. Tất cả hành tinh trong hệ sao này đều có thời gian quay quanh quỹ đạo tương đối ngắn.
+Các hành tinh trong hệ Kepler 90 có cách sắp xếp tương tự các hành tinh hệ Mặt Trời, với những hành tinh nhỏ quay gần sao chủ và hành tinh lớn hơn nằm ở xa hơn.
+Kepler 90i có thể là hành tinh đá, không có khí quyển dày, nhiệt độ gần mức 430 độ C.
+Andrew Vanderburg, nhà thiên văn học kiêm nghiên cứu sinh trong chương trình Carl Sagan của NASA ở Đại học Texas, Austin cho biết: "Kepler-90i không phải là nơi bạn muốn ghé thăm".
+Kepler- 90i được phát hiện từ 150.000 tín hiệu không gian mà kính viễn vọng Kepler thu thập được kể từ khi được đưa vào sử dụng vào năm 2009.
+Các nhà khoa học cho biết họ đã nhờ đến sự trợ giúp của hệ thống AI từ Google, sử dụng công nghệ machine learning để tìm các hành tinh trong dữ liệu của Kepler với độ chính xác lên đến 96%.
+Christopher Shallue, kỹ sư phần mềm cao cấp ở Google AI, Mountain View, California, Mỹ cho biết: "Chúng tôi cũng phát hiện hành tinh mới thứ hai có tên Kepler 80g. Nhưng hành tinh chúng tôi tập trung xem xét là Kepler 90i, hành tinh thứ tám trong hệ sao của nó".
+Theo NASA việc sử dụng trí tuệ nhân tạo sẽ giúp việc phân tích khối dữ liệu khổng lồ trong kính viễn vọng Kepler dễ dàng hơn.
+Hoàng Dung (lược dịch).

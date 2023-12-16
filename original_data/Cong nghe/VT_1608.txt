@@ -1,0 +1,7 @@
+Ảnh chỉ có tính minh họa. (Nguồn: Internet).
+Thông tin từ một nhà cung cấp dịch vụ Internet tại Việt Nam cho hay, tuyến cáp quang biển APG (Asia Pacific Gateway - APG) dự kiến sẽ được sửa chữa vào ngày 6-7/1.
+Cụ thể, trong hai ngày nói trên, đối tác quốc tế sẽ tiến hành bảo dưỡng APG và khắc phục sự cố xảy ra vào ngày 23/12/2017. Và, nếu không có gì thay đổi thì ngày 7/1, sự cố sẽ được khắc phục xong.
+Trước đó, tin từ Tập đoàn Bưu chính Viễn thông Việt Nam cho hay, tối 23/12, tuyến cáp quang biển quốc tế APG nhánh từ Việt Nam đi Singapore đã gặp sự cố, làm ảnh hưởng khoảng 10% lưu lượng kết nối Internet của đơn vị này từ Việt Nam đi quốc tế.
+Các nhà cung cấp dịch vụ Internet tại Việt Nam ngay lập tức đưa ra các phương án dự phòng nhằm tránh gây thiệt hại cho khách hàng. Bản thân VNPT đã định tuyến, ưu tiên lưu lượng trên các hướng cáp biển khác đang hoạt động ổn định như AAE-1, SMW-3 và tuyến cáp quốc tế chạy trên đất liền CSC nhằm đảm bảo chất lượng kết nối quốc tế.
+Cáp quang biển APG (Asia Pacific Gateway) có khả năng cung cấp băng thông tối đa lên tới 54 Tbps. Tuyến cáp có chiều dài khoảng 10.400 km đặt ngầm dưới biển Thái Bình Dương. Cáp có điểm kết nối ở Trung Quốc, Hong Kong, Đài Loan, Nhật Bản, Hàn Quốc, Malaysia, Singapore, Thái Lan và Việt Nam./.
+Yên Thủy (Vietnam+).

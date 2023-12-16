@@ -1,0 +1,10 @@
+NAPAS thí điểm chuyển tiền xuyên biên giới bằng công nghệ Bockchain.
+Các tổ chức chuyển mạch của 05 quốc gia thành viên APN cùng nhau thống nhất nguyên tắc, nghiên cứu khả năng hợp tác phát triển dịch vụ thanh toán di động (Mobile Payment) theo thời gian thực giữa các quốc gia trên nền tảng hạ tầng chuyển mạch tài chính. Các quốc gia đó bao gồm: NETS (Singapore), ITMX (Thái Lan), NAPAS (Việt Nam). ; Paynet (Malaysia); Rintis (Indonesia).
+Ngay tại hội nghị, NAPAS và NETS (Network for Electronic Transfers (Singapore) Pte Ltd) đã thông báo về việc 2 tổ chức đã thử nghiệm mô hình thí điểm ứng dụng công nghệ Blockchain trong dịch vụ chuyển tiền xuyên biên giới trên nền tảng hạ tầng chuyển mạch của NAPAS và NETS.
+Hợp tác này mở ra tiềm năng cho phép NAPAS và NETS có thể hỗ trợ việc chuyển tiền giữa các ngân hàng tại Singapore và các ngân hàng tại Việt Nam được thực hiện an toàn, tin cậy và nhanh chóng so với các hệ thống chuyển tiền hiện tại.
+Công nghệ Blockchain là công nghệ tiên tiến cho phép truyền tải dữ liệu một cách an toàn dựa vào cơ chế mã hóa phức tạp, bằng cách sử dụng nhiều nút độc lập có khả năng xác thực thông tin mà không đòi hỏi một trung gian được tin tưởng giống như các hệ thống khác.
+Các thông tin lưu trữ trong Blockchain không thể bị thay đổi và chỉ có thể được bổ sung thêm dưới sự đồng thuận của tất cả các nút trong hệ thống. Blockchain có thể được ứng dụng trong rất nhiều lĩnh vực, và có tiềm năng thay thế một cách hữu hiệu những ứng dụng sử dụng mô hình trung gian hiện tại, và được nhiều nơi coi là công nghệ của tương lai.
+Tổ chức thành viên APN được thành lập từ năm 2006 tại Malaysia, quy tụ các tổ chức chuyển mạch, các công ty hàng đầu trong lĩnh vực thanh toán của 12 nước trong khu vực Châu Á nhằm mục tiêu kết nối hệ thống chuyển mạch của các nước trong khu vực Châu Á.
+Hiện tại, thành viên của APN bao gồm : NETS (Singapore), KFTC (Hàn Quốc), MEPS và MyClear (Malaysia), ITMX (Thái Lan), NTT Data (Nhật Bản), Artajasa và Rintis (Indonesia), Bancnet và MegaLink (Philipine), UnionPay (Trung Quốc), SPS (Australia), Paymark (New Zealand) và NAPAS (Việt Nam).
+Thùy Liên.
+Theo InfoMoney.

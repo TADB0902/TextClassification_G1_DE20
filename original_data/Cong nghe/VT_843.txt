@@ -1,0 +1,25 @@
+Khi nóng lên, pin trên smartphone sẽ tụt rất nhanh, ứng dụng hoạt động chậm chạp hoặc thường xuyên xảy ra tình trạng đứng máy. Rất khó để xác định nguyên nhân chính xác, tuy nhiên bạn có thể áp dụng vài mẹo nhỏ sau để hạn chế tình trạng trên.
+2 cách săn vé máy bay giá rẻ.
+(PLO)- Chỉ với vài mẹo nhỏ đơn giản, bạn hoàn toàn có thể săn được những chiếc vé máy bay có giá rẻ hơn so với bình thường.
+Giảm chất lượng ảnh chụp.
+Khi thiết lập chất lượng ảnh chụp và video ở mức cao nhất, ngoài việc gây tốn dung lượng thì nó còn khiến smartphone nóng lên chỉ sau vài phút sử dụng. Thâm chí, một số thiết bị còn đưa ra cảnh báo quá nhiệt và tắt đột ngột nhằm giảm hư hỏng phần cứng.
+Do đó, để thay đổi chất lượng hình ảnh và video, bạn có thể nhấp vào biểu tượng bánh xe răng cưa (Settings) bên trong ứng dụng Camera. Đối với các thiết bị iOS, bạn chỉ cần vào Settings (cài đặt) > Photos & Camera và thay đổi lại các thông số sao cho phù hợp.
+Thay đổi chất lượng ảnh chụp/video trên ứng dụng Camera. Ảnh: MINH HOÀNG.
+Phần mềm độc hại, gián điệp.
+Phần mềm độc hại (malware), gián điệp cũng là một trong những nguyên nhân khiến smartphone Android nóng lên. Đa số mã độc đều được tội phạm mạng tích hợp vào bên trong ứng dụng/trò chơi phổ biến, sau đó dụ dỗ người dùng cài đặt và âm thầm lấy cắp thông tin gồm danh bạ, tin nhắn, mật khẩu ngân hàng, dữ liệu nhạy cảm...
+Hạn chế cài đặt ứng dụng bên ngoài Google Play và những trang web không chính thống.
+Theo thống kê của Bkav, mỗi ngày có trung bình khoảng 7.000 mã độc ăn cắp thông tin (trojan) xuất hiện trên thế giới, tăng gần gấp đôi so với cùng kỳ năm 2015. Kết quả này đã đưa trojan vượt mặt mã độc quảng cáo bất hợp pháp (adware) và mã độc gửi tin nhắn trừ tiền.
+Để hạn chế, bạn hãy cài đặt thêm các ứng dụng chống virus trên smartphone, đồng thời vô hiệu hóa tùy chọn Unknown sources (không rõ nguồn gốc) trong phần Settings (cài đặt) > Security (bảo mật).
+Kiểm tra pin và cáp sạc.
+Việc smartphone nóng lên trong khi sạc là chuyện rất bình thường, tuy nhiên, nếu bạn cảm thấy quá nóng thì nên kiểm tra lại củ sạc và dây cáp. Đa số các cục sạc lô được bán tràn lan với mức giá rẻ thường không đảm bảo chất lượng, dòng điện kém ổn định dẫn đến tình trạng smartphone bị quá nhiệt, chai pin và thậm chí là phát nổ, gây ảnh hưởng nghiêm trọng đến bạn và người thân trong gia đình.
+Đó là lý do tại sao bạn chỉ nên sử dụng bộ sạc chính hãng đi kèm với sản phẩm hoặc các thiết bị có khả năng tự động điều chỉnh dòng và đã được chứng nhận.
+Nếu nhiệt độ ban ngày quá nóng, bạn chỉ nên sạc thiết bị ở mức 70%-80% và sạc đầy vào ban đêm. Đa số smartphone hiện nay đều sử dụng pin Li-ion hoặc Li-po, do đó chúng sẽ không có hiệu ứng nhớ, điều này đồng nghĩa với việc bạn có thể sạc smartphone bất cứ lúc nào mà không cần phải chờ đến khi hết pin.
+Hạn chế các ứng dụng chạy nền.
+Để cập nhật thông tin theo thời gian thực, nhiều người thường cho phép ứng dụng hoạt động ở chế độ nền. Tuy nhiên, đây lại chính là nguyên nhân khiến smartphone nóng lên bởi các ứng dụng sẽ liên tục sử dụng WiFi, chiếm dụng CPU.
+Đối với các thiết bị iOS, bạn chỉ cần vào Settings (cài đặt) > General (cài đặt chung) > Background App Refresh, sau đó vô hiệu hóa bớt các ứng dụng ít truy cập.
+Nếu smartphone thường xuyên nóng lên bất thường thì nhiều khả năng nó đang bị quá tải, để khắc phục tình trạng trên, bạn hãy tạm thời tắt bớt các ứng dụng không cần thiết, sử dụng các phiên bản thu gọn (Lite) của Facebook, Messenger thay vì sử dụng bản chính chủ.
+Hy vọng với những mẹo nhỏ mà Kynguyenso.plo.vn vừa giới thiệu bên trên, bạn đọc có thể hạn chế tình trạng smartphone nóng lên bất thường.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+4 ứng dụng giúp smartphone an toàn hơn.
+(PLO)- Android luôn là miếng mồi béo bở đối với tội phạm mạng, chỉ tính riêng trong năm 2016 đã có hơn 1,85 tỉ smartphone sử dụng hệ điều hành Android.
+MINH HOÀNG.

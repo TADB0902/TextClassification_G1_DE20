@@ -1,0 +1,28 @@
+Sơ đồ tổng quan Hệ thống thông tin LRIT.
+Để đáp ứng yêu cầu của Công ước SOLAS-74 sửa đổi, bổ sung năm 2006 về việc thiết lập hệ thống nhận dạng và truy theo tầm xa (Hệ thống LRIT) của Tổ chức Hàng hải quốc tế (IMO) mà Việt Nam là thành viên, cũng như nâng cao hiệu quả trong công tác quản lý, giám sát vị trí của các tàu thuyền mang cờ quốc gia, phục vụ công tác quản lý chuyên ngành hàng hải, công tác an toàn hàng hải, an ninh hàng hải và hoạt động tìm kiếm, cứu nạn và phát triển kinh tế, bảo vệ môi trường biển, ngày 6/11/2014, Thủ tướng chính phủ đã ký Quyết định số 62/2014/QĐ-TTg về việc ban hành quy chế quản lý, khai thác, sử dụng thông tin nhận dạng và truy theo tầm xa của tàu thuyền.
+Hệ thống LRIT là gì?
+Với mục tiêu tăng cường công tác kiểm soát an ninh, các cơ quan quản lý nhà nước (QLNN) có thể sử dụng thông tin nhận dạng và truy theo hành trình của tàu thuyền do hệ thống LRIT cung cấp để đánh giá mức độ đe dọa đến an toàn an ninh và có biện pháp giảm thiểu sự nguy hiểm.
+Bên cạnh đó, hệ thống LRIT hỗ trợ cho công tác bảo đảm an toàn hàng hải, bảo vệ môi trường biển và tìm kiếm cứu nạn hàng hải. Thông tin về các tàu đang hoạt động trong vùng lân cận vị trí tàu bị nạn sẽ giúp các hoạt động phối hợp tìm kiếm cứu nạn được triển khai nhanh chóng và giảm thiểu ô nhiễm môi trường biển.
+Hệ thống LRIT cho phép người sử dụng làm gì?
+Hệ thống LRIT cho phép người sử dụng có thể giám sát hành trình của tàu thuyền qua giao diện web.
+Hệ thống LRIT có thể thu nhận thông tin LRIT của tàu thuyền sau:
+- Thông tin LRIT của các tàu thuyền mang cờ quốc tịch Việt Nam hoạt động tuyến quốc tế trong phạm vi các vùng biển trừ 02 vùng cực;
+- Thông tin LRIT của các tàu thuyền mang cờ quốc tịch nước ngoài hoạt động trong vùng thông tin nhận dạng và truy theo tầm xa của Việt Nam (trong phạm vi 1.000 hải lý tính từ đường cơ sở);
+- Thông tin LRIT thu nhận từ các tàu thuyền báo thông tin về mã nhận dạng, vị trí và thời gian xác định vị trí của tàu thuyền.
+Hệ thống LRIT hoạt động như thế nào?
+- Thông tin LRIT được phát tự động 6 tiếng/lần từ thiết bị LRIT lắp đặt trên tàu qua vệ tinh Inmarsat về Phân hệ cung cấp dịch vụ truyền thông (CSP). Thông tin sau đó tiếp tục được chuyển tới Phân hệ cung cấp dịch vụ ứng dụng (ASP) để chèn thêm một số thông tin cần thiết trước khi gửi tới Trung tâm dữ liệu LRIT quốc gia (NDC) để quản lý và lưu trữ. Người sử dụng được cấp tài khoản để có thể truy cập và khai thác hệ thống qua giao diện website.
+Các tàu nào phải lắp đặt thiết bị LRIT?
+Theo yêu cầu của Công ước SOLAS và Quyết định số 62/2014/QĐ-TTg quy định các loại tàu biển phải lắp đặt thiết bị LRIT, bao gồm:
+- Tàu chở khách, bao gồm cả tàu cao tốc chở khách, hoạt động trên tuyến quốc tế;
+- Tàu chở hàng, bao gồm cả tàu cao tốc chở hàng, có tổng dung tích từ 300 GT trở lên, hoạt động trên tuyến quốc tế;
+- Giàn khoan di động.
+Tàu biển chỉ hoạt động trong vùng biển A1 (cách bờ khoảng 30 hải lý) và đã được lắp đặt thiết bị nhận dạng tự động AIS có thể được miễn trừ lắp đặt thiết bị LRIT. Một số tàu thuyền khác có thể được lắp đặt thiết bị LRIT khi có yêu cầu.
+Các cơ quan, tổ chức, cá nhân có nhu cầu sử dụng thông tin LRIT phải làm gì?
+Cơ quan Nhà nước có thẩm quyền gửi văn bản đề nghị (theo mẫu) đến Cục Hàng hải Việt Nam để yêu cầu cấp tài khoản truy cập, sử dụng thông tin LRIT. (Mẫu đăng ký xem tại Phụ lục của Quyết định số 62/2014/QĐ-TTg).
+Chủ tàu thuyền Việt Nam gửi văn bản đề nghị đến Công ty TNHH MTV Thông tin Điện tử Hàng hải Việt Nam (Vishipel) để yêu cầu cung cấp thông tin LRIT liên quan đến an toàn hàng hải, an ninh hàng hải và hoạt động tìm kiếm, cứu nạn đối với tàu thuyền do mình sở hữu hoặc quản lý, khai thác.
+Người sử dụng thông tin LRIT phải làm gì?
+Người được cấp tài khoản sử dụng thông tin LRIT phải đảm bảo:
+- Sử dụng thông tin LRIT vào mục đích an toàn hàng hải, an ninh hàng hải, bảo vệ môi trường biển, hoạt động tìm kiếm cứu nạn và bảo mật thông tin theo quy định của pháp luật;
+- Tuân theo các quy định của Công ước SOLAS, quy định tại Quyết định số 62/2014/QĐ-TTg;
+- Người sử dụng trước khi truy cập vào Hệ thống LRIT phải được đào tạo, tập huấn về việc quản lý, khai thác, sử dụng thông tin LRIT.
+Vishipel.

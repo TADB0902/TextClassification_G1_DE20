@@ -1,0 +1,9 @@
+Câu đố như sau:
+Cóc muốn mua cho cua, hổ, gấu, 6 bạn ong, cáo và chính mình mỗi người một cái mũ để đi kiện trời.
+Ở gánh mũ có bán 12 cái với giá như sau:
+4 cái mũ rơm giá 7 xu mỗi cái.
+3 nón lá giá 5 xu mỗi cái.
+5 mũ cọ giá 6 xu mỗi cái.
+Hỏi cóc phải bỏ ra ít nhất bao nhiêu tiền (xu) để mua đủ mũ?
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

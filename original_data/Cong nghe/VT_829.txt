@@ -1,0 +1,11 @@
+Một trong số đó là khả năng lưu trữ các cuộc trò chuyện iMessage trong iCloud, cho phép nó giữ lại lịch sử trò chuyện của bạn trên bất kỳ thiết bị nào mà bạn đăng nhập sau đó, ngay cả sau một khoảng thời gian dài. Tùy chọn Messages trong iCloud có trên phiên bản iOS 11 beta nhưng bị loại bỏ vì lỗi và xuất hiện trở lại trong iOS 11.3.
+iOS 11.3 beta đã cho phép người dùng sao lưu tin nhắn iMessage lên đám mây.
+Với những người đã kích hoạt xác thực hai yếu tố và sao lưu iCloud, tính năng này sẽ bật theo mặc định; trong khi những người khác sẽ được nhắc nhở bật lên khi khởi động iMessage lần đầu sau khi cài đặt iOS 11.3 developer beta.
+Dưới đây là những gì bạn cần làm để việc đồng bộ hóa được thực hiện:
+- Tải xuống và cài đặt iOS 11.3 beta nếu bạn đã có một tài khoản nhà phát triển (99 USD/năm). Tuy nhiên hiện nay công ty cũng đã cung cấp phiên bản iOS 11.3 beta công khai cho những ai muốn trải nghiệm.
+- Sau khi khởi động lại hệ thống, hãy vào Settings > General > Software Update và chờ cho phiên bản iOS 11.3 beta xuất hiện (khoảng 2GB), tải về và cài đặt như một bản cập nhật OTA thường xuyên.
+- Với iPhone chạy iOS 11.3 beta, hãy truy cập vào Settings > Apple ID > iCloud và kích hoạt Messages.
+Chuyển nút bật/tắt bên Messages sang vị trí On để khai thác tính năng mới.
+- Nếu xác thực hai yếu tố chưa được thiết lập, Apple sẽ hướng dẫn bạn qua quy trình đó.
+- Bây giờ bạn có thể kích hoạt tính năng này trên máy Mac, và ngoài việc sao lưu lịch sử trò chuyện trong iCloud, bạn có thể tiết kiệm không gian lưu trữ trên iPhone vì Apple sẽ chuyển các tin nhắn cũ cũng như nội dung đa phương tiện và tập tin đính kèm vào đám mây. Do đó hãy đảm bảo bạn còn thừa bộ nhớ.
+Kiến Tường (Theo PhoneArena).

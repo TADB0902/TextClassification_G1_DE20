@@ -1,0 +1,18 @@
+Ảnh minh họa (BitcoinVietnam).
+Một số doanh nghiệp hoạt động trong lĩnh vực năng lượng và thương mại hàng hóa đã công bố những thử nghiệm thành công trong giai đoạn đầu của các dự án thương mại áp dụng công nghệ blockchain.
+Hôm qua, một liên minh bao gồm công ty nông nghiệp Louis Dreyfus, công ty Shandong Bohi Industry, 3 ngân hàng ING, Societe Generale và ABN Amro tuyên bố đã thực hiện thành công một giao dịch đậu tương giữa Mỹ và Trung Quốc và đây là giao dịch hàng hóa nông nghiệp đầu tiên sử dụng nền tảng blockchain.
+Liên minh nói trên cho biết các giao dịch đã được thực thành công nhờ nền tảng blockchain Easy Trading Connect (ETC) do 3 ngân hàng trên phát triển. ETC được áp dụng vào việc số hóa các hợp đồng mua bán và thư tín dụng. Công nghệ này đã giúp rút ngắn thời gian xử lý tài liệu xuống còn một phần năm lần.
+Cũng trong ngày hôm qua (22/1), công ty blockchain BTL liên doanh của Canada  Anh cho biết một số doanh nghiệp năng lượng của châu Âu bao gồm Eni Trading & Shipping, Total, Gazprom Marketing & Trading, Mercuria, Vattenfall, Petroineos, và Freepoint đang thử nghiệm công nghệ blockchain của BTL để giải quyết các nghiệp vụ kinh doanh.
+Mặc dù cả hai dự án vẫn ở trong giai đoạn đầu thí điểm, nhưng chúng cho thấy sự quan tâm của các doanh nghiệp đến công nghệ blockchain, và các tiến trình đang được xây dựng để đưa blockchain vào các giao dịch thương mại chính yếu.
+Công ty BTL trước đây đã thí điểm áp dụng công nghệ blockchain của mình cho các dự án kinh doanh khí đốt của BP với các đối tác.
+Giải thích ngắn về blockchain.
+Ảnh minh họa (Seat2meet Magazine).
+Blockchain là một công nghệ cho phép truyền tải dữ liệu một cách an toàn dựa vào hệ thống mã hóa vô cùng phức tạp, tương tự cuốn sổ cái kế toán của một công ty nơi tiền mặt được giám sát chặt chẽ.
+Công nghệ blockchain ban đầu được phát triển để hoạt động độc lập mà không cần đến sự lãnh đạo của một ngân hàng trung ương. Và nó chỉ dành cho Bitcoin. Nhưng blockchain có các ứng dụng gần như vô tận cho các ngành công nghiệp khác.
+Các ngân hàng và doanh nghiệp kinh doanh đặc biệt quan tâm đến việc sử dụng blockchain vì tính bảo mật và tin cậy của công nghệ này. Nó có thể giúp họ loại bỏ các khâu trung gian trong các quy trình thanh toán và thanh toán bù trừ, giúp họ cắt giảm chi phí. Một báo cáo được phát hành năm 2015 đã ước tính rằng blockchain có thể giúp các ngân hàng tiết kiệm 20 tỷ USD.
+Blockchain là công nghệ thương mại đầy hứa hẹn.
+Bà Gonzalo Ramírez Martiarena, Giám đốc điều hành của Công ty Louis Dreyfus, nhận xét: Các công nghệ phân loại đã phát triển nhanh chóng, mang lại hiệu quả và sự an toàn cho các giao dịch của chúng tôi, cũng như đáp ứng được những lợi ích của khách hàng và các bên trong chuỗi cung ứng.
+Bà Catherine Newman, Phó Chủ tịch mảng CNTT và Phân phối của hãng Total cho biết mặc dù việc áp dụng blockchain mới chỉ ở giai đoạn đầu nhưng nó cho thấy một triển vọng rất sáng sủa.
+Còn ông Philippe Chauvain, Phó Chủ tịch mảng Kiểm soát rủi ro của Total, nhận định: Hiện tại, chúng ta đã nghe nói về blockchain và cách công nghệ này tham gia vào các quy trình kinh doanh. Nếu thành công, việc áp dụng blockchain có thể giúp chúng ta cắt giảm những nguy cơ sai sót do con người và tăng tốc độ quá trình đối chiếu các giao dịch với đối tác.
+Trong khi những thí điểm áp dụng công nghệ của BTL và các công ty thương mại khác đã cho thấy sự ưu việt, nhưng chúng ta vẫn còn một chặng đường dài để phấn đấu cho đến khi blockchain trở thành một công cụ giao dịch chính.
+Đăng Khoa.

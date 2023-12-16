@@ -1,0 +1,11 @@
+Ngày 26/1, sàn giao dịch tiền số Coincheck, Nhật Bản vừa bị tin tặc đánh cắp hơn 400 triệu USD.
+Sau đó, công ty có trụ sở tại Tokyo cho biết sẽ dùng tiền vốn để trả lại tiền cho tất cả 260.000 khách hàng bị ảnh hưởng bởi vụ đánh cắp đồng NEM trên sàn Coincheck.
+Theo thông báo đăng trên website của sàn giao dịch, tổng cộng 523 triệu đồng NEM đã bị tin tặc đánh cắp. Coincheck sẽ hoàn trả cho nhà đầu tư với mức giá 88,549 yên (82 cent USD) cho một đồng NEM.
+"Thời gian hoàn trả và quy trình áp dụng đang trong quá trình cân nhắc, số tiền dùng để hoàn trả được lấy từ chính nguồn vốn của chúng tôi", Coincheck cho biết.
+Hiện vẫn chưa rõ những đồng tiền số của Coincheck bị chuyển trái phép như thế nào và tài sản của các nhà đầu tư được đảm bảo ra sao.
+Theo một số phỏng đoán, có thể các hacker đã đánh cắp được mã bảo mật của ví nóng chứa NEM, từ đó chuyển toàn bộ số tiền ảo này sang các ví cá nhân nặc danh.
+Ngay sau khi bị rò rỉ tiền ảo, sàn Coincheck đã dừng mọi hoạt động rút tiền khỏi sàn để tránh thiệt hại thêm.
+NEM hiện là đồng tiền số lớn thứ 10 trên thế giới về giá trị thị trường. Vụ đánh cắp đồng NEM được coi là một trong những vụ mất trộm tài sản nhà đầu tư lớn nhất kể từ khi đồng tiền số Bitcoin ra đời vào năm 2009.
+Nhật Bản là một trong những thị trường tiền ảo lớn nhất thế giới. Các nhà hoạch định chính sách nước này đã đưa ra một hệ thống cấp phép để tăng cường kiểm soát các sàn trong nước, nhằm tránh lặp lại sự kiện năm 2014  khi sàn Mt.Gox sụp đổ gây lao đao thị trường tiền ảo thế giới.
+Sự cố bị hacker đánh cắp không phải là chuyện mới trong thị trường tiền số, tuy nhiên hầu hết các sàn giao dịch, chợ giao dịch chỉ xin lỗi mà không có hành động hoàn trả tiền cho nhà đầu tư. Nếu Coincheck hoàn trả tiền cho nhà đầu tư đúng như lời hứa, đây không phải là sàn giao dịch đầu tiên làm điều này. Tháng 8/2016, sàn giao dịch Bitfinex đã bị đánh cắp 69 triệu USD và đã hoàn trả cho nhà đầu tư vào tháng 5/2017. Tuy nhiên, 400 triệu USD là một con số lớn hơn nhiều.
+Hoàng Dung (t/h).

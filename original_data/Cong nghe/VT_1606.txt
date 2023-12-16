@@ -1,0 +1,9 @@
+Ảnh chỉ có tính minh họa. (Nguồn: ibtimes.com).
+Trong một thông báo mới đây của đại diện Kaspersky Lab tại Việt Nam, hãng bảo mật này cho biết có tới 51% người dùng lưu trữ mật khẩu thiếu an toàn và 23% trong số đó viết mật khẩu trong một mục ghi chú để ghi nhớ và điều này rất dễ đem đến những nguy cơ về mất an toàn thông tin.
+Nghiên cứu của Kaspersky Lab chỉ ra rằng, nhiều người dùng đã hiểu được sự cần thiết của mật khẩu mạnh cho tài khoản. Khi được hỏi về ba tài khoản trực tuyến nào yêu cầu mật khẩu mạnh nhất, 63% người dùng lựa chọn tài khoản ngân hàng trực tuyến, 42% chọn ứng dụng thanh toán bao gồm ví điện tử và 41% chọn mua sắm trực tuyến.
+Tuy nhiên, khó khăn trong việc ghi nhớ tất cả các mật khẩu mạnh này dẫn đến việc người dùng có thể bị khóa tài khoản (khi quên mật khẩu). Có tới 38% người dùng không thể nhanh chóng khôi phục mật khẩu vào tài khoản cá nhân trực tuyến sau khi mất mật khẩu.
+Để tránh việc phải khổ sở nhớ những mật khẩu dài, người dùng có xu xướng tạo ra những thói quen thiếu an toàn. Ví dụ, 10% sử dụng một mật khẩu cho tất cả các tài khoản để có thể dễ dàng online. Tuy nhiên, nếu hacker lấy được một mật khẩu thì cũng có nghĩa sẽ truy cập được vào nhiều tài khoản khác.
+Ngoài ra, khảo sát của Kaspersky Lab cũng chỉ ra rằng, 17% người được khảo sát phải đối mặt với nguy cơ hoặc đã có một tài khoản trực tuyến bị tấn công trong 12 tháng qua. E-mail là tài khoản được nhắm mục tiêu nhiều nhất (41%), tiếp theo là mạng xã hội (37%), tài khoản ngân hàng (18%) và tài khoản mua sắm (18%).
+(Tỷ lệ các tài khoản bị hacker "để ý" theo khảo sát của Kaspersky).
+Do đó, hãng bảo mật này đã phát triển công cụ Kaspersky Password Manager để lưu tất cả mật khẩu của người dùng vào kho an toàn. Theo đó, người dùng chỉ cần nhớ một mật khẩu chính để truy cập vào tất cả các tài khoản. Cùng lúc, thông qua tài khoản My Kaspersky miễn phí, người dùng có thể truy cập mật khẩu của họ qua bất kỳ thiết bị nào./.
+Yên Thủy (Vietnam+).

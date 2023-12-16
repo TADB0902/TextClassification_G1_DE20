@@ -1,0 +1,242 @@
+TT.
+Mã trường.
+Mã ngành.
+Tên ngành.
+Điểm trúng tuyển theo ngành.
+Ghi chú.
+I. Trường Đại học Công nghệ, ĐHQGHN.
+Nhóm ngành Công nghệ thông tin và.
+Công nghệ kỹ thuật điện, điện tử và viễn thông.
+(điểm chuẩn theo nhóm ngành là 26).
+QHI.
+Khoa học Máy tính.
+QHI.
+Công nghệ Thông tin.
+QHI.
+52480201 (Nhật Bản).
+Công nghệ Thông tin định hướng thị trường Nhật Bản.
+QHI.
+Hệ thống Thông tin.
+QHI.
+Truyền thông và Mạng máy tính.
+QHI.
+Công nghệ kỹ thuật điện tử, truyền thông.
+QHI.
+Kỹ thuật máy tính.
+Nhóm ngành Vật lí kĩ thuật.
+(điểm chuẩn theo nhóm ngành là 19).
+QHI.
+QHI.TĐ1.
+Kỹ thuật năng lượng.
+QHI.
+Vật lí kỹ thuật.
+Nhóm ngành Công nghệ kĩ thuật cơ điện tử và Cơ kĩ thuật.
+(điểm chuẩn theo nhóm ngành là 23,5 điểm).
+QHI.
+Cơ kỹ thuật.
+QHI.
+Công nghệ kỹ thuật cơ điện tử.
+QHI.
+QHI.TĐ2.
+Công nghệ kỹ thuật Xây dựng-Giao thông.
+Các CTĐT chất lượng cao đáp ứng Thông tư 23/2014.
+QHI.
+52480101 CLC.
+Khoa học Máy tính (CLC TT23).
+QHI.
+52510302 CLC.
+Công nghệ kỹ thuật điện tử, truyền thông (CLC TT23).
+II. TRƯỜNG ĐẠI HỌC KHOA HỌC TỰ NHIÊN.
+QHT.
+Toán học.
+QHT.
+Thí điểm.
+Toán  Tin ứng dụng.
+QHT.
+Toán cơ.
+QHT.
+Máy tính và khoa học thông tin.
+QHT.
+Vật lí học.
+QHT.
+Khoa học vật liệu.
+QHT.
+Công nghệ hạt nhân.
+QHT.
+Khí tượng học.
+QHT.
+Thủy văn.
+QHT.
+Hải dương học.
+QHT.
+Hóa học.
+QHT.
+Công nghệ kỹ thuật hóa học.
+QHT.
+Hóa dược.
+QHT.
+52510401 CLC.
+Công nghệ kỹ thuật hóa học (CTĐT CLC TT23).
+QHT.
+Địa lí tự nhiên.
+QHT.
+Quản lý đất đai.
+QHT.
+Địa chất học.
+QHT.
+Kỹ thuật địa chất.
+QHT.
+Quản lý tài nguyên và môi trường.
+QHT.
+Sinh học.
+QHT.
+Công nghệ sinh học.
+QHT.
+52420201 CLC.
+Công nghệ sinh học(CTĐT CLC TT23).
+QHT.
+Khoa học môi trường.
+QHT.
+Khoa học đất.
+QHT.
+Công nghệ kỹ thuật môi trường.
+III. TRƯỜNG ĐH KHOA HỌC XÃ HỘI VÀ NHÂN VĂN.
+QHX.
+Báo chí.
+QHX.
+Chính trị học.
+QHX.
+Công tác xã hội.
+QHX.
+Đông phương học.
+QHX.
+Hán Nôm.
+QHX.
+Khoa học quản lí.
+QHX.
+Khoa học thư viện.
+QHX.
+Lịch sử.
+QHX.
+Lưu trữ học.
+QHX.
+Ngôn ngữ học.
+QHX.
+Nhân học.
+QHX.
+Quan hệ công chúng.
+QHX.
+Quản trị dịch vụ du lịch và lữ hành.
+QHX.
+Quản trị khách sạn.
+QHX.
+Quản trị văn phòng.
+QHX.
+Quốc tế học.
+QHX.
+Tâm lí học.
+QHX.
+Thông tin học.
+QHX.
+Thí điểm (52220309).
+Tôn giáo học.
+QHX.
+Triết học.
+QHX.
+Văn học.
+QHX.
+Việt Nam học.
+QHX.
+Xã hội học.
+IV. TRƯỜNG ĐẠI HỌC NGOẠI NGỮ, ĐHQGHN.
+QHF.
+Ngôn ngữ Anh.
+Nhân hệ số 2 môn ngoại ngữ.
+QHF.
+Sư phạm tiếng Anh.
+QHF.
+Ngôn ngữ Nga.
+QHF.
+Sư phạm tiếng Nga.
+QHF.
+Ngôn ngữ Pháp.
+QHF.
+Sư phạm tiếng Pháp.
+QHF.
+Ngôn ngữ Trung.
+QHF.
+Sư phạm tiếng Trung.
+QHF.
+Ngôn ngữ Đức.
+QHF.
+Ngôn ngữ Nhật.
+QHF.
+Sư phạm tiếng Nhật.
+QHF.
+Ngôn ngữHàn Quốc.
+QHF.
+Sư phạm tiếng Hàn Quốc.
+QHF.
+Ngôn ngữ Ả Rập.
+V. TRƯỜNG ĐẠI HỌC KINH TẾ, ĐHQGHN.
+QHE.
+Kinh tế.
+QHE.
+Kinh tế phát triển.
+QHE.
+Kinh tế quốc tế.
+QHE.
+Quản trị kinh doanh.
+QHE.
+Tài chính - Ngân hàng.
+QHE.
+Kế toán.
+QHE.
+52310106 CLC.
+Kinh tế quốc tế (CLC TT23).
+QHE.
+52340101 CLC.
+Quản trị kinh doanh (CLC TT23).
+QHE.
+52340201 CLC.
+Tài chính - Ngân hàng (CLC TT23).
+VI. TRƯỜNG ĐẠI HỌC GIÁO DỤC, ĐHQGHN.
+QHS.
+Sư phạm Toán.
+Nhân hệ số 2 môn Toán.
+QHS.
+Sư phạm Vật lý.
+Nhân hệ số 2 môn Vật lý.
+QHS.
+Sư phạm Hóa học.
+Nhân hệ số 2 môn Hóa học.
+QHS.
+Sư phạm Sinh học.
+Nhân hệ số 2 môn Sinh học.
+QHS.
+Sư phạm Ngữ văn.
+Nhân hệ số 2 môn Ngữ văn.
+QHS.
+Sư phạm Lịch sử.
+Nhân hệ số 2 môn Lịch sử.
+VII. KHOA LUẬT, ĐHQGHN.
+QHL.
+Luật học.
+QHL.
+Luật Kinh doanh.
+VIII. KHOA Y DƯỢC, ĐHQGHN.
+QHY.
+Y đa khoa.
+QHY.
+Dược học.
+QHY.
+52720601CLC.
+Răng hàm mặt.
+Tiếng Anh đạt tối thiểu 4/10 điểm.
+IX. KHOA QUỐC TẾ, ĐHQGHN.
+QHQ.
+Kinh doanh quốc tế (đào tạo bằng tiếng Anh).
+QHQ.
+Kế toán, Phân tích và Kiểm toán (đào tạo bằng tiếng Anh).
+QHQ.
+Hệ thống thông tin quản lí (đào tạo bằng tiếng Anh).

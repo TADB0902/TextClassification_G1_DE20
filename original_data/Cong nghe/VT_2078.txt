@@ -1,0 +1,22 @@
+Ảnh minh họa: Cnet.
+Ngành Công nghệ thường không hoài niệm quá khứ mà là nơi tôn vinh những giá trị sáng tạo. Đó là điều mà CEO Microsoft , ông Satya Nadella tổng kết trong thư gửi nhân viên trong ngày đầu nắm giữ cương vị. Và dưới đây là những con số cập nhật tới hết 6 tháng đầu năm của 2017.
+Windows 10 hiện đang được kích hoạt và chạy trên hơn 500 triệu thiết bị hàng tháng, trải dài trên hầu hết các quốc gia khắp toàn cầu, với chỉ số hài lòng của khách hàng ở mức tích cực (theo báo cáo tại hội nghị Build 2017).
+Mỗi tháng, hơn 3800 chủng loại thiết bị khác nhau kích hoạt Windows 10.
+Thiết bị Windows 10 là sự lựa chọn của các giáo viên và lãnh đạo khối giáo dục khối Phổ thông và Tiểu học toàn cầu. Con số này gia tăng 2 lần so với năm 2016 cùng kỳ.
+Bản MineCraft cho khối giáo dục đã được cải tiến vượt trội nhờ sự phản hồi của 150 ngàn học sinh, sinh viên và các thầy cô từ hơn 100 quốc gia khắp thế giới. 122 triệu bản MineCraft đã được bán ra chỉ trong tháng 6/2017 với lượng người chơi mỗi tháng là hơn 55 triệu.
+Ứng dụng Paint 3D được giới thiệu với những tính năng mới về vẽ và chỉnh sửa hình vượt trội so với công cụ MS Paint truyền thống.
+Microsoft Edge hiện nay nhanh hơn và giúp cải thiện pin rõ rệt. Người dùng laptop và các thiết bị Windows sẽ được xóa bỏ lo lắng khi đang làm việc hoặc giải trí bên ngoài.
+Skype Translator - ứng dụng dịch thuật trực tuyến giúp phá vỡ rào cản ngôn ngữ bằng cách hỗ trợ người dùng kết nối trực tuyến. Hiện nay riêng về ngôn ngữ hội thoại (voice), Skype Translator đã dịch trực tuyến 9 ngoại ngữ. Nếu ở dạng tin nhắn text, công cụ Skype Translator hỗ trợ 50 ngôn ngữ khác nhau.
+Chuyển Video thành ngôn ngữ: Hiện nay thế giới có khoảng 246 triệu người mỗi ngày bị đối mặt với khó khăn thị giác. Để giải quyết các thách thức cơ bản về tầm nhìn và thị giác, Microsoft đã giới thiệu công nghệ Recurrent Neural Networks (RNNs). Công nghệ RNNs có thể mô tả nội dung video bằng những mệnh đề hoàn chỉnh và tự nhiên.
+Microsoft Office đã được tải về 340 triệu lần trên các thiết bị iPhone, iPad và Android.
+Hơn 1.2 tỉ người đang sử dụng Microsoft Office tại 140 quốc gia và 107 ngôn ngữ khắp thế giới.
+80% các Doanh nghiệp thuộc danh sách Fortune 500 (500 Doanh nghiệp hàng đầu toàn cầu theo đánh giá của Fortune) đang sử dụng giải pháp đám mây của Microsoft.
+40% doanh thu Azure là từ đóng góp của các Startup và các đơn vị xây dựng phần mềm.
+Nhà thám hiểm Stephen Alvarez của kênh #NatGeo (National Geographic) đã ghi lại hình ảnh toàn bộ 7 kỳ quan thế giới bằng thiết bị Windows Phone.
+Thiết bị cộng tác Microsoft Surface Hub được tích hợp khả năng hiển thị 100 điểm chạm cảm ứng và 3 bút viết đồng bộ.
+Mỗi ngày Microsoft đang tài trợ 2.6 triệu đô la Mỹ bằng phần mềm cho hơn 86 ngàn tổ chức NGOs khắp thế giới.
+Người Microsoft đã tài trợ hơn 1 tỉ đô cho hơn 31 ngàn hoạt động từ thiện.
+Chương trình Microsoft YouthSpark đã giúp đỡ và tạo nghề nghiệp, hỗ trợ tìm việc làm cho hơn 307.5 triệu thanh thiếu niên tại 100 quốc gia trên toàn cầu.
+5 nhà nghiên cứu của Microsoft là Leslie Lamport, Chuck Thacker, Jim Gray, Butler Lampson và Tony Hoare đã dành được giải A.M. Turing Award, giải thưởng tương đương Nobel của ngành Khoa học máy tính , tôn vinh những các nhân có cống hiến đặc biệt quan trọng cho điện toán máy tính.
+Microsoft đã giúp đỡ khôi phục và làm sạch hơn 10 triệu máy tính nhiễm mã độc, đồng thời hợp tác cùng đối tác để vô hiệu các mã độc của các tổ chức gian lận tài chính, quảng cáo và tiêu dùng.
+Anh Lê -.

@@ -1,0 +1,47 @@
+Ùn tắc và đối sách.
+Theo thống kê mới nhất của Công an TP Hà Nội, Thủ đô hiện có khoảng 5,2 triệu xe máy, 500 nghìn xe ô-tô các loại, hơn 1,2 triệu xe đạp, hơn 11 nghìn xe đạp điện, xe máy điện. Tốc độ tăng trưởng số lượng phương tiện bình quân giai đoạn 2011-2016 là 10,2% đối với ô-tô và 6,7% đối với xe máy.
+Biểu đồ tăng trưởng xe máy, ô-tô của TP Hà Nội. (Nguồn Sở GTVT Hà Nội).
+Với số lượng phương tiện kể trên, số lượng điểm ùn tắc giao thông trong năm 2016 là 41 điểm và có nhiều diễn biến phức tạp. Trước thực trạng đó, TP Hà Nội đã có nhiều nỗ lực nhằm giảm ùn tắc giao thông, trong đó chú trọng vào sáu nhóm giải pháp đồng bộ gồm: (1) Tiếp tục phát triển kết cấu hạ tầng theo quy hoạch, kế hoạch của TP Hà Nội; (2) Phát triển và nâng cao chất lượng vận tải hành khách công cộng; (3) Tăng cường quản lý phương tiện giao thông đường bộ nhằm giảm ùn tắc giao thông và ô nhiễm môi trường; (4) Phát triển đô thị theo định hướng phát triển giao thông công cộng; (5) Ứng dụng công nghệ thông tin trong quản lý và điều hành giao thông; (6) Tăng cường công tác giáo dục tuyên truyền, phổ biến nâng cao ý thức người dân trong việc chấp hành luật và xây dựng văn hóa giao thông.
+Có thể nhận thấy trong sáu nhóm giải pháp kể trên, Hà Nội đang đặt quyết tâm vào các nhóm giải pháp giao thông công cộng (hai trên tổng số sáu nhóm giải pháp). Các nhóm giải pháp này được xem là những nhóm giải pháp song hành quan trọng, mang tính đòn bẩy đối với một nhóm giải pháp khác cũng không kém phần quan trọng là nhóm giải pháp tăng cường quản lý phương tiện giao thông đường bộ, nhằm giảm ùn tắc giao thông và ô nhiễm môi trường (thường được biết đến như là nhóm giải pháp làm giảm nhu cầu và số lượng phương tiện cá nhân trong thành phố).
+Như vậy, câu hỏi đặt ra cho các nhà quản lý giao thông Hà Nội lúc này là, làm thế nào để có thể biến những định hướng, giải pháp trên thành những lộ trình thực hiện một cách cụ thể, bảo đảm tính hiệu quả, khả thi cao, đạt được tốt nhất những mong muốn của TP Hà Nội. Điều này có thể thực hiện được thông qua (1) Xác định một cách đúng đắn vai trò của giao thông công cộng trong chính sách giảm phương tiện cá nhân và (2) Bảo đảm tốt trật tự trước sau trong triển khai các chính sách giao thông công cộng và chính sách giảm phương tiện cá nhân.
+Vai trò của giao thông công cộng trong chính sách giảm phương tiện cá nhân.
+Để có thể xác định và đánh giá được vai trò của giao thông công cộng, một điều quan trọng là phải phân biệt được đâu là giao thông công cộng, đâu là giao thông cá nhân. Có nhiều cách phân loại khác nhau, một trong những cách phân loại phổ biến đó là cách phân loại thực hiện bởi Vuchic (2005), trong đó phân biệt rõ ràng giữa các loại hình phương tiện cá nhân, bán công cộng (para-transit) và công cộng (transit).
+Phân loại các loại hình phương tiện trong đô thị (Vuchic, 2005).
+Loại hình phương tiện.
+Cá nhân.
+Bán công cộng (para-transit).
+Công cộng (transit).
+Tên phương tiện.
+Đi bộ.
+Xe đạp.
+Xe máy.
+Ô-tô cá nhân.
+Đi chung xe ô-tô (car/van-pools).
+Xe ô-tô con/xe buýt chạy theo hợp đồng.
+Xe taxi/ xe ôm.
+Xe xích lô/xe kéo (chở người).
+- Công cộng thông thường (street-transit): Xe buýt; Xe điện.
+- Công cộng bán cao tốc (semi-rapid): Xe buýt nhanh; đường sắt đô thị hạng nhẹ.
+- Cộng cộng cao tốc (rapid-transit): Đường sắt đô thị; Tàu điện ngầm.
+Đặc điểm khu vực phục vụ.
+Mật độ dân số thấp đến trung bình.
+Mật độ dân số thấp đến trung bình.
+Mật độ dân số trung bình đến cao.
+Lộ trình/tuyến.
+Phân tán, không cố định.
+Phân tán, không cố định.
+Tập trung, theo tuyến cố định.
+Loại hình dịch vụ vận tải bán công cộng (para-transit) được phát triển chủ yếu dựa theo nhu cầu giữa người cung cấp và người sử dụng dịch vụ. Theo đó, loại hình dịch vụ này không có một lộ trình cũng như một lịch trình phục vụ cố định. Dịch vụ vận tải bán công cộng có thể được xem như là một lựa chọn linh động, đáp ứng theo yêu cầu của người sử dụng. Điển hình cho loại hình này là các loại xe buýt cỡ vừa và nhỏ (thí dụ, dịch vụ xe buýt đưa đón học sinh trong thành phố). Với các đặc tính kể trên của mình, loại hình dịch vụ vận tải bán công cộng được xem như một loại hình chuyển giao, đóng vai trò quan trọng trong việc chuyển xu hướng sử dụng phương tiện cá nhân sang phương tiện công cộng, bởi lẽ nó cho phép tích hợp giữa điểm mạnh của phương tiện cá nhân (linh động, thuận tiện) với điểm mạnh của giao thông công cộng (giảm ùn tắc giao thông, thân thiện môi trường).
+Giao thông công cộng với ưu điểm vốn có của nó đã được nhận định rộng rãi trên thế giới là loại hình vận tải không thể không hướng đến của các thành phố hiện đại. Phát triển giao thông công cộng được nhìn nhận là một cấu phần không thể tách rời trong các chính sách giảm phương tiện cá nhân ở hầu hết các thành phố trên thế giới. Lý do cơ bản cho tầm quan trọng của phát triển giao thông công cộng trong chính sách giảm phương tiện cá nhân là nhu cầu đi lại không thể và không nên hạn chế (nhu cầu đi lại tăng, phản ánh mức độ phát triển tăng của một thành phố), và vì thế, việc giảm đi lại bằng phương tiện cá nhân phải được bù đắp nhiều hơn bằng chất lượng dịch vụ và lựa chọn đa dạng của loại hình giao thông công cộng.
+Một số khuyến nghị cho Hà Nội.
+Giao thông công cộng Hà Nội trong giai đoạn ngắn hạn và trung hạn (2017 - 2025), khi mà các tuyến đường sắt đô thị đang được triển khai chưa thể đưa vào vận hành, phụ thuộc rất lớn vào hệ thống xe buýt sẵn có. Vì thế sự phát triển đúng đắn của hệ thống xe buýt được xem như chìa khóa thành công của chính sách giảm phương tiện cá nhân. Để làm được điều này, Hà Nội cần lưu ý một số điểm sau:
+Thứ nhất , việc phát triển hệ thống giao thông công cộng nên được ưu tiên phát triển, đi trước một bước đối với các thời hạn triển khai dừng hoạt động của các phương tiện giao thông cá nhân. Điều này có nghĩa, nếu như hệ thống giao thông công cộng chưa đáp ứng được để lựa chọn thay thế cho phương tiện cá nhân, thì việc triển khai dừng hoạt động đối với các phương tiện giao thông cá nhân rất khó khả thi. Chính vì vậy, trong giai đoạn 2017-2025, Hà Nội cần tập trung vào việc quy hoạch lại các tuyến xe buýt trong các khu vực dự kiến triển khai hạn chế phương tiện cá nhân.
+Thứ hai , chính sách hạn chế phương tiện cá nhân nên được triển khai trên cơ sở nền tảng là lựa chọn của người dân, không nên là một chính sách mang nặng tính cưỡng chế. Để làm được điều này, hệ thống giao thông công cộng trong các khu vực thực hiện dừng hoạt động các phương tiện giao thông cá nhân phải là một lựa chọn hợp lý cho người dân, có tính cạnh tranh với việc sử dụng các phương tiện cá nhân.
+Cụ thể, Hà Nội cần thực hiện sự kết nối tốt giữa hệ thống đường sắt đô thị và hệ thống xe buýt theo hướng hệ thống xe buýt đóng vai trò là hệ thống kết nối, gom hành khách cho hệ thống đường sắt đô thị. Quy hoạch và dịch vụ của hệ thống giao thông công cộng nên được xem xét theo góc độ của người sử dụng, cụ thể là giao thông công cộng cần được phát triển theo hướng đáp ứng nhu cầu đi lại từ cửa tới cửa của người dân. Theo đó, trước mắt Hà Nội cần tập trung vào (1) Đánh giá lại nhu cầu sử dụng của người dân và (2) Bổ sung các loại hình dịch vụ xe buýt cỡ nhỏ nhằm thích ứng với các điều kiện về đường xá chật hẹp của Hà Nội.
+Thứ ba , Hà Nội cần nhìn nhận một cách rõ ràng tầm quan trọng của loại hình giao thông bán công cộng. Các loại hình giao thông bán công cộng đóng một vai trò rất quan trọng trong việc triển khai thực hiện kết nối từ cửa tới cửa. Cụ thể, các loại hình giao thông bán công cộng (thí dụ, xe taxi/xe ôm) được nhìn nhận và phát triển theo hướng cung cấp dịch vụ từ các điểm giao thông trung chuyển, đầu mối giao thông công cộng đến điểm đến cuối cùng của người sử dụng. Loại hình này càng trở nên quan trọng đối với các khu vực không thể triển khai dịch vụ xe buýt do điều kiện về hạ tầng. Và vì vậy, giao thông bán công cộng cũng cần được coi như là một phần trong trách nhiệm quản lý và phát triển của giao thông công cộng Hà Nội.
+Phát triển thành công chính sách hạn chế giao thông cá nhân là một bài toán không dễ đối với bất kỳ thành phố nào trên thế giới, Hà Nội cũng không ngoại lệ. Các bài toán về phát triển giao thông công cộng không thể thiếu trong chính sách hạn chế giao thông cá nhân; chúng không giống nhau giữa các thành phố trên thế giới, do sự khác nhau về hạ tầng và hành vi đi lại của người dân. Tuy nhiên, một điểm chung rất quan trọng là mọi chính sách cần phải xem xét trên góc độ lợi ích của người dân. Điều này bảo đảm sự thành công bền vững của Hà Nội trong phát triển giao thông.
+Lộ trình/tuyến.
+Phân tán, không cố định.
+Phân tán, không cố định.
+Tập trung, theo tuyến cố định.
+TS NGUYỄN HOÀNG TÙNG.

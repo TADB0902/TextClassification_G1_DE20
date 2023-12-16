@@ -1,0 +1,19 @@
+Trí tuệ nhân tạo sẽ mang đến nhiều lợi ích trong cuộc sống - Ảnh: AFP.
+Cải thiện ngôn ngữ.
+Mặc dù có những cải tiến rất lớn trong vài năm qua nhưng việc hiểu ngôn ngữ vẫn khá khó khăn. Trong quá khứ, AI có thể hiểu các lệnh khác biệt với lời nói lẫn giọng điệu. Việc chatbot đóng vai trò nổi bật trong trải nghiệm khách hàng, công nghệ này cần cải thiện khả năng hơn nữa. Chatbot cần phải nhận ra những điều tinh tế trong bài phát biểu của con người.
+Những gã khổng lồ như Google đang đầu tư thêm thời gian và nguồn lực vào công nghệ. Năm 2018 có thể là năm chúng ta thấy AI gần gũi với ngôn ngữ con người, có thể thích nghi và hiểu được những sắc thái trong giai điệu đàm thoại.
+Thể hiện tình cảm.
+Sau những sự phức tạp về ngôn ngữ người, AI cũng cần cải thiện khả năng nhận ra cảm xúc. Với tất cả những điều AI có thể làm, thấu hiểu về cảm xúc không phải là cái gì nó có thể học hỏi thành công. Vì vậy, hoàn thiện kỹ thuật này sẽ đóng vai trò lớn trong bất kỳ tương tác trực tiếp nào giữa AI và con người. Nếu AI có thể xác định được khi ai đó buồn, tức giận hoặc vui vẻ, việc thích ứng cách suy nghĩ để giải quyết vấn đề sẽ xảy ra.
+Nhận diện hình ảnh.
+Hiểu được cảm nhận con người sẽ là một trong những điều AI cải thiện năm nay - Ảnh: AFP.
+84% thông tin liên lạc trên internet sẽ dựa vào thị giác máy tính vào cuối năm nay. Vì vậy, tầm quan trọng của nhận diện hình ảnh là rõ ràng. Nó sẽ giúp việc tìm kiếm nội dung dựa vào hình ảnh họ muốn dễ dàng hơn nhờ dựa vào các thuật toán máy học để phân tích các tính năng trên hình ảnh.
+Điều này cho phép mọi người tìm thấy nội dung họ đang tìm kiếm trong thời gian nhanh nhất có thể. Một hệ thống AI sẽ hiểu không chỉ những gì cần phải có trên hình ảnh mà còn cả ý nghĩa của cảnh và phong cách hình ảnh. Các thuật toán riêng cho phân tích dữ liệu như SVM, Xgboost hay mạng nơ-ron TensorFlow, Caffe, Torche được cho là có thể giải quyết vấn đề.
+Tự động hóa tiếp thị.
+Bộ phận tiếp thị có lẽ là một trong những điểm nhấn lớn nhất của AI. Các thuật toán thông minh mang đến cho họ khả năng cá nhân hóa các chiến dịch tiếp thị và tạo ra mối quan hệ tốt hơn với khách hàng của họ.
+55% các nhà tiếp thị chắc chắn AI sẽ có tác động lớn hơn vào tiếp thị truyền thông xã hội hiện có. Đó là con số khá tốt, điều này giúp mức độ cá nhân hóa được tăng lên. Các AI có thể cung cấp nội dung cá nhân hóa cho từng khách hàng, cho phép các thương hiệu hiểu được cách thức và thời điểm khách hàng liên hệ với họ về sản phẩm.
+AI sẽ giúp nâng cao khả năng tiếp thị sản phẩm cho các doanh nghiệp - Ảnh: AFP.
+Nâng cao khả năng sáng tạo.
+Sáng tạo được xem như là một trong những thứ không thể chạm tới từ AI do sự phức tạp trong tâm hồn của con người. Tuy nhiên, với sự cải tiến về ngôn ngữ AI cũng như nhận dạng cảm xúc, điều này có thể được giải quyết.
+Các tiến bộ trong sự hiểu biết của AI về những gì nó cần để tiếp tục cải thiện vào năm 2018, trong khi một số có thể cảm thấy rằng nó có thể đánh vần là kết thúc công việc của họ. Tuy nhiên, trên thực tế, AI phù hợp hơn trong việc hỗ trợ sáng tạo cho con người, cần cho công việc quảng cáo.
+Trong năm 2018, chúng ta sẽ thấy tầm quan trọng của AI được nâng cao hơn, mang đến độ chính xác tốt hơn và cảm thấy thoải mái hơn khi trí tuệ nhân tạo xâm nhập vào hệ sinh thái cuộc sống.
+Thành Luân.

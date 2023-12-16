@@ -1,0 +1,14 @@
+3 ứng dụng không thể thiếu khi kết nối WiFi.
+(PLO)- Speedtest, Wifi Analyzer và Opera VPN sẽ giúp bạn xác định được mạng WiFi tốt nhất, đồng thời đảm bảo an toàn khi thực hiện các giao dịch trực tuyến.
+Wifi Switcher tương thích với các thiết bị Android 3.0 trở lên. Ảnh: MINH HOÀNG.
+- Bước 1: Đầu tiên, Wifi Switcher sẽ tự động phân tích và hiển thị toàn bộ mạng xung quanh trên cả hai băng tần 2,4 và 5 GHz. Ngoài ra còn một số thông tin khác như địa chỉ MAC của router, cường độ tín hiệu Lưu ý, nếu đang sử dụng Android 5.0 hoặc cao hơn, bạn hãy nhấn Allow để cấp quyền cho phép ứng dụng truy cập vị trí khi được yêu cầu.
+Lựa chọn những mạng WiFi thường xuyên kết nối. Ảnh: MINH HOÀNG.
+- Bước 2: Tiếp theo, người dùng hãy lựa chọn các WiFi muốn ưu tiên kết nối bằng cách đánh dấu vào ô Preferred. Ứng dụng sẽ đảm bảo rằng kể từ bây giờ smartphone của bạn chỉ kết nối với các WiFi đã được đánh dấu.
+- Bước 3: Nếu muốn thay đổi một số thiết lập, bạn hãy chạm vào biểu tượng ba chấm ở góc trên bên phải và chọn Settings. Tại đây sẽ có ba lựa chọn gồm Switch Range (ngưỡng tín hiệu cần thiết để thiết bị tự động kết nối WiFi khác, ví dụ như khi tín hiệu mạng chỉ còn một vạch sóng), Ask Before Switching (hỏi trước khi chuyển mạng) và cuối cùng là Show Full SSID (hiển thị đầy đủ tên mạng).
+Về cơ bản, Wifi Switcher sẽ tự động kết nối với những điểm phát WiFi gần nhất để bạn truy cập mạng nhanh hơn, khá hữu ích trong trường hợp công ty, văn phòng hoặc nhà bạn có nhiều điểm kết nối.
+Thiết lập điều kiện để smartphone tự động chuyển mạng. Ảnh: MINH HOÀNG.
+Kể từ bây giờ, smartphone hoặc tablet sẽ chỉ kết nối với các mạng không dây có tín hiệu mạnh, miễn là bạn đã lưu mật khẩu WiFi trước đó. Bên cạnh đó, người dùng cũng có thể tham khảo thêm một số mẹo hay như Cách kiểm tra xem router WiFi có bị hack? hoặc 3 bước để chuyển dữ liệu từ iPhone sang máy tính.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+5 mẹo cần biết nếu không muốn bị xài ké WiFi.
+(PLO) - Chỉ cần một chút kiến thức về Linux và bảo mật, kẻ gian hoàn toàn có thể khai thác và dò ra mật khẩu Wi-Fi nhà bạn. Làm thế nào để khắc phục tình trạng trên?
+MINH HOÀNG.

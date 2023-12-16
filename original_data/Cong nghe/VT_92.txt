@@ -1,0 +1,5 @@
+Bạn hoàn toàn có thể làm chủ việc phát video trên Chrome - Ảnh chụp màn hình.
+Để truy cập vào tính năng, chỉ cần mở tab Chrome mới và nhập chrome://flags/#autoplay-policy vào thanh địa chỉ của trình duyệt. Sau đó nhấn vào phím Enter.
+Tính năng này hiện được Google thử nghiệm nhưng hoạt động khá tốt.
+Khi trang flags mở ra bạn hãy sử dụng trình đơn thả xuống và chọn Document user activation required , sau đó khởi động lại trình duyệt của bạn. Kể từ giờ trở đi bạn sẽ không phải đối phó với việc video tự động phát nữa.
+Thành Luân.

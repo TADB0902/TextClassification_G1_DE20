@@ -1,0 +1,7 @@
+Hệ trí tuệ nhân tạo của các nhà khoa học ở Đại học Adelaide (Úc) dự đoán với độ chính xác 69% những bệnh nhân sẽ chết trong vòng 5 năm tới.
+Có lẽ trong tương lai, hệ trí tuệ nhân tạo này sẽ giúp phát hiện sớm và điều trị nhiều bệnh hiểm nghèo.
+Sử dụng trí tuệ nhân tạo, các nhà nghiên cứu đã phân tích hình ảnh chụp ngực của 48 bệnh nhân dưới 60 tuổi. Hệ trí tuệ nhân tạo dự đoán với độ chính xác 69% những bệnh nhân sẽ chết trong vòng 5 năm tới. Các nhà nghiên cứu ghi nhận rằng máy tính đôi khi có thể nhận thấy những điều mà các bác sĩ không thể phát hiện ra.
+Một bác sĩ X-quang lành nghề đã phát hiện được trong 7 đoạn mô tổng cộng 15.957 đặc điểm cá nhân (chỉ dấu sinh học). 417 chỉ dấu trong số đó (2,6%) làm tăng nguy cơ tử vong trong vòng 5 năm tới. Nhiều dự đoán của trí tuệ nhân tạo trùng khớp với giả định của bác sĩ. Các dự báo chính xác nhất đã được thực hiện đối với những bệnh nhân bị các bệnh mạn tính, chẳng hạn như bệnh khí phế thũng và suy tim xung huyết.
+Như vậy, dù trí tuệ nhân tạo có thể không sẵn sàng để thay thế bác sĩ nhưng có thể giúp các bác sĩ lâm sàng tiến hành các xét nghiệm tiếp theo để có thể tìm ra những vấn đề mà họ không thể phát hiện.
+Tiến sĩ Luke Oakden-Rayner, tác giả chính của công trình khẳng định rằng việc dự đoán tương lai của bệnh nhân rất có ích vì có thể cho phép các bác sĩ điều trị riêng cho từng cá nhân.
+Vũ Trung Hương.

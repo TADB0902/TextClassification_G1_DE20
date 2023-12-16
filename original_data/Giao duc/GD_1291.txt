@@ -1,0 +1,19 @@
+Đây là bài toán khó nhất của kỳ thi năm đó, và từng suýt bị loại bỏ.
+Đoàn Việt Nam đã 43 lần tham dự các kỳ thi IMO và hầu hết có kết quả cao.
+Trong lịch sử IMO, có 3 bài toán từ phía đoàn Việt Nam đưa ra được chọn để đưa vào đề thi. Đó là IMO 1977 với bài của PGS Phan Đức Chính, IMO 1982 của PGS Văn Như Cương và IMO 1987 của TS. Nguyễn Minh Đức, Huy chương Bạc IMO 1975).
+GS Trần Văn Nhung, hiện là Tổng thư ký Hội đồng Chức danh GS Nhà nước kể lại chuyện của IMO 1982:
+Năm đó, đoàn Việt Nam do GS Hoàng Xuân Sính là trưởng đoàn, GS Đoàn Quỳnh là phó đoàn. Bài toán của Việt Nam rất khó và độc đáo. Nhiều nước muốn loại ra khỏi 6 bài của đề thi. Nhưng Chủ tịch IMO năm đó - GS. Viện sĩ người Hungary R.Afred, Viện trưởng Viện Toán học, Viện Hàn lâm Khoa học Hungary - chẳng những khen hay mà còn quyết định giữ lại.
+Bài thi này chỉ có 20 thí sinh của kỳ thi giải được. Trong số này có gương mặt của đoàn Việt Nam là Lê Tự Quốc Thắng. Anh cũng là người đoạt Huy chương Vàng với số điểm 42/42, còn đoàn Việt Nam xếp 5/30 quốc gia tham dự.
+Anh theo học ĐH ở Nga sau đó làm việc tại Nga, Đức, Ý, Mỹ. Cho đến năm 2004, Lê Tự Quốc Thắng là giáo sư của Học viện Công nghệ Georgia (một trong 5 trường mạnh nhất nước Mỹ về các ngành kỹ thuật). Hiện nay, anh đang là một trong những chuyên gia hàng đầu thế giới về topo vi phân, đa tạp 3 chiều, lý thuyết nút và quasicrystal.
+Trao đổi với VietNamNet , GS Thắng cho biết, năm 1982, sau khi đoàn Việt Nam có kết quả trở về, Đài Truyền hình Việt Nam đã phỏng vấn những người có liên quan.
+Thầy Văn Như Cương đã trình bày bài toán gốc của mình. Bài toán này có khác với đề thi của IMO một chút (đã được làm cho dễ hơn). Sau đó, anh Thắng cũng đã trình bày lời giải trên truyền hình.
+GS Thắng chia sẻ với VietNamNet bài toán gốc mà thầy Văn Như Cương đã trình bày như sau:
+Ngày xưa (ở xứ Nghệ) có một ngôi làng hình vuông mỗi cạnh 100km. Có một con sông chạy ngang quanh làng. Bất cứ điểm nào trong làng cũng cách con sông không quá 0,5 km (*).
+Chứng mình rằng có 2 điểm trên sông có khoảng cách đường chim bay không quá 1 km, nhưng khoảng cách dọc theo dòng sông không ít hơn 198 km.
+(Ta giả sử con sông có bề rộng không đáng kể).
+Còn dưới đây là câu số 6 trong đề toán IMO 1982.
+Cho S là hình vuông với cạnh là 100, và L là đường gấp khúc không tự cắt tạo thành từ các đoạn thẳng A0A1, A1A2,An-1An với A0#An. Giả sử với mỗi điểm P trên biên của S đều có một điểm thuộc L cách P không quá. Hãy chứng minh: Tồn tại 2 điểm X và Y thuộc L sao cho khoảng cách giữa X và Y không vượt quá 1, và độ dài phần đường gấp khúc L nằm giữa X và Y không nhỏ hơn 198.
+GS Lê Tự Quốc Thắng cho biết thêm: Khi đó, thầy Văn Như Cương nói với anh rằng ban giám khảo đã làm bài toán dễ hơn một chút bằng cách sửa điều kiện (*) như sau: Bất cứ điểm nào trên chu vi của làng cũng có khoảng cách đến sông không quá 0,5km. Mặc dù giả thiết này yếu hơn, nhưng trên thực tế nó làm bài toán dễ hơn, vì thí sinh sẽ chú ý đến các điểm trên chu vi và từ đó sẽ dễ tìm ra lời giải hơn.
+Một điểm đặc biệt của bài toán này là lần đầu tiên có một bài IMO sử dụng đến kiến thức topo (kiến thức sơ đẳng: Nếu đoạn thẳng [0,1] là hợp của 2 tập đóng không rỗng thì 2 tập này có điểm chung).
+Câu số 6 trong đề thi IMO 1982. Ảnh: website IMO.
+Hạ Anh.

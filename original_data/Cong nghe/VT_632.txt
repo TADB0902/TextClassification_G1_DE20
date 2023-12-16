@@ -1,0 +1,11 @@
+Theo đại diện của sàn này, các hacker đã đánh cắp được mã bảo mật của ví nóng chứa NEM, từ đó chuyển toàn bộ số tiền ảo này sang các ví cá nhân nặc danh.
+Toàn bộ số tiền này thuộc về các khách hàng tham gia giao dịch trên sàn. Vụ việc đã được ghi nhận bởi Ủy ban dịch vụ tài chính Nhật Bản cũng như cảnh sát nước này.
+Coincheck, sàn giao dịch tiền mã hóa lớn nhất Nhật Bản dừng hoạt động sau khi 534 triệu USD "bốc hơi".
+Ngay sau khi bị rò rỉ tiền ảo, sàn Coincheck đã dừng mọi hoạt động rút tiền khỏi sàn với hy vọng ngăn chặn thiệt hại đi xa hơn. Sàn này cho hay sẽ cho phép khách hàng rút tiền từ tài khoản tiền thật sớm nhất có thể.
+Theo điều tra, số tiền ảo NEM bị đánh cắp được chứa trong một ví nóng đơn giản, kém bảo mật hơn nhiều so với ví đa lớp.
+Đại diện Coincheck cũng khẳng định hình thức bảo mật với mỗi ví chứa tiền ảo trên sàn này cũng có sự khác biệt. Toàn bộ các đồng tiền ảo khác đều được chứa trong ví đa lớp, chỉ duy nhất ví NEM là ví nóng, dù sàn khẳng định loại ví nóng này có tính bảo mật không hề thấp.
+NEM hiện là đồng tiền số lớn thứ 10 trên thế giới về giá trị thị trường. Vụ đánh cắp đồng NEM được coi là một trong những vụ mất trộm tài sản nhà đầu tư lớn nhất kể từ khi đồng tiền số Bitcoin ra đời vào năm 2009.
+Nhật Bản là một trong những thị trường tiền ảo lớn nhất thế giới. Các nhà hoạch định chính sách nước này đã đưa ra một hệ thống cấp phép để tăng cường kiểm soát các sàn trong nước, nhằm tránh lặp lại sự kiện năm 2014  khi sàn Mt.Gox sụp đổ gây lao đao thị trường tiền ảo thế giới.
+Tại Việt Nam, Bộ Tư pháp vừa khuyến cáo người dân khi thực hiện giao dịch liên quan đến tiền ảo cần thận trọng, cân nhắc bởi giao dịch tiền ảo là ẩn danh, là công cụ của nhiều tội phạm trốn thuế, giao dịch thanh toán.
+Ngoài ra, tiền ảo là dạng kỹ thuật số, nguy cơ bị tấn công, đánh cắp, thay đổi dữ liệu rất cao. Bên cạnh đó, giá trị đồng tiền ảo biến động liên tục, rủi ro trong đầu tư rất lớn.
+Bảo Anh (t/h).

@@ -1,0 +1,23 @@
+Nhập vai luyện nói Anh ngữ.
+Ứng dụng dựa trên trí tuệ nhân tạo đặc biệt hiệu quả trong các môn học mà giáo viên có nhiều hạn chế.
+Một trong các môn đó là Anh ngữ và cụ thể là khả năng nghe nói. Kĩ năng nghe nói sẽ là một tiêu chí đánh giá năng lực học sinh từ năm 2020, đây là kì thi tuyển sinh đại học áp lực cao.
+Trường THPT Kashiwa thuộc Đại học Khoa học Thể thao Nippon tại quận Chiba, Đông Tokyo, sử dụng ứng dụng được gọi là TerraTalk giúp học sinh cải thiện kĩ năng giao tiếp tiếng Anh.
+Trường này đưa ứng dụng vào giảng dạy với đối tượng học sinh muốn du học nước ngoài. Trường có kế hoạch triển khai rộng hơn tới toàn bộ học sinh để chuẩn bị cho kì thi tuyển sinh đại học tới.
+Trong ứng dụng TerraTalk, có tình huống một nhân viên mặc đồng phục hải quan sân bay đặt các câu hỏi như: Tôi có thể biết điểm đến của bạn? hay Bạn có mang theo vé không?.
+Sau khi học sinh trả lời, những câu trả lời sẽ hiện lên dạng chữ trên màn hình máy tính bảng và chỉ ra có lỗi câu hay lỗi phát âm hay không.
+Học sinh nói chung có trải nghiệm tích cực với ứng dụng này vì không cảm thấy ngại ngùng như trong trường hợp giao tiếp bằng tiếng Anh với người bản ngữ.
+Cháu cảm thấy căng thẳng khi nói tiếng Anh trên lớp nhưng TerraTalk khiến cháu thấy thoải mái  một học sinh cho biết  Cháu cảm thấy như thể đang nói tiếng Anh trong một tình huống ngoài đời thật.
+Trợ giảng đắc lực.
+Đối với giáo viên, ứng dụng này hỗ trợ đắc lực bù lấp việc thiếu trợ giảng nói tiếng Anh bản ngữ.
+Chúng tôi có tiết dạy đàm thoại Anh ngữ do một người nói tiếng Anh bản ngữ đứng lớp, nhưng mỗi học sinh chỉ có vài phút để nói  một giáo viên tiếng Anh chia sẻ  Ứng dụng này rất hiệu quả.
+Yoshiyuki Kakihara, Chủ tịch Joyz Inc., nơi phát triển ứng dụng TerraTalk, cho biết ứng dụng có thể giúp người sử dụng cải thiện Anh ngữ bởi hiển thị những điểm chỉ ra sự khác biệt trong phát âm của người sử dụng với người nói bản ngữ.
+Joyz đưa TerraTalk thành ứng dụng Android và iOS cho người sử dụng muốn học Anh ngữ từ năm 2016. Nó đưa ra các tình huống công việc và cuộc sống hàng ngày  cho phép người dùng nhập vai trong các đàm thoại.
+Ứng dụng này đã được sử dụng tại một số trường THPT tư  Kakihara cho biết.
+Hỗ trợ dạy lập trình.
+Một lĩnh vực khác mà các ứng dụng hỗ trợ tích cực cho giáo viên là dạy lập trình máy tính, khi mà lập trình trở nên thiết yếu với học sinh tiểu học từ năm học 2020.
+Công ty Internet DeNA Co. hồi tháng 10/2017 giới thiệu chương trình Zemi, một ứng dụng lập trình cho trẻ em.
+Trong bản tin phát trên truyền hình, một lớp 1 sử dụng ứng dụng tại một trường tiểu học tại Tokyo. Trong lớp, học sinh lắp ráp các hình khối trên một máy tính bảng để một nhân vật ảo đi hoặc nhảy qua màn hình.
+Tomoko Namba, sáng lập và Chủ tịch điều hành DeNA, hy vọng ứng dụng sẽ giúp trẻ vượt qua những rào cản tâm lí trong việc sử dụng máy tính để học lập trình.
+Những hoạt động nói trên nằm trong chiến lược khuyến khích sử dụng công nghệ thông tin và truyền thông trong giáo dục tại Nhật Bản. Việc đưa ứng dụng vào trường học hiện phụ thuộc vào các trường nhưng các trường tư đang mạnh dạn thực hiện hơn trường công.
+Có 1,95 triệu máy tính được học sinh sử dụng tại các trường tiểu học, THCS và THPT tại Nhật  tính đến tháng 3/2016 (theo Bộ Giáo dục); tỉ lệ khoảng 1 máy/6,2 học sinh. Trong đó có 253.755 máy tính bảng, gấp gần 10 lần 4 năm trước.
+Thanh Anh (Theo Kyodo News).

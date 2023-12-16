@@ -1,0 +1,31 @@
+Trường Đại học Huế là trung tâm đào tạo, nghiên cứu đa ngành, đa lĩnh vực với rất nhiều thành viên hiện nay gồm các trường Đại học, các khoa khác nhau. Với tính chất đa ngành đó, Đại học Huế mang đến cơ hội lực chọn ngành học phong phú cho các em học sinh trên cả nước, nhất là miền Trung.
+Năm 2017, các khoa và trường Đại học thành viên của Đại học Huế đã tổ chức tuyển sinh trên cả nước và đồng loạt công bố điểm chuẩn vào trường trước 17h ngày 1/8 theo quy định của Bộ Giáo dục và Đào tạo.
+Có thể nhận thấy, với từng ngàn học khác nhau, mức điểm chuẩn các trường thành viên của Đại học Huế rất đa dạng và có sự dao động lớn. Một số ngành có điểm chuẩn tương đối thấp, nhiều ngành chỉ đạt ngưỡng bằng điểm sàn.
+Cao nhất là điểm chuẩn Đại học Luật và Đại học Y Dược. Đại học Nông lâm, Đại học Khoa học, Đại học Nghệ thuật, Phân hiệu Đại học Huế tại Quảng Trị có mức điểm chuẩn thấp, trong đó có 2 ngành của Đại học Nông lâm chỉ 10,25 điểm (Nuôi trồng thủy sản) và thấp nhất là ngành Chăn nuôi 9,25 điểm.
+Cách tính điểm xét tuyển của Đại học Huế như sau:
+- Điểm xét tuyển (ĐXT) được tính theo thang điểm 30, làm tròn đến 0.25. Công thức tính ĐXT cụ thể như sau:
+ĐXT = (M1 x HS1 + M2 x HS2 + M3 x HS3) x 3/(HS1 + HS2 + HS3) + ĐUT (nếu có).
+Trong đó:
++ M1, M2, M3 lần lượt là điểm các môn trong tổ hợp môn đăng ký xét tuyển;
++ HS1, HS2, HS3 lần lượt là hệ số các môn trong tổ hợp môn đăng ký xét tuyển;
++ ĐUT (nếu có) là điểm ưu tiên theo khu vực, đối tượng.
+Xem điểm chuẩn Đại học Huế chính xác nhất tại đây:
+Điểm chuẩn Đại học Luật  Đại học Huế.
+Điểm chuẩn Khoa Giáo dục Thể chất  Đại học Huế.
+Điểm chuẩn Khoa Du lịch  Đại học Huế.
+Điểm chuẩn Đại học Ngoại ngữ - Đại học Huế.
+Điểm chuẩn Đại học Kinh tế - Đại học Huế.
+Kinh doanh nông nghiệp.
+Kinh tế nông nghiệp.
+Kinh tế nông nghiệp - Tài chính.
+L340101.
+Quản trị kinh doanh (Liên kết).
+L340201.
+Tài chính - Ngân hàng (Liên kết).
+Điểm chuẩn Đại học Nông lâm  Đại học Huế.
+Điểm chuẩn Đại học Nghệ thuật  Đại học Huế.
+Điểm chuẩn Phân hiệu Đại học Huế tại Quảng Trị.
+Điểm chuẩn Đại học Sư phạm  Đại học Huế.
+Đại học Khoa học  Đại học Huế.
+Điểm chuẩn Đại học Y Dược  Đại học Huế.
+Lăng Thị.

@@ -1,0 +1,11 @@
+Câu đố như sau:
+Một cái hộp đựng hai chiếc mũ đỏ và 3 chiếc mũ xanh. Azalea, Barnaby và Caleb nhắm mắt lại rồi lấy một chiếc mũ bất kỳ ra khỏi hộp.
+Sau khi mở mắt, họ sẽ biết màu chiếc mũ hai người kia lấy ra nhưng không biết mình lấy mũ màu gì. Ba người cũng không biết màu của những chiếc mũ còn lại trong hộp.
+Cả 3 đều rất giỏi về logic và luôn nói thật. Họ cũng biết rằng cái hộp đựng bao nhiêu mũ, số lượng mũ mỗi màu.
+Tuy nhiên, một người trong số họ mắc chứng mù màu. Ba người biết rõ điều này. Sau khi lấy mũ và mở mắt, Azalea nói: "Tôi không biết mình lấy mũ màu gì".
+Barnaby cho biết: Tôi không biết mình lấy mũ màu gì".
+Caleb lặp lại: Tôi không biết mình lấy mũ màu gì".
+Đến đây, Azalea vẫn khẳng định: Tôi không biết mình lấy mũ màu gì".
+Vậy ai là người bị mù màu và chiếc mũ 3 người lấy ra có màu gì?
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

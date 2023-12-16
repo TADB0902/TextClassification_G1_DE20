@@ -1,0 +1,13 @@
+Mỹ cho biết, thiết bị bị không người lái (UUV) Bluefin 12D sẽ được triển khai từ một chiếc chiến hạm của lực lượng này đang thực hiện công tác tìm kiếm chiếc tàu ngầm mất tích.
+Để thực hiện công việc, nhóm tìm kiếm khoanh vùng khu vực rộng hơn 1.200 km2. Ban đầu, họ sử dụng phương pháp quét siêu âm bề mặt (SSS) nhưng không thành công vì các cảm biến siêu âm bị vướng vào dây của các thiết bị đánh bắt cá.
+Do đó, họ kết hợp với máy dò tiếng vang đa chùm tia (MBES), thiết bị thường dùng để dò độ sâu đáy biển. Tuy nhiên, do địa hình đáy biển rất phức tạp nên nhóm tìm kiếm quyết định chuyển sang giải pháp sử dụng UUV Bluefin 12D.
+Thiết bị lặn không người lái của Mỹ.
+Để không bỏ sót mục tiêu, AUV được lập trình để quét cảm biến siêu âm các vùng dốc đáy biển hai lần. Trung bình mỗi đợt lặn của UUV kéo dài 24 giờ, bao phủ phạm vi gần 400 km2. Dữ liệu sau đó sẽ được phân tích bằng các camera quan sát độ nét cao để tìm ra dấu vết của con tàu.
+Will O'Halloran, phụ trách mảng tàu ngầm tại công ty Bluefin Robotics, đơn vị cung cấp Bluefin 12D cho nhóm tìm kiếm nhận định, UUV không thường áp dụng ở những khu vực có địa hình phức phức tạp.
+Tuy nhiên, trong lần tìm kiếm này, địa hình cũng mang lại lợi thế, bởi nhóm họ suy đoán rằng một con tàu lớn và nặng như thế sẽ không đứng ở các điểm cao hoặc dốc đứng, mà trượt xuống nơi thoải hơn. Với chiếc UUV được huy động, đoàn tìm kiếm hy vọng sẽ sớm xác định được vị trí chiếc tàu.
+Được biết, chiếc UUV Bluefin 12D trước đó cũng đã được Mỹ dùng trong chương trình tìm kiếm máy bay MH370 của Malaysia Airlines mất tích.
+Theo thông tin mới nhất về chiếc tàu ngầm San Huan mất tích, trái với thông tin trước đó, tính đến thời điểm hiện tại, đã không có bất cứ cuộc gọi vệ tinh nào được ghi nhận có liên quan đến chiếc tàu ngầm này, Công ty viễn thông Iridium Communications cho biết.
+Tàu ngầm San Juan với 44 thủy thủ đoàn đã mất tích kể từ lần liên lạc cuối cùng vào ngày 15/11 khi đang đi trên đường từ cảng Ushuaia tới thành phố biển Mar del Plata thuộc tỉnh Buenos Aires. Máy bay và tàu thuyền đã được huy động tới khu vực để tìm kiếm tại khu vực San Juan được phát hiện trước khi mất tích.
+Một số quốc gia khác trên thế giới đã tham gia giúp đỡ Argentina trong công tác tìm kiếm như Vương quốc Anh, Mỹ, Chile và một số nước khác. Mỹ đã điều 1 tàu ngầm cứu hộ và UUV đến Argentina để giúp tìm kiếm tàu ngầm bị mất tích.
+Theo tờ Telegraph, Hải quân Hoàng gia Anh đã gửi một đội cứu hộ tàu ngầm tinh nhuệ để hỗ trợ cuộc tìm kiếm. Các nhà chức trách Argentina vẫn tiếp tục liên lạc với thân nhân của các thủy thủ đoàn trên tàu ngầm bị mất tích.
+Tuấn Hưng.

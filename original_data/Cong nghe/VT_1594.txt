@@ -1,0 +1,18 @@
+Đa số trong chúng ta đều có tài khoản Facebook, Twitter hoặc Instagram để kết nối với bạn bè, trao đổi những thông tin bổ ích, liên quan đến công việc hay chia sẻ những thông tin yêu thích, video hay.
+Hiện nay, nhiều người dùng đang lơ là trong việc bảo mật thông tin, bảo mật tài khoản facebook, gmail,... của mình dẫn đến bị mất tài khoản vì những thông tin không có thật, vì những tập tin có chứa mã độc trên mạng xã hội. Để hạn chế tối đa việc bị mất tài khoản, bạn hãy tăng cường bảo mật facebook ngay từ bây giờ.
+Bật tính năng xác thực hai lớp.
+Để bật tính năng xác thực hai lớp cho facebook, bạn hãy đăng nhập vào tài khoản của mình, sau đó vào Cài đặt --> Bảo mật và đăng nhập.
+Tiếp đó, nhấp vào Chỉnh sửa ở mục Khuyến nghị hoặc Thiết lập bảo mật bổ sung.
+---> Chọn Thiết lập và làm theo các bước hướng dẫn cho đến khi hoàn tất.
+Bật tính năng xác thực hai lớp. Ảnh: Trung Nguyên.
+Từ bây giờ trở đi, mỗi khi bạn đăng nhập tài khoản facebook bằng một máy tính hoặc smartphone lạ (chưa từng đăng nhập Facebook trước đó), thì facebook sẽ gửi về số điện thoại bạn đã khai báo một tin nhắn có chứa mật khẩu ngẫu nhiên (OTP). Bạn sẽ phải điền mã OTP này thì mới truy cập được vào tài khoản Facebook của mình.
+Sử dụng mã khôi phục để đăng nhập facebook. Ảnh: Trung Nguyên.
+Bên cạnh đó, bạn có thể sử dụng các đoạn mã được facebook tạo ra ở mục Mã khôi phục để đăng nhập vào tài khoản facebook mà không cần phải sử dụng đến mã xác nhận OTP.
+Đổi email đăng nhập facebook.
+Hacker có thể sử dụng địa chỉ email đăng nhập facebook của bạn bị rò rỉ để dò tìm mật khẩu hoặc sử dụng những phương thức tinh vi để ăn cắp mật khẩu đăng nhập facebook của bạn.
+Nếu bạn đã sử dụng một email duy nhất cho nhiều tài khoản khác nhau thì bạn cần đổi email đăng nhập tài khoản facebook ngay bây giờ.
+Đổi email đăng nhập facebook. Ảnh: Trung Nguyên.
+Để đổi email đăng nhập, hãy vào Cài đặt --> Chung , sau đó chọn Chỉnh sửa tại mục Liên hệ và nhấp vào tùy chọn Thêm email hoặc số di động khác để thêm địa chỉ email mới.
+Sau khi thêm email mới, bạn cần nhập mã xã nhận được gửi về email mới để xác thực. Từ bây giờ bạn có thể đăng nhập vào tài khoản facebook bằng địa chỉ mail cũ hoặc địa chỉ email mới đã xác nhận ở trên.
+Để xóa địa chỉ email cũ, bạn hãy đánh dấu vào địa chỉ mail mới này làm Thông tin lên hệ chính sau đó mới xóa được địa chỉ email cũ. Kể từ bây giờ, bạn chỉ có thể đăng nhập vào tài khoản facebook của mình bằng địa chỉ email mới vừa thiết lập xong.
+Trung Nguyên.

@@ -1,0 +1,36 @@
+Tốc độ mạng của smartphone ngày càng được gia tăng, nhưng theo thời gian, thiết bị vẫn kết nối chậm. Thực tế, có nhiều nguyên nhân ảnh hưởng tới kết nối Wi-Fi trên smartphone.
+Đặt sai vị trí bộ phát Wi-Fi.
+Một trong những nguyên thường thấy của hiện tượng Wi-Fi bị chậm là đặt sai vị trí bộ phát. Tín hiệu Wi-Fi chỉ phủ một diện tích khoảng 70 mét, bộ phát càng xa thì tín hiệu càng kém. Tín hiệu có thể bị chặn hoặc can nhiễu bởi các vật dụng như tường, sàn nhà hoặc cửa ra vào.
+Nên đặt bộ phát Wi-Fi tại vị trí thông thoáng cho chất lượng kết nối tốt hơn.
+Bạn có thể kiểm tra nhanh chất lượng mạng trên smartphone bằng cách nhìn vào biểu tượng Wi-Fi ở phần trên cùng màn hình. Số lượng vạch Wi-Fi tương ứng với chất lượng kết nối mạng.
+Bộ phát Wi-Fi cần đặt ở vị trí thông thoáng, không bị cản trở bởi các thiết bị như TV, tủ lạnh, lò vi sóng Với các bộ phát Wi-Fi có râu, bạn nên xoay râu về vị trí hay ngồi để có chất lượng tín hiệu tốt hơn.
+Chồng lấn tín hiệu.
+Router không dây phát tín hiệu trên các kênh nhất định. Nếu Wi-Fi hàng xóm phát cùng kênh với bộ phát nhà bạn, sẽ có hiện tượng chồng lấn tín hiệu làm giảm chất lượng kết nối.
+Tình trạng này khá phổ biến tại các chung cư, nơi tập trung nhiều bộ phát Wi-Fi trong một diện tích nhỏ. Để khắc phục tình trạng này, bạn cần sử dụng phần mềm quét tất cả mạng Wi-Fi ở gần để xem chúng đang sử dụng kênh phát nào.
+Khi đã biết Wi-Fi hàng xóm phát trên kênh nào, bạn có thể sử dụng công cụ để thay đổi kênh phát trên router Wi-Fi nhà mình.
+Công cụ quét Wi-Fi giúp xác định kênh phát tín hiệu tốt nhất.
+Nếu đang dùng điện thoại Android, bạn có thể tải trực tiếp công cụ quét Wi-Fi Analyzer trên kho ứng dụng. Nếu dùng iPhone, bạn cần thực hiện trên máy tính. Với máy Mac, người dùng có thể tải hai ứng dụng WiFi Scanner và KisMAC; còn Windows cần tải WiFi Analyzer trên kho ứng dụng Windows Store.
+Wi-Fi bị can nhiễu.
+Wi-Fi dễ gặp hiện tượng can nhiễu từ các thiết bị gia dụng như lò vi sóng, chuông cửa không dây, điện thoại không dây, nhất là với bộ phát dùng băng tần 2.4 GHz.
+Phần lớn các bộ phát Wi-Fi đều hỗ trợ hai băng tần 2.4GHz và 5GHz. Băng tần 5GHz ít bị ảnh hưởng hơn. Khi mua bộ phát Wi-Fi bạn nên chú ý tới điều này.
+Với các bộ phát Wi-Fi có hai hoặc ba băng tần, người dùng có thể tự chuyển đổi sang băng tần mong muốn. Nhưng nếu chẳng may bộ phát chỉ hỗ trợ băng tần 2.4 GHz, bạn không nên đặt các thiết bị kể trên gần bộ phát để tránh hiện tượng can nhiễu.
+Mạng chậm.
+Một trong những lý do hiển nhiên của smartphone vào mạng chậm là do đang dùng mạng tốc độ thấp.
+Nếu đang dùng mạng gia đình, nguyên nhân có thể do các ứng dụng và thiết bị khác chiếm dụng băng thông. Xem video trực tuyến, tải video game hoặc cài đặt bản nâng cấp trên máy tính cũng khiến mạng chậm hơn.
+Không thể quá kỳ vọng mạng Wi-Fi công cộng có tốc độ cao.
+Nếu đang dùng mạng công cộng, nguyên nhân có thể có nhiều, và nói chung bạn không thể kỳ vọng vào mạng tốc độ cao khi bản thân không phải trả xu nào.
+Nói chung, nếu bạn đã đăng ký gói cước 4G và đang trong khu vực phủ sóng 4G mà Wi-Fi công cộng quá yếu, hãy chuyển sang sử dụng mạng di động tốc độ cao.
+Dùng mạng riêng ảo rùa bò.
+Những người thường xuyên dùng Wi-Fi công cộng được khuyến cáo nên sử dụng mạng riêng ảo (VPN) để mã hóa kết nối giữa smartphone với Wi-Fi hotspot, giúp bảo vệ dữ liệu tốt hơn và tránh con mắt nhòm ngó của tin tặc.
+Tuy nhiên, sử dụng mạng riêng ảo lại làm chậm kết nối mạng, nhất là với các ứng dụng VPN miễn phí. Nếu đang dùng VPN mà thấy mạng chậm, bạn có thể tạm thời thoát khỏi ứng dụng này xem tình hình có cải thiện không.
+Mạng 4G kém.
+Có nhiều yếu tố ảnh hưởng tới chất lượng 4G như khoảng cách tới trạm phát tín hiệu, thời tiết, vị trí trong nhà hoặc ngoài trời, đang trong đám đông hàng nghìn người cùng kết nối vào mạng.
+Ngoài ra, nếu bạn sử dụng dịch vụ của nhà mạng nhỏ, chất lượng đôi khi không đảm bảo do băng tần của nhà mạng bị hạn chế.
+Smartphone chạy chậm.
+Cuối cùng, nguyên nhân smartphone vào mạng chậm có thể do chính điện thoại bị chậm, nhất là khi mạng Wi-Fi không có vấn đề gì, tín hiệu mạng di động rất tốt và bạn đang kết nối vào mạng tốc độ cao.
+Việc mở nhiều ứng dụng và trang web trên smartphone có thể khiến máy chạy chậm, nhất là với máy dùng phần cứng cũ không đáp ứng nhu cầu sử dụng.
+Smartphone yếu có nhiều ứng dụng cập nhật ngầm khiến cho tốc độ vào mạng chậm hẳn đi.
+Thực tế, hiện tượng này dễ nhận ra bởi những chiếc điện thoại như thế luôn chạy chậm bất kể khi nào. Những chiếc smartphone cũ, RAM thấp, chip lỗi thời hay gặp tình trạng này.
+Ngay cả khi bạn đang sử dụng smartphone mới nhưng nếu mở quá nhiều ứng dụng, rồi các ứng dụng này cập nhật ngầm cũng tiêu tốn tài nguyên khiến máy chạy chậm.
+Các ứng dụng viết cẩu thả hoặc đã lỗi thời rất hay làm chậm máy. Bạn nên cập nhật ứng dụng thường xuyên, phần mềm nào không dùng thì nên gỡ bỏ, đồng thời phải chú ý tới các ứng dụng chạy ngầm trên máy.
+Gia Nguyễn.

@@ -1,0 +1,9 @@
+Ảnh minh họa.
+Bkav cho biết cách lấy mật khẩu của hacker khá phức tạp. Đầu tiên một ứng dụng sạch sẽ được đưa lên chợ ứng dụng Google Play. Đây là những ứng dụng phổ biến như lịch vạn niên, la bàn, đèn pin. Người dùng sẽ tải về các ứng dụng này để sử dụng.
+Trong quá trình hoạt động, ứng dụng này sẽ tải thêm một ứng dụng độc hại khác. Ứng dụng mới sẽ hiện ra các cảnh báo thiết bị bị nhiễm virus hoặc mã độc và hướng dẫn xử lý. Nếu làm theo các hướng dẫn này, thiết bị của người dùng sẽ nhiễm virus.
+Virus sẽ chiếm quyền điều khiển của điện thoại và lấy mật khẩu tài khoản Facebook.
+Cách phát tán virus đánh cắp mật khẩu Facebook của tin tặc (theo: Bkav).
+Theo ông Vũ Ngọc Sơn, Phó chủ tịch mảng Chống mã độc của Bkav: Việc hacker sử dụng một ứng dụng sạch trên Google Play làm công cụ lây nhiễm mã độc sẽ khiến người dùng rất khó đề phòng. Trong trường hợp này chỉ có cách sử dụng phần mềm diệt virus để được bảo vệ tự động.
+Hiện nay Google Play đã gỡ bỏ các ứng dụng nói trên nên có thể sẽ không có thêm các thiết bị khác bị nhiễm mã độc. Nhưng với những máy đã cài các ứng dụng Việt bị gỡ bỏ vẫn phải thực hiện các biện pháp cần thiết để tránh bị mất mật khẩu.
+Người dùng cần thực hiện đổi mật khẩu Facebook của mình từ một thiết bị khác. Ngoài ra nếu nghi ngờ thiết bị của mình đã nhiễm virus, cần sử dụng các ứng dụng diệt virus để quét và hạn chế các biến thể của virus này.
+TÙNG LINH.

@@ -1,0 +1,39 @@
+Thử tưởng tượng Google, Facebook, YouTube sẽ như thế nào nếu toàn bộ mạch máu này đồng loạt bị đứt? Nhân loại sẽ tê liệt ngay tức khắc. Có tầm quan trọng như vậy nhưng thông tin về cáp mạng hiện vẫn còn khá mù mờ. Dưới đây là 10 sự thật ít người biết về mạng lưới Internet dưới đáy biển.
+Việc lắp đặt mất nhiều thời gian và tiền bạc.
+Có đến 99% dữ liệu quốc tế được truyền bằng dây dẫn ở dưới đáy đại dương, được gọi là cáp thông tin ngầm. Tổng độ dài của chúng có thể lên đến hàng trăm nghìn dặm và chôn vùi hàng nghìn mét dưới đáy biển.
+Các loại cáp được lắp đặt bởi các tàu đặc biệt gọi là lớp cáp. Không chỉ là việc bỏ dây bằng những cái kẹp nối xuống biển, các loại cáp thường phải được chạy trên bề mặt phẳng của đáy đại dương và cẩn thận để tránh các rạn san hô, xác tàu chìm và các vật cản khác.
+Cáp ở khu vực nước cạn được chôn dưới đáy đại dương sử dụng vòi phun nước áp suất cao. Mặc dù giá cho mỗi dặm dây cáp thay đổi tùy thuộc vào tổng chiều dài và điểm đến, việc lắp đặt cáp qua biển luôn tốn hàng trăm triệu đô la.
+Cá mập đang cố ăn cáp mạng.
+Có một sự tranh cãi về lý do tại sao dấu răng cá mập lại xuất hiện trên cáp ngầm. Nhiều giả thuyết cho rằng chúng phản ứng với điện từ trường trên cáp. Hoặc đơn giản chỉ vì chúng tò mò về những thực thể dạng dây này.
+Cá mập là kẻ thù truyền kiếp của cáp mạng dưới biển. Ảnh: YouTube.
+Vấn đề là cá mập vẫn đang hàng ngày cắn vào những sợi cáp và đôi khi làm hư chúng. Để khắc phục, những công ty tương tự Google đang che chắn dây cáp của họ trong các thiết bị phòng chống cá mập.
+Cáp mạng dễ tổn thương ở dưới nước hơn dưới lòng đất.
+Cứ vài năm lại có một số công nhân xây dựng lái xe ủi cán nhầm và làm đứt toàn bộ mạng Netflix trên đất liền. Dù dưới đại dương không có các phương tiện như xe ủi, hệ thống cáp mạng vẫn có những mối đe dọa riêng.
+Bỏ qua yếu tố là những chú cá mập, Internet luôn có nguy cơ bị phá hủy bởi việc thả neo của tàu thuyền hoặc thiên tai. Một công ty có trụ sở tại Toronto đã đề xuất chạy cáp Internet qua Bắc Cực để kết nối Tokyo và London.
+Điều này trong quá khứ là bất khả thi, nhưng thay đổi khí hậu làm băng tan đã tạo tiền đề cho ý tưởng này được thực hiện. Tuy vậy, chi phí cho nó vẫn thật sự rất đắt đỏ.
+Kết nối thế giới qua đường cáp biển đã có từ lâu đời.
+Từ năm 1854, việc lắp đặt cáp biển bắt đầu bằng tuyến cáp điện tín xuyên Đại Tây Dương kết nối Newfoundland và Ireland. Bốn năm sau, lần truyền tín hiệu thành công đầu tiên được thực hiện nhưng chất lượng sóng vẫn quá yếu để có thể sử dụng. Nhưng trong bối cảnh lịch sử đó, thời điểm khoa học kỹ thuật còn kém phát triển, đây đáng được xem là mốc son của ngành công nghiệp cáp ngầm.
+Đường truyền thông tin đầu tiên được lắp đặt cách đây 163 năm. Ảnh: Mentalflos.
+Món mồi béo bở cho các cơ quan tình báo.
+Trong thời kỳ Chiến tranh lạnh, Liên Xô thường truyền những thông điệp mã hoá yếu giữa hai căn cứ hải quân lớn của họ và được nối trực tiếp bằng cáp ngầm nằm trong lãnh hải của Liên Xô.
+Tàu ngầm Mỹ cố tìm kiếm những dây cáp này và cài đặt một dây điện thoại khổng lồ, sau đó quay trở lại hàng tháng để thu thập các tín hiệu mà nó đã ghi lại từ đoạn cáp của Liên Xô.
+Hoạt động này được gọi là IVY BELLS. Ngày nay, khai thác cáp truyền thông dưới biển là hoạt động tiêu chuẩn của các cơ quan tình báo.
+Chính phủ các quốc gia chuyển sang hướng cáp ngầm để tránh gián điệp.
+Một lợi thế lớn của Mỹ là sở hữu đội ngũ nhà khoa học, kỹ sư và các tập đoàn trong việc sáng chế và xây dựng một phần lớn cơ sở hạ tầng viễn thông toàn cầu. Các đoạn cáp then chốt của thế giới đa phần nằm trên biên giới và lãnh hải của Mỹ. Điều này làm cho việc nghe lén dễ dàng hơn bao giờ hết.
+Do đó, một số quốc gia đang cân nhắc lại cơ sở hạ tầng Internet. Brazil là một ví dụ. Họ đã đưa ra một dự án để xây dựng cáp truyền thông ngầm đến Bồ Đào Nha. Không chỉ tránh địa phận Mỹ, dự án này còn loại các công ty cung ứng, lắp đặt của Mỹ ra khỏi dánh sách thi công.
+Cáp ngầm có tốc độ nhanh hơn và rẻ hơn vệ tinh.
+Vệ tinh là một công nghệ tương lai, ra đời sau cáp quang nhưng nó không thể thay thế được kết nối này. Vệ tinh gặp vấn đề ở tốc độ truyền tải. Gửi và nhận các tín hiệu đến và đi từ không gian cần nhiều thời gian hơn.
+Việc sửa chữa cáp tốn kém rất nhiều thời gian và tiền bạc. Ảnh: Mentalflos.
+Trong khi đó, các nhà nghiên cứu đã phát triển các sợi quang học có thể truyền tải thông tin ở tốc độ 99,7% tốc độ ánh sáng. Để biết được tốc độ Internet sẽ như thế nào nếu không có cáp dưới biển, hãy ghé thăm Nam Cực, lục địa duy nhất không có kết nối vật lý với mạng.
+Tại châu lục này, kết nối Internet chỉ dựa vào vệ tinh, và băng thông ở mức cao. Tuy nhiên, các trạm nghiên cứu Nam Cực đang sản xuất dữ liệu nhiều hơn khả năng chúng có thể truyền qua không gian.
+Chỉ cần một bộ đồ lặn và một thiết bị cắt cáp để làm tê liệt Internet toàn cầu.
+Tin vui là cáp ngầm có hàng nghìn volt điện chạy qua mỗi sợi, và việc cắt được cáp này là rất khó khăn. Tuy nhiên tin buồn là nó từng bị cắt. Năm 2013, ở Ai Cập đã xảy ra một sự kiện hy hữu khi những người đàn ông trong bộ đồ lặn bị bắt giữ vì cố tình cắt tuyến cáp ngầm nối Đông Nam Á - Trung Đông - Tây Phi - châu Âu dài 12.500 dặm và kết nối ba châu lục. Tốc độ Internet ở Ai Cập đã bị tê liệt 60% cho đến khi đường dây có thể được sửa chữa.
+Cáp mạng dưới nước không hề dễ sửa.
+Khi một cáp ngầm bị hư hỏng, các tàu sửa chữa đặc biệt được điều đến vị trí nghi ngờ. Nếu cáp nằm ở vùng nước cạn, robot sẽ được triển khai để tìm kiếm và kéo nó lên bề mặt.
+Cáp nằm sâu dưới đáy đại dương cần có những thiết bị chuyên dụng mới có thể kiểm tra thay thế được. Ảnh: Submarinenews.
+Nếu cáp nằm trong vùng nước sâu khoảng 2.000 m, một tàu chuyên dụng được thiết kế để lấy cáp sẽ nâng nó lên mặt nước và sửa chữa. Để làm cho mọi việc trở nên dễ dàng hơn, đôi khi thiết bị này cắt đôi cáp bị hỏng và tàu sửa chữa sẽ nâng hai đầu lên và nối chúng trên mặt nước.
+Cáp ngầm có tuổi thọ 25 năm.
+Tính đến năm 2014, có 285 cáp truyền thông ở dưới đáy đại dương và 22 trong số đó chưa được sử dụng. Đây được gọi là "cáp đen". Cáp ngầm có tuổi thọ là 25 năm.
+Tuy nhiên, trong thập kỷ qua, lượng tiêu thụ dữ liệu toàn cầu đã bùng nổ. Trong năm 2013, lưu lượng truy cập Internet là 5 gigabyte trên đầu người. Con số này dự kiến đạt 14 gigabyte trên đầu người vào năm 2018.
+Sự gia tăng này rõ ràng sẽ gây ra vấn đề về dung lượng và cần phải nâng cấp cáp thường xuyên hơn. Tuy nhiên, các kỹ thuật mới trong điều chế pha và cải tiến thiết bị đầu cuối (SLTE) đã tăng cường công suất ở một số nơi lên đến 8.000%. Nó giúp giải quyết nhu cầu dữ liệu cho toàn thế giới.
+Xuân Tiến.

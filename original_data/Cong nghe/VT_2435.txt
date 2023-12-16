@@ -1,0 +1,6 @@
+Phần mềm này giúp người dân dễ dàng tra cứu lộ trình tuyến, thông báo khoảng cách điểm đi  điểm đến, hướng dẫn các tiện ích khi sử dụng xe buýt...
+Danabus cài đặt trên hệ điều hành Android hoặc iOS, người dân có thể tải phần mềm miễn phí trong ứng dụng PlayStore (hệ điều hành Android) và AppStore (hệ điều hành iOS).
+Khi sử dụng, Danabus sẽ có các mục: lộ trình, bản đồ, tra cứu. Người sử dụng chỉ cần nhập thông tin điểm đi và điểm đến, phần mềm sẽ hướng dẫn cách tới trạm gần nhất, lên tuyến xe phù hợp và khoảng thời gian di chuyển. Ngoài ra, mỗi tuyến, Danabus đều hiển thị bản đồ cụ thể.
+Ứng dụng Danabus trên điện thoại thông minh giúp người dân dễ dàng tra cứu lộ trình các tuyến xe buýt trên địa bàn thành phố Đà Nẵng. Ảnh: Thanh Trần.
+Sở GTVT cho hay phần mềm này sẽ nâng cao chất lượng dịch vụ vận tải hành khách công cộng bằng xe buýt trên địa bàn, giúp hạn chế sử dụng phương tiện cá nhân, giảm ô nhiễm môi trường, góp phần giải quyết ùn tắc giao thông.
+Thanh Trần.

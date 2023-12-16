@@ -1,0 +1,18 @@
+Pop-up là kiểu quảng cáo hiển thị dưới dạng cửa sổ khi bạn nhấn vào một liên kết bất kì trên trang web, che toàn màn hình và gây khó khăn cho người sử dụng.
+Xem thêm: 3 ứng dụng không thể thiếu khi kết nối Wi-Fi - Speedtest, Wifi Analyzer và Opera VPN sẽ giúp bạn xác định được mạng Wi-Fi tốt nhất, đồng thời đảm bảo an toàn khi thực hiện các giao dịch trực tuyến.
+Chrome.
+Nếu đang sử dụng trình duyệt Google Chrome, bạn hãy bấm vào biểu tượng menu ở góc trên bên phải, chọn Settings (cài đặt) > Site settings (cài đặt trang web) > Pop-ups và vô hiệu hóa tùy chọn Pop-ups.
+Firefox.
+Khi hoàn tất, bạn có thể tự tạo ra các quy tắc (Rules), danh sách đen (Blacklist) hoặc danh sách những trang web cho phép hiển thị quảng cáo (Whitelist) và rất nhiều lựa chọn khác mà người dùng có thể tìm hiểu thêm trong quá trình sử dụng.
+Không giống như AdBlock hay các tiện ích chặn quảng cáo khác, uBlock hoạt động khá ổn định và chiếm ít dung lượng RAM.
+Opera Mini.
+Xem thêm: Làm gì khi không thể truy cập được WiFi? - Trong quá trình sử dụng máy tính hoặc smartphone, hẳn là sẽ có đôi lần bạn gặp phải tình trạng không thể truy cập WiFi dù cột sóng vẫn đầy. Làm thế nào để khắc phục tình trạng trên?
+Cách xóa phần mềm độc hại.
+Nếu thấy pop-ups quảng cáo liên tục xuất hiện trên màn hình dù bạn không nhấn vào bất kì liên kết nào thì nhiều khả năng smartphone đã bị dính phần mềm độc hại.
+- Android : Đầu tiên, bạn hãy mở trình duyệt Chrome, chạm vào biểu tượng ba chấm ở góc trên bên phải và chọn Settings > Privacy.
+Kéo xuống cuối trang và chọn Clear browsing data. Tại đây, người dùng chỉ cần đánh dấu vào các mục cần làm sạch như Browsing history (lịch sử lướt web), Cookies and site data, Cached images and files (bộ nhớ đệm), Save passwords (những mật khẩu đã lưu trên trình duyệt) Sau đó lựa chọn mốc thời gian cần xóa trong phần Clear data from the rồi nhấn Clear Data để bắt đầu.
+- iOS : Đầu tiên, bạn hãy truy cập vào phần Settings > Safari > Advanced và vô hiệu hóa tùy chọn JavaScript. Quay ngược lại trang trước, tìm đến phần Block Cookies và chọn Allow form Websites I Visit.
+Tiếp tục nhấp vào tùy chọn Clear History and Website Data để xóa sạch lịch sử và dữ liệu lướt web (bao gồm bộ nhớ đệm và những cookies độc hại). Cuối cùng, người dùng chỉ cần kích hoạt lại tùy chọn JavaScript và lướt web như bình thường.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Xem thêm: 3 cách xem lại mật khẩu Wi-Fi đã kết nối - Mặc định, smartphone và máy tính đều có tính năng ghi nhớ mật khẩu nếu bạn đã từng kết nối Wi-Fi trước đó, tuy nhiên, đây cũng chính là nguyên nhân khiến người dùng dễ quên mật khẩu.
+MINH HOÀNG.

@@ -1,0 +1,30 @@
+Ngày 15/11, Bkav tổ chức họp báo công bố loại mặt nạ có thể mở khóa thành công Face ID trên iPhone X. Trước khi buổi họp báo này diễn ra, họ tung lên mạng một clip mô phỏng quá trình mở khóa thành công Face ID và nhận được vô số phản ứng trái chiều. Không chỉ báo chí trong nước, hơn 120 tờ báo quốc tế dẫn lại thông tin này và đặt ra cho Bkav nhiều câu hỏi.
+Bỏ qua việc Face ID bị vượt mặt hay cách làm của Bkav chưa làm tất cả cảm thấy thuyết phục, một số người đặt ra câu hỏi, mục đích của Bkav là gì khi họ vạch lá tìm sâu và phát hiện ra lỗ hổng trên iPhone X.
+Đơn thuần vì mục đích nghiên cứu bảo mật?
+Giống như tất cả các đội an ninh mạng trên thế giới, khi có một công nghệ xác thực và bảo mật mới ra đời, tất cả đều chạy đua để tìm ra điểm yếu. Mục đích của chúng tôi là cảnh báo người dùng, cộng đồng để có cái nhìn chính xác hơn về mức độ an toàn của các công nghệ này, ông Ngô Tuấn Anh - Phó chủ tịch phụ trách an ninh mạng của Bkav trả lời Zing.vn trong buổi demo mở khóa Face ID bằng mặt nạ.
+Ông Nguyễn Tử Quảng cho hay nhiều nhóm bảo mật trên thế giới chạy đua để phát hiện lỗ hổng của Face ID, không riêng Bkav. Ảnh: Thành Duy.
+Còn theo ông Nguyễn Tử Quảng - CEO Bkav, là một công ty an ninh mạng, việc phát hiện các lỗ hổng bảo mật trên sản phẩm di động, đặc biệt sản phẩm có mức độ phổ biến cao như iPhone X là điều thuộc về trách nhiệm của họ. Ông Quảng cũng từ chối gọi phần demo trước báo giới việc mở khóa thành công Face ID là một màn trình diễn, vì họ không trình diễn gì cả, chỉ là đưa ra thực tế và cảnh báo cho người dùng.
+Để lấy dẫn chứng, ông Quảng cho hay bản thân Bkav cũng là công ty đầu tiên công bố lỗ hổng bảo mật của công nghệ nhận diện khuôn mặt trên các dòng laptop Asus, Toshiba hay Lenovo tại hội thảo an ninh mạng Black Hat ngày 19/2/2009.
+Tháng 6 năm nay, họ cũng chỉ ra công nghệ nhận diện mống mắt trên Galaxy S8 có thể dễ dàng bị vượt qua bởi một bức ảnh bôi một lớp hồ dán.
+Nói như thế để thấy Bkav đã, đang và sẽ tiếp tục tìm ra những lỗ hổng bảo mật trên các công nghệ mới mà theo cách nói của ông Nguyễn Tử Quảng, đó là cuộc chạy đua thú vị giữa các nhóm bảo mật trên toàn thế giới.
+Chiếc mặt nạ trị giá 150 USD giúp Bkav mở khóa thành công Face ID trên iPhone X.
+Tuy nhiên, vẫn còn đâu đó những hoài nghi về mục đích của công ty này khi rầm rộ công bố mẫu mặt nạ đánh lừa được Face ID.
+Mục đích khác?
+Tháng 6/2010, tức là hơn một năm sau khi công bố qua mặt công nghệ nhận diện khuôn mặt trên các dòng laptop phổ biến, Bkav tung phiên bản phần mềm diệt virus Bkav 2010. Đây được xem là một trong những phiên bản phần mềm thành công nhất từ trước đến nay của Bkav.
+Theo kết quả khảo sát của Phòng thương mại và công nghiệp Việt Nam (VCCI) thực hiện tháng 6/2010, gần 74% doanh nghiệp trong nước sử dụng phần mềm diệt virus của Bkav. Một khảo sát khác cùng thời điểm cho thấy Bkav chiếm 85% thị phần phần mềm diệt virus có bản quyền tại Việt Nam.
+Màn bóc mẽ Face ID của Bkav lần này được tiến hành trong bối cảnh 3 tháng sau khi họ tung ra chiếc smartphone thế hệ thứ 2 mang tên Bphone 2017. Trên các diễn đàn, mạng xã hội, nhiều người tin rằng đây là động thái hâm nóng tên tuổi của Bkav trong bối cảnh Bphone có doanh số không quá nổi bật sau vài tháng lên kệ.
+Nếu đơn thuần vì mục đích bảo mật, tại sao Bkav chọn cách tổ chức họp báo, công bố rầm rộ thông tin này, thay vì gửi thông tin cho nhà sản xuất để họ khắc phục điểm yếu của Face ID, Hùng Vũ - chủ một doanh nghiệp nhỏ bày tỏ thắc mắc.
+Nhiều ý kiến cho rằng PR thương hiệu mới là mục đích chính của hành động này.
+Bkav cũng là đơn vị kinh doanh. Nếu không có lợi, tất nhiên họ không làm, anh này bình luận.
+Quảng bá thương hiệu là điều chắc chắn. Chẳng doanh nghiệp nào không muốn quảng bá thương hiệu của mình khi có cơ hội, anh Tiến - Trưởng phòng truyền thông của một doanh nghiệp trong nước nhận định. Trong trường hợp này, tôi nghĩ Bkav đã chấp nhận mạo hiểm để đạt hiệu quả truyền thông ngoài sức tưởng tượng, anh này khẳng định.
+Mỗi sản phẩm, mỗi phát ngôn của Bkav đều có thể gây tranh cãi. Trong trường hợp này, họ chưa hoàn toàn thuyết phục cộng đồng và các chuyên gia bảo mật, nhưng câu chữ họ đưa ra khá cẩn trọng và chừng mực. Họ chỉ nói đã tạo ra mặt nạ qua mặt được Face ID chứ không nói hack thành công Face ID. Việc cộng đồng tranh luận, mổ xẻ rõ ràng đã tạo hiệu ứng truyền thông vô cùng lớn cho thương hiệu này, anh Tiến bình luận.
+Chỉ nhìn vào hiệu ứng trên mạng xã hội và sự quan tâm của cả báo chí quốc tế, có thể thấy không nhiều công ty làm được như Bkav, cả về mặt kỹ thuật (mặc dù thô sơ) lẫn truyền thông.
+Những ngày gần đây, trên các diễn đàn xuất hiện thông tin Bkav sẽ cho ra mắt một chiếc Bphone giá rẻ trong vài tháng tới. Thông tin này, tất nhiên, không được nhà sản xuất xác nhận. Tuy nhiên, nếu điều đó là sự thật, Bkav có vẻ đang chạy đà rất tốt.
+VIDEO: Bkav đánh lừa Face ID của iPhone X.
+Bằng một chiếc mặt nạ nửa thật nửa giả trị giá 150 USD, Bkav đã qua mặt được công nghệ bảo mật được xem là của tương lai trên chiếc iPhone X.
+Công ty BKAV.
+Bkav là công ty công nghệ hoạt động trong các lĩnh vực an ninh mạng, phần mềm, chính phủ điện tử, nhà sản xuất smartphone và các thiết bị điện tử thông minh, cung cấp dịch vụ điện toán đám mây. Công ty được biết đến nhiều với phần mềm diệt virus Bkav (Bách Khoa Antivirus) cũng như người sáng lập và điều hành, ông Nguyễn Tử Quảng.
+Ngày thành lập : 28/12/2001.
+Người sáng lập : Nguyễn Tử Quảng.
+Sản phẩm chính : Bách Khoa Antivirus (BKAV), BPhone.
+Đức Nam.

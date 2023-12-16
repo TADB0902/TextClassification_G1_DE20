@@ -1,0 +1,6 @@
+OnePlus là nhà sản xuất luôn đi đầu trong việc hỗ trợ cập nhật phần mềm nhanh nhất cho các dòng smartphone của mình. Vào cuối tháng 12 công ty đã phát hành bản Andoird 8.0 Oreo beta và chỉ sau một tháng, bản chính thức của nó đã được tung ra thị trường.
+Phiên bản phần mềm mới tên là OxygenOS 5.0.2 và đây là bản nâng cấp của OxygenOS chính thức đầu tiên dựa trên Android 8.0 Oreo. Do đó, các tính năng chuẩn trên Android Oreo, các biểu tượng sẽ đặc trưng trên Oreo, tất cả sẽ có trên bản cập nhật này dành cho OnePlus 5T.
+Tuy nhiên, vì là điện thoại OnePlus nên nó sẽ có vài tính năng đặc trưng của nhà sản xuất này như phần cài đặt nhanh sẽ có thiết kế mới, bộ sưu tập, ứng dụng thời tiết và quản lý tệp cũng được làm mới. CPU của nó đã được cập nhật lên mức độ bảo mật CVE-2017-13218 và có rất nhiều bản cập nhật đang bắt đầu khởi chạy.
+OxygenOS 5.0.2 sẽ bắt đầu được tung ra ngay trong hôm nay, nhưng tùy theo khu vực địa lý và gói cập nhật mà các thiết bị sẽ nhận được bản cập nhật sớm hay muộn.
+Theo Androidcentral.
+Sang Smith.

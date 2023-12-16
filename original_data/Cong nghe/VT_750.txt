@@ -1,0 +1,20 @@
+58 tỷ Yên đã bị lấy cắp khỏi Coincheck trong tuần trước. Sự việc này được cho là vụ trộm tiền ảo lớn nhất tính tới thời điểm này.
+Cơ quan tài chính Nhật Bản FSA cho biết Coincheck cần đưa ra các biện pháp để phòng ngừa sự việc tương tự diễn ra.
+Họ cũng có thể rà soát các giao dịch tiền số trong đất nước giữa những lo ngại các cuộc tấn công tương tự có thể diễn ra.
+Vụ trộm này nêu bật vấn đề tồn đọng hiện nay đối với các nhà làm luật về việc quản lý và giảm thiểu rủi ro khi giao dịch tiền ảo tại Nhật Bản, khi họ đang mong muốn thúc đẩy ngành này như một kênh kích thích tăng trưởng kinh tế.
+Coincheck cho biết hôm Chủ Nhật họ sẽ hoàn lại 90% số tiền bị mất với lượng vốn nội bộ, dù chưa có thông tin cụ thể về phương thức cũng như thời gian.
+Đồng NEM bị đánh cắp trong các "ví nóng" thay vì các "ví lạnh", những tài khoản an toàn hơn khi hoạt động trên các sàn không trực tiếp kết nối với internet, Coincheck kcho hay. Nó cũng không sử dụng thêm một lớp bảo mật multi-signature như "ví lạnh".
+Nhật Bản lại là tâm điểm của giới tiền số sau vụ hack. Năm ngoái, họ là nước đầu tiên hợp pháp hóa và quản lý các gaio dịch tiền số ở quy mô quốc gia, điều khác hẳn với Hàn Quốc và Trung Quốc.
+FSA cho biết họ yêu cầu Coincheck phải nộp một báo cáo về vụ tấn công cũng như các biện pháp phòng thủ trong tương lai trước ngày 13/2 tới, và họ sẽ tiến hành các cuộc điều tra với các giao dịch tiền số nếu cần thiết.
+Họ cũng không đưa ra thông tin về việc liệu Coincheck có đủ số vốn đề hoàn trả khách hàng như đã hứa hay không.
+FSA cho biết họ cũng chưa có đạo luật nào cấm các "ví nóng" hay tỷ lệ tiền cần lưu trữ trong các "ví lạnh".
+Đáp trả lại yêu cầu của FSA, Coincheck nói rằng họ sẽ lập tức cải thiện an ninh cho khách hàng, cũng như phát triển các hệ thống quản lý rủi ro.
+Nhật Bản mới yêu cầu các nhà hoạt động nền tảng giao dịch tiền số phải đăng ký với chính phủ từ tháng 4 năm ngoái, và những nhà cung cấp cũ trước đó như Coincheck có thể tiếp tục hoạt động trước khi đăng ký chính thức.
+FSA đã cấp phép cho 16 sàn, và còn 16 sàn đang chờ kiểm duyệt. Coincheck đã nộp đơn đăng ký vào tháng 9 năm ngoái.
+"Chúng ta đều biết hệ thống tiền ảo là một hệ thống kiên cố, nhưng các giao dịch thì không phải vậy", Makoto Sakuma, nghiên cứu viên tại NLI Research Institute cho biết.
+"Vụ hack này đã chó thấy những vấn đề còn tồn đọng. Nếu Coincheck thất bại trong việc quản lý rủi ro, đó có thể là một đòn giáng mạnh vào cơn sốt tiền ảo hiện nay".
+Đồng NEM đã giảm từ 1.01$ xuống còn 0/78$ sau vụ tấn công vào thứ Sáu, nhưng nhanh chóng hồi phục ở mức 0.95$, theo thông số từ Coinmarketcap.
+Các sàn khác tại Tokyo cho biết vụ việc của Coincheck sẽ khiến nhiều nhà đầu tư lo ngại về an ninnh, khiến cho giá của thị trường bị chèn ép.
+"Các đồng tiền số bây giờ đều phải chịu nỗi ám ảnh, và có thể sẽ có những ảnh hưởng ở tầm trung", Genki Oda, giám đốc của BitPoint Japan cho hay.
+Tổ chức sáng lập đồng NEM cho biết họ có một hệ thống theo dõi blockchain của đồng NEM và có "đầy đủ" thông tin về số tiền Coincheck bị mất. HỌ cho biết các hacker đã không chuyển các đồng này tới một tài khoản cá nhân hay quỹ giao dịch nào, nhưng họ cũng không có cách nào để hoàn lại số tiền cho khổ chủ.
+Hoàng Việt (Theo Independent).

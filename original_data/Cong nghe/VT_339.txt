@@ -1,0 +1,7 @@
+Cuộc chiến chống hack trong PlayerUnknowns Battlegrounds vẫn đang tiếp diễn. Theo một thông báo mới nhất từ BattlEye, dịch vụ chống hack được trò chơi sử dụng, chỉ riêng trong tháng 1 vừa qua đã có 1.044.000 tài khoản bị khóa. Tuy nhiên bản thân BattlEye cũng tỏ ra không tự tin với khả năng dọn hack của mình, bởi họ phải nói rằng thật không may, mọi thứ (hack) vẫn cứ tiếp diễn.
+We have banned over 1,044,000 PUBG cheaters in January alone, unfortunately things continue to escalate.
+BattlEye (@TheBattlEye) February 4, 2018.
+Có một điều đáng nhắc đến là mặc dù BattlEye có thể khóa tài khoản PUBG của kẻ gian lận, nó không thể làm gì với tài khoản Steam của thủ phạm, và kẻ gian hoàn toàn có thể bỏ tiền ra mua một tài khoản mới để tiếp tục chơi xấu, phá hoại trải nghiệm của rất nhiều người. Rất nhiều game thủ tỏ ra đã không thể chịu nổi tình trạng gian lận, và liên tục spam các thông báo cập nhật của game trên Steam yêu cầu khóa IP Trung Quốc.
+Trong khi đó, việc khóa IP này chắc chắn sẽ không xảy ra, ít nhất là trong tương lai gần bởi Brendan PlayerUnknown Greene từng nói rằng chúng ta sống chung trên một hành tinh và vì vài con sâu mà khóa IP cả một quốc gia là điều ngớ ngẩn.
+PUBG: Bluehole chặn mọi phần mềm hỗ trợ, tắt Family Sharing để chống gian lận.
+Phạm Lê.

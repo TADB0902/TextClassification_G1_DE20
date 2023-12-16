@@ -1,0 +1,5 @@
+Cụ thể, để chuẩn bị cho việc sửa chữa phân đoạn trên tuyến cáp AAG, ban quản lý tuyến cáp sẽ tiến hành cấu hình lại nguồn cho toàn bộ nhánh S1 trên cáp biển AAG để sửa lỗi. Thời gian bắt đầu từ 7 sáng 21.1 dự kiến đến ngày 25.1 kết thúc. Quá trình bảo dưỡng sẽ gây ảnh hưởng chất lượng kết nối internet từ TP.HCM đi quốc tế.
+Ngay sau khi nhận được thông báo, VNPT đã chủ động xây dựng kế hoạch tổ chức định tuyến, ưu tiên lưu lượng trên các hướng cáp biển khác nhằm đảm bảo chất lượng kết nối quốc tế cho khách hàng.
+Được biết, tuyến cáp quang biển AAG có tổng chiều dài 20.000 km và dung lượng thiết kế đạt đến 2 Terabit/giây, kết nối trực tiếp khu vực Đông Nam Á với Mỹ.
+Được chính thức đưa vào vận hành từ tháng 11.2009, tuyến cáp quang này bắt đầu từ Malaysia và đầu cuối tại Mỹ. Nhánh cáp rẽ vào Việt Nam nằm trong đoạn S1 có chiều dài 314 km.
+Thành Luân.

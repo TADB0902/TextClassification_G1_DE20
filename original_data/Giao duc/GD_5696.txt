@@ -1,0 +1,64 @@
+Thí sinh đăng ký dự thi THPT quốc gia - Hà Ánh.
+Trường ĐH Giao thông vận tải  Phân hiệu tại TP.HCM công bố phương án tuyển sinh dự kiến năm 2018.Theo đó, trường chỉ xét tuyển dựa vào kết quả kỳ thi THPT quốc gia năm 2018.
+Trong năm nay, trường sẽ tuyển sinh thêm 2 ngành mới gồm: quản lý xây dựng (50 chỉ tiêu), kỹ thuật xây dựng công trình thủy (40 chỉ tiêu).
+Ngoài 2 tổ hợp xét tuyển truyền thống (toán-lý-hóa và toán-lý-tiếng Anh), năm nay trường bổ sung thêm 2 tổ hợp mới gồm: D01 (toán-văn-tiếng Anh) và D07 (toán-hóa-tiếng Anh).
+Tổ hợp và chỉ tiêu xét tuyển các ngành dự kiến như bảng sau:
+Nhóm ngành/Ngành xét tuyển.
+Mã xét tuyển.
+Tổ hợp xét tuyển.
+Chỉ tiêu.
+Kỹ thuật cơ khí.
+Nhóm Kỹ thuật cơ khí, cơ khí động lực (gồm các chuyên ngành: Máy xây dựng; Cơ điện tử).
+Sinh viên được chọn chuyên ngành theo nhu cầu vào học kỳ 6 (năm học thứ 3).
+GSA-01.
+A00; A01; D07.
+Nhóm Kỹ thuật ôtô (chuyên ngành Cơ khí ôtô).
+GSA-02.
+A00; A01; D07.
+Ngành Kỹ thuật điện.
+(chuyên ngành Trang bị điện trong Công nghiệp và Giao thông).
+GSA-03.
+A00, A01, D07.
+Ngành Kỹ thuật điện tử - viễn thông.
+(gồm các chuyên ngành: Kỹ thuật viễn thông; Điện tử và tin học công nghiệp).
+GSA-04.
+A00, A01, D07.
+Ngành Kỹ thuật điều khiển và tự động hóa.
+(gồm các chuyên ngành: Tự động hóa; Giao thông thông minh - ITS).
+GSA-05.
+A00, A01, D07.
+Ngành Công nghệ thông tin.
+GSA-06.
+A00, A01, D07.
+Ngành Kế toán (chuyên ngành Kế toán tổng hợp).
+GSA-07.
+A00, A01, D01, D07.
+Ngành Kinh tế (chuyên ngành Kinh tế bưu chính viễn thông).
+GSA-08.
+A00, A01, D01, D07.
+Ngành Kinh tế vận tải (chuyên ngành Kinh tế vận tải và du lịch).
+GSA-09.
+A00, A01, D01, D07.
+Ngành Kinh tế xây dựng (gồm các chuyên ngành: Kinh tế xây dựng công trình giao thông; Kinh tế quản lý khai thác cầu đường).
+GSA-10.
+A00, A01, D01, D07.
+Ngành Kỹ thuật xây dựng (gồm các chuyên ngành: Xây dựng dân dụng và công nghiệp; Kỹ thuật hạ tầng đô thị).
+GSA-11.
+A00, A01, D07.
+Ngành Quản trị kinh doanh (chuyên ngành Quản trị kinh doanh giao thông vận tải).
+GSA-12.
+A00, A01, D01, D07.
+Ngành Khai thác vận tải (gồm các chuyên ngành: Quy hoạch và quản lý GTVT đô thị; Logistics).
+GSA-13.
+A00, A01, D01, D07.
+Ngành Kỹ thuật xây dựng công trình giao thông (gồm các chuyên ngành: Cầu đường bộ; Đường bộ; Cầu hầm; Công trình giao thông công chính; Công trình giao thông đô thị).
+Sinh viên được chọn chuyên ngành theo nhu cầu vào học kỳ 6 (năm học thứ 3).
+GSA-14.
+A00, A01, D07.
+Ngành Kỹ thuật xây dựng công trình thủy.
+GSA-15.
+A00, A01, D07.
+Ngành Quản lý xây dựng.
+GSA-16.
+A00, A01, D01, D07.
+Hà Ánh.

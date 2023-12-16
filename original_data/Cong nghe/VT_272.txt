@@ -1,0 +1,8 @@
+Hiện chưa rõ thông tin về những con chip này, nhưng các nguồn tin xác nhận, chúng sẽ xuất hiện trong những chiếc laptop và desktop mới nhất của Apple. Như vậy có khả năng Apple sẽ "chia tay Intel", sử dụng chip riêng của họ, ít nhất là với các dòng máy Mac trong nay mai.
+Có khả năng Apple sẽ "chia tay Intel" trong nay mai để sử dụng chip riêng của họ, ít nhất là với các dòng máy Mac.
+Trong nhiều năm qua, Apple đã âm thầm phát triển những con chip riêng dành cho điện thoại, tablet hay các thiết bị đeo tay của họ. Thế nhưng, hãng mới chỉ bắt đầu đưa những con chip này vào những chiếc máy Mac trong thời gian gần đây.
+Ban đầu là Apple sử dụng một con chip riêng để điều khiển Touch Bar và Touch ID trên chiếc laptop cao cấp MacBook Pro vào năm 2016, nhằm đảm bảo cho chiếc máy này hoạt động trơn tru nhất. Kế đến là hồi tháng trước, Apple đã đưa vào bên trong chiếc iMac Pro một con chip của riêng mình để xử lý một số thành phần khác cũng như âm thanh, camera và mã hóa.
+Trang tin công nghệ The Verge cho hay, với việc gia tăng sử dụng chip riêng trong các sản phẩm của mình, Apple có thể sẽ mang những thứ mới mẻ lên các chiếc máy Mac trong tương lai.
+Ngoài ra, việc này cũng giúp Apple giảm sự phụ thuộc vào các công ty khác, đồng thời cho phép họ tích hợp sâu vào bên trong phần cứng lẫn phần mềm những tính năng độc đáo. Tuy nhiên, quan trọng nhất vẫn là, Apple sẽ sử dụng con chip của riêng mình như là vi xử lý chính bên trong Mac.
+Với iPhone và iPad, Apple đã chứng minh được rằng, họ có thể tạo ra những vi xử lý mạnh mẽ hơn rất nhiều so với các đổi thủ. Tuy nhiên, việc chuyển từ sử dụng chip Intel sang chip riêng của hãng sẽ có rất nhiều rào cản, khiến Apple khó có thể thực hiện sớm.
+Thanh Trà.

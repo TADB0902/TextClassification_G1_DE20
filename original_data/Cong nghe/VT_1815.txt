@@ -1,0 +1,36 @@
+Thế nhưng, rất ít người biết được 9 tính năng tuyệt vời nhất trên iOS 11 khiến ai cũng phải trầm trồ khen ngợi khi sử dụng.
+Chắc chắn vẫn còn rất nhiều bạn chưa thể khám phá hết các tính năng của phiên bản cập nhật của hệ điều hành iOS. Trong bài viết sau đây, hãy cùng điểm qua những tính năng lạ trên iOS 11 mà ít người biết đến.
+Thực hiện cuộc gọi thoại bằng Siri.
+Vào ngày 4 tháng 10 năm 2011, Apple chính thức giới thiệu trợ lý ảo Siri tới thế giới. Trải qua 5 năm phát triển, Siri đang dần trở thành một trong những cô nàng trợ lý ảo thông minh nhất thế giới đồng thời là một thành viên không thể thiếu của Quả Táo.
+Siri có khả năng thực hiện một số thủ thuật hữu ích bao gồm cả khả năng đặt các cuộc gọi thoại. Điều này thực sự tiện dụng khi bàn tay của bạn dính bẩn, hoặc khi không thể chạm vào điện thoại cũng như các trường hợp khẩn cấp khác. Đơn giản bạn chỉ cần nói Hey Siri trên iPhone để gọi cô nàng Siri đỏng đảnh. Sau đó hãy nói điều gì đó như hãy gọi bố tôi qua loa Siri sẽ tự động quay số và thực hiện cuộc gọi cho loa.
+Không nên tắt tất cả ứng dụng.
+Nếu bạn có 50 ứng dụng trên điện thoại và khoảng 30 ứng dụng đang hoạt động. Điều này có ảnh hưởng đến hiệu suất hay không? Hầu như là không. iOS được thiết kế để quản lý bộ nhớ thông minh và Apple bật mí rằng bạn nên giữ cho ứng dụng mở vì giúp tiết kiệm pin và cải thiện hiệu suất. Tuy nhiên, một số thiết bị cũ hơn dường như gặp khó khăn khi mở quá nhiều ứng dụng cùng lúc.
+Trong một số ít trường hợp, bạn cần phải đóng ứng dụng. Trên hầu hết thiết bị iOS, việc này được thực hiện bằng cách nhấn đúp vào nút Home chuyển đổi ứng dụng và sau đó vuốt lên những ứng dụng mà bạn muốn đóng. Với iPhone X thì sao?
+Chiếc flagship này không có nút Home, thay vào đó bạn phải vuốt lên từ dưới cùng của màn hình và giữ ngón tay của bạn trên màn hình trong khoảng một nửa giây. Bạn sẽ thấy một dấu trừ xuất hiện ở góc trên cùng bên trái của tất cả các ứng dụng trong trình đơn Trình chuyển đổi ứng dụng. Bây giờ bạn có thể nhấn vào biểu tượng màu đỏ này hoặc vuốt lên để đóng ứng dụng như trước.
+Mẹo hay: bạn có thể đóng nhiều ứng dụng cùng một lúc bằng cách vuốt lên trên nhiều ứng dụng đồng thời bằng hai ngón tay.
+Quét tài liệu hoặc QR.
+Còn gì tuyệt vời hơn nếu bạn có thể quét tài liệu hoặc mã QR bằng iPhone của bạn? Trong iOS 11, Apple đã thêm chiếc máy quét QR vào ứng dụng camera gốc và máy quét tài liệu cho các ứng dụng ghi chú.
+Bước 1: Để quét mã QR bằng iPhone đầu tiên bạn mở ứng dụng Camera chọn mục quét mã QR.
+Bước 2: Tiếp theo bạn di chuyển camera đến vùng có mã QR cần quét, chạm vào khu vực có mã QR Code trên màn hình để lấy nét nếu cần.
+Bước 3: Máy ảnh sẽ tự nhận mã QR và quét một cách tự động, khi thông tin được xử lý, một thông tin thông báo sẽ hiện lên màn hình về chi tiết của mã QR Code. Có thể là ký tự hoặc đường link, bạn có thể nhấp vào đường link để xem thông tin chi tiết nếu muốn.
+Nếu bạn muốn quét tài liệu, hãy mở các ứng dụng ghi chú, chọn ghi chú hiện có hoặc tạo một tài liệu mới, nhấn nút + và chọn Scan Documents để bắt đầu quét và thêm tài liệu vào ghi chú của bạn.
+Kết nối mạng Wi-Fi kém? Không thành vấn đề!
+Với iOS 11, Control Panel sẽ đã bật tắt nhanh các kết nối như Wi-Fi và Bluetooth. Nhưng chúng chưa thực sự tắt hoàn toàn. Thay vào đó, radio còn được tích hợp các tính năng như AirDrop, Apple Pencil và AirPods trong khi vô hiệu hóa kết nối với mạng Wi-Fi và chấm dứt kết nối với hầu hết các thiết bị Bluetooth được ghép nối.
+Ngoài ra, sử dụng dữ liệu định vị địa lý và dữ liệu vị trí điện thoại xác định khi bạn rời khỏi khu vực và bật Back on Automatically. Chúng cũng sẽ chuyển đổi lại sau một thời gian nhất định. Vì vậy, nếu bạn không thể truy cập trang web trên kết nối hiện tại của mình, chỉ cần tắt Wi-Fi. Chúng sẽ tự động kết nối trở lại khi bạn rời khỏi khu vực hoặc vào thời điểm sau đó.
+Chế độ một tay trên iPhone.
+Trên các thiết bị iPhone sử dụng các hệ điều hành iOS cũ hơn chúng ta chỉ có thể sử dụng Reachability để có thể sử dụng iPhone một tay một cách dễ dàng. Thế nhưng với iOS 11, kích hoạt chế độ một tay hoàn toàn đơn giản mà bạn không hề ngờ tới chỉ với vài thao tác nhỏ.
+Bước 1: Kích hoạt bàn phím một tay.
+Bước 2: Nhấn và giữ nút emoji trên bàn phím để chọn từ bàn phím thuận tay trái, bàn phím tiêu chuẩn hoặc bàn phím thuận tay phải. Hãy lựa chọn biểu tượng bàn phím theo hướng tay bạn thuận để kích hoạt bàn phím một tay.
+Sau đó bạn sẽ thấy bàn phím iPhone sẽ được lệch về một phía để bạn có thể sử dụng iPhone một tay dễ dàng hơn để soạn tin nhắn.
+Thiết lập mật khẩu Wifi dễ như trở bàn tay.
+Bạn sẽ làm gì nếu vị khách nào đó nhờ nhập mật khẩu để truy cập Wifi trong nhà bạn? Thế nhưng bạn lại không nhớ nổi mật khẩu Wi-Fi của chính mình, không muốn chia sẻ mật khẩu hoặc cảm thấy không thoải mái khi phải nhập nhiều ký tự?
+Với iOS 11, mọi thứ đơn giản hơn rất nhiều cho khách truy cập có các tiện ích của Apple. Bây giờ bạn chỉ cần chọn mạng Wi-Fi của chính mình và chấp thuận các kết nối từ thiết bị của riêng bạn (miễn là thiết bị đã được kết nối). Vâng  đây quả là tính năng cực thú vị phải không nào.
+Chụp ảnh Facetime.
+Khi sử dụng cuộc gọi FaceTime, bạn có thể chụp ảnh trực tiếp. Làm thế nào để làm được điều đó? Đơn giản: chỉ cần nhấn nút chụp camera. Tất nhiên, nếu bạn không muốn người khác chụp ảnh của bạn, bạn có thể vô hiệu hóa tính năng này trong Cài đặt> FaceTime> chuyển đổi FaceTime Live Photos. Tuy nhiên đừng lo lắng, nếu một hình ảnh bất kỳ được chụp lại, cả hai bên đều sẽ nhận được thông báo.
+Chụp và ghi hình màn hình.
+Giờ đây với iOS 11, tính năng chụp màn hình và ghi hình màn hình đã được nâng cấp đáng kể. Ảnh chụp màn hình được gửi đến góc dưới cùng bên trái, nơi bạn có thể mở rộng, đánh dấu và chia sẻ chúng. Bạn cũng có thể kích hoạt trình ghi hình màn hình trong cài đặt Control Panel của bạn. Thao tác này sẽ tự thêm nút ghi hình vào trình Control Panel mà bạn có thể bấm bất cứ khi nào muốn ghi lại.
+Tính năng Emergency SOS khi gặp nguy hiểm.
+Cuối cùng nhưng không kém phần quan trọng, Apple đã bổ sung tính năng SOS khẩn cấp mới dành cho iPhone. Tính năng này của iOS 11 biến nút đánh thức (sleep/wake) thành nút bấm khi nguy cấp và bạn nên kích hoạt nó ngay bây giờ.
+Cơ chế hoạt động của nó khá đơn giản: khi bật Emergency SOS, nút bấm bên cạnh phải điện thoại sẽ nhanh chóng gọi cho đường dây nóng. Những gì bạn cần làm là bấm nhanh nút này 5 lần.
+Để kích hoạt, hãy chọn Setting > Emergency SOS, nhấn vào đây đaể mở ra trang cài đặt. Apple cung cấp ảnh GIF hướng dẫn cách kích hoạt cùng vài tùy chọn khác. Để bật tính năng, bấm vào nút Auto Call, rồi bật cả nút Countdown Sound, thậm chí tính năng còn có thể vô hiệu hóa bộ đếm thời gian đếm ngược để giữ mọi thứ bí mật.
+Minh Hằng.

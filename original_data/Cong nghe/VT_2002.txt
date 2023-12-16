@@ -1,0 +1,6 @@
+Vào ngày 23/1 vừa qua, Adobe đã ra mắt bản cập nhật Photoshop CC 19.1 trên hệ điều hành Windows và Mac. Cụ thể, bản cập nhật mới sửa các lỗi vặt, thay đổi giao diện và thêm vào một số tính năng mới cho phần mềm.
+Trong đó, tính năng Select Subject, công cụ dựa trên nền tảng trí tuệ nhân tạo Sensei của Adobe được chờ đợi nhất. Select Subject sẽ tự động chọn lựa ra chủ thể trong bức ảnh chỉ với một vài lần nhấp chuột. Nếu chưa hài lòng, người dùngcó thể tinh chỉnh lại vùng chọn bằng các công cụ khác trong Photoshop.
+Có nhiều cách để sử dụng tính năng này nhưng đơn giản nhất là chọn Select trên thanh menu > tính năng Subject. Chủ thể sẽ được chọn trong vài giây. Nhanh và chính xác hơn rất nhiều so với Magic Wand, Quick Selectionvà một số plug-in có tính năng tách nền khác.
+Thử nghiệm với phông nền xanh, chủ thể được cắt gần như chính xác. Một số bộ phận như tóc và các góc nhỏ vẫn còn dính nền.
+Với phông nền rối và tiệp màu, AI vẫn chưa nhận định chính xác chủ thể, gây hiện tượng chọn sai. Tất nhiên, người dùng có thể chỉnh lại vùng chọn bằng các công cụ có sẵn. Sau Content Aware, Face Liquify thì tính năng Select Subject được giới chuyên môn đánh giá rất cao cho những lần cập nhật gần đây của Photoshop.
+Gia Minh.

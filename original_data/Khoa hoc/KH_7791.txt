@@ -1,0 +1,7 @@
+Robot cứu hộ thế hệ mới Fuhga.
+Robot này tên là Fuhga, cao khoảng 25cm và rộng 60cm, được trang bị 2 bánh xe dây xích và 1 cánh tay dài ở chính giữa với thiết bị gắp nhả để có thể nắm giữ thân người khi cứu hộ. Fuhga được phát triển bởi phòng thí nghiệm do giáo sư Fumitoshi Matsuno (thuộc Đại học Kyoto) đứng đầu.
+Robot này đã đứng thứ nhất trong cuộc thi robot cứu hộ Robo Cup Japan Open 2017 hồi đầu tháng 5-2017.
+Giáo sư Matsuno bắt đầu nghiên cứu robot sau khi ông mất đi một sinh viên trong trận động đất xảy ra tại thành phố cảng Kobe, miền tây Nhật Bản hồi tháng 1-1995.
+Hiện ông muốn triển khai loại robot trên để phục vụ hoạt động cứu hộ tại nhà máy điện nguyên tử Fukushima Daiichi ở thành phố Fukushima - khu vực đã bị phá hủy trong thảm họa động đất và sóng thần tháng 3-2011.
+Phòng thí nghiệm của giáo sư Matsuno trước đó cũng đã phát triển một loại robot khác được sử dụng để đánh giá mức độ thiệt hại trong tòa nhà bị tàn phá do thảm họa năm 2011.
+Khánh Chi (Theo Japantoday).

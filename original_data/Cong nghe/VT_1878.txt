@@ -1,0 +1,12 @@
+Ngày 16/1, trên MXH Twitter một người có nickname @cheesecakeufo cho biết các thiết bị của Apple sẽ bị "đóng băng" khi truy cập vào một trang web do anh tạo ra có phần đuôi là "... chaiOS". Bạn bè của anh chàng này đã kiểm tra và xác nhận lỗi này chỉ xảy ra khi sử dụng trình duyệt mặc định của iOS là Safari. Những trình duyệt khác như Chrome, Firefox đều không bị ảnh hưởng. Đặc điểm này khá tương đồng với một lỗi đã được phát hiện trước đây là "effective power". Tuy nhiên, lỗi lần này còn nghiêm trọng hơn.
+Effective Power is back, baby!
+chaiOS bug:
+Text the link below, it will freeze the recipient's device, and possibly restart it.
+Do not use it for bad stuff.
+thanks to @aaronp613 @garnerlogan65 @lepidusdev @brensalsa for testing!
+Abraham Masri (@cheesecakeufo) January 16, 2018.
+Bằng cách nào đó, website này không chỉ khiến iPhone, MacBook bị đơ mà nó còn làm hỏng cả các ứng dụng khác trong máy như iMessage.
+Tuy phát tán trang web phá hoại nhưng @cheesecakeufo lại đề nghị mọi người không sử dụng nó cho mục đích xấu.
+Hiện tại vẫn chưa tìm ra cách khôi phục lại hoạt động bình thường của các ứng dụng bị trang web này làm hỏng. Do vậy, nếu bạn đang sử dụng các thiết bị của Apple, tuyệt đối không click vào bất kỳ đường link nào có dấu hiệu lạ thường, vì chúng có thể dẫn bạn tới trang web chaiOS. Tuy nhiên, cách tốt nhất đó là bạn nên cài đặt trình duyệt Chrome để dùng thay cho Safari....
+Ngoài ra, để tự bảo vệ các thiết bị iPhone và MacBook, người dùng có thể sử dụng chức năng chặn tên miền trong Safari.
+Duy Nguyễn (Nguồn Twitter).

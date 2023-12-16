@@ -1,0 +1,6 @@
+Theo thông tin từ VNPT, kế hoạch bảo dưỡng tuyến cáp quang biển quốc tế AAG đã có sự thay đổi so với dự định ban đầu. Theo đó, thay vì được khôi phục hoàn toàn vào ngày 20/1 thì tuyến cáp quang này sẽ tiếp tục được đối tác quốc tế cấu hình lại nguồn từ 7 giờ ngày 21/1 dự kiến đến hết ngày 25/1. Vì vậy, trong quá trình này, chất lượng kết nối Internet từ TP.HCM đi quốc tế sẽ bị ảnh hưởng.
+Cáp quang biển AAG sẽ tiếp tục được cấu hình lại để sửa lỗi trong tuần tới.
+Được biết, hiện VNPT đã chủ động xây dựng kế hoạch tổ chức định tuyến, ưu tiên lưu lượng trên các hướng cáp biển khác nhằm đảm bảo chất lượng kết nối quốc tế cho khách hàng. Tuy nhiên, không tránh được việc chất lượng kết nối vẫn bị ảnh hưởng tới một số khách hàng.
+Dự báo đầu tuần tới chất lượng Internet Việt Nam đi quốc tế, đặc biệt là từ TP.HCM sẽ tiếp tục bị ảnh hưởng.
+Trước đó, việc di chuyển cáp quang biển tại Singapore phục vụ cho việc mở rộng sân bay Changi từ 0 giờ ngày 6/1 đến 22 giờ ngày 7/1 cũng được nhà mạng thông báo. Tuy nhiên, đến chiều ngày 6/1, tuyến cáp quang này đã được dịch chuyển sớm hơn so với dự định.
+Đ.Huệ.

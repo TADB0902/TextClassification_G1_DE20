@@ -1,0 +1,13 @@
+Trung Quốc đang tiến hành cập nhật hệ thống máy tính cũ trên tàu ngầm hạt nhân, bổ sung thêm công nghệ AI nhằm nâng cao khả năng tư duy của các sĩ quan chỉ huy, một nhà khoa học cấp cao tham gia chương trình này nói với báo South China Morning Post (Hồng Kông) hôm 4-2.
+"Mặc dù tàu ngầm hạt nhân có khả năng hủy diệt rất lớn nhưng bộ não của nó thực sự khá nhỏ"  nhà khoa học (giấu tên) nhận xét.
+Việc Bắc Kinh trang bị AI cho tàu ngầm hạt nhân không phải không có lý do. Chẳng hạn nếu 100-300 thành viên thủy thủ đoàn buộc phải ở lại trong tàu ngầm suốt nhiều tháng, căng thẳng tăng lên có thể ảnh hưởng đến việc ra quyết định của các chỉ huy.
+Theo nhà khoa học nói trên, hệ thống hỗ trợ ra quyết định dựa vào AI sẽ giúp giảm khối lượng công việc và gánh nặng tinh thần cho các chỉ huy tàu ngầm.
+Trung Quốc đang tiến hành cập nhật hệ thống máy tính cũ trên tàu ngầm hạt nhân, bổ sung thêm công nghệ AI. Ảnh: SCMP.
+Kể từ khi tàu ngầm hạt nhân đầu tiên xuất hiện vào đầu những năm 1950 (do Mỹ sản xuất), nó được xem là một trong số những vũ khí chiến tranh tinh vi nhất. Nhưng hệ thống máy tính trên tàu ngầm không tương xứng với hình ảnh hiện đại của phương tiện này.
+Thứ nhất, công nghệ trong hầu hết máy tính trên tàu ngầm hạt nhân thường lạc hậu. Thứ hai, các linh kiện điện tử cấp quân sự đòi hỏi phải chịu được tình trạng sốc, nhiệt hoặc nhiễu điện từ, bởi vậy chúng phải hy sinh tốc độ để đổi lấy độ tin cậy.
+Cho đến nay, tính năng "suy nghĩ" của tàu ngầm hạt nhân - trong đó có việc phân tích và phản hồi các tín hiệu do sóng sonar gửi về - hầu hết đều do các nhân viên hải quân đảm nhận chứ không phải máy móc.
+Còn hiện tại, công nghệ AI có thể hỗ trợ ra quyết định mà không cần sự can thiệp của con người. Bằng cách bắt chước hoạt động của bộ não con người, hệ thống có thể xử lý một lượng lớn dữ liệu.
+Nhà khoa học nói trên cho biết quân đội Trung Quốc muốn công nghệ AI trên tàu ngầm phải đáp ứng được những yêu cầu cơ bản.
+Ưu tiên hàng đầu là cần đảm bảo hệ thống có thể theo dõi và hiểu các hoạt động dưới nước vốn phức tạp và luôn thay đổi. Cấu trúc của nó cũng phải đơn giản, nhỏ gọn và tương thích với các hệ thống máy tính hiện có của tàu ngầm.
+"Điều này giống như đưa một con voi vào một cái hộp đựng giày"  nhà khoa học ví von.
+Phạm Nghĩa (Theo SCMP).

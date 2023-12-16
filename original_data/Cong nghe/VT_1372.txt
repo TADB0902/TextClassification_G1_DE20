@@ -1,0 +1,15 @@
+Pocket : ứng dụng đọc sách báo khi offline.
+Ứng dụng Pocket, tải về miễn phí trên Google Play, sẽ nhanh chóng trở thành người bạn đồng hành không thể thiếu của bạn trên đường! Dù trên hành trình dài hoặc tại địa điểm tắm nắng mùa hè, rất có thể bạn sẽ phải đối mặt với vấn đề kết nối để tải thông tin trang web yêu thích của mình. Pocket cho phép bạn lưu giữ các bài báo, hình ảnh, trang web để bạn có thể đọc chúng khi đang offline. Bạn có thể tải Pocket trực tiếp trên Play Store.
+Dictionnaires hors-ligne: để hiểu ngôn ngữ khi offline.
+Không có gì dễ dàng hơn đối với ứng dụng Dictionnaires hors-ligne ! Ứng dụng này vượt trội hơn các ứng dụng cùng loại khi cung cấp từ điển Anh, Nga, Trung Quốc, Pháp. Không có gì tiện lợi hơn.
+Google Traduction : để dịch văn bản khi offline.
+Google Translate là ứng dụng được nhiều người biết đến, người dùng biết rõ ưu và nhược điểm của ứng dụng này. Tuy nhiên, ứng dụng được người dùng ưa thích khi cung cấp chế độ dịch offline. Đơn giản chỉ cần tải về ngôn ngữ mà bạn lựa chọn của bạn trước khi bạn chuẩn bị hành lí, sau đó ứng dụng sẽ sẵn sàng giúp bạn dịch văn bản từ các hình ảnh, ghi chép hoặc thậm chí các cuộc thảo luận ! Hãy nhớ dành không gian lưu trữ để lưu tất cả các nội dung này.
+Wikipedia Mobile : để hiểu văn hóa (của các nước) khi offline.
+Bạn ưa thích những bài viết trên Wikipedia ? Bạn sẽ hài lòng khi biết rằng, bạn có thể lưu giữ các bài viết này ở chế độ offline bằng cách nhấn "lưu trữ" từ bài viết.
+Google Maps : để điều hướng khi offline.
+Các phiên bản cũ của Google Maps gặp khó khi sử dụng ở chế độ ngoại tuyến, nhưng hiện nay vấn đề này đã được giải quyết. Đơn giản chỉ cần vào menu bên trái của ứng dụng, sau đó vào Khu vực offline. Bạn có thể tự do chọn những gì bạn muốn lưu lại : một khu phố, một thành phố vv. Tuy nhiên cần lưu ý nếu bạn chọn vùng tra cứu offline càng rộng, những dữ liệu tải về trên điện thoại thông minh càng nhiều.
+Những dữ liệu này sẽ tự động xóa sau 29 ngày. Thuận tiện để tiết kiệm không gian lưu trữ cho thiết bị di động. Nhưng bất lợi cho những người đang di chuyển dài ngày và quên tải lại các bản đồ mà họ cần.
+Extra - Spotify : để nghe nhạc khi offline.
+Spotify là một trong những ứng dụng phổ biến nhất trong lĩnh vực nghe nhạc trực tuyến. Bạn không chỉ có thể truy cập vào hàng triệu bài hát mà còn có thể tạo danh sách nhạc của riêng mình.
+Nếu bạn là khách hàng VIP, bạn có thể truy cập vào tất cả các bài hát mà bạn ưa thích khi thiết bị không kết nối Internet. Với 9,99 euro/tháng, bạn có thể lưu giữ album bài hát và danh sách nhạc của mình trên điện thoại thông minh, rồi thưởng thức chúng ở bất cứ nơi nào mà bạn muốn.
+Phạm Lê - Quế Anh (androidpit).

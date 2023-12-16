@@ -1,0 +1,12 @@
+Reuters vừa dẫn thông tin từ báo chí Việt Nam cho biết BKAV - công ty an ninh mạng đã có thể đánh lừa Face ID trên iPhone X với một chiếc mặt nạ 3D được làm từ silicone và băng giấy.
+Theo đó, Thứ 6 ngày 10/11/2017, BKAV đã thông báo Face ID hoàn toàn có thể bị bẻ khóa, kèm theo đó là video cho thấy iPhone X có thể mớ khóa với chỉ chiếc mặt nạ.
+Trong video, ông Ngô Tuấn Anh - phó chủ tích BKAV trước tiên mở khóa iPhone X bằng khuôn mặt của ông, sau đó mở khóa bằng mặt nạ - cả 2 trường hợp đều dễ dàng mở khóa được.
+Theo thông tin mà BKAV cung cấp cho Reuters thì ông Tuấn Anh đã không đăng ký ID người dùng cũng như không đăng ký mặt nạ là khuôn mặt nhận diện ngay từ đầu. Và để chế tạo mặt nạ đánh lừa iPhone X, BKAV đã mất cả tuần nghiên cứu và 9 giờ để chế tác mặt nạ với các vật liệu khá rẻ tiền: khung mặt được tạo thành từ máy in 3D theo hình ảnh chủ nhân máy, phần mắt được in bằng ảnh 2D (giấy), mũi được làm từ silicone và khuôn mặt được phủ bằng băng dính giấy (tổng cộng chỉ 150 USD).
+Chiếc mặt nạ được chế tạo với các vật liệu đơn giản, rẻ tiền.
+Ông Tuấn Anh cũng cho biết, "Không dễ để một người thường có thể đánh bại Face ID. Tuy nhiên, đối với những chính trị gia và người chủ doanh nghiệp thì thực sự là mối đe dọa về bảo mật". Đồng thời, ông cũng khuyên người dùng "không nên đưa iPhone X (đã kích hoạt Face ID) cho bất cứ ai mượn".
+Ngay từ năm 2009, BKAV đã có thể "hack" được những laptop của 3 thương hiệu hàng đầu thế giới có áp dụng công nghệ nhận diện khuôn mặt trong bảo mật. Điều này có lẽ chính là cơ sở để giúp BKAV có thể dễ dàng qua mặt Face ID trên iPhone X.
+BKAV cho biết, để mở khóa, iPhone X và mặt nạ phải để ở một góc độ cố định.
+Đây là trường hợp đầu tiên trên thế giới thông báo "đánh bại" Face ID. Trước đó, đã rất nhiều đơn vị thực nghiệm với những chi phí thậm chí còn đắt đỏ hơn cũng chưa thành công trong việc đánh lừa iPhone X.
+"Không cái gì có thể đảm bảo an toàn 100%" Terry Ray - giám đốc của Imperva - một công ty công nghệ có trụ sở tại Mỹ cho biết. "Chắc chắn một lúc nào đó, theo một cách nào đó. Nhưng vấn đề là sẽ gặp những rắc rối nào, tốn bao nhiêu tiền và cách thức xử lý như thế nào".
+Hiện Apple chưa có bình luận gì về vấn đề này. Trước đó hãng cho biết Face ID là "bất khả xâm phạm". Apple từng cho biết, xác suất để mở khóa Face ID thành công bằng người khác chỉ là một phần triệu, thấp hơn rất nhiều so với xác suất mở khóa vân tay trước đó (1/50,000).
+Nguyễn Oanh, Nguyễn Tuấn Linh.

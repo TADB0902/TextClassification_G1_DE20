@@ -1,0 +1,15 @@
+Các phần mềm độc hại, phần mềm gián điệp hay phần mềm quảng cáo thường chạy nền trong hệ thống khiến người dùng rất khó để phát hiện ra. Để tránh bị lộ thông tin và bị ăn cắp thông tin cá nhân, tài khoản và các dữ liệu quan trọng khác, bạn cần phải ngăn chặn các vấn đề trên.
+Ảnh plo.vn.
+Để kiểm tra, bạn cần thực hiện theo 2 mẹo nhỏ dưới đây:
+Kiểm soát kết nối bằng câu lệnh netstat.
+Đối với máy tính chạy hệ điều hành Windows, bạn có thể sử dụng lệnh netstat để kiểm soát toàn bộ kết nối ra vào.
+- Windows 7/Vista : Bạn hãy bấm vào menu Start và nhập từ khóa cmd.exe trong khung tìm kiếm. Sau đó, nhấn chuột phải vào cmd.exe và chọn Run as administrator.
+- Windows 8/8.1/10 : Đối với các hệ thống cao hơn, bạn chỉ cần nhấn chuột phải vào menu Start và chọn Command Prompt (Admin).
+Kiểm tra máy tính có bị nhiễm phần mềm gián điệp hay không. Ảnh: Trung Nguyên.
+Tiếp theo, bạn hãy gõ dòng lệnh netstat abf để xem toàn bộ các cú pháp liên quan. Trong đó, tùy chọn -a sẽ liệt kê tất cả thông tin về cổng kết nối, tùy chọn -f sẽ hiển thị tên miền đầy đủ mà các ứng dụng đang kết nối đến Để sử dụng, bạn chỉ cần thay thế từ abf thành các tùy chọn tương ứng, ví dụ netstat -f rồi nhấn Enter.
+Cửa sổ dòng lệnh sẽ hiển thị tất cả thông tin về những phần mềm đang chạy trên hệ thống. Nếu phát hiện có điều gì bất thường, bạn có thể tìm kiếm Google theo cú pháp What is và tìm cách gỡ bỏ.
+Kiểm tra các ứng dụng đang chạy ngầm trên máy tính.
+Phần mềm có giao diện thân thiện và đẹp mắt. Ảnh: plo.vn.
+Bạn có thể sử dụng phần mềm GlassWire để xem toàn bộ thông tin về các ứng dụng và những tiến trình sử dụng internet đang chạy ngầm trên hệ thống. Với phần mềm này, bạn sẽ biết được ứng dụng nào đang kết nối tới đâu và nó đang sử dụng hết bao nhiêu dung lượng đường truyền internet.
+Nếu bạn thấy có ứng dụng hay tiến trình nào hoạt động bất thường hãy nhấp chuột vào biểu tượng đốm lửa ngay trước tên tiến trình để ngăn không cho ứng dụng đó kết nối Internet, sau đó tiến hành gỡ ứng dụng.
+Trung Kiên (tổng hợp).

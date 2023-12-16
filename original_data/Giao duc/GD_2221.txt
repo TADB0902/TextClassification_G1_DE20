@@ -1,0 +1,8 @@
+Các lập trình viên trẻ tham gia cuộc thi Zalo Hackathon. (Nguồn: Zing).
+Tối 17/12, vòng chung kết Zalo Hackathon đã kết thúc với phần thắng thuộc về đội Trojans gồm 3 thành viên đến từ trường Đại học Sư phạm Kỹ thuật và Đại học Bách khoa Thành phố Hồ Chí Minh.
+Về Nhì tại cuộc thi là đội Knights gồm các bạn học sinh của trường Phổ thông Năng Khiếu Thành phố Hồ Chí Minh. Ngoài ra, cùng ở vị trí thứ hai còn có Botdy  đội thi gồm các lập trình viên trẻ đến từ Hà Nội.
+Zalo Hackathon có 70 đội đăng ký tham dự. Tại cuộc thi, 31 đội được lựa chọn dự thi có 24h lập trình liên tục để hoàn thành sản phẩm, trải qua 2 vòng trình bày ý tưởng thuyết phục trước Hội đồng chuyên môn.
+Chọn nhóm đề tài liên quan đến các ứng dụng kiểm tra sức khỏe, ý tưởng của đội giành giải Nhất (Trojans) dựa trên lượng thức ăn mỗi người nạp vào mỗi ngày và cảm biến cơ thể để tính ra lượng calo dư thừa cùng với việc căn cứ vào chỉ số chuẩn về sức khỏe để đưa ra cảnh báo và lời khuyên cho người dùng.
+Bài thi được ban giám khảo đánh giá rất cao ở khả năng hoàn thiện ý tưởng trong một khoản thời gian ngắn và đã giành giải thưởng 50 triệu đồng.
+Đánh giá về chất lượng thí sinh, chuyên gia Khúc Anh Tuấn (người từng giành vị trí thứ 2 tại chung kết cuộc thi lập trình Facebook Hacker CUP 2011, 2 lần lọt vào chung kết Google Codejam)  thành viên của Hội đồng chuyên môn cho biết anh khá ấn tượng với khả năng của các đội. Nhiều bài thi đã đáp ứng được tốt cả 3 tiêu chí tính hoàn thiện, tính thực tế và tính sáng tạo./.
+Yên Thủy (Vietnam+).

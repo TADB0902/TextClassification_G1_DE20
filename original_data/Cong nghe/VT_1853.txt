@@ -1,0 +1,22 @@
+Trạm sạc xe điện của Tesla.
+Khi giấc mơ về một thế giới xe chạy hoàn toàn bằng điện đang đến gần, các nhà sản xuất ô tô cạnh tranh nhau phát triển một hạ tầng sạc có thể hoạt động nhanh, thuận tiện, tiến tới trở thành tiêu chuẩn chung cho các loại sạc xe điện trên thị trường, qua đó chiếm ưu thế với các đối thủ cùng phát triển loại xe thân thiện với môi trường này.
+Lý do cần có tiêu chuẩn sản xuất sạc chung.
+Khi xe điện ngày càng đi sâu vào đời sống của người dân toàn thế giới, hạ tầng sạc để phục vụ loại xe này cũng là yếu tố vô cùng quan trọng, thậm chí, theo các chuyên gia, nó là yếu tố quyết định thành bại của các hãng ô tô công nghệ mới trên toàn cầu.
+Ngân hàng Thụy Sĩ UBS ước tính, cần phải chi 360 tỉ USD trong 8 năm tới để xây dựng hệ thống sạc toàn cầu nhằm bắt kịp bước phát triển về doanh số ô tô điện và điều quan trọng là phải hạn chế số lượng công nghệ đang được sử dụng.
+Ngân hàng UBS cho biết: Thị trường sạc nhanh có lẽ đang phát triển mạnh nhưng việc cần phải giải quyết trước mắt là hạn chế loại đầu cắm và cách kết nối khác nhau.
+Hiện tại, Tesla và các nhà sản xuất ô tô tại Đức, Nhật Bản sử dụng các đầu cắm và giao thức tương tác khác nhau để kết nối pin trên xe với máy sạc.
+Tuy nhiên, các công ty đang xây dựng hệ thống sạc của xe điện cho rằng, trong bối cảnh loại xe này ngày càng được người dùng tin tưởng, sử dụng, các nhà sản xuất cần phải hạn chế số kiểu đầu cắm để giảm chi phí sản xuất, tạo điều kiện thuận lợi cho khách hàng.
+Hãng sản xuất ô tô điện nào có công nghệ được chọn làm tiêu chuẩn sẽ được hưởng rất nhiều lợi ích. Họ sẽ trở thành chuỗi cung cấp đáng tin cậy, từ đây mở rộng hệ thống trạm sạc.
+Các phương tiện cũng trở nên hấp dẫn hơn đối với hành khách vì họ có thể trút bỏ nỗi lo khi phải sử dụng xe điện trên các hành trình dài - các nhà phân tích cho biết.
+Mặt khác, với những nhà sản xuất không được lựa chọn, họ có thể phải cân nhắc chuyện dừng các dự án nghiên cứu, phát triển dư thừa và chuyển sang tập trung đầu tư vào thiết kế phương tiện để khách hàng có thể sử dụng những hệ thống sạc nhanh nhất.
+Những ứng viên tiềm năng.
+Ford - công ty sản xuất ô tô của Mỹ và Tập đoàn ô tô của Đức Volkswagen (bao gồm các thương hiệu Audi và Porsche) đang tìm phương án sản xuất Hệ thống sạc kết hợp (CCS). Họ đã nhận được sự ủng hộ của châu Âu cũng như các đối thủ của chính mình là BMW, Mercedes-Benz.
+Tháng 11 năm ngoái, Ford và Volkswagen cho biết, sẽ phát triển 400 trạm sạc trên các tuyến đường lớn ở 18 quốc gia châu Âu tính đến năm 2020.
+Bên cạnh CCS, có 3 hệ thống sạc pin nhanh đang được sử dụng phổ biến khác: Hệ thống siêu sạc của Tesla, CHAdeMO hay còn gọi là Charge de Move của các công ty Nhật Bản gồm: Nissan, Mitsubishi và GB/T do Trung Quốc phát triển.
+Tôi nghĩ, qua thời gian, CHAdeMO và CCS sẽ thay đổi về gần giống như tiêu chuẩn CCS hiện tại, ông Pasquale Romano, Giám đốc điều hành Công ty ChargePoin có trụ sở tại Sillicon Valley, điều hành một trong những hệ thống sạc lớn nhất thế giới cho hay.
+Cho đến nay, có khoảng 7.000 điểm sạc CCS trên toàn thế giới, theo CharlN, trong đó hơn một nửa tại châu Âu. Liên minh châu Âu ủng hộ CCS là tiêu chuẩn sạc nhanh nhưng không cấm lắp đặt các thiết bị sạc khác.
+Trong khi đó, có 16.639 điểm sạc tương thích với CHAdeMO - hầu hết tại Nhật Bản và châu Âu. Tại Trung Quốc, có khoảng 127.434 trạm sạc GB/T, theo Liên hiệp Thúc đẩy hạ tầng sạc phương tiện chạy bằng điện của Trung Quốc.
+Để đánh giá loại sạc nào sẽ vươn lên trở thành tiêu chuẩn chung là rất khó vì mỗi loại sạc lại có điểm mạnh, điểm yếu khác nhau.
+Trong khi hệ thống siêu sạc của Tesla là độc quyền đối với khách hàng sử dụng xe của họ thì CCS lại có đặc điểm sạc đôi có thể dùng được cho cả loại dòng điện một chiều (DC) và xoay chiều (AC), tăng địa điểm tài xế có thể nạp lại pin xe.
+Còn CHAdeMO cho phép ô tô bán năng lượng từ pin của họ trở về mạng lưới điện.Đây là một quá trình được gọi là sạc trực tiếp song song, có thể giúp ổn định hệ thống điện trong thời gian nhu cầu đi lại không nhiều và chủ xe có thể kiếm thêm chút tiền.
+Thiện Tâm.

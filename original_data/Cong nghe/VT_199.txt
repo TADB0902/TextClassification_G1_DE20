@@ -1,0 +1,9 @@
+Trong năm 2017, Trend Micro đã dự đoán rằng các cuộc tấn công bằng ransomware sẽ phát triển mạnh mẽ. Không nằm ngoài dự đoán, sự cố WannaCry, các cuộc tấn công Petya, Locky & FakeGlobe và Bad Rabbit đã gây ra những ảnh hưởng không nhỏ đến người dùng.
+4 cách hạn chế phần mềm độc hại trên Android.
+(PLO)- Android cho phép người dùng tùy biến mọi thứ từ giao diện, biểu tượng, tính năng... dễ dàng hơn so với iOS. Cũng chính vì vậy mà hệ điều hành này dễ bị tấn công bởi những phần mềm độc hại.
+Các phần mềm độc hại bằng nhiều cách sẽ chiếm đoạt thông tin giao dịch ngân hàng, thông tin cá nhân của người dùng. Malware thường xuất hiện dưới dạng các phần mềm diệt virus giả mạo, người dùng bị lừa gạt sẽ buộc phải trả tiền để lấy lại quyền truy cập vào thiết bị.
+Trend Micro dự đoán rằng mục tiêu tấn công hàng đầu của tin tặc trong năm 2018 là các thiết bị IoT (Internet of Things). Máy quay video kỹ thuật số (DVR), Camera IP và Router có thể bị xâm nhập và phá hoại. Bên cạnh đó, bằng việc thực hiện các cuộc tấn công DDoS, tin tặc sử dụng địa chỉ IP của IoT bị tấn công để giả mạo vị trí và lưu lượng truy cập web. Từ đó, chúng sẽ thực hiện các cuộc tấn công mạng khác mà không sợ bị các cơ quan an ninh mạng tra rõ vị trí IP.
+Trend Micro khuyến cáo người dùng cá nhân và doanh nghiệp nên thường xuyên kiểm tra các bản cập nhật phần mềm và áp dụng bản vá lỗi. Các giải pháp bảo mật về mạng nên tập trung vào việc thực hiện các bản vá trực tuyến và thường xuyên kiểm tra lưu lượng bất hợp lý từ mọi nguồn. Và hơn hết, việc cập nhật tin tức về các vấn đề bảo mật hằng ngày là cực kỳ quan trọng trong thời đại công nghệ hiện nay.
+Cách phòng tránh mã độc đào tiền ảo.
+(PLO)- Với sự tăng trưởng nhanh chóng của các đồng tiền ảo mà cụ thể là bitcoin, người dùng đang gặp phải nhiều mối nguy hơn khi tội phạm mạng nhắm vào mục tiêu này.
+TIỂU MINH.

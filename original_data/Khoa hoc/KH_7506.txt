@@ -1,0 +1,65 @@
+Cô Nguyễn Thị Hường cho biết: Trong chương trình lớp 8 THCS, học sinh (HS) đã được trang bị những khái niệm cơ bản về chất, dung dịch, quá trình hòa tan, axit, bazơ, muối....
+Chương trình lớp 11 sẽ giúp cho việc phát triển, mở rộng các khái niệm về chất (chất điện li, chất không điện li, chất điện li mạnh, chất điện li yếu, phát triển khái niệm axit, bazơ, muối, khái niệm phản ứng hóa học xảy ra trong dung dịch chất điện li với sự tham gia của dung môi (phản ứng trao đổi, phản ứng thủy phân).
+Vì vậy, việc giúp HS hiểu và nắm vững các khái niệm quan trọng trong chương là rất cần thiết.
+Những cách thông dụng để tạo tình huống gợi vấn đề được cô Hường đưa ra là: Dự đoán nhờ nhận xét trực quan và thực nghiệm; lật ngược vấn đề; xem xét tương tự; khái quát hóa; giải bài tập mà người học chưa biết thuật giải; phát hiện những sai lầm và sửa chữa sai lầm.
+Khi dạy về khái niệm chất điện li.
+Ví dụ cụ thể về phương pháp dạy học nêu và giải quyết vấn đề khi dạy khái niệm chất điện li được cô Hường chia sẻ như sau:
+Bước 1 - nêu vấn đề: Tại sao có dung dịch hoặc chất dẫn điện, có dung dịch hoặc chất không dẫn điện. Những chất như thế nào thì dẫn được điện? Những chất như thế nào thì không dẫn được điện?
+Bước 2 - tạo tình huống có vấn đề: Giáo viên (GV) cho HS làm thí nghiệm kiểm tra tính dẫn điện của các chất:
+GV làm thí nghiệm tương tự hình 1.1, SGK hóa học 11 - ban cơ bản. Cho HS nhận xét.
+GV cho HS làm thí nghiệm tương tự nhưng thay 3 cốc trên bằng 4 cốc khác: cốc (1) NaCl rắn, khan; cốc (2) đựng NaOH rắn, khan; cốc (3) đựng ancol etylic; cốc (4) đựng glixerol, yêu cầu HS nhận xét.
+GV đặt vấn đề: Tại sao có dung dịch hoặc chất dẫn điện, có dung dịch hoặc chất không dẫn điện.
+Bước 3 - giải quyết vấn đề: GV hướng dẫn HS giải quyết vấn đề bằng cách cho biết khái niệm dòng điện.
+NaCl tan trong nước tạo ra các ion Na+ và Cl-, do trong dung dịch tồn tại các ion nên dẫn được điện.
+NaOH tan trong nước tạo ra các ion Na+ và OH-, do trong dung dịch tồn tại các ion nên dẫn được điện.
+Bước 4 - kết luận vấn đề và vận dụng trong các tình huống khác nhau: HS kết luận khái niệm chất điện li Những chất khi tan trong nước tạo thành dung dịch dẫn điện được gọi là chất điện li.
+GV đặt vấn đề: Khái niệm chất điện li có thể được phát biểu Những chất mà dung dịch chúng dẫn điện là những chất điện li không? Giải thích?
+GV yêu cầu HS làm một bài tập để khắc sâu lý thuyết: Trong các chất sau chất nào là chất điện li: BaCl2, H2SO4, NaOH, CH3COOH, CaO, SO3, CO, FeO, CO2, H2CO3....
+D ạy về khái niệm chất điện li mạnh, chất điện li yếu.
+Cô Nguyễn Thị Hường đưa ví dụ về phương pháp dạy học nêu và giải quyết vấn đề khi dạy khái niệm chất điện li mạnh, chất điện li yếu:
+Bước 1 - nêu vấn đề: Các chất khác nhau thì có mức độ điện li khác nhau không? Nếu có thì phân loại như thế nào?
+Bước 2 - tạo tình huống có vấn đề: GV biểu diễn thí nghiệm: Lấy hai cốc, cốc một đựng 2ml dung dịch HCl 0,1M, cốc 2 đựng 2ml dung dịch CH3COOH 0,1M rồi lắp vào bộ dụng cụ như hình 1.1 SGK - trang 4. Khi nối các đầu dây dẫn điện với cùng một nguồn điện, ta thấy bóng đèn ở cốc 1 sáng hơn ở cốc 2. Tại sao lại có sự khác nhau về độ sáng của hai bóng đèn như vậy?
+Bước 3 - giải quyết vấn đề.
+- Đề xuất giả thuyết:
++ (1) HCl là axit mạnh nên tác dụng với nước sinh ra nhiều ion hơn CH3COOH nên dẫn điện tốt hơn, do đó bóng đèn sáng hơn.
++ (2) HCl điện li mạnh hơn CH3COOH nên dẫn điện tốt hơn, do đó bóng đèn sáng hơn.
+- Thực hiện kế hoạch giải quyết giả thuyết.
+Bước 4 - kết luận vấn đề và vận dụng trong các tình huống khác nhau: Kết luận khái niệm về chất điện li yếu và chất điện li mạnh và cách viết phương trình điện li với chất điện li yếu và chất điện li mạnh. Yêu cầu HS lấy thêm ví dụ về chất điện li yếu, chất điện li mạnh và viết phương trình điện li của các chất đó.
+Khi dạy về khái niệm hidroxit lưỡng tính.
+Ví dụ của cô Nguyễn Thị Hường về dạy về phương pháp dạy học nêu và giải quyết vấn đề khi dạy khái niệm hidroxit lưỡng tính:
+Bước 1 - nêu vấn đề: Zn(OH)2 là một hidroxit có hai nhóm OH, vậy nó có tan trong NaOH hay không?
+Bước 2 - tạo tình huống có vấn đề: GV biểu diễn thí nghiệm: Lấy hai ống nghiệm, cho vào mỗi ống 1ml dung dịch muối kẽm (chẳng hạn ZnSO4). Nhỏ tiếp vào mỗi ống 5 - 6 giọt dung dịch NaOH được kết tủa Zn(OH)2 màu trắng. Cho tiếp vào ống 1 vài giọt HCl, ống 2 vài giọt NaOH, lắc nhẹ hai ống nghiệm.
+Nhận xét hiện tượng: Zn(OH)2 tan cả ở hai ống nghiệm. GV yêu cầu HS nêu câu hỏi phát hiện vấn đề: Zn(OH)2 là một bazơ thì làm sao tan trong NaOH được.
+Bước 3 - giải quyết vấn đề.
+- Đề xuất giả thuyết.
++ (1) Zn(OH)2 thể hiện tính bazơ khi tác dụng với HCl và thể hiện tính axit khi tác dụng với NaOH. Tức là Zn(OH)2 có hai kiểu phân li tùy điều kiện:
++ (2) Trong dung dịch NaOH có nước, H2O có H nên có tính axit hòa tan được Zn(OH)2.
+- Thực hiện kế hoạch giải quyết giả thuyết.
++ (1) Làm thí nghiệm lấy hai ống nghiệm, cho vào mỗi ống 1ml dung dịch muối kẽm (chẳng hạn ZnSO4). Nhỏ tiếp vào mỗi ống 5 - 6 giọt dung dịch NaOH được kết tủa Zn(OH)2 màu trắng. Cho tiếp vào ống 1 vài giọt HCl, ống 2 vài giọt NaOH, lắc nhẹ hai ống nghiệm. Thấy Zn(OH)2 tan cả ở hai ống nghiệm. Chứng tỏ Zn(OH)2 phản ứng với cả NaOH và HCl.
++ (2) Zn(OH)2 không tan trong nước nên bác bỏ giả thuyết này.
+Bước 4 - kết luận vấn đề và vận dụng trong các tình huống khác nhau:Kết luận Zn(OH)2 là một hidroxit lưỡng tính. Yêu cầu HS cho biết khái niệm về hidroxit lưỡng tính. Sau đó GV kết luận lại khái niệm về hidroxit lưỡng tính và bổ sung các hidroxit lưỡng tính thường gặp: Zn(OH)2, Al(OH)3, Sn(OH)2, Pb(OH)2. Chúng đều ít tan trong nước và có lực axit, lực bazơ đều yếu.
+Khi dạy về khái niệm bazơ.
+Ví dụ của cô Nguyễn Thị Hường về dạyvề phương pháp dạy học nêu và giải quyết vấn đề khi dạy khái niệm bazơ:
+Bước 1 - nêu vấn đề:Chúng ta đã được học khái niệm axit, bazơ, muối ở lớp 8. Khí amoniac có phải là là một bazơ?
+GV phát biểu vấn đề: Amoniăc có phải là một bazơ hay không? Định nghĩa của bazơ?
+Bước 2 - tạo tình huống có vấn đề(bằng cách dự đoán nhờ nhận xét trực quan và thực nghiệm):
+Tiến hành thí nghiệm:
+Ống nghiệm 1: Chứa khí NH3 Dùng để ĐC.
+Ống nghiệm 2: Chứa khí NH3 trên miệng ống có đặt mẩu giấy quỳ tím ẩm.
+Nhận xét hiện tượng.
+Ống 2: Quỳ tím chuyển màu xanh.
+GV nêu câu hỏi phát hiện vấn đề: NH3 không có nhóm OH thì làm sao có sự phân li để tạo ra ion OH- trong nước và làm xanh được quỳ tím ẩm và tạo muối với HCl?
+Bước 3 - giải quyết vấn đề.
+- Đề xuất giả thuyết.
++ (1) H2O có nhóm OH nên có tính bazơ nên làm quỳ tím chuyển sang màu xanh.
++ (2) Do nguyên tử N trong phân tử NH3 còn cặp e tự do nên có thể nhận proton H+, còn H2O nhường proton cho NH3 tạo ra OH nên làm quỳ tím chuyển màu xanh.
++ (3) Do NH3 phân cực đã lôi kéo H của phân tử nước tách ra khỏi phân tử tạo ra ion OH-.
+- Thực hiện kế hoạch giải quyết vấn đề.
++ (1) Làm thí nghiệm nhúng giấy quỳ vào nước. Không thấy giấy quỳ chuyển màu chứng tỏ nước không làm chuyển màu quỳ tím à Bác bỏ giả thuyết này.
+Làm thí nghiệm ống nghiệm chứa khí NH3. Đưa đũa thủy tinh đã nhúng dung dịch HCl đặc lại gần miệng ống nghiệm. Có khói trắng xuất hiện trên miệng ống nghiệm.
+Yêu cầu HS viết phương trình phản ứng và cho biết phản ứng cho sản phẩm thuộc loại hợp chất nào? Phản ứng thuộc loại phản ứng hóa học nào?
+Sản phẩm (khói trắng) ở đây chính là muối NH4Cl. Phản ứng tạo ra muối giống như phản ứng trung hòa. Chứng tỏ NH3 là một bazơ.
++ (3) Do nitơ có độ âm điện (3,04) nhỏ hơn của oxi (3,44) nên không thể lôi kéo H của phân tử nước tách ra khỏi phân tử tạo ra ion OH-.
+--> Bác bỏ giả thuyết này.
+Bước 4 - kết luận vấn đề và vận dụng trong các tình huống khác nhau: Kết luận NH3 là một bazơ. Yêu cầu HS cho biết khái niệm về axit, bazơ. Sau đó GV kết luận lại khái niệm về axit, bazơ.
+Hải Bình.

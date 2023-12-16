@@ -1,0 +1,6 @@
+CEO Google Sundar Pichai vừa giới thiệu Google for Jobs, một sáng kiến từ Google cho phép mọi người tìm kiếm việc làm trong khu vực với danh sách được liệt kê từ các trang như LinkedIn, Facebook và CareerBuilder.
+Khi Google for Jobs ra mắt trong vài tuần tới, nó sẽ hoạt động như một công cụ tìm kiếm việc làm để duyệt qua đồng thời nhiều trang web. Bản thân tôi khá tâm huyết với dự án vì nó giải quyết nhu cầu quan trọng, ông Pichai phát biểu tại sự kiện I/O 2017 đang diễn ra tại Silicon Valley.
+Để bắt đầu với Google for Jobs, bạn phải tìm kiếm từ khóa như bán lẻ trong hộp tìm kiếm Google. Nó sẽ hiển thị những danh sách việc làm ở khu vực lân cận bạn đang sống. Từ đây, bạn lọc theo ngày đăng, loại công việc, yêu cầu trình độ, chức danh. Thậm chí, sau này, còn có cả tính năng lọc theo thời gian di chuyển.
+Ý tưởng của Google là dùng trí tuệ nhân tạo để phân loại công việc. Như ông Pichai lưu ý, bán lẻ đồng nghĩa với bất kỳ công việc gì từ bán hàng, quản lý cửa hàng, kinh doanh, vì vậy Google sẽ khớp các mẫu để bạn tìm ra chính xác loại công việc đang tìm kiếm.
+Một điều thú vị là Google sẽ lấy thông tin từ các đối thủ như Facebook và LinkedIn, một công ty con của Microsoft. Đồng thời, đây cũng là cách để hãng kiếm doanh thu từ chỉ mục thông tin.
+Du Lam (Theo BI).

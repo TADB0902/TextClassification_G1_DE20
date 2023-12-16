@@ -1,0 +1,12 @@
+Tiện ích mở rộng Archive Poster bị phát hiện đào tiền ảo Monero trên máy tính người dùng.
+Một tiện ích mở rộng mang tên "Archive Poster" vừa được phát hiện trên trình duyệt Chrome với mục đích đào tiển ảo Monero. Đã có hơn 105.000 người dùng đã tải và sử dụng extension này từ Chrome Store kể từ tháng 4.2014.
+Theo thông tin từ Window latest, đây là công cụ hỗ trợ cho người dùng khi tham gia mạng xã hội Tumblr. Các nhà phát triển bắt đầu công khai extension và tạo ra một luồng khai thác JavaScript để đào tiền cho Monero vào đầu tháng 12.2017.
+Đây cũng là lúc những phàn nàn đầu tiên xuất hiện khi nhiều người dùng cho rằng, Archive Poster - một tiện ích mở rộng của trình duyệt Google Chrome được thiết kế nhằm giúp người dùng Tumblr thực hiện các tác vụ khác nhau - đã bị nhiễm một chương trình khai thác Monero.
+Phần mềm này không cần hỏi ý kiến người dùng để được phép hoạt động. Nó còn làm chậm tốc độ xử lý của máy tính do nó di chuyển năng lực tính toán sang giải quyết các câu đố toán học để nhận được phần thưởng đồng tiền số.
+Trước những thông tin trên, Essence Labs - nhà phát triển của tiện ích Archive Poster đã thừa nhận vấn đề trong một tuyên bố. Ngày sau đó, tiện ích Archive Poster đã bị loại khỏi cửa hàng ứng dụng của trang web Google Chrome. Hiện tại, Essence Labs đang hướng người dùng đến một phiên bản mà phía này cho là an toàn hơn.
+Troy Mursch - chuyên viên nghiên cứu an ninh mạng nhận định: "Tôi không nghĩ rằng Google đang coi sự cố này là một vấn đề bảo mật nghiêm trọng. Họ đã không đưa ra một kế hoạch hành động để ngăn chặn nó tiếp tục xảy ra trên Chrome".
+"Không nên sử dụng tiện ích mở rộng này vì nó tận dụng máy tính để khai thác tiền ảo. Sau khi cài đặt, thiết bị sẽ ngốn CPU của thiết bị và làm máy chậm đi trông thấy.
+Nếu đang cài Archive Poster, người dùng sẽ thấy mức hoạt động của CPU luôn ở mức cao mỗi khi mở Google Chrome. nên gỡ extension này để tránh tốn tài nguyên máy tính, một người dùng đưa ra lời khuyên.
+Theo Bleeping Computer, khoảng đầu tháng 12.2017, phần mở rộng đã kết hợp với chương trình đào tiền mã hóa Coinhive nổi tiếng vào mã nguồn.
+Theo một nhà nghiên cứu bảo mật sống tại Mỹ thông tin cho Bleeping Computer, mã Javascript này đã bí mật khởi động tiến trình trộm tài nguyên CPU để thực hiện đào tiền ảo. Đi sâu hơn, phần mở rộng này đã tích hợp Coinhive vào trong ít nhất 4 phiên bản gần nhất.
+Hoàng Nhật.

@@ -1,0 +1,29 @@
+Tại sao lại xóa thanh Tìm kiếm Google.
+Google luôn muốn đẩy mạnh dịch vụ Trợ lý. Đó cũng là lý do tại sao họ lại đặt biểu tượng microphone nhỏ trên thanh Tìm kiếm của họ với hy vọng rằng nhờ vào vị trí thuận lợi dễ nhìn, người dùng sẽ sử dụng nó. Nhưng nếu bạn không muốn sử dụng nó, bạn có thể xóa nó ra khỏi màn hình chính. Việc loại bỏ thanh tìm kiếm thường khá dễ dàng trên hầu hết các điện thoại.
+Lý do phổ biến nhất là phần không gian trên trên màn hình: xóa bỏ thanh tìm kiếm Google bạn có thể tận dụng không gian để cách hiển thị các biểu tượng ứng dụng khác hay chỉ để hình nền trên màn hình được trọn vẹn hơn.
+Cách xóa thanh Tìm kiếm Google.
+Loại bỏ thanh Tìm kiếm Google không hề khó khăn, nhưng mỗi thiết bị lại có quy trình khác nhau. Cách đơn giản nhất là ấn giữ vào thanh và lựa chọn các tùy chọn như di chuyển hoặc ẩn.
+Ví dụ: trên điện thoại Samsung và LG, bạn chỉ cần xóa nó giống như bất kỳ ứng dụng trên màn hình chính khác. Tuy nhiên, quá trình này sẽ không hoạt động với Sony Xperia.
+Điện thoại Samsung.
+- Chạm và giữ trên thanh Tìm kiếm Google.
+- Kéo nó vào biểu tượng thùng rác hoặc lựa chọn remove ở đầu màn hình.
+Để hiển thị lại thanh Tìm kiếm Google:
+- Chạm và giữ một khoảng trắng trống trên màn hình chính.
+- Chạm vào Widget trong menu.
+- Điều hướng tới thư mục Google App và gõ vào đó.
+- Kéo và thả thanh Tìm kiếm từ bên trong thư mục đến không gian thích hợp trên màn hình chính.
+Điện thoại Sony.
+- Chạm và giữ thanh Tìm kiếm Google và menu mới sẽ xuất hiện.
+- Ở phía đầu màn hình sẽ là thanh Tìm kiếm Google, bên phải là Hide. Chạm vào Hide để ẩn.
+- Chạm vào nút Home Button hoặc phím trở về.
+- Thanh Tìm kiếm Google đã được ẩn.
+Nếu bạn muốn lấy lại thanh Tìm kiếm Google khi đã gỡ bỏ nó, bạn chỉ cần đảo ngược các bước trên.
+Một số cách xóa thanh Tìm kiếm Google khác:
+- Mở Settings, sau đó mở Apps.
+- Trong danh sách All Apps, hãy tìm ứng dụng Google, chạm vào ứng dụng đó và chọn vô hiệu hóa.
+- Khởi động lại điện thoại và thanh tìm kiếm sẽ biến mất!
+Cách xóa thanh Tìm kiếm Google với trình khởi chạy tùy chỉnh.
+Một cách đơn giản khác để thoát khỏi thanh Tìm kiếm Google là chỉ cần tìm một trình khởi chạy tùy chỉnh như Nova Launcher hoặc Apex Launcher. Các thiết bị này có thể hoàn toàn tùy chỉnh thiết bị Android theo cách mà mà bạn mong muốn, thậm chí có rất nhiều trình khởi chạy hoàn toàn miễn phí.
+Cách xóa thanh Tìm kiếm Google bằng cách root thiết bị Android.
+Nếu bạn root điện thoại, bạn có thể xóa thanh Tìm kiếm Google. Android gốc gần như hoàn toàn tùy biến được, do đó một khi bạn đã root lại thiết bị, bất kỳ ROM tùy chỉnh nào cũng sẽ cho phép bạn gỡ cài đặt ứng dụng Tìm kiếm của Google.
+Thanh Hà /

@@ -1,0 +1,4 @@
+Python, một ngôn ngữ lập trình phổ biến gần đây đã được bổ sung vào sách giáo khoa công nghệ thông tin của học sinh lớp 6 ở tỉnh này. Theo Chen Fei, nhà nghiên cứu tại ĐH Shenzhen, lớp học Python mở ra chủ yếu để giúp học sinh trau dồi năng khiếu về ngôn ngữ lập trình.
+Đây không phải là ví dụ duy nhất về tầm quan trọng ngày càng tăng liên quan đến ngôn ngữ lập trình ở Trung Quốc. Theo một thông báo được đưa ra bởi bộ phận quản lý thi cử của Bộ giáo dục, Python sẽ trở thành một môn thi trong kỳ thi xếp hạng về tin học quốc gia bắt đầu từ tháng 3 năm 2018.
+Được đưa ra lần đầu tiên vào năm 1991, Python là một ngôn ngữ lập trình đa năng, giúp các chuyên gia tin học thể hiện các khái niệm bằng ít dòng mã hơn các ngôn ngữ như C++ hay Java. Vào tháng 6-2017, Python trở thành chủ đề được nhiều người truy cập nhất trong các quốc gia có thu nhập cao trên Stack Overflow, một cộng đồng trực tuyến dành cho các nhà phát triển mạng.
+Tố Linh.

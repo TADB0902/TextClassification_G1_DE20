@@ -1,0 +1,8 @@
+Đà Nẵng sẽ triển khai thanh toán trực tuyến phí dịch vụ công để phục vụ người dân.
+Dự kiến, lễ ký kết thỏa thuận sẽ diễn ra trong tuần tới với nhiều nội dung đánh dấu phát triển mới của Đà Nẵng trong cải cách hành chính.
+Theo thỏa thuận, các bên thống nhất xây dựng Cổng thanh toán trực tuyến TP Đà Nẵng kết nối giữa hệ thống eGov với hệ thống thông tin của ngân hàng để hỗ trợ tổ chức, cá nhân thanh toán phí, lệ phí qua mạng trong sử dụng dịch vụ hành chính công và các phí và lệ phí. Hỗ trợ này sẽ giúp giảm thời gian và chi phí đi lại cho tổ chức, cá nhân.
+Để tiến hành thanh toán qua Cổng thanh toán trực tuyến, tổ chức, cá nhân cần hoàn thành việc kê khai hồ sơ dịch vụ công trực tuyến trên Hệ thống eGov (egov.danang.gov.vn) bằng cách chọn Chức năng thanh toán và nhập các thông tin theo hướng dẫn và thực hiện thanh toán phí.
+Sau khi hoàn thành thủ tục thanh toán, người dùng sẽ nhận được tin nhắn xác nhận hoặc thư điện tử và thực hiện kiểm tra trạng thái hồ sơ đã thanh toán trên hệ thống.
+Với giải pháp này, các tổ chức, cá nhân có thể sử dụng phương thức thanh toán bằng thẻ, tiền mặt hoặc các dịch vụ ngân hàng như: POS, Internet Banking để thanh toán phí, lệ phí dịch vụ công cho cơ quan Nhà nước.
+Trước mắt Cổng thanh toán trực tuyến sẽ áp dụng đối với 46 dịch vụ hành chính công của Sở Công Thương và Sở Y tế. Đòng thời tiến tới triển khai ứng dụng đối với các dịch vụ công trên toàn TP.
+Hồ Xuân Mai.

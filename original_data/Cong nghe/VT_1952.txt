@@ -1,0 +1,15 @@
+Đó là mô hình "Nhà vệ sinh trường học tự động HKH" của em Hoàng Kim Hiếu, học sinh trường THPT Vĩnh Linh, huyện Vĩnh Linh, tỉnh Quảng Trị.
+Hiếu cho biết, mỗi lần đi vệ sinh ở trường, em luôn ngửi thấy có một mùi hôi khó chịu, buồn nôn và lúc đó em không muốn đi vệ sinh nữa. Nguyên nhân là do nhiều bạn chưa có ý thức giữ gìn vệ sinh khiến nơi đây trở thành nỗi ám ảnh không chỉ của Hiếu.
+Bên cạnh đó, việc bật bóng đèn ở nhà vệ sinh 24/24 dù không có người sử dụng cũng gây lãng phí một lượng lớn điện năng không cần thiết.
+Trước những bất cập trên, em đã quyết định làm ra một hệ thống để giải quyết vấn đề này, đó là mô hình nhà vệ sinh trường học tự động HKH. Trong quá trình học nghề môn điện, em đã tự mày mò để chế tạo ra các mạch điện , Hiếu chia sẻ.
+Mô hình nhà vệ sinh tự động của bạn Hoàng Kim Hiếu. Ảnh: Nhật Tuấn.
+Theo tìm hiểu, mô hình nhà vệ trường học tự động có nguyên lý như sau, khi có người bước vào nhà vệ sinh, cảm biến chuyển động sẽ tiếp nhận thông tin và truyền thông tin này vào bộ xử lý. Bộ xử lý khi nhận được thông tin sẽ kích hoạt rơ-le và đèn được bật sáng. Đồng thời, bật luôn hệ thống thông khí Amoniac.
+Khi người dùng bước đến bồn cầu và sử dụng, cảm biến tiệm cận sẽ tiếp nhận thông tin và truyền về bộ xử lí. Bộ xử lý khi nhận được thông tin sẽ kích hoạt rơ-le, khởi động van điện từ 1 (van điện từ 2 đóng), nước sẽ được xả vào bồn chứa nước nhỏ, khi nước chảy vào bồn chứa nước nhỏ với một thể tích nhất định, van sẽ tự ngắt nhờ vào cảm biến nước, Hiếu cho biết.
+Khi người dùng đi vệ sinh xong, van điện từ 2 được bật (van điện từ 1 đóng), nước được xả ra bồn, đồng thời, tắt đèn và hệ thống thông khí Amoniac. Cảm biến nước có chức năng giới hạn nước ở bồn nhỏ khi người dùng sử dụng quá lâu, đồng thời giúp tiết kiệm nước.
+Hiếu rất say mê nghiên cứu khoa học. Ảnh: Nhật Tuấn.
+Chia sẻ về những ưu điểm của mô hình, Hiếu cho biết, hệ thống có giá thành rẻ, áp dụng dễ dàng. Ngoài ra, với tính tự động hóa cao nên sẽ tiết kiệm nước, điện cũng như nhân công quét dọn. Việc giảm mùi hôi trong phòng vệ sinh cũng góp phần bảo vệ môi trường và sức khỏe cho học sinh.
+Hệ thống tự dội nước có thể áp dụng vào một số công việc tự động khác trong nhà vệ sinh như xả nước rửa tay tự động Nếu mô hình có thể áp dụng vào thực tế sẽ là một sản phẩm có ích cho cộng đồng.
+Mô hình nhà vệ sinh trường học tự động HKH khi áp dụng vào đời sống cũng sẽ giải quyết rất nhiều vấn đề cấp thiết và bất cập hiện nay. Tiêu biểu đó là vấn đề e ngại khi đi vệ sinh của các bạn học sinh, tạo một môi trường học đường sạch sẽ, trong lành.
+Mới đây, đề tài đã đạt giải Nhất huyện cuộc thi Sáng tạo trẻ năm 2017 và giải Ba cuộc thi Sáng tạo trẻ tỉnh Quảng Trị năm 2017.
+Thầy Lê Anh Quang, Giáo viên phụ trách mảng nghiên cứu khoa học của nhà trường, chia sẻ: Em Hiếu là một trong những học sinh mê nghiên cứu khoa học của nhà trường, sản phẩm của em có thể đưa vào trong đời sống, làm cho cuộc sống trở nên tiện ích và thông minh hơn".
+Theo Khám phá.

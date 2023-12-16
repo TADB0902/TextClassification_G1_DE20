@@ -1,0 +1,6 @@
+Hệ thống phân loại bão Mặt Trời phân chia hiện tượng theo từng cấp độ, gồm ký hiệu B,C,M và X, trong đó X là cấp độ cao nhất. Giống như độ Richter được quy định trong thảm họa động đất, mỗi chữ cái thể hiện cấp độ năng lượng tăng gấp 10.
+Bão Mặt Trời cấp X xảy ra khi các từ trường trên Mặt Trời va vào nhau và kết nối lại, gây ra các vòng sáng có kích thước lớp gấp 10 lần kích thước Trái Đất giải phóng từ bề mặt Mặt Trời.
+Nếu một vụ nổ Mặt Trời đánh trúng Trái Đất, hiện tượng phun trào sẽ đẩy các đám mây phân tử chứa hạt electron và ion vào bầu khí quyển của chúng ta. Chỉ sau 1-2 ngày, các đám mây đó sẽ phản ứng với các phân tử oxy và ni-tơ tạo ra ánh sáng huỳnh quang trên trời  hay được biết đến với tên gọi cực quang.
+Bão Mặt Trời mạnh nhất mà các nhà khoa học từng ghi nhận xảy ra trong năm 2003, khi vụ nổ này vô hiệu hóa máy cảm ứng đo mức năng lượng. Sự kiện năm đó được xếp vào cấp độ X-17, nhưng nó được ước tính phát ra năng lượng sát cấp độ X-45.
+Trong khi đó, năm 1859, thế giới cũng được chứng kiến sự kiện bão Mặt Trời đánh trúng Trái Đất, gây ra hiện tượng Sự kiện Carrington  đánh sập toàn bộ hệ thống đánh điện trên khắp châu Âu và Bắc Mỹ.
+Hiện các nhà khoa học vẫn đang tích cực nghiên cứu về bão Mặt Trời cấp X như chìa khóa để tìm hiểu vì sao nó xuất hiện và có thể mở ra quy trình dự đoán khi nào nó xảy đến.

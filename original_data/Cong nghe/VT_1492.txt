@@ -1,0 +1,15 @@
+Mặc dù đã làm mới XPS 13 siêu gọn nhẹ cách đây không lâu nhưng Dell vẫn tiếp tục đại tu sản phẩm con cưng mà cộng đồng ủng hộ ngay đầu năm 2018.
+Sản phẩm không quá khác biệt so với phiên bản tiền nhiệm nhưng có một số điều quan trọng mà Dell thực hiện để nâng cao hiệu suất làm việc của máy...
+... bao gồm CPU Intel Core thế hệ thứ 8 của Intel nhưng vẫn đảm bảo thời lượng pin dài cùng thiết kế thu gọn hơn.
+Phiên bản 2017 biến XPS 13 là chiếc máy tính xách tay 13,3 inch nhỏ nhất thế giới, nhưng tiêu đề này giờ đã được chuyển sang phiên bản 2018.
+Webcam vẫn ở phía dưới nhưng ít nhất giờ nó đã được đặt ở giữa, và đó là một máy ảnh hồng ngoại để đăng nhập hệ thống dựa vào khuôn mặt.
+Người dùng có các tùy chọn cảm ứng 4K UHD hoặc Full HD, cũng như màn hình không cảm ứng độ phân giải Full HD.
+Tất cả đều cho độ sáng tối đa 400 nits. Dell cho biết họ đã khắc phục vấn đề chuyển màu với độ sáng tối đa, do đó phiên bản 4K UHD vẫn có khả năng cung cấp dải màu RGB 100% ở 400 nits.
+Theo Dell, XPS 13 mới có phần viền được tinh giảm xuống chỉ còn 4 mm bao quanh màn hình InfinityEdge, cung cấp tỷ lệ màn hình chiếm 80,7% so với phần thân máy.
+Giống như phiên bản tiền nhiệm của nó, XPS 13 có thân bằng nhôm được gia công bằng CNC với phần mặt để tay được làm bằng sợi carbon. Dell đã tăng gấp đôi lượng ống dẫn nhiệt và quạt, sử dụng cách nhiệt Gore giúp điều khiển nhiệt ra khỏi thiết bị thay vì vào khung máy. Những cải thiện làm mát này giúp hiệu suất XPS 13 cao hơn.
+Để giảm độ dày của máy xuống còn 11,6 mm, Dell đã hy sinh cổng USB thường để chuyển sang Thunderbolt 3 USB-C và cổng USB-C 3.1 (tuy nhiên Dell vẫn mang đến một adapter USB-A to USB-C). Bất kỳ cổng USB-C nào cũng có thể được dùng để sạc hoặc cấp điện cho XPS 13, trong khi khe cắm microSD giúp tăng không gian lưu trữ.
+Cảm giác gõ bàn phím mềm mại và được bao phủ lớp chống ố vàng. Điều này cho phép XPS 13 mới có trọng lượng được giảm xuống chỉ còn 1,2 kg.
+Nó cũng tích hợp đầu đọc dấu vân tay vào nút Power.
+Mặc dù đã có những cải thiện về hiệu suất, Dell cho biết các kết quả chuẩn của hãng cho thấy XPS 13 kéo dài gần 20 giờ với màn hình Full HD hoặc 11 giờ với màn hình 4K. Tất nhiên, thời lượng pin thực tế có khả năng thay đổi nhưng có lẽ nó sẽ cao hơn so với mức 12 giờ trong thử nghiệm xem video trực tuyến trong phiên bản ra mắt cuối năm ngoái.
+Nếu bỏ ra số tiền từ 1.000 USD, bạn có thể sở hữu mô hình XPS 13 ngay trong tháng này với các tính năng như CPU Intel Core i5-8250U hoặc i7-8550U (thế hệ thứ 8), RAM 4/8 GB (1866 MHz) hoặc 16 GB (2133 MHz), SSD 128 GB hoặc 256, 512 GB hoặc 1 TB PCIe SSD, Intel Graphics UHD 620 và modem Killer 1435 802.11ac (2x2) hoặc Intel 8265 802.11ac (2x2), đều tích hợp với Bluetooth 4.1.
+Kiến Tường.

@@ -1,0 +1,5 @@
+ASUS vừa công bố thêm một phiên bản card đồ họa sử dụng GPU GTX 1070 Ti là Cerberus GeForce GTX 1070 Ti. Sản phẩm được thông báo sẽ mở bán ở khu vực châu Á, kế đó là châu Âu và Mỹ.
+Trước đó, ASUS chỉ mới giới thiệu 3 mẫu card đồ họa trang bị GPU NVIDIA GTX 1070 Ti gồm Strix GeForce GTX 1070 Ti, Turbo GeForce GTX 1070 Ti và Ceberus GeForce GTX 1070 Ti.
+Không như đàn anh ASUS ROG Strix GTX 1070 Ti Advanced Binned Gaming 8GB, Cerberus GeForce GTX 1070 Ti chỉ sử dụng 2 quạt tản nhiệt (chứng nhận IP 5X). Card cũng được trang bị 8GB bộ nhớ GDDR5 256-bit, có 2 giao tiếp DisplayPort 1.4, 2 giao tiếp HDMI 2.0 và 1 giao tiếp DVI-D.
+Tương tự các card đồ họa sử dụng GPU GTX 1070 Ti hiện có, Cerberus GeForce GTX 1070 Ti cần dùng ứng dụng ép xung để tăng xung nhịp ở các chế độ như Gaming Mode hoặc OC Mode.
+Hồng Linh.

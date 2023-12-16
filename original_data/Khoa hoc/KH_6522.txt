@@ -1,0 +1,12 @@
+Cửa đến và kiểm tra chéo: Thông báo do tiếp viên trưởng đưa ra khi máy bay tới cổng đón trả khách để xác nhận thang trượt khẩn cấp ở mỗi cửa đã được khóa lại. Nếu không các thang sẽ tự động bung ra khi cửa mở.
+Gọi tất cả: Nếu bạn nghe thấy câu Các tiếp viên, cửa đến, kiểm tra chéo và gọi tất cả có nghĩa yêu cầu các tiếp viên báo cáo qua hệ thống liên lạc nội bộ.
+Đường bay trì hoãn: Là một đường bay dạng đường đua trong trường hợp thời tiết xấu hay chưa thể hạ cánh. Chúng được in trong các bản đồ hàng không nhưng phi công có thể thay đổi theo tình hình.
+Giấy tờ vào phút cuối: Chỉ việc xem lại kế hoạch bay, báo cáo về trọng lượng và độ cân bằng hay đơn giản là đợi đội bảo hành sắp xếp lại nhật ký hành trình.
+Dừng trên mặt đất: Trong nhiều trường hợp, đài kiểm soát không lưu ngăn các máy bay cất cánh tới một hay nhiều địa điểm, nguyên nhân thường do nghẽn đường bay.
+Túi khí: Thuật ngữ tương đương với hiện tượng xóc do nhiễu loạn không khí.
+Thiết bị: Trong những thông báo như do cần thay đổi thiết bị, chuyến bay tới Heathrow sẽ bị hoãn 3 tiếng, thiết bị ở đây chính là máy bay.
+Tiếp cận cuối cùng: Đối với phi công, máy bay trong giai đoạn tiếp cận cuối cùng là đã tới phần cuối của đường hạ cánh, thẳng hàng với tâm điểm của đường băng và không cần chuyển hướng nữa.
+Bay không: Một phi công hay một tiếp viên bay không là khi họ ở trên một chuyến bay để tới địa điểm khác để thay đổi vị trí. Họ vẫn được coi là đang làm việc.
+Bay thẳng: Trên thực tế, bay thẳng không liên quan đến việc máy bay dừng bao nhiêu lần trên đường tới một địa điểm. Chuyến bay thẳng nghĩa là số hiệu chuyến bay không thay đổi.
+Đường dốc: Thuật ngữ được dùng để chỉ khu vực gần nhất với sân bay, nơi máy bay và các phương tiện hoạt động như khu đỗ máy bay. Từ có nguồn gốc vào thời kỳ đầu của hàng không, khi phần lớn máy bay là thủy phi cơ hay phi cơ có phao.
+CTV Thanh Nga/VOV.VN.

@@ -1,0 +1,311 @@
+Sáng 5-2, Trường ĐH Nông Lâm TP HCM công bố đề án tuyển sinh dự kiến. Theo đó, trường xét tuyển thí sinh tham gia kỳ thi THPT Quốc gia 2018 sử dụng kết quả để xét tuyển vào ĐH chính quy theo quy định của Bộ GD-ĐT.
+Đáng chú ý, năm nay, hai phân hiệu của trường tại Gia Lai và Ninh Thuận tuyển sinh cả nước thay vì chỉ tuyển thí sinh có hộ khẩu tại các tỉnh thuộc khu vực miền Trung và Tây Nguyên như mọi năm.
+Đề án tuyển sinh năm 2018 của Trường ĐH Nông Lâm TP HCM dự kiến như sau:
+STT.
+Tên trường, Ngành học.
+Mã ngành.
+Tổ hợp môn xét tuyển.
+Chỉ tiêu.
+NLS.
+TRƯỜNG ĐẠI HỌC NÔNG LÂM TP HCM - Mã trường NLS.
+NLS.
+Các ngành đào tạo đại học (Đào tạo tại TP, Hồ Chí Minh).
+Sư phạm kỹ thuật nông nghiệp.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Ngôn ngữ Anh (*).
+Tổ hợp 1: Toán, Lý, Tiếng Anh.
+Tổ hợp 2: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 3: Ngữ văn, Lịch sử, Tiếng Anh.
+Tổ hợp 4: Ngữ Văn, Địa lý, Tiếng Anh.
+(Môn Tiếng Anh nhân hệ số 2).
+Kinh tế.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Hệ thống thông tin.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Quản trị kinh doanh.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Kế toán.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Công nghệ sinh học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Sinh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Khoa học môi trường.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Công nghệ thông tin.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Công nghệ kỹ thuật.
+cơ khí.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Công nghệ kỹ thuật.
+cơ điện tử.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Công nghệ kỹ thuật ô tô.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Công nghệ kỹ thuật nhiệt.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Công nghệ kỹ thuật.
+hóa học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Hóa, Sinh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Công nghệ kỹ thuật điều khiển và tự động hóa.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Kỹ thuật môi trường.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Công nghệ thực phẩm.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Công nghệ chế biến.
+thủy sản.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Công nghệ chế biến.
+lâm sản.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Ngữ Văn, Tiếng Anh.
+Chăn nuôi.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Nông học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Bảo vệ thực vật.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Công nghệ rau hoa quả và cảnh quan.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Kinh doanh nông nghiệp.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Phát triển nông thôn.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Lâm học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Quản lý tài nguyên rừng.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Nuôi trồng thủy sản.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Thú y.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Quản lý tài nguyên và.
+môi trường.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Quản lý đất đai.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Vật lý, Địa Lý.
+Tổ hợp 4: Toán, Ngữ Văn, Tiếng Anh.
+Chương trình tiên tiến.
+Công nghệ thực phẩm.
+7540101T.
+(CTTT).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Thú y.
+7640101T.
+(CTTT).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Chương trình đào tạo chất lượng cao.
+Quản trị kinh doanh.
+7340101C.
+(CLC).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Công nghệ sinh học.
+7420201C.
+(CLC).
+Tổ hợp 1: Toán, Sinh, Tiếng Anh.
+Tổ hợp 2: Toán, Hóa, Tiếng Anh.
+Tổ hợp 3: Toán, Lý, Tiếng Anh.
+Công nghệ kỹ thuật.
+cơ khí.
+7510201C.
+(CLC).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Tiếng Anh.
+Kỹ thuật môi trường.
+7520320C.
+(CLC).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Công nghệ thực phẩm.
+7540101C.
+(CLC).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Chương trình đào tạo cử nhân quốc tế.
+Kinh doanh thương mại.
+7340121Q.
+(LKQT).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Kinh doanh quốc tế.
+7340120Q.
+(LKQT).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Công nghệ sinh học.
+7420201Q.
+(LKQT).
+Tổ hợp 1: Toán, Sinh, Tiếng Anh.
+Tổ hợp 2: Toán, Hóa, Tiếng Anh.
+Tổ hợp 3: Toán, Lý, Tiếng Anh.
+Kinh doanh nông nghiệp.
+7620114Q.
+(LKQT).
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HCM PHÂN HIỆU GIA LAI.
+Mã trường: NLG.
+Địa chỉ: 126 Lê Thánh Tôn, TP, Pleiku, tỉnh Gia Lai - ĐT: 0259.3877.665.
+Các ngành đào tạo đại học.
+Kế toán.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Công nghệ thực phẩm.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Nông học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Lâm học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Thú y.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Quản lý tài nguyên và.
+môi trường.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Quản lý đất đai.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Vật lý, Địa Lý.
+Tổ hợp 4: Toán, Ngữ Văn, Tiếng Anh.
+TRƯỜNG ĐẠI HỌC NÔNG LÂM TP. HCM.
+PHÂN HIỆU NINH THUẬN - Mã trường: NLN.
+Địa chỉ: TT Khánh Hải, H.Ninh Hải, tỉnh Ninh Thuận - ĐT: 0268.3500.579.
+Các ngành đào tạo đại học.
+Quản trị kinh doanh.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Ngữ Văn, Tiếng Anh.
+Công nghệ thực phẩm.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Nông học.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Nuôi trồng thủy sản.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Sinh, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Hóa, Tiếng Anh.
+Thú y.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Chăn nuôi.
+Tổ hợp 1: Toán, Lý, Hóa.
+Tổ hợp 2: Toán, Lý, Tiếng Anh.
+Tổ hợp 3: Toán, Hóa, Sinh.
+Tổ hợp 4: Toán, Sinh, Tiếng Anh.
+Ngôn ngữ Anh (*).
+Tổ hợp 1: Toán, Lý, Tiếng Anh.
+Tổ hợp 2: Toán, Ngữ Văn, Tiếng Anh.
+Tổ hợp 3: Ngữ văn, Lịch sử, Tiếng Anh.
+Tổ hợp 4: Ngữ Văn, Địa lý, Tiếng Anh.
+(Môn Tiếng Anh nhân hệ số 2).
+H. Nhiên.

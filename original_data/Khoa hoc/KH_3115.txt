@@ -1,0 +1,5 @@
+Họ phát hiện ra rằng các bộ cảm biến bố trí trên mặt đất để ghi nhận những chuyển động nhẹ của magma trong lòng núi lửa đồng thời lại cũng phản ứng với máy bay trực thăng bay ngang qua.
+Áp lực từ các cánh máy bay trực thăng quay, truyền qua không khí trên bề mặt đất, nơi mà các địa chấn kế ghi nhận như sự dao động của nền đất. Các bộ cảm biến có thể phát hiện một máy bay trực thăng bay ở khoảng cách 40km, tùy thuộc vào địa hình và sức gió.
+Để tiếp tục khám phá cụ thể hơn hiện tượng này và tìm cách phân biệt tác động của các máy bay trực thăng bay ngang qua với những biến động địa chấn thực sự, các nhà nghiên cứu đã tiến hành một thí nghiệm trong đó cho một máy bay trực thăng bay ngang qua một mạng có bố trí 7 địa chấn kế.
+Theo sự thay đổi tần số của các tín hiệu khi máy bay trực thăng di chuyển qua chúng, các nhà khoa học đã có thể xác định vị trí của máy bay trực thăng, hướng bay, tốc độ và thậm chí độ cao.
+Vũ Trung Hương.

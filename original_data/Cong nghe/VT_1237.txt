@@ -1,0 +1,92 @@
+ThS. NCS. PHAN NGUYỄN HOÀI NAM.
+ThS. ĐỖ MINH NGỌC.
+ThS. PHẠM NGỌC HẢI.
+Trường Đại học Giao thông vận tải.
+TÓM TẮT: Dự báo cầu vận tải là khoa học ước tính cầu vận tải sẽ xảy ra trong tương lai, trên cơ sở phân tích khoa học về các dữ liệu đã thu thập được. Mô hình dự báo cầu vận tải được sử dụng phổ biến trong thời gian gần đây là mô hình dự báo 4 bước, trong đó quá trình dự báo cầu vận tải được thực hiện theo trình tự các bước kế tiếp nhau, bao gồm:
+- Xác định cầu vận tải phát sinh - thu hút (xác định số chuyến đi phát sinh - thu hút);
+- Phân bổ chuyến đi;
+- Phân chia phương thức vận tải;
+- Xác định mạng lưới.
+Trong giới hạn bài báo, chúng tôi chỉ đề cập tới những bất cập trong mô hình dự báo cầu vận tải hành khách phát sinh - thu hút và một số đề xuất nhằm hoàn thiện mô hình dự báo cầu vận tải hành khách phát sinh - thu hút.
+TỪ KHÓA: Cầu vận tải, dự báo cầu vận tải, chuyến đi phát sinh - thu hút, mô hình 4 bước.
+Abstract: Forecast of transportation demand is the science of estimating the future demand of transportation, based on scientific analysis of recently collected data. The 4 step-forecasting model, which is the forecasting one of the transportation demand used widely in recent times, includes successive steps as bellows:
+- Trip Generation;
+- Trip Distribution;
+- Mode choice (Mode Split);
+- Trip Assignment.
+In this article, we only mentioned shortcomings in forecasting model of the demand for production - attraction passenger transportation (trip generation model) and suggested a number of solutions to improve it.
+Keywords: Transportation demand, transportation demand forecasting, trip production, trip attraction, 4-step model.
+ĐẶT VẤN ĐỀ.
+Sự phát triển của nền kinh tế quốc dân đi đôi với tốc độ tăng nhanh của quá trình đô thị hóa đã làm cho hệ thống GTVT ngày càng quá tải, đặc biệt là hệ thống giao thông vận tải đô thị. Để đáp ứng được nhu cầu giao thông đô thị là một việc làm hết sức khó khăn nhưng có ý nghĩa vô cùng quan trọng. Một thách thức rất lớn mà các đô thị nước ta gặp phải là nạn UTGT. Cùng với nạn UTGT là ô nhiễm môi trường do khí thải và tiếng ồn của các phương tiện giao thông gây nên, đồng thời TNGT cũng gia tăng. Đây là thảm họa đối với các đô thị, nó tạo ra ảnh hưởng xấu tới nhiều lĩnh vực kinh tế - xã hội. Nguyên nhân chính của tình trạng này là do nhu cầu đi lại của người dân vượt quá khả năng đáp ứng của hệ thống GTVT.
+Để giải quyết vấn đề nêu trên, quy hoạch phát triển giao thông đô thị là một vấn đề phải được quan tâm hàng đầu. Muốn quy hoạch giao thông đô thị tốt, mang tính khả thi cao phải dựa trên kết quả dự báo về cầu vận tải cũng như sự phân chia lượng cầu đó trên mạng lưới giao thông đô thị. Do vậy, công tác dự báo cầu vận tải tốt mang ý nghĩa hết sức quan trọng trong quá trình lập quy hoạch phát triển hệ thống GTVT đô thị.
+Các mô hình dự báo cầu vận tải tại các đô thị lớn ở Việt Nam đều sử dụng phương pháp dự báo bốn bước. Các mô hình dự báo được xây dựng dựa trên các mô hình sẵn có và được điều chỉnh các tham số bằng các số liệu khảo sát giao thông.
+Đối với dự báo cầu vận tải hành khách phát sinh - thu hút, hầu hết các nghiên cứu đều sử dụng các phương pháp phân tích hồi quy từ các số liệu khảo sát. Phương pháp này đòi hỏi một nguồn số liệu rất lớn nên sẽ hạn chế đối với các dự án quy hoạch do các đơn vị trong nước thực hiện. Bên cạnh đó, do nhiều yếu tố khách quan cũng như chủ quan, các mô hình dự báo cầu vận tải hành khách phát sinh - thu hút mặc dù đã có rất nhiều các nghiên cứu và lý luận trước đây nhưng vẫn chưa được áp dụng một cách có hệ thống và tương xứng với tầm quan trọng của nó. Do vậy trong bài báo, nhóm tác giả phân tích một số bất cập trong quá trình xây dựng mô hình dự báo cầu vận tải hành khách phát sinh - thu hút và đề xuất một số kiến nghị nhằm góp phần hoàn thiện hơn mô hình dự báo cầu vận tải hành khách phát sinh - thu hút.
+NỘI DUNG.
+Cầu vận tải hành khách phát sinh - thu hút và phương pháp dự báo cầu vận tải hành khách phát sinh - thu hút.
+Cầu vận tải hành khách phát sinh - thu hút.
+Một chuyến đi bất kỳ của con người bao giờ cũng có điểm bắt đầu (điểm đi) và điểm kết thúc (điểm đến). Trong vận tải, người ta gọi chuyến đi xuất phát từ một khu vực là chuyến đi phát sinh hay hành trình phát sinh của khu vực đó, còn chuyến đi kết thúc tại một khu vực là chuyến đi thu hút hay hành trình thu hút của khu vực đó. Như vậy, một chuyến đi bất kỳ vừa là chuyến đi phát sinh của khu vực xuất phát vừa là chuyến đi thu hút của khu vực kết thúc.
+Hình 2.1: Chuyến đi phát sinh và chuyến đi thu hút.
+Với cách hiểu như vậy thì lượng cầu vận tải phát sinh của một khu vực là tổng số chuyến đi phát sinh của khu vực đó còn lượng cầu vận tải thu hút của một khu vực là tổng số chuyến đi thu hút đến khu vực đó. Phần lớn các chuyến đi của dân cư trong các đô thị đều bắt đầu hoặc kết thúc tại nhà của họ. Các chuyến đi này được gọi là chuyến đi cơ bản (hành trình cơ bản). Các chuyến đi còn lại điểm bắt đầu và điểm kết thúc không phải là nhà được gọi là các chuyến đi không cơ bản.
+Hình 2.2: Chuyến đi cơ bản và không cơ bản.
+Hành trình cơ bản được chia thành hai nhóm chính: Nhóm các hành trình cơ bản đi làm và nhóm các hành trình cơ bản khác. Các hành trình cơ bản đi làm có vai trò quan trọng vì chúng chiếm tỷ lệ lớn trong số các hành trình từ nơi cư trú. Các hành trình này được tập trung vào một vài giờ cao điểm làm cho cầu về phương tiện vận tải tăng vọt.
+Để xác định lượng cầu vận tải phát sinh - thu hút người ta thường tiến hành xây dựng hàm cầu vận tải phát sinh - thu hút dưới dạng:
+Trong đó:
+Q - Lượng cầu vận tải phát sinh - thu hút;
+Xi - Các nhân tố ảnh hưởng tới cầu vận tải phát sinh - thu hút.
+Các nhân tố ảnh hưởng tới lượng vận tải phát sinh - thu hút.
+Nhu cầu đi lại của người dân chịu ảnh hưởng trực tiếp của nhu cầu tiêu dùng và sinh hoạt. Các hoạt động hàng ngày như đi làm việc, đi học, đi mua sắm, đi thăm viếng... mà mỗi cá nhân hay mỗi hộ gia đình thực hiện phụ thuộc vào đặc điểm kinh tế - xã hội. Bên cạnh đó, nhu cầu đi lại cũng chịu ảnh hưởng của sự thay đổi về tình hình kinh tế - xã hội. Trong phân tích cầu vận tải nói chung và cầu vận tải hành khách phát sinh - thu hút nói riêng, thông thường người ta quan tâm tới một số yếu tố ảnh hưởng thuộc về đặc điểm kinh tế - xã hội như dân số, vấn đề sử dụng đất đô thị và cơ cấu ngành nghề trong đô thị.
+* Dân số và đặc điểm dân cư.
+Dân số của thành phố, mật độ dân cư cũng như cơ cấu dân cư, sự bố trí các khu dân cư về mặt không gian đối với các trung tâm văn hóa, thương mại có ảnh hưởng đáng kể tới cầu vận tải hành khách phát sinh - thu hút. Khi nghiên cứu yếu tố này cần phải kể đến quy mô gia đình, thu nhập bình quân đầu người, nghề nghiệp của người chủ gia đình, cơ cấu nhà cửa. Những yếu tố này thể hiện mức sống, mức sinh hoạt của dân cư trong thành phố. Thông thường số lượng chuyến đi tỷ lệ thuận với mức sinh hoạt, tất nhiên tỷ trọng các chuyến đi với mục đích khác nhau sẽ thay đổi khi thu nhập tăng lên.
+Sự ảnh hưởng của các nhân tố kinh tế - xã hội đối với việc tạo ra các chuyến đi có thể có ý nghĩa hơn khi xem xét riêng đối với các chuyến đi có các mục đích khác nhau. Những nghiên cứu về việc tạo ra các chuyến đi ban đầu dường như chỉ ra rằng, những gia đình với mức thu nhập cao hơn có xu hướng chuyến đi phát sinh không còn liên quan tới công việc nhiều hơn những gia đình có thu nhập thấp hơn.
+* Việc làm và cơ cấu ngành nghề trong đô thị.
+Số việc làm trong khu vực cũng như cơ cấu ngành nghề trong đô thị, tốc độ tăng trưởng kinh tế, tốc độ tăng dân số, tốc độ mở rộng thành phố có ảnh hưởng tới lượng vận tải phát sinh - thu hút. Những yếu tố này thường thể hiện xu hướng thay đổi nhu cầu vận chuyển trong tương lai. Ở các thành phố trong giai đoạn phát triển thì cơ cấu ngành nghề chưa ổn định, tốc độ tăng dân số cơ học cao, số lượng chuyến đi phát sinh của thành phố cũng thay đổi theo.
+* Sử dụng đất trong đô thị.
+Tổng diện tích của thành phố, trong đó cụ thể ra cho từng lĩnh vực sản xuất, từng ngành nghề, tỷ trọng của từng loại đất dùng cho các mục đích sản xuất công nghiệp, dịch vụ, thương mại... cũng có ảnh hưởng tới cầu vận tải hành khách phát sinh - thu hút. Yếu tố này thể hiện quy mô thành phố. Với thành phố có diện tích lớn thì cự ly trung bình của chuyến đi cũng dài hơn so với thành phố có diện tích nhỏ. Thành phố có tỷ trọng đất dùng cho sản xuất công nghiệp hoặc kinh doanh thương mại chiếm tỷ trọng lớn dẫn đến số lượng chuyến đi với mục đích đi làm, đi mua sắm buôn bán cũng chiếm tỷ trọng lớn hơn.
+Ngoài yếu tố về diện tích đất sử dụng cho các mục đích khác nhau, ở đây chúng ta còn nói đến sự bố trí hợp lý hay không về mặt không gian giữa các khu đất, giữa các trung tâm công nghiệp, thương mại. Nếu việc bố trí này hợp lý, thuận tiện dẫn đến cự ly bình quân chuyến đi ngắn và số lượng chuyến đi của cư dân cũng ít hơn.
+Phương pháp dự báo cầu vận tải hành khách phát sinh - thu hút.
+Khi dự báo cầu vận tải hành khách phát sinh - thu hút người ta có thể tiến hành theo những phương pháp sau:
+* Phương pháp hệ số tăng trưởng.
+Phương pháp hệ số tăng trưởng tính toán tương đối đơn giản, cầu trong tương lai được tính trên cơ sở cầu hiện tại có xét đến mức tăng trưởng nhất định. Phương pháp này dựa vào giả thiết khoảng thời gian dự báo không có sự thay đổi đáng kể nào về kinh tế - xã hội. Trong phương pháp này, hệ số tăng trưởng trong tương lai được tính xấp xỉ với hệ số tăng trưởng hiện tại. Hệ số tăng trưởng cũng có thể được xác định theo ý kiến các chuyên gia. Đối với phương pháp hệ số tăng trưởng, cầu vận tải hành khách phát sinh và thu hút được xác định như sau:
+Trong đó:
+- Q - Cầu vận tải hành khách phát sinh và thu hút năm dự báo;
+- Q0 - Cầu vận tải hành khách phát sinh và thu hút năm hiện tại;
+- i - Hệ số tăng trưởng cầu.
+* Phương pháp hệ số đi lại.
+Phương pháp này được tính toán dựa trên những thống kê về dân số và hệ số đi lại, công thức tính cầu vận tải hành khách phát sinh - thu hút như sau:
+Trong đó:
+- P - Dân số năm dự báo của vùng;
+- k - Hệ số đi lại của năm dự báo.
+* Phương pháp phân tích hồi quy.
+Phương pháp này được ứng dụng nhiều trong các nghiên cứu quy hoạch GTVT trong những năm 1960 trên thế giới vì chúng đơn giản, dễ sử dụng và có nhiều phần mềm thích ứng. Phương pháp này thường xây dựng một phương trình tuyến tính thể hiện mối liên hệ giữa cầu vận tải hành khách phát sinh - thu hút và các nhân tố ảnh hưởng, thông thường có dạng:
+Trong đó:
+- Y - Lượng cầu vận tải hành khách phát sinh - thu hút;
+- X1, X2... Xk - Các nhân tố ảnh hưởng.
+Ngoài ra, người ta còn có thể dự báo theo phương pháp phân tích phân loại hay phương pháp mô hình đàn hồi.
+Một số bất cập trong xây dựng mô hình dự báo cầu vận tải hành khách phát sinh - thu hút ở Việt Nam.
+Trong khoảng hai thập kỷ gần đây có nhiều nghiên cứu đề cập tới dự báo cầu vận tải nói chung và dự báo cầu vận tải hành khách phát sinh - thu hút nói riêng như: Nghiên cứu đường sắt đô thị TP. Hà Nội do Dorsch Consul phối hợp với MVA Ltd và VRICCCC thực hiện; Quy hoạch tổng thể và nghiên cứu khả thi về GTVT khu vực TP. Hồ Chí Minh do Tổ chức JICA Nhật Bản phối hợp với Bộ GTVT và UBND TP. Hồ Chí Minh tiến hành Qua nghiên cứu các công trình này, chúng tôi thấy còn một số vấn đề bất cập như sau:
+Chọn dạng mô hình dự báo.
+Đối với dự báo cầu vận tải hành khách phát sinh thu hút, hầu hết các nghiên cứu trước đây đều sử dụng mô hình hồi quy tuyến tính. Về mặt lý thuyết, người ta xây dựng hàm hồi quy thể hiện mối quan hệ giữa lượng cầu vận tải hành khách phát sinh thu hút với các yếu tố kinh tế - xã hội như dân số, thu nhập bình quân đầu người, sau đó sử dụng các số liệu sẵn có để ước lượng và lựa chọn dạng mô hình phù hợp nhất. Tuy nhiên, hầu hết các nghiên cứu về quy hoạch GTVT, trong phần dự báo cầu vận tải hành khách phát sinh thu hút, nhóm nghiên cứu thường chọn luôn mô hình dưới dạng tuyến tính theo cả tham số và biến. Việc lựa chọn này thường đơn giản trong tính toán nhưng về mặt chọn dạng hàm dự báo chưa chắc đã chính xác.
+Bên cạnh đó, nhiều nghiên cứu thường lựa chọn một mô hình chung cho tất cả các dạng chuyến đi theo mục đích, sau khi xác định xong mô hình cầu vận tải hành khách phát sinh - thu hút thì lấy mô hình vừa tìm được để dự báo cho tương lai. Việc xác định mô hình theo cách này có ưu điểm là khối lượng tính toán ít, số liệu thu thập được không phải đi sâu vào chi tiết nên tiết kiệm được kinh phí điều tra khảo sát. Nhưng do các chuyến đi có mục đích khác nhau là khác nhau, vì vậy mô hình dự báo được xác định cho các chuyến đi với mục đích khác nhau thường có các tham số khác nhau. Cho nên việc lựa chọn một mô hình dự báo chung cho tất cả các chuyến đi theo mục đích khác nhau theo cách này cũng chưa thật sự cho kết quả chính xác.
+Một số ít dự án khác, khi tiến hành dự báo cầu vận tải vẫn sử dụng mô hình 4 bước truyền thống, nhưng trong việc xác định cầu vận tải hành khách sinh phát - thu hút tương lai lại sử dụng phương pháp phân loại sau đó hiệu chỉnh cho phù hợp với thực tế. Tiêu biểu cho xu hướng này là Dự án nghiên cứu khả thi đường sắt đô thị Hà Nội do Công ty Tư vấn DORSCH CONSULT thực hiện dưới sự tài trợ của Ngân hàng Tái thiết Đức.
+Chọn nhân tố ảnh hưởng trong mô hình dự báo.
+Các mô hình lựa chọn trong các nghiên cứu trước đây đều chỉ ra rằng, cầu vận tải hành khách phát sinh - thu hút phụ thuộc vào dân số và lượng lao động trong khu vực. Việc lựa chọn này làm nảy sinh một số vấn đề sau:
+- Về mặt kỹ thuật, biến dân số và lượng lao động trong khu vực được đưa vào mô hình hồi quy có khả năng xảy ra tương quan với nhau, dẫn đến việc ước lượng tham số cho mô hình và dự báo không chính xác.
+- Các mô hình đã xây dựng đều cho rằng, các chuyến đi vì công việc chiếm tỷ trọng lớn trong tổng số các chuyến đi nên trong mô hình tách rời ảnh hưởng của biến lao động. Quan điểm này đúng nhưng mô hình vẫn chưa đánh giá hết ảnh hưởng của các chuyến đi vì mục đích học tập ngày càng gia tăng trong mấy năm gần đây.
+- Một nhân tố ảnh hưởng quan trọng tới cầu vận tải hành khách phát sinh - thu hút là xu hướng sử dụng đất đô thị trong tương lai vẫn chưa được đưa vào mô hình dự báo.
+Số liệu sử dụng trong quá trình dự báo.
+Đối với số liệu sử dụng trong dự báo, do vấn đề kinh phí khảo sát nên một số nghiên cứu sử dụng số liệu do JICA khảo sát cách đây khoảng hơn chục năm, sau đó điều chỉnh lại để có được ma trận OD năm hiện tại rồi lấy đó làm cơ sở để dự báo nhu cầu phát sinh - thu hút tương lai. Tuy nhiên, trong thời gian gần đây mức sống của người dân đã tăng lên khá nhiều, vì vậy số liệu này không phản ánh được sát những biến động về cầu vận tải hành khách hiện tại và xu hướng tương lai theo cơ cấu phương tiện cũng như theo mục đích chuyến đi.
+KẾT LUẬN.
+Trên cơ sở các phân tích về những vấn đề bất cập ở trên, chúng tôi có một số kiến nghị nhằm hoàn thiện hơn mô hình dự báo cầu vận tải hành khách phát sinh - thu hút:
+Thứ nhất, do mức sống tăng nên đa phần mọi người có phương tiện đi lại cá nhân, do đó khả năng đi lại của mọi người tăng. Ngày nay, lượng học sinh, sinh viên cùng với phương tiện của họ có ảnh hưởng lớn tới cầu vận tải hành khách phát sinh - thu hút. Do đó, trong mô hình nên đưa thêm một biến độc lập nữa mô tả ảnh hưởng của học sinh, sinh viên tới cầu vận tải hành khách phát sinh - thu hút.
+Thứ hai, việc để xảy ra tương quan giữa các biến độc lập trong mô hình dự báo sẽ khiến cho kết quả ước lượng các tham số của mô hình không chính xác. Vì vậy, trong quá trình xây dựng và ước lượng mô hình dự báo cần kiểm tra và khắc phục hiện tượng tương quan giữa các biến trong mô hình để kết quả ước lượng các tham số của mô hình chính xác hơn.
+Thứ ba, các quy hoạch đô thị hay xu hướng sử dụng đất trong tương lai có ảnh hưởng lớn tới cầu vận tải hành khách, nên cần có thêm các nghiên cứu để đưa thêm yếu tố về sử dụng đất vào mô hình dự báo cầu vận tải hành khách phát sinh - thu hút.
+Thứ tư, ảnh hưởng của các nhân tố trong mô hình tới lượng các chuyến đi có mục đích khác nhau là hoàn toàn khác nhau, do đó nên xây dựng mô hình dự báo theo từng mục đích chuyến đi để cho kết quả dự báo chính xác hơn.
+Thứ năm, nguồn số liệu đầu vào do JICA điều tra đã quá lâu, không phản ánh chính xác được nhu cầu đi lại trong thời kỳ hiện tại. Vì vậy, cần tổ chức điều tra lại để có số liệu mới, cập nhật hơn.
+Tài liệu tham khảo.
+Ban Dự án Đường sắt Đô thị Hà Nội (2008), Báo cáo nghiên cứu khả thi tuyến đường sắt đô thị thí điểm TP. Hà Nội đoạn Nhổn - ga Hà Nội, Hà Nội.
+Dorsch Consul phối hợp với MVA Ltd và VRICCCC (2000), Nghiên cứu đường sắt đô thị TP. Hà Nội, Báo cáo cuối cùng, Hà Nội.
+Vương Tấn Đức (2005), Dự báo lưu lượng giao thông trong các đô thị ở Việt Nam, Luận án Tiến sĩ Kinh tế, Trường Đại học GTVT, Hà Nội.
+JICA Nhật bản phối hợp với Bộ GTVT và UBND TP. Hồ Chí Minh (2004), Quy hoạch tổng thể và nghiên cứu khả thi về GTVT khu vực TP. Hồ Chí Minh, Báo cáo chính, TP. Hồ Chí Minh.
+JICA phối hợp với Bộ GTVT và UBND TP. Hồ Chí Minh (2004), Quy hoạch tổng thể và nghiên cứu khả thi về GTVT khu vực TP. Hồ Chí Minh, Báo cáo kỹ thuật: Cơ sở dữ liệu về GTVT, TP. Hồ Chí Minh.
+TEWET và Trung tâm Nghiên cứu phát triển GTVT (2002), Nghiên cứu khả thi METRO TP. Hồ Chí Minh, Báo cáo cuối cùng, TP. Hồ Chí Minh.
+Vukan R. Vuchic (2005), Urban Transit: Operation, Planning and Economics, John Wiley & Sons INC, New Jersey.

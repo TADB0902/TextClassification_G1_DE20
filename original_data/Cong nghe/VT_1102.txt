@@ -1,0 +1,12 @@
+Một nhà nghiên cứu bảo mật phát hiện ra một lỗ hổng trong phần mềm thông thường được cài đặt trên một số thương hiệu và model laptop.
+Lỗi này nằm trong phần mềm Synaptics để kiểm soát bàn phím và bàn di chuột của trên 460 model laptop HP, gồm phiên bản Pavilion, EliteBook và ProBook. Chúng được gọi là keylogger có thể ghi lại các phím bấm của bạn.
+Nếu tin tặc khai thác lỗ hổng này sẽ rất nguy hiểm vì chúng có thể ghi lại và thu thập những gì bạn gõ để lấy được các thông tin nhạy cảm như mật khẩu, các tài khoản giao dịch ngân hàng.
+Thật may là keylogger trong phần mềm Synaptics trên máy tính xách tay của HP đã bị vô hiệu hóa theo mặc định, và một tin tặc sẽ cần quyền admin của laptop để kích hoạt chúng, tức là tin tặc sẽ cần truy cập trực tiếp vào máy tính xách tay đó.
+HP viết trên trang hỗ trợ của họ rằng: Cả Synaptics lẫn HP đều không có quyền truy cập vào dữ liệu khách hàng.
+Tuy nhiên, HP đã liệt kê danh sách các model laptop có lỗ hổng này cũng như các bản cập nhật phần mềm để người dùng cài đặt nhằm vá lỗ hổng bảo mật kể trên. Nếu bạn không biết model laptop HP của bạn là gì, bạn có thể kiểm tra nhãn dán bên dưới máy tính, ở đó sẽ có số hiệu model của laptop. Người dùng có thể kiểm tra danh sách các laptop HP chứa lỗ hổng này tại đây.
+Hiện chưa rõ liệu lỗi này có phải là do lỗ hổng trong phần mềm Synaptics hay là theo cách chúng được tích hợp trong các laptop HP.
+Trang hỗ trợ của HP về vấn đề này cho biết, lỗ hổng này có thể ảnh hưởng đến tất cả các đối tác OEM của Synaptics, vì vậy bất kỳ thương hiệu laptop nào sử dụng Synaptics để kiểm soát bàn phím và bàn di chuột đều có thể bị ảnh hưởng.
+HP đã khuyến cáo vấn đề này tồn tại trong các driver touchpad của Synaptics ảnh hưởng đến tất cả các đối tác OEM của Synaptics. HP đã sử dụng TouchPad của Synaptics trong một số mẫu máy tính di động của họ và đã làm việc với Synaptics để bít lỗ hổng kể trên cho các hệ thống HP bị ảnh hưởng.
+Ngay sau khi có thông tin trên, cổ phiếu Synaptics đã giảm 1,8% xuống còn 38,22USD/1 cổ phiếu, trong khi cổ phiếu của HP tăng gần 1%.
+Synaptics không có bất kỳ bình luận gì về vấn đề trên.
+Tuệ Minh (Theo BGR).

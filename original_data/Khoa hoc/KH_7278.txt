@@ -1,0 +1,16 @@
+(Nguồn: sciencemag.org).
+Vệ tinh khám phá hạt vật chất tối (DAMPE) của Trung Quốc vừa phát hiện ra các tín hiệu huyền bí và đầy bất ngờ trong các phép đo tia vũ trụ năng lượng cao.
+Phát hiện mới này được kỳ vọng sẽ giúp các nhà khoa học tiến gần hơn tới việc khám phá ra ánh sáng trong vật chất tối vô hình trong vũ trụ bao la.
+DAMPE đã đo được hơn 3,5 tỷ hạt tia vũ trụ với năng lượng cao nhất lên tới 100 tera-electron-volt (TeV ngắn, tương đương với 1.000.000 lần năng lượng của ánh sáng nhìn thấy), bao gồm 20 triệu hạt mang điện electron và positron, với độ phân giải năng lượng cao chưa từng thấy.
+Ông Chang Jin, Trưởng nhóm phụ trách DAMPE, kiêm Phó Giám đốc của Đài quan sát Purple Mountain thuộc Viện Hàn lâm Khoa học Trung Quốc (CAS), cho biết đây là lần đầu tiên một thí nghiệm không gian cho kết quả đo quang phổ electron và positron chi tiết chính xác lên tới 5TeV.
+Qua đó, các nhà khoa học phát hiện một sự phá vỡ quang phổ ở mức 0,9 TeV và tăng đột biến ở 1,4 TeV.
+Đây là cơ sở mà ông Chang Jin cho rằng có tồn tại một loại hạt chưa từng được biết tới với khối lượng khoảng 1,4 TeV.
+Đánh giá về phát hiện này, ông nhận định dữ liệu này của tín hiệu lạ vẫn chưa đủ, do đó, giới khoa học cần phải tiếp tục thu thập thêm nhiều dữ liệu khác để chứng thực phát hiện này, song ông khẳng định: "DAMPE đã mở ra một cửa sổ mới trong việc quan sát vũ trụ năng lượng cao, làm sáng tỏ những hiện tượng vật lý mới ngoài sự hiểu biết hiện tại của chúng ta.".
+Các nhà nghiên cứu đã loại trừ khả năng rằng các tín hiệu bất thường là do sự hỏng hóc của máy dò vệ tinh. Theo ông Chang Jin, các phân tích độc lập từ năm nhóm khác nhau đã đi đến kết luận tương tự.
+Đo chính xác các tia vũ trụ, đặc biệt ở dải năng lượng rất cao, là yếu tố quan trọng đối với các nhà khoa học trong việc tìm kiếm dấu vết của sự hủy hoại hoặc sự phân rã của vật chất tối, cũng như để hiểu được các hiện tượng thiên văn năng lượng cao nhất trong vũ trụ, như hạch nhân thiên hà hoạt động và vụ nổ của các ngôi sao lớn mới.
+Các nhà khoa học tính rằng vật chất bình thường, chẳng hạn như các thiên hà, sao, cây, đá và nguyên tử, chỉ chiếm khoảng 5% vũ trụ. Tuy nhiên, khoảng 26,8% vũ trụ là vật chất tối và 68,3% năng lượng tối.
+Một số giả thuyết đáng tin cậy cho rằng vật chất tối được tạo thành từ các hạt tương tác yếu (WIMPs). Các hạt này rất khó phát hiện bằng mắt thường trong vũ trụ bởi chúng không phát ra ánh sáng, dễ bị hủy diệt bởi các tia Gramma năng lượng cao hoặc các hạt mang điện.
+Vì lý do này, tháng 12/2015, Trung Quốc đã phóng vệ tinh DAMPE vào quỹ đạo địa tĩnh với độ 500 km so với mặt đất nhằm tìm kiếm bằng chứng về sự hủy hoại hoặc sự phân rã của các hạt vật chất tối trong không gian.
+Hơn 100 nhà khoa học và kỹ sư Trung Quốc, cùng với những người từ Thụy Sĩ và Italy, đã tham gia vào việc phát triển DAMPE và phân tích dữ liệu của nó.
+Thông tin về kết quả phát hiện ban đầu này đã được tăng tải trên tạp chí khoa học Nature./.
+(TTXVN/Vietnam+).

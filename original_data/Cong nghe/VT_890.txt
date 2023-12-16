@@ -1,0 +1,10 @@
+Flash Player của Adobe đã gây ra những lo ngại về an ninh trong thời gian gần đây, với rất nhiều lỗ hổng bảo mật nguy hiểm để tin tặc có thể khai thác từ xa, theo Neowin.
+Năm ngoái, Kaspersky Lab đã phát hiện ra lỗ hổng của Flash qua Microsoft Word. Tháng 2/2017, ngay cả Microsoft cũng đã buộc phải phát hành bản cập nhật bảo mật quan trọng cho Flash trên Windows.
+Mới đây nhất, một lỗ hổng zero-day khác đã được phát hiện trong phần mềm của Adobe. Nó cho phép tin tặc hay các kỹ thuật viên thực thi code từ xa - Remote Code Execution (RCE), trên các nền tảng khác nhau. Theo Adobe, lỗ hổng này chỉ xuất hiện với một số người dùng Windows nhất định.
+Lỗ hổng an ninh zero-day mới nhất này đã được phát hiện bởi CERT (Hàn Quốc) và đã được báo cáo chi tiết bởi nhóm Talos của Cisco Systems. Theo các nhà nghiên cứu bảo mật của hãng này, việc khai thác được thực hiện bằng cách nhúng tệp SWF Flash vào tài liệu Microsoft Excel.
+Những vụ tấn công được thực hiện thông qua lỗ hổng này cho thấy, khi nạn nhân mở tài liệu (file Excel) thì Flash sẽ tự động tải về ROKRAT từ các trang web độc hại vào bộ nhớ và thực thi nó, bởi ROKRAT là một Remote Administration Tool (công cụ quản trị từ xa) được sử dụng trên các nền tảng đám mây để lấy tài liệu.
+Theo Talos, một nhóm có tên "Group 123" là thủ phạm tạo ra ROKRAT. Group 123 đã tận dụng lỗ hổng zero-day vừa được thực hiện để tấn công, các nhà nghiên cứu cho biết. Họ cũng đánh giá, đây là một nhóm có chuyên môn rất sâu và thủ đoạn khá tinh vi.
+Chính Adobe cũng đã thừa nhận rằng, lỗ hổng này nếu được khai thác triệt để có thể cho phép kẻ tấn công kiểm soát toàn bộ hệ thống. Có nền tảng bị ảnh hưởng bởi lỗ hổng này đã được hãng liệt kê ra.
+Danh mục những phần bị lỗ hổng bảo mật mới này.
+Adobe cho biết, hãng sẽ phát hành bản vá cho lỗ hổng Zero-day này vào ngày hôm nay - 5/2, đồng thời khuyến cáo các quản trị viên sử dụng Protected View cho Office trong thời gian này và thay đổi lại thiết lập Flash Player tương ứng trên Internet Explorer đối với Windows 7 trở về trước, chẳng hạn như cảnh báo người dùng trước khi phát một file SWF.
+Thanh Trà.

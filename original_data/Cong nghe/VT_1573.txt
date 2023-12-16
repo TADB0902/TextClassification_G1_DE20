@@ -1,0 +1,7 @@
+Google đang cố gắng loại bỏ hết những ứng dụng và phần mềm xấu trên Play Store - Ảnh: AFP.
+Theo Neowin , Google đang thực hiện nhiều công việc nhằm giữ Google Play Store của mình miễn dịch với các ứng dụng độc hại và nhà phát triển vi phạm nhằm bảo vệ hàng tỉ người dùng Android hằng ngày thông qua các quy trình riêng.
+Với những nỗ lực không biết mệt mỏi, ông Ahn cho biết Google không chỉ loại bỏ nhiều ứng dụng xấu khỏi Play Store mà còn có thể xác định và hành động chống lại chúng sớm hơn. Theo ông Ahn, trong thực tế, 99% ứng dụng có nội dung lạm dụng đã được xác định và từ chối trước khi ai đó có thể cài đặt chúng.
+Cũng theo ông Ahn, Google đã loạt bỏ hơn 100.000 nhà phát triển vi phạm thông qua các mô hình và kỹ thuật phát hiện tốt hơn, điều này khiến họ gặp khó khăn hơn trong việc lập tài khoản mới và cố gắng xuất một ứng dụng xấu khác lên Play Store.
+Được biết, các ứng dụng đã bị loại bỏ rơi vào một số danh mục ứng dụng mạo danh, nội dung không phù hợp hay ứng dụng có thể gây hại thông qua phần mềm độc hại ẩn bên trong.
+Mặc dù Google Play Protect đã giúp đỡ loại bỏ nhiều ứng dụng độc hại nhưng Ahn thừa nhận rằng Google vẫn cần phải thực hiện nhiều nỗ lực khi mà một số vẫn có thể thoát và đánh lừa lớp phòng vệ này. Ông khẳng định Google luôn xem vấn đề này một cách nghiêm túc và tiếp tục đổi mới khả năng để phát hiện và bảo vệ tốt hơn trước các ứng dụng độc hại và nhà phát triển đằng sau chúng.
+Kiến Văn.

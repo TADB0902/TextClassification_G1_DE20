@@ -1,0 +1,11 @@
+Phân ban Nghiên cứu An toàn của Toyota (CSRC) đang đầu tư 35 triệu USD hợp tác với Đại học Michigan (Mỹ) để nghiên cứu cho ra đời thế hệ xe hơi mới, có khả năng chẩn đoán nhanh cơn đau tim hay sự cố tụt đường huyết do bệnh tiểu đường gây ra khi tài xế đang lái xe.
+Hãng Toyota cho ra đời xe hơi có thể chẩn đoán sức khỏe của tài xế.
+Theo ông Pujitha Gunaratne, kỹ sư chính, người tham gia nhóm nghiên cứu của CSRC, tương lai xe tự lái sẽ chiếm lĩnh thị trường nhưng xe có người lái vẫn tồn tại. Để cùng tồn tại trong môi trường cạnh tranh, xe có người lái buộc phải cải tiến công nghệ nhằm nâng cao tính an toàn. Trong đó, ý tưởng của Toyota được xem là khả thi và hữu ích, nhất là đối với nhóm tài xế cao tuổi.
+Bí quyết của công nghệ này là việc tích hợp hay cài 1 hệ thống điều khiển vào xe để đưa ra các chẩn đoán chính xác về tình trạng sức khỏe người lái, đặc biệt là tim mạch và ra lệnh cho xe dừng lại đúng lúc.
+Mục tiêu trước mắt của dự án này là thiết lập một "tiêu chuẩn vàng" làm nền tảng để xác định chính xác các cơn đau tim dựa trên tín hiệu ECG.
+Ảnh minh họa.
+Các tín hiệu này được lọc kỹ khỏi tiếng ồn xung quanh khi xe đang di chuyển dựa trên các thiết bị phần cứng như cảm biến gắn trong xe và màn hình, thậm chí được tích hợp trong các bộ phận khác của xe như dây an toàn hay vô lăng.
+Về phía phần mềm, các nhà nghiên cứu sẽ tiến hành khai thác tiềm năng các thuật toán học máy, một kỹ thuật phổ biến của trí tuệ nhân tạo (AI) giúp xác định các mẫu dữ liệu có liên quan và lọc tiếng ồn, cũng như các tín hiệu ECG liên quan.
+Cùng với việc chẩn đoán nhanh cơn đau tim, Toyota cũng đang hợp tác với Đại học Nebraska thực hiện dự án riêng, nhằm ra đời một ứng dụng tương tự. Đó là hệ thống kiểm tra mức glucose (đường huyết) gây ảnh hưởng hành vi và sự an toàn của người lái xe.
+Dự kiến, nghiên cứu này sẽ hoàn thành trong 5 năm, đến năm 2021 Toyota sẽ có loại "xe hơi y học", giúp cảnh báo sớm sức khỏe người lái được đưa vào sử dụng thương mại.
+Mai Nguyễn (Theo Discovermagazine.com).

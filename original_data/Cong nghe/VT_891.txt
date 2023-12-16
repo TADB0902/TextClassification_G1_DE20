@@ -1,0 +1,6 @@
+một chiến dịch lây nhiễm lên các website chạy WordPress vừa bị phát hiện - Ảnh chụp màn hình.
+Theo TheHackerNews , các website bị lây nhiễm đoạn mã độc hại khiến cho các trình duyệt truy cập vào sẽ đào tiền mã hóa tại CoinHive, đoạn mã này cũng sẽ ghi lại thao tác trên bàn phím của người dùng.
+CoinHive là một dịch vụ trình duyệt nổi tiếng cung cấp cho các chủ trang web gắn đoạn mã JavaScript để tận dụng CPU từ người truy cập để có thể khai thác đồng tiền mã hóa monero. Người đứng sau chiến dịch này được cho là cùng một người đã lây nhiễm cho 5.400 website dùng WordPress hồi tháng trước bằng malware đào tiền mã hóa và ghi lại bàn phím có tên cloudflare[. ]solutions.
+Nếu website WordPress là một nền tảng thương mại điện tử, kẻ tấn công có thể thu thập nhiều thông tin giá trị như tài khoản thanh toán trực tuyến. Tên miền cloudflare[. ]solutions (giả danh dịch vụ Cloud Flare) đã bị hạ xuống hồi tháng trước, nhưng tội phạm sau chiến dịch này tiếp tục đăng ký 2 tên miền mới để điều khiển các đoạn mã độc hại nằm trên các website dùng WordPress.
+Các nhà nghiên cứu cho biết chủ các trang web dùng WordPress nên tự kiểm tra trong tập tin fucntions.php của themes, đồng thời dò wp-posts để tìm đoạn mã độc hại. Cuối cùng cách tốt nhất là đổi toàn bộ mật khẩu WordPress và cập nhật phiên bản mới nhất của themes và plugins.
+Loan Chi.

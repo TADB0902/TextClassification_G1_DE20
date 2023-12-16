@@ -1,0 +1,20 @@
+Những hiểu biết về iPhone X đối với đa số người dùng vẫn chỉ dừng lại ở mặt thông số và tính năng, và ít người biết rằng thực chất những công nghệ bên trong nó là gì, đến từ đâu và chúng có lợi ích ra sao.
+Cùng khám phá những bí mật được Apple ẩn giấu trong chiếc smartphone siêu phẩm này.
+"Nội thất" khác biệt.
+Ngoài sự khác biệt lớn trong thiết kế bên ngoài của iPhone X, ít ai biết sự thay đổi cũng đến từ cả bên trong.
+Khi mở máy, người ta đã phát hiện nhiều chi tiết linh kiện, bảng mạch trên iPhone X đã thay đổi theo hướng thu nhỏ đáng kể. Theo đó, bo mạch chủ trên iPhone X chỉ bằng 70% kích thước của iPhone 8 Plus.
+Chiếc iPhone đầu tiên có hai viên pin.
+Lý do iPhone X có dung lượng pin khá lớn là vì nó có tới hai viên pin được xếp thành hình chữ L bên trong.
+Chính nhờ việc tối ưu kích thước của bo mạch chủ nói trên đã giúp mở rộng không gian cho 2 viên pin này.
+Màn hình OLED: Đến từ chính đối thủ Samsung.
+Do Samsung là thương hiệu nổi tiếng uy tín nhất hiện nay cả về chất lượng, quy mô lẫn số lượng sản xuất màn OLED nên Apple đành "nương tựa" vào chính kình địch của mình lần này.
+Sử dụng cả chip Intel.
+Bên cạnh chip Qualcomm, Apple cũng sử dụng chip do Intel cung cấp ví dụ như Intel XMM7480 trên iPhone X.
+Bên cạnh đó, bộ thu phát tín hiệu di động trong bộ 3 iPhone mới cũng do Intel cung cấp, ví dụ như Intel PMB5757.
+Cảm biến hình ảnh từ Sony.
+Camera trước tích hợp cảm biến hình ảnh của iPhone X được tiết lộ do phía Sony phát triển và cung ứng.
+Camera hồng ngoại được cung cấp từ STMicroelectronics.
+Camera hồng ngoại ở bên trái "tai thỏ" là bộ phận có nhiệm vụ nhận diện khuôn mặt của người dùng, sau đó tạo bản đồ chiều sâu gương mặt, kết hợp với ảnh chụp để xác thực danh tính. Đây chính là công nghệ được biết đến với cái tên Face ID.
+Chip âm thanh: Sự kết hợp giữa Apple và một đối tác danh tiếng.
+Chip âm thanh của iPhone X do Apple và hãng audio danh tiếng Cirrus Logic phát triển. Cả 3 mẫu iPhone 2017 đều sử dụng chung chip âm thanh này.
+Phan Hoàng - Tổng hợp.

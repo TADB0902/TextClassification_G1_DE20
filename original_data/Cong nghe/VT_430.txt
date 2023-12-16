@@ -1,0 +1,10 @@
+Một trong những hệ quả của cơn sốt tiền điện tử là việc gia tăng số lượng người quan tâm đến ví tiền điện tử, đặc biệt trên điện thoại. Và kẻ xấu đã tìm ra cơ hội tận dụng xu hướng này - lừa đảo người dùng sở hữu tiền Ethereum bằng ứng dụng giả MyEtherWallet.
+Nhà nghiên cứu malware Lukas Stefanko thông qua bài đăng trên Twitter, đã cảnh báo người dùng tránh xa ứng dụng này trên nền tảng Android.
+Hình ảnh ứng dụng MyEtherWallet. Ảnh: Lukas Stefanko.
+Cụ thể, sau khi cài đặt, ứng dụng độc hại trên sẽ yêu cầu người dùng nhập khóa bảo mật cá nhân (hay còn gọi là cụm mật khẩu 12 từ) để đăng nhập. Dựa vào dữ liệu của Google Play, ứng dụng này xuất hiện vào 18/1 vừa qua và đã được tải về trong khoảng 100 đến 500 lần.
+May mắn là một lượng lớn người dùng đã cảnh giác và nhận ra sự khả nghi từ nó. Điểm đáng chú ý là ứng dụng đã có xếp hạng khá cao "3.8 sao" cùng hơn 30 nhận định tích cực.
+Trước đó, Google Play cũng tràn ngập những ứng dụng mạo danh sàn giao dịch tiền điện tử Binance, với mưu đồ trục lợi từ người dùng.
+Tuần trước, một nhóm hacker không rõ tên tuổi đã thực hiện thành công vụ trộm lớn thứ hai trong lịch sử của tiền điện tử.
+Các hacker đã khai thác một lỗ hổng nghiêm trọng trên Parity, một loại ví điện tử đa chữ ký trên Ethereum, lấy đi ba tài khoản tiền Ether có giá trị lên đến 31.000.000 USD chỉ trong vài phút. Nếu có thêm vài giờ nữa, hacker đã có thể cuỗm sạch hơn 150.000.000 USD trong những ví có lỗ hổng khác.
+Vũ Đậu (T/h).
+5 cách giảm đau dạ dày khẩn cấp không cần dùng tới thuốc.

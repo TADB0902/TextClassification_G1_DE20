@@ -1,0 +1,95 @@
+Năm học 2015-2016, số liệu thống kê từ Bộ Giáo dục và Đào tạo cho thấy tổng số học sinh, sinh viên cả nước khoảng 22,21 triệu.
+Trong đó có 4,42 triệu trẻ em mầm non; 15,08 triệu học sinh phổ thông; 0,35 triệu học sinh trung cấp chuyên nghiệp và 2,36 triệu sinh viên đại học, cao đẳng.
+Tổng số giáo viên, giảng viên cả nước là 1,24 triệu, trong đó gồm: 277.684 giáo viên mầm non; 856.730 giáo viên phổ thông; 10.911 giáo viên trung cấp chuyên nghiệp; 91.183 giảng viên đại học, cao đẳng và khoảng 300 nghìn cán bộ quản lý giáo dục các cấp.
+Theo số liệu thống kê của Tổng cục Thống kê và Quỹ dân số Liên hợp quốc [2], năm 2014 người Việt trong độ tuổi đến trường tính từ cấp mẫu giáo, nhà trẻ đến đại học (từ 0 đến 24 tuổi) chiếm 41.07%.
+Dân số Việt Nam năm 2014 vào khoảng 90 triệu người, như vậy số người trong độ tuổi đi học sẽ vào khoảng 37 triệu người.
+Tuy nhiên nhiều gia đình người Việt không cho con đi nhà trẻ, mẫu giáo, học sinh tốt nghiệp phổ thông nhiều người không học tiếp đại học, nên con số học sinh mới là 22,21 triệu người.
+Số liệu thống kê từ Bộ Giáo dục và Đào tạo cho thấy tổng số học sinh, sinh viên cả nước khoảng 22,21 triệu. (Ảnh minh họa: Báo Lao động).
+Dân số thế giới đến ngày 22/3/2017 là 7,49 tỷ người (theo số liệu thống kê của Liên hợp quốc).
+Việt Nam có 95.145.114 người, đứng thứ 14 thế giới và và thứ 3 Đông Nam Á.
+Nếu sử dụng số liệu của năm 2017 thì số người đến trường sẽ không phải là 22,21 triệu.
+Độ tuổi.
+Tỷ lệ %.
+Độ tuổi.
+Tỷ lệ %.
+Độ tuổi.
+Tỷ lệ %.
+80 trở lên.
+Cấu trúc tuổi người Việt năm 2014 (nguồn [1]).
+Từ thống kê độ tuổi nêu trên, kết hợp với thống kê phân bổ dân cư các vùng miền đã có, tỷ lệ tăng trưởng dân số cũng đã xác định khá chính xác, không có lý do gì lại không thể dự báo được nhu cầu nhân lực ngành Giáo dục.
+Tình trạng thừa, thiếu giáo viên cục bộ hoàn toàn do năng lực hoạch định chính sách của đội ngũ chuyên viên và chỉ đạo của Bộ Giáo dục và Đào tạo chứ không phải khó khăn khách quan.
+Định mức học sinh/giáo viên.
+Số giáo viên.
+Tính toán giả định về định mức và số lượng giáo viên tương ứng.
+Với hơn 15 triệu học sinh phổ thông (làm tròn) vậy cả nước cần bao nhiêu giáo viên?
+Do chưa có quy định về định mức số học sinh trên một giáo viên bậc phổ thông nên chúng ta tạm lấy định mức trung bình của đại học làm chuẩn (25 sinh viên/1 giáo viên).
+Với định mức này số giáo viên phổ thông cần có là 600.000 người. Thay đổi định mức trong khoảng từ 20-50 học sinh/giáo viên thì số giáo viên cần tối đa là 750.000 và tối thiểu là 300.000 người.
+Do có sự khác biệt lớn giữa miền xuôi và miền núi, các lớp học vùng cao có rất ít học sinh trong khi các thành phố, thị xã số học sinh một lớp lại rất đông (có nơi tới 50 người).
+Cứ cho rằng tỷ lệ học sinh/giáo viên thấp nhất là 20 và số lượng giáo viên phổ thông mà Bộ Giáo dục và Đào tạo đưa ra là chính xác thì số giáo viên phổ thông hiện nay dư thừa 856.730-750.000 = 106.703 người.
+Con số này lớn hơn rất nhiều con số Bộ Giáo dục và Đào tạo công bố.
+Người dân Việt Nam từng giật mình đến sửng sốt trước thông tin 40 người dân phải nuôi một công chức.
+Báo Vietnamnet.vn dẫn lời chuyên gia Phạm Chi Lan:
+C húng ta thấy 160 người dân Mỹ chỉ nuôi một công chức, trong khi đó 40 người dân Việt Nam phải nuôi một công chức.
+Có lẽ bà Phạm Chi Lan vẫn chưa biết đến một kỷ lục còn khủng hơn cả siêu khủng mà rất ít người để ý.
+Theo số liệu đã dẫn ở trên, tổng số giáo viên, giảng viên cả nước là 1,24 triệu người trong khi có tới 300.000 cán bộ quản lý, bình quân cứ 4 giáo viên bị một ông/bà quản lý (con số chưa làm tròn là 4,13). Xin lưu ý, đây là con số áp dụng cho thời điểm năm học 2015-2016.
+Còn theo con số mới nhất từ Cục Nhà giáo của Bộ này thì đội ngũ cán bộ quản lý hiện chỉ còn 154.000 người (tổng kết năm 2016-2017). Như vậy, bình quân cứ 8 giáo viên thì có 1 cán bộ quản lý.
+Đây có thể xem là một kết quả làm việc tích cực trong nỗ lực giảm áp lực cho người lao động trực tiếp của Cục này.
+Tuy nhiên, lực lượng quản lý này lại còn phải cộng thêm phần giá trị gia tăng vì lương cán bộ quản lý cao hơn nhiều so với lương giáo viên.
+Chưa hết, giáo viên phổ thông về chuyên môn do Bộ Giáo dục và Đào tạo quản lý nhưng tất cả các lĩnh vực khác do chính quyền địa phương quản lý.
+Nói cách khác Bí thư, Chủ tịch Ủy ban, lãnh đạo các ngành Nội vụ, Tài chính, Công đoàn, Thanh niên, Thi đua khen thưởng, đều tham gia quá trình quản giáo viên.
+Tuy không có con số cụ thể song có thể thấy số người tham gia công việc quản này không hề ít.
+Dẫn chứng cho việc cõng thêm có thể tìm thấy ở nhiều nơi, báo Vietnamnet.vn viết:
+Tại hội nghị xúc tiến đầu tư diễn ra từ ngày 12/8  14/8/2016, Ủy ban nhân dân thị xã Hồng Lĩnh điều động 44 cán bộ viên chức, trong đó có 20 giáo viên.
+Liên hoan Dân ca ví giặm Nghệ Tĩnh đã huy động 21 giáo viên tham gia.
+Đáng chú ý, 21 nữ giáo viên được điều phục vụ liên hoan dân ca ví giặm được Ủy ban nhân dân thị xã chỉ định tên tuổi rõ trong văn bản hành chính.
+Báo Điện tử Giáo dục Việt Nam có loạt bài về việc giáo viên một số trường Mầm non trên địa bàn quận Hải An (Hải Phòng) được lãnh đạo gợi ý nộp tiền "chống trượt" (6 triệu đồng) và tiền cảm ơn (2 triệu đồng) trước và sau kỳ xét tuyển đặc cách viên chức năm 2016.
+Bài báo viết:
+Xét tuyển đặc cách viên chức với giáo viên mầm non ở Hải An do Ủy ban nhân dân quận này thực hiện, chứ không phải Phòng Giáo dục và Đào tạo.
+Chủ tịch Ủy ban nhân dân quận Hải An đồng thời cũng là Chủ tịch hội đồng xét tuyển đặc cách viên chức đối với giáo viên mầm non quận này.
+Phải chăng với đồng lương bèo nhưng phải cõng trên lưng quá nhiều quan nên nghề dạy học trở thành ngành nghề bị phần lớn cư dân ruồng bỏ?
+Thế thì người Việt sẽ phản ứng thế nào khi biết riêng trong ngành Giáo dục không phải 40 người vì một người mà chỉ là tám" người vì  một người?
+Thực ra người dân nghĩ thế nào có lẽ không quan trọng, quan trọng là Bộ trưởng Phùng Xuân Nhạ và đội ngũ cán bộ của Bộ Giáo dục và Đào tạo nghĩ thế nào?
+Truy cập vào địa chỉ được giới thiệu nhận được thông báo:
+This site cant be reached (không thể truy cập vào trang này).
+Tìm hiểu chức năng nhiệm vụ của Cục Nhà giáo và Cán bộ quản lý cơ sở giáo tại địa chỉ pbc.moet.gov.vn/?page=8.12&view;=774 cũng nhận được thông báo  This site cant be reached.
+Vậy ông Cục trưởng Hoàng Đức Minh và hai vị Cục phó nghĩ gì về hoạt động của Cục?
+Với chức năng:  Giúp Bộ trưởng thực hiện chức năng quản lý nhà nước về đội ngũ nhà giáo và cán bộ quản lý giáo dục, về hệ thống các cơ sở đào tạo bồi dưỡng nhà giáo, cán bộ quản lý giáo dục thuộc phạm vi quản lý nhà nước của Bộ Giáo dục và Đào tạo; thực hiện các dịch vụ công về công tác đào tạo bồi dưỡng nhà giáo và cán bộ quản lý giáo dục  được ghi trong điều 1 quyết định số 376/QĐ-TTg do Thủ tướng Chính phủ ký, Cục Nhà giáo đã làm được những gì giúp Bộ trưởng?
+Để trả lời câu hỏi này, xin nêu vài dẫn chứng:
+Theo quy định tại Thông tư số 32/2015/TT-BGDĐT ban hành ngày 16/12/2015 và các văn bản nhiều năm trước, Giáo dục thuộc nhóm ngành 1, nghĩa là tỷ lệ sinh viên trên giáo viên trong các cơ sở đào tạo nhà giáo không vượt quá 25 sinh viên/1 giáo viên.
+Chỉ tính riêng 14 đại học sư phạm, số liệu Bộ Giáo dục và Đào tạo công bố cho thấy tổng số giáo viên là 4.615 người (gồm 1.358 tiến sĩ, 2.802 thạc sĩ, 455 đại học); tổng số sinh viên là 151.208 người.
+Số liệu của Bộ Giáo dục và Đào tạo không cho biết có bao nhiêu giáo sư, phó giáo sư tại các đại học sư phạm.
+Trình độ.
+Giáo sư.
+Phó giáo sư.
+Tiến sĩ.
+Thạc sĩ.
+Đại học.
+Hệ số quy đổi.
+Hệ số quy đổi giảng viên đại học theo quy định.
+Tạm quy đổi theo số liệu của Bộ Giáo dục và Đào tạo thì tỷ lệ bình quân trong các cơ sở giáo dục sư phạm bậc đại học hiện nay là 29 sinh viên/1 giáo viên, nếu thực hiện nghiêm chỉnh thì 14 đại học sư phạm chỉ được phép tuyển khoảng 132.350 sinh viên (thừa 18.858 sinh viên).
+Với hệ thống đào tạo cao đẳng sư phạm, số lượng giáo viên khối trường này là 3.388 người (trong đó 115 người có trình độ tiến sĩ, 2.187 người có trình độ thạc sĩ, 1086 đại học).
+Số sinh viên cao đẳng sư phạm riêng năm học 2016-2017 là 47.800 người, giảm 14,3%. (Trích Báo cáo tổng kết năm học 2016-2017 Bộ Giáo dục và Đào tạo trang 7).
+Bằng phép tính ngược có thể thấy số sinh viên cao đẳng sư phạm các năm học 2015-2016 vào khoảng 55.600 người.
+Tính trong ba năm tổng sinh viên cao đẳng sư phạm sẽ vào khoảng 143.000 người.
+Sau khi quy đổi, số giáo viên cao đẳng sư phạm theo chuẩn sẽ là 115*1,5+2187+1086*0,8 = 3343 người.
+Tỷ lệ bình quân sinh viên/giáo viên khối trường cao đẳng sư phạm là 43 sinh viên/1 giáo viên, vượt gần gấp đôi so với định mức Bộ Giáo dục và Đào tạo ban hành.
+Bộ Giáo dục và Đào tạo không quản lý khối cao đẳng sư phạm địa phương do phân cấp quản lý nhưng phải khẳng định việc để tỷ lệ sinh viên/giảng viên quá cao là do buông lỏng quản lý bởi điều này thuộc thẩm quyền của Bộ.
+Mặt khác, phần lớn trong 14 đại học sư phạm do Bộ Giáo dục và Đào tạo quản lý cho thấy Bộ đang vi phạm chính những quy định do mình ban hành.
+Và điều này không thể nói không có lỗi của Cục Nhà giáo bởi cục này có trách nhiệm  Giúp Bộ trưởng thực hiện chức năng quản lý nhà nước về đội ngũ nhà giáo, về hệ thống các cơ sở đào tạo bồi dưỡng nhà giáo.
+Khi giáo viên bị o ép phải chi tiền, không thấy ý kiến Cục Nhà giáo. Khi giáo viên bị chính quyền địa phương điều đi tiếp khách, Cục Nhà giáo phản ứng thế nào?
+Khi các trường Sư phạm ồ ạt tuyển vượt chỉ tiêu, Cục Nhà giáo nói gì?
+Khi tám thày cô giáo phải cõng một cán bộ quản lý, Cục Nhà giáo không biết hay giả vờ không biết?
+Phải chăng sự cắp ô của một bộ phận cán bộ nhân viên cục này chỉ bó hẹp trong phạm vi 30% - như ý kiến của một vị lãnh đạo cao cấp?
+Nếu thế thì ít nhất 70% còn lại cũng phải có người biết về cổng thông tin của Cục không hoạt động?
+Liệu lỗi là do Cục không có chuyên viên công nghệ thông tin hay tại không có bất kỳ người nào trong cục quan tâm đến website của Cục sống hay chết?
+Lý giải vì sao toàn quốc, số giáo viên công lập dôi dư 26.750 người nhưng lại thiếu 45.058 người, ông Cục trưởng Cục Nhà giáo cho rằng:
+Do một số quy định trong tuyển dụng chưa phù hợp với thực tiễn; vấn đề phân cấp trong tuyển dụng, sử dụng và quản lý viên chức ngành giáo dục cũng tạo ra nhiều bất cập, tiêu cực.
+Đồng ý rằng lỗi không hoàn toàn thuộc về Cục Nhà giáo mà do một số quy định, vấn đề là Cục Nhà giáo - với vai trò tham mưu cho Bộ trưởng - đã làm gì để thay đổi một số quy định đó?
+Một đơn vị có chức năng rất quan trọng liên quan đến định hướng nhân sự ngành Giáo dục nhưng hoạt động như vậy, thiết nghĩ có cần thiết phải để tồn tại?
+Cũng cần phải nêu thêm câu hỏi đơn vị nào trong cơ quan Bộ cung cấp cho Bộ trưởng con số 673 ngành đào tạo sư phạm trong khi thực tế là 680?
+Vì sao thống kê nhân sự của Bộ về 14 trường đại học sư phạm lại không có số lượng giáo sư, phó giáo sư, hay tại các trường này không có ai có học hàm như vậy?
+Với nhân sự một số đơn vị và cung cách làm ăn như hiện tại, Bộ Giáo dục và Đào tạo làm thế nào để đổi mới toàn diện giáo dục và đào tạo nước nhà?
+Liệu có phải đã là hơi muộn nếu Bộ trưởng Phùng Xuân Nhạ muốn cải tổ bộ máy dưới quyền hay cũng do một số quy định mà Bộ trưởng chưa thể tiến hành?
+Tài liệu tham khảo:
+[2] file:///C:/Users/LENOVO/Downloads/Tieng%20Viet_Co%20cau%20tuoi%20-%20gioi%20tinh%20dan%20so%202014.Part1.pdf.
+Xuân Dương.

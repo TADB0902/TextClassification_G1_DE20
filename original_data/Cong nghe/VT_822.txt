@@ -1,0 +1,4 @@
+Theo PhoneArena , Microsoft đang bắt đầu tích hợp Cortana vào ứng dụng Launcher của mình, vì vậy bây giờ bạn có thể sử dụng trợ lý kỹ thuật số cá nhân để thực hiện cuộc gọi, lên lịch cuộc họp hoặc thay đổi hình nền.
+Bên cạnh việc tích hợp Cortana, ứng dụng Launcher cũng được hỗ trợ thêm gói ngôn ngữ Ả Rập. Một tùy chọn mới bổ sung cho phép người dùng chia sẻ trình khởi chạy thông qua NFC (Near Field Communication) hoặc mã QR đã được thêm vào.
+Ghi chú thay đổi trên ứng dụng cho thấy nó được tích hợp Intune cho phép xóa dữ liệu từ xa. Cùng với đó là khả năng chọn danh bạ hiển thị trên thẻ People, đặt widget vào Dock, ghim tìm kiếm ứng dụng/liên hệ vào màn hình chính.
+Tất cả tính năng và cải tiến mới này trên Launcher vẫn chưa được phát hành trong cửa hàng Google Play, vì vậy bạn phải đợi một thời gian nếu không sử dụng phiên bản beta.

@@ -1,0 +1,14 @@
+Tuyên bố "đánh lừa" được Face ID trên iPhone X của Bkav đã gây chú ý trong làng công nghệ khi đây là công ty đầu tiên trên thế giới thực hiện thành công.
+Bảo mật khuôn mặt lần đầu tiên được Apple áp dụng trên iPhone X với tên gọi Face ID, nhằm thay thế cho cảm biến vân tay Touch ID. Công nghệ này sử dụng một loạt cảm biến tích hợp ở mặt trước máy, cho phép nhận diện 3D chứ không đơn thuần là ảnh 2D như một số công nghệ trước đây.
+Họp báo của Bkav chia sẻ về thử nghiệm vượt qua được hệ thống bảo mật nhận dạng khuôn mặt (Face ID) của Iphone X thu hút sự chú ý. (Ảnh VnExpress).
+Bkav khẳng định đã tìm được cả lỗ hổng bảo mật của cả nhận diện mống mặt và mống mắt. Hãng bắt đầu việc trình diễn iPhone X bị lừa bởi mặt nạ. (theo VnExpress).
+Ông Ngô Tuấn Anh, Phó chủ tịch phụ trách An ninh mạng Bkav khẳng định chiếc iPhone X được thử nghiệm để ở chế độ bảo mật khuôn mặt cao nhất. Các thử nghiệm cho thấy chiếc iPhone X nhận diện cùng lúc cả khuôn mặt của ông Tuấn Anh lẫn chiếc mặt nạ. Apple khẳng định máy không nhận hình ảnh 2D dù thực tế ảnh 2D đã được in lên mặt nạ. Rõ ràng, chiếc iPhone X đã bị đánh lừa bởi mặt nạ. (theo VnExpress).
+Chiếc mặt nạ đặc biệt được dùng để đánh lừa Face ID trên iPhone X. (Ảnh: Thành Duy/Zing).
+Chiếc mặt nạ được Bkav tạo ra bằng cách kết hợp công nghệ in 3D với hóa trang và ghép ảnh in 2D, cùng một số xử lý đặc biệt ở khu vực má và xung quanh khuôn mặt, nơi có vùng da lớn để đánh lừa AI của Face ID". (Ảnh: Tiền Phong).
+Các chuyên gia công nghệ nước ngoài đã tốn hàng nghìn USD nhưng vẫn không thể "qua mặt" Face ID. (Ảnh: WIRED).
+Ngược lại, ông Nguyễn Tử Quảng - CEO của Bkav cho biết, Bkav có thể bẻ khóa Face ID với một chiếc mặt nạ in 3D có giá chỉ 150 USD. (Ảnh: Zing).
+Ông Quảng mô tả lại về cách thức hoạt động của Face ID. Trong đó, iPhone X vẫn sử dụng hai camera hồng ngoại để chụp mặt 2D và 3D cùng công nghệ AI để nhận diện là mặt giả hay thật. (Ảnh: VnExpress).
+"Chúng tôi nhận thấy AI của Apple chỉ phân biệt được mặt thật hoàn toàn và mặt giả hoàn toàn. Nhưng nếu tạo ra một mặt nửa thật, nửa giả thì AI sẽ bị nhầm lẫn. Và quả nhiên nó đã bị đánh lừa", ông Quảng cho biết. (Ảnh: VnExpress).
+Các máy in 3D hiện nay chỉ cần 2 đến 3 giây là có thể lấy mẫu toàn bộ cơ thể người. Do đó, việc chụp ảnh 3D bây giờ còn dễ dàng hơn là việc lấy mẫu vân tay của một người. Đại diện Bkav giải thích lý do nói bảo mật khuôn mặt không tốt bằng vân tay. (Ảnh: VnExpress).
+(Ảnh: VnExpress).
+(Ảnh: Zing).

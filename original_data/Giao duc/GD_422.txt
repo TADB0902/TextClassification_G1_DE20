@@ -1,0 +1,34 @@
+20 trường Đại học có số thí sinh đăng ký xét tuyển nhiều nhất.
+Danh sách 13 trường đại học có số học sinh nguyện vọng đăng ký nhiều nhất.
+STT.
+Tên trường Đại học.
+Tổng số nguyện vọng.
+Tỉ lệ NV 1,2,3.
+Trường ĐH Cần Thơ.
+Trường ĐH Công nghiệp Hà Nội.
+Trường ĐH Kinh tế quốc dân.
+Trường ĐH Thương mại.
+Trường ĐH Bách khoa Hà Nội.
+Trường ĐH Kinh tế TP.HCM.
+Trường ĐH Tôn Đức Thắng.
+Trường ĐH Sư phạm kỹ thuật TP.HCM.
+Học viện Tài chính.
+Trường ĐH Khoa học xã hội và nhân văn (ĐHQG TP.HCM).
+Trường ĐH Công nghiệp TP.HCM.
+Trường ĐH Khoa học Xã hội và Nhân văn (ĐHQG Hà Nội).
+Trường ĐH Nông lâm TP.HCM.
+Trường ĐH Sài Gòn.
+Trường ĐH Công nghệ TP.HCM.
+Trường ĐH Mở TP.HCM.
+Trường ĐH Tài chính - Marketing.
+Trường ĐH Kinh tế (ĐH Đà Nẵng).
+Trường ĐH Bách khoa TP.HCM.
+Trường ĐH Sư phạm TP.HCM có NV (3 NV đầu chiếm).
+40 tỉnh, thành phố đã nhập xong dữ liệu đăng ký kỳ thi THPT quốc gia 2017.
+Theo thông tin từ Bộ GD-ĐT, 18 giờ chiều (19/4) đã có 842.000 hồ sơ đăng ký dự thi THPT quốc gia 2017 được nhập lên hệ thống phần mềm quản lý thi trong đó có 40 tỉnh, thành phố đã hoàn thành nhập dữ liệu đăng ký dự thi của thí sinh.
+Bộ GD-ĐT đã thống kế hiện tại có 842.000 thí sinh đăng ký dự thi THPT Quốc gia 2017.
+Trong đó có hơn 629.000 thí sinh vừa xét tốt nghiệp vừa xét tuyển đại học, cao đẳng (chiếm trên 74%).
+71.000 thí sinh tự do đăng ký dự thi để xét tuyển đại học, cao đẳng.
+Tổ hợp môn Khoa học xã hội là hơn 411.000 thí sinh. Tổ hợp môn Khoa học tự nhiên 317.000 thí sinh.
+Cụ thể các nguyện vọng như sau: Nguyện vọng 1: 592.043 (100%); nguyện vọng 2: 514,760(86.95%); nguyện vọng 3: 415,849(70.24%); nguyện vọng 4: 299,404(50.57%); nguyện vọng 5: 205,865(34.77%); Các nguyện vọng còn lại: 354,238(59.83%).
+Ngô Chuyên.

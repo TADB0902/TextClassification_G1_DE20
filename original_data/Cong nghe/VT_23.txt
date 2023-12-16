@@ -1,0 +1,26 @@
+Trước đây, để tải ảnh có độ phân giải cao (2.048 px) lên Facebook, người dùng thường phải cài đặt thêm các ứng dụng của bên thứ ba như CloudHD, Pixlr Express Tuy nhiên, các rắc rối này đang dần được gỡ bỏ, giúp bạn có thể tải ảnh nhanh hơn lên Facebook mà vẫn giữ nguyên chất lượng.
+7 mẹo hay trên Facebook có thể bạn chưa biết.
+(PLO) - Xóa lịch sử tìm kiếm, xem những hình ảnh bạn bè vừa nhấn Like, truy cập hộp thư bí mật hay tải toàn bộ dữ liệu Facebook là những thủ thuật hay trên Facebook có thể bạn chưa biết.
+Android.
+- Bước 1: Đầu tiên, bạn hãy truy cập vào Google Play và cập nhật ứng dụng Facebook lên phiên bản mới nhất.
+- Bước 2: Tiếp theo, bạn chạm vào menu ứng dụng ở góc trên bên phải, kéo xuống bên dưới và chọn App Settings (cài đặt ứng dụng), sau đó kích hoạt cả hai tùy chọn Upload Photos in HD (tải ảnh lên ở dạng HD) và Upload Videos in HD (tải video lên ở dạng HD).
+Kích hoạt tính năng tải ảnh, video chất lượng cao. Ảnh: MINH HOÀNG.
+Lưu ý, nếu không thấy xuất hiện tùy chọn Upload Videos in HD (tải video lên ở dạng HD), bạn hãy truy cập vào phần Settings (cài đặt) trên smartphone, chọn Apps (ứng dụng) > Facebook > Clear Cache và Clear Data để xóa sạch toàn bộ các thông tin đăng nhập cũ.
+- Bước 3: Kể từ bây giờ, bạn có thể đăng tải hình ảnh và video lên Facebook ở độ phân giải cao nhất mà không cần phải thông qua các ứng dụng của bên thứ ba.
+Ảnh bình thường và ảnh chất lượng cao trên Facebook. Ảnh: MINH HOÀNG.
+2. iOS.
+Tương tự như vậy, phiên bản Facebook trên iOS cũng hỗ trợ tùy chọn cho phép người dùng tải ảnh và video chất lượng cao.
+- Bước 1: Đầu tiên, bạn hãy mở ứng dụng Facebook, chạm vào nút More (thêm) ở góc phải bên dưới.
+- Bước 2: Kéo xuống bên dưới và tìm đến tùy chọn Settings (cài đặt) > Account Settings (cài đặt tài khoản). Tại phần Video and Photos (video và hình ảnh), người dùng chỉ cần kích hoạt tùy chọn Upload HD (tải lên HD) tại cả hai mục Video settings (cài đặt video) và Photos settings (cài đặt hình ảnh).
+Theo thử nghiệm của người viết, khi đăng một bức ảnh có độ phân giải 4.288 x 2.848 px lên Facebook thì nó đã bị crop lại chỉ còn 2.048 x 1.360 px, vẫn còn rất nét so với bình thường chỉ là 960 px.
+CloudHD.
+Khi đã hoàn tất, bạn hãy chạm vào nút Facebook để kết nối tài khoản với CloudHD, đồng thời cấp quyền cho phép ứng dụng xem thông tin cá nhân, danh sách bạn bè, địa chỉ email và hình ảnh. Tất nhiên, người dùng hoàn toàn có thể chỉnh sửa lại các quyền hạn này.
+Cấp quyền cho ứng dụng. Ảnh: MINH HOÀNG.
+Để đăng ảnh chất lượng cao lên Facebook, người dùng hãy chọn vào các tấm ảnh cần sử dụng sau đó nhấn Share (chia sẻ) và chọn CloudHD, lựa chọn album cần đăng hoặc gửi thẳng lên Timeline (dòng thời gian), nhập vào vài dòng mô tả rồi chạm vào nút Post và chờ một lát để quá trình này được hoàn tất. Theo thử nghiệm của người viết thì hình ảnh được đăng tải thông qua CloudHD có phần sắc nét và rõ hơn so với cách upload ảnh thông thường.
+Tải ảnh chất lượng cao lên Facebook thông qua CloudHD. Ảnh: MINH HOÀNG.
+Nếu muốn đăng những bức ảnh chất lượng cao lên Facebook bằng máy tính, bạn đọc có thể tham khảo bài viết Cách đăng ảnh Full HD lên Facebook bằng máy tính.
+Hy vọng với những mẹo nhỏ bên trên, bạn đọc có thể đăng tải những bức ảnh, video với chất lượng cao nhất lên Facebook.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+4 ứng dụng giúp smartphone an toàn hơn.
+(PLO)- Android luôn là miếng mồi béo bở đối với tội phạm mạng, chỉ tính riêng trong năm 2016 đã có hơn 1,85 tỉ smartphone sử dụng hệ điều hành Android.
+MINH HOÀNG.

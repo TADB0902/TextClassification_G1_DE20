@@ -1,0 +1,10 @@
+Nhà phát triển có tên Abraham Masri tìm thấy lỗi được gọi là chaiOS, trong khi cố gắng khám phá hệ điều hành của Apple. Ông đã thành công bằng cách chèn hàng trăm nghìn ký tự vào siêu dữ liệu của một trang web - nhiều hơn số lượng hạn chế mà iOS dự kiến. Khi liên kết tới trang được gửi đi, iMessage sẽ tạo một bản xem trước trên thiết bị nhận, là điểm bắt đầu cho các sự cố.
+Phần đáng sợ trong phát hiện nói trên chính là bạn thậm chí không phải nhấp vào liên kết nào cũng bị ảnh hưởng.
+Người dùng thiết bị Apple cần cẩn thận khi nhận được liên kết từ một người lạ gửi đến.
+Một người dùng Twitter có tên @aaronp613 giúp Masri kiểm tra lỗi trên các thiết bị khác của Apple cho Buzzfeed biết rằng: Thiết bị sẽ đóng băng trong vài phút. Sau đó, ứng dụng không thể tải bất kỳ tin nhắn nào nữa và sẽ tiếp tục sập.
+Lỗi này đã được thử nghiệm trên iPhone X và 5, ảnh hưởng đến tất cả các phiên bản iOS từ 10.0 đến 11.2.5 beta 5. Nó chưa được thử nghiệm trên iOS 11.2.5 beta 6 mà Apple vừa phát hành. Masri cho biết nó cũng ảnh hưởng đến macOS.
+Marsi đã đăng trên tweeted những phát hiện của mình và đưa lên kết đến trang Github - nơi ông đã tải lên các mã. Tuy nhiên, Github sau đó đã đóng liên kết này và cũng treo tài khoản của Masri.
+Mặc dù Masri làm thế chỉ để muốn thu hút sự chú ý của Apple nhưng nó cũng cho phép kẻ gian nhân cơ hội lấy mã trước khi Github gỡ bỏ trang, có nghĩa nhiều hacker nguy hiểm có thể lan truyền tin nhắn đến người tiêu dùng khác. Masri nói rằng nếu bạn nhận được một liên kết mà bạn không nhận ra từ một ai đó không biết, hãy xóa ngay nó.
+Bạn cũng có thể chặn tên miền Github trong Safari nhưng điều đó sẽ không hoạt động nếu ai đó đã đăng mã trên một tên miền khác.
+Apple vẫn chưa đưa ra phản hồi về lỗi nói trên, nhưng do mức độ nghiêm trọng của nó, công ty có thể sớm giải quyết trong bản cập nhật bảo mật sắp tới.
+Kiến Tường.

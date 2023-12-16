@@ -1,0 +1,12 @@
+Câu đố như sau:
+Một hành lang thẳng có 7 cánh cửa nằm về một phía. Con mèo ngồi phía sau một trong những cánh cửa ấy.
+Nhiệm vụ của bạn là tìm ra nó bằng cách mở đúng cánh cửa có mèo ngồi đằng sau. Mỗi ngày, bạn chỉ được mở một cửa. Nếu con mèo ngồi sau, bạn thắng. Nếu nó không ở đó, bạn phải chờ sang ngày tiếp theo để thử vận may.
+Nếu con mèo chỉ ngồi yên sau một cánh cửa, bạn sẽ dễ dàng tìm ra nó bằng cách mở lần lượt từng cánh cửa trong 7 ngày. Tuy nhiên, nó khá nghịch ngợm. Mỗi tối, con mèo di chuyển sang phía sau cánh cửa bên trái hoặc bên phải kề đó.
+Vậy bạn mất bao nhiêu ngày để tìm ra nó?
+Lưu ý, 7 cánh cửa nằm trên một đường thẳng. Do đó, nếu con mèo trốn sau cánh cửa đầu tiên hoặc cuối cùng, nó chỉ có một lựa chọn để di chuyển vào ban đêm. Nếu ở những cánh cửa khác, nó tùy ý di chuyển sang cửa bên trái hoặc bên phải.
+Sau khi giới thiệu bài toán trên Guardian, tác giả Alex Bellos đưa ra vài gợi ý cho độc giả. Ông cho rằng người chơi nên thử với con số nhỏ hơn để tìm ra phương pháp giải.
+Ví dụ, trong trường hợp chỉ có 3 cánh cửa, bạn có thể tìm thấy con mèo trong vòng hai ngày bằng cách ngày nào cũng chỉ mở cánh cửa ở giữa.
+Nếu như ngày đầu tiên, con mèo ở cánh cửa giữa, mọi chuyện thật đơn giản. Nếu không, nó phải ở một trong hai cánh cửa hai bên và chỉ có lựa chọn duy nhất là di chuyển vào cánh cửa ở giữa vào ngày thứ hai. Tương tự, nếu có 4 cánh cửa, bạn có thể tìm ra mèo trong vòng 4 ngày.
+Tới đây, nhiệm vụ của độc giả là tìm ra số ngày cần thiết để tìm mèo trong trường hợp 7 cánh cửa như bài toán đã nêu.
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

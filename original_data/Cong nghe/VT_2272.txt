@@ -1,0 +1,6 @@
+BKAV mới đây đưa ra cảnh báo rằng hơn 35.000 smartphone tại Việt Nam được ghi nhận nhiễm virus GhostTeam có thể đánh cắp mật khẩu Facebook. Virus GhostTeam theo đó có cơ chế lây nhiễm làm người dùng rất dễ bị đánh lừa và mắc bẫy.
+Cụ thể, hacker sẽ đưa một ứng dụng lên Google Play. Đây thực tế là những ứng dụng sạch với các tính năng phổ biến như đèn pin, la bàn để người dùng cài đặt. Những ứng dụng này sau đó tự động tải tiếp về một ứng dụng khác. Để lừa nạn nhân, các ứng dụng sạch sẽ hiển thị các thông báo an ninh, bảo mật như điện thoại đã bị nhiễm mã độc hay bị chậm kèm theo hướng dẫn xử lý.
+Cơ chế lây nhiễm của virus GhostTeam.
+Làm theo những hướng dẫn này, smartphone của người dùng sẽ bị nhiễm virus, mã độc và có thể bị chiếm quyền điều khiển điện thoại và ăn cắp mật khẩu tài khoản Facebook trên điện thoại. Đại diện BKAV cho biết cơ chế lây nhiễm virus này khiến người dùng khó có thể đề phòng.
+BKAV nói thêm rằng hiện tại các ứng dụng lây nhiễm virus GhostTeam đã bị Google gỡ khỏi kho ứng dụng nên số lượng máy smartphone lây nhiễm thêm là không lớn. Hãng bảo mật này khuyến cáo người dùng bị nhiễm virus GhostTeam nên thực hiện quét virus và đổi mật khẩu Facebook sớm.
+Lê Nam Khánh.

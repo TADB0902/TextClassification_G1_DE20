@@ -1,0 +1,19 @@
+Bức thư do một luật sư viết hồi tháng 5 để đại diện cho Richard Jacobs, cựu quản lý tình báo toàn cầu của Uber, gửi cho luật sư nội bộ của Uber, người xử lý các khiếu nại của nhân viên, nhưng bị phớt lờ. Thư được công bố hôm thứ sáu tuần vừa rồi, trong vụ kiện của công ty này với hãng Waymo của Google.
+Được biết, Richard Jacobs đã bị đuổi khỏi Uber hồi tháng tư, vì ông này đã từ chối tham gia vào những hoạt động phi đạo đức và bất hợp pháp của công ty.
+Waymo là công ty con của công ty mẹ Alphabet, thuộc sở hữu của Google. Hồi tháng 2, công ty này đã kiện Uber ăn cắp bí mật thương mại. Hầu hết hoạt động được trình bày chi tiết trong bức thư được cho là diễn ra khi Travis Kalanick vẫn là giám đốc điều hành của Uber. Kalanick đã từ chức vào tháng 6, sau cuộc điều tra phát hiện môi trường làm việc độc hại tại công ty.
+Bức thư đề cập đến một nhóm thành viên Uber có tên là Uber's Threat Operations (ThreatOps) được thành lập để theo dõi các đối thủ cạnh tranh và thu thập bí mật thương mại. Nhóm đã tấn công vào các hệ thống máy tính của đối thủ để lấy cắp dữ liệu và ghi lại các cuộc đối thoại cá nhân của các đối thủ cạnh tranh.
+Theo cáo buộc, từ ngày 14-16/12/2016, ThreatOps đã thâm nhập vào một nhóm WhatsApp để thu thập thông tin. Họ đã bí mật truy cập thông tin từ xa; đóng giả tài xế của đối thủ cạnh tranh để truy cập những chức năng chính của apps dành cho lái xe.
+Họ còn đánh cắp dữ liệu bằng cách nhận diện những tài xế có thể mở rộng mạng lưới cho Uber; mua codebase cho phép MA xác định mã sử dụng để biết chi tiết hơn cách apps hoạt động.
+Nói cách khác, Uber đã tấn công cơ sở dữ liệu của một công ty taxi chứa thông tin về các tài xế, và cố gắng sử dụng những thông tin đó để tuyển dụng những lái xe này cho Uber.
+Bức thư còn cáo buộc Uber đặt máy quay lén theo dõi ở một khách sạn, nơi tổ chức hội nghị các nhà điều hành theo lệnh của CEO Travis Kalanick.
+Như vậy, họ có thể ghi lại và quan sát các cuộc đối thoại riêng giữa các nhà quản lý, và thậm chí còn biết được cả những phản ứng của họ với câu chuyện báo chí, rằng Uber sẽ nhận được 3,4 tỷ USD tài trợ từ chính phủ Ả Rập.
+Những thông tin này ngay lập tức sẽ được chuyển đến Sullivan, người đại diện cho Travis Kalanick, và gửi trực tiếp (cả hình ảnh và video) cho hai giám đốc điều hành của Uber cùng các thành viên khác của nhóm điều hành của Uber trong hội nghị.
+Luật sư của Jacobs cũng buộc tội Uber cài gián điệp bên trong các đối thủ cạnh tranh, để lấy thông tin về các hoạt động của họ.
+Theo đó, ThreatOps đã thực hiện những hành vi này trong một khoảng thời gian dài. Nhóm đã sử dụng loại điện thoại dùng 1 lần và giao tiếp bằng các tin nhắn mã hóa tự động xóa sau khi được gửi đi như Wickr.
+Các thành viên của nhóm đã được huấn luyện để đánh dấu các thông tin liên lạc của họ là "đặc quyền" như một dấu hiệu với các luật sư của Uber, để hiểu rằng tài liệu của họ không thể sử dụng công khai.
+Nhóm này cũng có những chiến thuật tinh vi để phá hủy, che giấu và giả mạo các hồ sơ hoặc tài liệu, nhằm cản trở các cuộc điều tra của chính phủ cũng như khi xảy ra kiện tụng.
+Ngay khi bức thư được công bố tại tòa, người phát ngôn của Uber cho biết công ty chưa xác định được những cáo buộc trong thư, đặc biệt là những vấn đề liên quan đến Waymo. Đại diện này cũng khẳng định họ sẽ cạnh tranh một cách trung thực và công bằng, dựa trên sức mạnh của những ý tưởng và công nghệ của mình.
+Giám đốc mới của Uber, Dara Khosrowshahi, thừa nhận là ông có biết nhân viên được sử dụng các ứng dụng, bao gồm Wickr và Telegram. Ông nói rằng ông đã cấm họ ngay sau khi ông bắt đầu làm việc tại công ty.
+Cùng ngày, luật sư của Uber, Tony West, cũng nói với nhân viên Uber rằng hành vi này không còn xảy ra ở Uber nữa, và đây thực sự là tàn dư của quá khứ.
+Ông cũng tuyên bố yêu cầu người nào nếu đang làm bất kỳ dự án đánh cắp thông tin kiểu này thì lập tức phải dừng lại.
+Trí Dũng.

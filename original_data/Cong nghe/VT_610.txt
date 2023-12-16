@@ -1,0 +1,17 @@
+Trước đây, khi nền tảng Android còn non trẻ thì trải nghiệm giữa iOS và Android có khoảng cách khá xa, tuy nhiên, Android ngày nay đã tốt hơn rất nhiều, iOS có khi phải vay mượn ý tưởng của Android và ngược lại. Dưới đây là 5 tính năng độc đáo mà iOS và Android vẫn đang sở hữu riêng.
+Tùy chọn ứng dụng mặc định (Android).
+Trên iOS chúng ta không thể mở liên kết bên ngoài từ bất kỳ ứng dụng nào khác ngoài Safari. Trong khi đó Android tỏ ra "thoáng" hơn nhiều khi cho phép người dùng chọn ứng dụng một lần hoặc dùng mặc định cho những lần sau đó. Với mã nguồn mở của Android, bạn dễ dàng thay đổi các ứng dụng mặc định tùy theo sở thích của cá nhân.
+Spotlight (iOS).
+Google là công cụ tìm kiếm hàng đầu thế giới nhưng khả năng tìm kiếm của máy Android còn phải học hỏi nhiều Spotlight của iOS. Chỉ cần gõ từ khóa là bạn có thể tìm kiếm chúng trên web, danh bạ, vị trí gần đó, các tệp trong điện thoại Mặc dù Android đã có nhiều cải tiến thuật toán tìm kiếm nhưng điều đó vẫn chưa đủ để vượt qua iOS.
+Launcher apps (Android).
+Mã nguồn mở vẫn luôn là lợi thế của Android so với iOS, người dùng thỏa thích tùy biến giao diện theo sở thích dựa trên cả nghìn ứng dụng trên CH Play. Có rất nhiều loại launcher giúp máy hãng này sử dụng giao diện của hãng khác, có thể chọn loại tùy biến nhiều tính năng hoặc đơn giản giúp tối ưu hiệu năng.
+Continuity (iOS).
+Apple kiểm soát mọi thứ từ phần cứng tới phần mềm, đây là điểm mạnh của iOS khi mà mọi thiết bị trong hệ sinh thái đều có sự liên kết, đồng bộ cao. Chính vì vậy mà nhiều người sau khi đã dùng sản phẩm Apple thì khó có thể chuyển qua các hãng khác. Nếu bạn sở hữu cả iPhone và MacBook, bạn có thể sao chép và dán các dữ liệu giữa hai thiết bị này với nhau dễ dàng nếu chúng được đồng bộ hóa với nhau.
+Mở khóa thông minh (Android).
+Khóa máy bằng mã PIN hoặc vân tay là những giải pháp bảo mật được sử dụng nhiều nhất hiện nay, tuy nhiên, Android có tích hợp những tính năng thông minh giúp giảm phiền toái khi bảo mật mà iOS phải học hỏi nhiều.
+Truy cập Cài đặt > Bảo mật > Smart Lock bạn có thể tắt bước xác nhận mật khẩu khi ở một địa điểm an toàn cài đặt trước hoặc khi đã kết nối với thiết bị cụ thể, một khuôn mặt đáng tin cậy, tiếng nói đáng tin cậy.
+iMessage (iOS).
+iMessage không hẳn là ứng dụng nhắn tin yêu thích nhất của mọi người dùng iPhone, nhưng cũng không thể phủ nhận đây là ứng dụng tuyệt vời mà mọi người nên dùng thử ít nhất một lần. Khả năng đồng bộ hóa mạnh mẽ chính là điểm cộng lớn dành cho iMessage, những người cùng dùng iOS sẽ chẳng mất đồng phí nào để nhắn tin với nhau. Khả năng mã hóa được tích hợp ngay trong iMessage để đem lại sự yên tâm khi sử dụng. Trong những Hội nghị dành cho các nhà phát triển (WWDC), Apple luôn dành thời gian để giới thiệu những cải tiến trên iMessage. Không riêng iMessage, iOS còn có Facetime cho phép gọi điện thoại hay video call không tốn phí, chỉ cần họ có kết nối Internet.
+Google trước đây có Hangouts và bây giờ là Allo, nhưng cả 2 công cụ này đều thiếu nhiều điểm thú vị để có thể sánh ngang iMessage.
+Theo Gizmodo.
+Hải SN.

@@ -1,0 +1,10 @@
+Venture Beat mới đây cho hay nhiều người dùng cáo buộc Apple cố tình gian lận về thời lượng pin chờ trên Macbook sau mỗi lần sạc đầy. Thậm chí một số trường hợp còn khẳng định Táo khuyết đã từ chối kiểm tra, sửa chữa thiết bị bị ảnh hưởng.
+Cụ thể, Apple hứa hẹn lượng pin chờ trên Macbook là 30 ngày, song các khiếu nại lại cho rằng mức pin sụt giảm đáng kể khi ở chế độ chờ, và chỉ có thể đạt mức 10 đến 15 ngày sau mỗi lần sạc đầy.
+Rất khó để chứng minh Apple đã cố tình phóng đại khả năng sản phẩm, bởi công ty đã thử nghiệm thiết bị trong điều kiện tiêu chuẩn với mức tiêu hao pin thấp nhất có thể. Tuy nhiên một số người dùng khẳng định Macbook của họ vẫn sụt giảm 15% pin dù đã tắt máy hoàn toàn.
+Sau sự cố làm chậm iPhone, Apple tiếp tục dính dáng đến các cáo buộc phóng đại thời gian chờ của Macbook. Ảnh: Techworm.
+Trường hợp cụ thể, một người dùng cho biết thiết bị của anh bị sụt 7 % pin mỗi ngày dù tắt hoàn toàn, dẫn đến việc máy chỉ còn 0% sau 10 ngày. Người này sau đó quyết định mang máy đến App Store tại địa phương và sử dụng gói bảo hành Apple Care để thay pin. Tuy nhiên, các kỹ sư của hãng đã không thực hiện kiểm tra pin, thậm chí từ chối luôn việc bảo hành chiếc Macbook này.
+Anh chàng tiếp tục gửi email đến CEO Tim Cook để thông báo về vụ việc, và được người phát ngôn của Apple Shane Barton liên lạc, nhấn mạnh rằng chiếc Macbook của anh ta hoàn toàn bình thường.
+"Họ đã ngăn App Store địa phương bán cho tôi viên pin mới. Thậm chí, còn khiêu khích tôi nếu muốn kiện thì cứ việc", chủ nhân chiếc Macbook cho biết.
+Sau sự cố cố tình làm chậm hiệu suất thiết bị trên các đời iPhone cũ, cách trả lời này có thể khiến hình ảnh của Apple càng lung lay dữ dội hơn nữa trong mắt người dùng, Softpedia bình luận.
+Một số người dùng cho rằng việc tiêu hao pin như chiếc Macbook kia là điều hoàn toàn bình thường, song việc Apple cố tình phóng đại khả năng chờ 30 ngày là không chấp nhận được.
+Đại Việt.

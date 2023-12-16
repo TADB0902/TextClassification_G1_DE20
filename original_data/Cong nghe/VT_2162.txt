@@ -1,0 +1,24 @@
+HP EliteBook x360 1030 G2 - Máy tính đa chế độ dòng doanh nghiệp mỏng và bảo mật nhất thế giới.
+Số lượng các vụ tấn công vào máy tính xách tay và máy tính để bàn trên quy mô toàn cầu đã tăng 232% từ năm 2009 - 2015 - theo báo cáo 2016 Data Breach Investigations Report của tổ chức Verizon Enterprise Solutions. Qua đó cho thấy, bảo mật đang trở thành vấn đề cấp bách của doanh nghiệp và đặt ra nhu cầu cần triển khai giải pháp bảo mật toàn diện để có thể đảm bảo an toàn tuyệt đối cho tài nguyên quý giá của doanh nghiệp.
+Với kinh nghiệm lâu năm trong lĩnh vực bảo mật máy tính doanh nghiệp, HP đang triển khai nhiều giải pháp bảo mật toàn diện, từ phần cứng tới phần sụn và phần mềm, tạo thành các lớp bảo vệ đan xen lẫn nhau.
+Chiến lược bảo mật của HP được xây dựng trên nền tảng lấy người dùng làm trọng tâm, trong đó xác định ba trọng tâm bảo vệ chính: thiết bị, danh tính và dữ liệu.
+Hầu hết dòng máy tính doanh nghiệp của HP đều được tích hợp các giải pháp bảo mật đồng bộ, đặc biệt là dòng máy tính Elite với mẫu laptop cao cấp EliteBook x360 1030 G2.
+Máy tính cá nhân dòng doanh nghiệp của HP được trang bị nhiều tính năng đảm bảo độ bảo mật toàn diện cho thiết bị, dữ liệu và danh tính của người dùng và doanh nghiệp.
+Bảo vệ thiết bị.
+Với trọng trách bảo vệ an toàn tuyệt đối cho người dùng, HP đã phát triển hai công nghệ độc quyền HP BIOSphere Gen3 và HP Sure Start Gen3.
+HP BIOSphere Gen3 được coi là hệ sinh thái đầu tiên của ngành điện toán có khả năng bảo vệ BIOS trước các hành vi tấn công độc hại. Trong khi đó, HP Sure Start Gen3 là công nghệ đầu tiên trong ngành có khả năng phát hiện và tự sửa lỗi BIOS trong thời gian thực mà không cần bất kỳ can thiệp nào từ người dùng.
+Người dùng có thể dễ dàng trải nghiệm các công nghệ độc đáo này trên các mẫu laptop cao cấp của HP như dòng EliteBook 800 G4 và EliteBook x360 1030 G2, vốn được xem là bất khả xâm phạm với các ý đồ xâm nhập từ bên ngoài.
+HP còn có tiện ích HP Device Access Manager giúp bảo vệ, chống tiếp cận và đánh cắp dữ liệu nhạy cảm trên máy.
+Bảo vệ danh tính.
+Danh tính người dùng có vai trò quan trọng trong bảo mật doanh nghiệp. Nếu cấu phần này bị phá vỡ, nó sẽ dẫn tới nguy cơ thiết bị và dữ liệu bị xâm nhập.
+Trước hết là bộ công cụ HP Client Security Suite Gen3, kết hợp và tăng cường an toàn cho xác thực đa nhân tố HP Multi-Factor Authenticate, bao gồm loạt các tính năng HP Device Access Manager, HP SpareKey và HP Password Manager.
+Công nghệ xác thực đa nhân tố kết hợp nhiều yếu tố xác thực trong việc đăng nhập người dùng bao gồm mật khẩu với mã PIN/thẻ thông minh hoặc với nhận dạng sinh trắc học dấu vân tay hoặc khuôn mặt, giúp tăng khả năng truy cập an toàn vào hệ thống lên hàng triệu lần so với phương thức chỉ sử dụng mật khẩu.
+Các dòng laptop dành cho doanh nghiệp mới của HP như ProBook 400 G4, EliteBook 800 G4 và EliteBook x360 1030 G2 đều được tích hợp sẵn module chip TPM, có chức năng mã hóa dựa trên phần cứng, kết hợp với bộ đọc vân tay giúp đảm bảo an toàn cho dữ liệu và danh tính người dùng.
+Ngoài ra, không thể không nhắc tới ứng dụng quản lý mật khẩu HP Password Manager và tiện ích HP SpareKey dành cho trường hợp quên mật khẩu đăng nhập vào Windows cùng giải pháp HP WorkWise cho phép dễ dàng quản lý máy tính thông qua ứng dụng trên điện thoại thông minh.
+HP EliteBook x360 1030 G2 - Máy tính đa chế độ dòng doanh nghiệp mỏng và bảo mật nhất thế giới.
+Bảo vệ dữ liệu - trái tim của doanh nghiệp.
+Dữ liệu mang ý nghĩa sống còn với người dùng doanh nghiệp. Trong cuộc sống hằng ngày, dữ liệu có thể bị đánh cắp, nghe lén, nhìn lén, chụp ảnh hoặc bị quay trộm theo nhiều cách thức khác nhau.
+HP đã phát triển công nghệ HP Sure View - công nghệ chống nhìn trộm tích hợp sẵn trên màn hình giúp ngăn chặn những hành vi gây hại trên. Tính năng này là một tùy chọn đã được trang bị trên một số dòng laptop doanh nghiệp của HP như EliteBook 800 G4, EliteBook 1040 G3 và EliteBook x360 1030 G2. Người dùng chỉ cần nhấn tổ hợp phím fn+F2 là có thể kích hoạt tính năng rất hữu ích này.
+Đối phó tức thì với hoạt động nhìn trộm với công nghệ HP Sure View. Bảo vệ thông tin hiển thị bắt đầu phát huy tác dụng ở góc nhìn lệch 35 từ trung tâm.
+Ngoài ra, các dòng laptop doanh nghiệp HP còn sở hữu nhiều công nghệ bảo vệ dữ liệu độc đáo khác, như ổ cứng tự mã hóa Self-Encrypting Drives (SED), xóa an toàn dữ liệu HP Secure Erase, bảo vệ ổ cứng 3 chiều - HP 3D Drive Guard, và MS BitLocker.
+HP Secure Erase sẽ xóa vĩnh viễn dữ liệu trên mọi loại ổ lưu trữ kể cả ổ SSD trong trường hợp cần tiêu hủy hoặc bảo vệ dữ liệu tối mật, trong khi HP 3D Drive Guard giúp bảo vệ dữ liệu trên ổ cứng trong trường hợp va chạm hoặc đánh rơi máy.

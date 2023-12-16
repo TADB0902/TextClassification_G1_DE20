@@ -1,0 +1,9 @@
+Ảnh minh họa.
+Theo Chỉ số Tiêu thụ Năng lượng của Bitcoin do hãng Digiconomist công bố, tính đến ngày 20/11 vừa qua, lượng tiêu thụ điện năng thường niên ước tính của những người "đào" Bitcoin là vào khoảng 29,05 tỷ kilowatt/giờ (kWh). Lượng tiêu thụ điện năng này chiếm 0,13% tổng lượng tiêu thụ điện năng toàn thế giới.
+Theo chuyên trang so sánh lượng tiêu thụ năng lượng của Anh, Power Compare, thì hoạt động "đào" đồng Bitcoin hiện đang sử dụng nhiều điện năng hơn 159 quốc gia riêng rẽ. Nếu coi những người đào Bitcoin là một quốc gia, nó sẽ được xếp hạng thứ 61 trên thế giới xét về lượng điện năng tiêu thu, tức ngang bằng Morocco hay Slovakia.
+"Nếu cứ giữ nguyên tỷ lệ tăng này, hoạt động đào Bitcoin sẽ tiêu thụ toàn bộ điện năng của thế giới vào tháng 2/2020" - báo cáo của Power Compare nhận định.
+Chuyên trang trên còn so sánh giữa doanh thu của việc đào Bitcoin trên toàn thế giới - hiện đạt khoảng 7,2 tỷ USD - với ước tính chi phí của hoạt động đào Bitcoin - vào khoảng 1,5 tỷ USD. Điều này cho thấy đồng tiền ảo trên vẫn thu hút được nhiều người tham gia.
+Theo ước tính của Power Compare, lượng điện năng phục vụ cho hoạt động khai thác đồng Bitcoin có thể đủ để cung cấp điện cho khoảng 2,4 triệu người Mỹ hay 6,1 triệu người Anh.
+"Hoạt động khai thác Bitcoin tiêu thụ lượng điện năng còn nhiều hơn 12 bang của nước Mỹ: Alaska, Hawaii, Idaho, Maine, Montana, New Hampshire, New Mexico, Bắc Dakota, Rhode Island, Nam Dakota, Vermont và Wyoming" - các nhà nghiên cứu cho hay.
+Theo Power Compare, Ireland hiện đang tiêu thụ khoảng 25 tỷ kWh mỗi năm, có nghĩa rằng hoạt động đào Bitcoin sử dụng lượng điện năng cao hơn nước này tới 16%. Mức tiêu thụ thường niên ở Anh là 309 tỷ kWh, tức hoạt động đào Bitcoin chiếm khoảng 9,4% lượng điện năng tiêu thụ của nước này.
+Duy Long.

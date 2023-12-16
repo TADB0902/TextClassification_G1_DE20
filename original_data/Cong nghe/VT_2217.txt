@@ -1,0 +1,23 @@
+Cơn sốt tiền ảo vẫn chưa có dấu hiệu hạ nhiệt mà ngược lại khi đồng Bitcoin liên tục phá vỡ những cột mốc giá trị mới. Sức hấp dẫn từ giá trị đồng tiền này cùng sự đầu tư, quản lý không quá khắt khe khiến việc lắp ráp nên những cỗ máy đào thực sự mạnh mẽ và hiệu quả là nỗi quan tâm của nhiều người khi bước chân vào sân chơi mới này.
+Đóng góp quan trọng nhất trong việc đào tiền ảo là sức mạnh đến từ những chiếc card đồ họa, đó là lý do thị trường một thời gian khan hàng đối với những chiếc card đồ họa mới. Và ở thời điểm hiện tại, nếu muốn đầu tư vào dàn "trâu cày", đây là những chiếc card đồ họa tốt nhất cho việc đào tiền ảo mà bạn nên mua.
+Nvidia GeForce GTX 1070.
+Ưu điểm: Có tỷ số giữa năng lượng tiêu thụ và hiệu năng đào tốt cùng dung lượng bộ nhớ lớn.
+Nhược điểm: Giá cao (từ 400 USD tương đương 9 triệu đồng).
+Nvidia GeForce GTX 1070 không những là một lựa chọn tuyệt vời cho việc chơi game mà đây còn là ứng cử viên sáng giá để có mặt trong những dàn "trâu cày" có hiệu quả cao hiện nay. Với xung nhịp mặc định, GTX 1070 cho tỷ lệ đào (hash rate) đạt 30 mh/s mà không "ăn" quá nhiều điện (công suất tiêu thụ thô là 150 W). Đây là sự lựa chọn tốt về hiệu năng và tiêu thụ điện trong khi chi phí ban đầu bỏ ra ở mức không quá cao.
+AMD Radeon RX 580.
+Ưu điểm: Giá tốt (259.99 USD tương đương 5.9 triệu đồng) và hoạt động vô cùng mát mẻ.
+Nhược điểm: Khó mua được vì thường xuyên bị giới đào tiền ảo mua hết số lượng lớn.
+Đây thực sự là lựa chọn không chỉ chơi game mà còn đào tiền ảo có tỷ lệ hiệu năng trên giá thành tốt nhất hiện nay. Bạn khó có thể tìm mua chiếc card này cũng bởi minh chứng hiệu năng đào đạt 29 mh/s trong khi mức giá lại rẻ hơn khá nhiều khi so với GTX 1070. Với một chút tinh chỉnh, thậm chí bạn còn có thể đạt hiệu năng đào tốt hơn nữa.
+AMD Radeon RX 480.
+Ưu điểm: Giá rất rẻ cùng hiệu năng đào tốt.
+Nhược điểm: Vì card đã cũ nên khó tìm mua.
+Là phiên bản tiền nhiệm của RX 580, RX 480 cho hiệu năng gần như tương đương khi đạt hiệu suất đào 28 mh/s. Tất nhiên với tinh chỉnh, hiệu năng còn được nâng cao hơn nữa tương tự như bản RX 580. Tuy nhiên điểm khó khi tìm mua mới RX 480 là vì thuộc thế hệ cũ cũng như việc đa phần đang nằm hết trên dàn máy đào của người khác nên nhiều khả năng bạn sẽ chỉ mua được phiên bản đã qua sử dụng.
+AMD Radeon Vega 56.
+Ưu điểm: Cho hiệu năng đào rất tốt.
+Nhược điểm: Tiêu thụ nhiều điện và nóng.
+Mức giá hiện tại của AMD Radon Vega 56 cao hơn một chút so với GTX 1070 (469 USD tương đương 10,6 triệu) nhưng hiệu năng đào mà nó mang lại hoàn toàn tương xứng, đạt 32.43 mh/s. Tuy nhiên điểm yếu của chiếc card đồ họa thế hệ mới của AMD nằm ở việc tiêu thụ khá nhiều điện năng và tỏa nhiều nhiệt khi hoạt động liên tục. Với mức chi phí không quá cao cùng hiệu năng tốt, Vega 56 hoàn toàn là sự đầu tư đúng đắn khi bạn có giải pháp tản nhiệt cho dàn máy đào của mình hiệu quả.
+Nvidia GeForce GTX 1080 Ti.
+Ưu điểm: Vô cùng mạnh mẽ về hiệu năng.
+Nhược điểm: Giá cao (thấp nhất từ 700 USD tương đương 15,9 triệu đồng).
+GTX 1080 Ti vẫn là chiếc card đồ họa dành cho người dùng phổ thông cao cấp của Nvidia. Không những sở hữu khả năng đồ họa ấn tượng khiến biết bao game thủ mong muốn, sản phẩm còn cho hiệu suất đào tốt khi đạt 32 mh/s. Điểm mạnh của thế hệ card Pascal của Nvidia hiện tại không chỉ cho hiệu năng cao mà còn mát và tiêu thụ ít điện năng hơn khi so trực tiếp với đối thủ AMD. Tuy nhiên mức giá để sở hữu một chiếc card này không hề rẻ, trong khi dàn "trâu cày"của bạn tất nhiên không chỉ đơn giản lắp 1 chiếc là đủ. Vì thế lựa chọn này thường dành cho ai rủng rỉnh tài chính.
+Minh Ty.

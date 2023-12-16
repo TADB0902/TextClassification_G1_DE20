@@ -1,0 +1,8 @@
+Ảnh minh họa.
+Theo như trang web chuyên công khai các thông tin bí mật này, các tài liệu đã chỉ ra rằng một trong những chiến dịch công nghệ cao do CIA chỉ đạo nhắm vào các dịch vụ liên lạc với sự tham gia của nhiều cơ quan chính phủ khác của Mỹ như Cơ quan An ninh Quốc gia (NSA), Bộ An ninh Nội địa (DHS) và Cục Điều tra Liên bang (FBI).
+Theo như thông tin tiết lộ, CIA bí mật sử dụng dữ liệu của công ty quản lý đường cao tốc ExpressLane như một công cụ hỗ trợ để thu thập dữ liệu từ hệ thống thu thập dữ liệu sinh trắc học.
+Văn phòng Kỹ thuật của CIA là nơi cung cấp hệ thống thu thập thông tin trắc sinh học cho các dịch vụ liên lạc khắp thế giới, tuy nhiên hoạt động của văn phòng này được cho là chưa đủ hoặc chưa hiệu quả.
+Phần mềm được chạy bí mật dưới dạng một bản nâng cấp, đó là lý do tại sao các nhân viên các công ty dịch vụ liên lạc không thể nhận ra chương trình.
+Trang WikiLeak tiết lộ các thông tin này lần đầu tiên vào tháng 3 vừa qua, gồm tổng cộng 8.761 tài liệu.
+Những tiết lộ mới nhất tập trung vào dự án của CIA với mục tiêu nhắm tới là thu thập các tin nhắn SMS gửi và nhận từ thiết bị chạy hệ điều hành Android và công cụ của CIA bí mật xâm nhập vào hệ thống điều hành của Apple, ngoài ra còn một công cụ khác của CIA cho phép tấn công từ xa vào các máy tính và lấy cắp hình ảnh của người dùng thông qua video trực tuyến.
+Theo baotintuc.vn.

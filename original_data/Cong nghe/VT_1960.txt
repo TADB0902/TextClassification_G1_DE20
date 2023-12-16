@@ -1,0 +1,19 @@
+*Ăn ngon hơn:
+Yuka : quét và đánh giá các loại thực phẩm.
+Ứng dụng này cho phép bạn quét mã vạch các sản phẩm thực phẩm. Yuka giải mã các nhãn hàng và đánh giá qua các bảng màu : màu xanh đối với các sản phẩm có chất lượng tốt và tuyệt vời, màu cam cho sản phẩm có chất lượng trung bình và màu đỏ cho sản phẩm có chất lượng tồi. Trong trường hợp cần thiết, ứng dụng khuyên bạn nên dùng một sản phẩm tương tự nhưng tốt hơn cho sức khỏe của bạn. Ứng dụng cũng cho phép truy cập vào một bảng xếp hạng các thực phẩm lành mạnh nhất theo từng loại (thịt, cá, các sản phẩm tươi sống...).
+MyFitnessPal : bạn đồng hành của những người ăn kiêng.
+Ngoài việc cân bằng trong chế độ ăn uống, bạn còn muốn giảm cân. Ứng dụng MyFitnessPal giúp bạn dễ dàng theo dõi lượng calo bạn nạp hàng ngày nhờ cơ sở dữ liệu khổng lồ và liên tục. Ứng dụng này cho phép bạn biết những tiến bộ và động lực thông qua các dự báo hàng ngày và được cá nhân hóa.
+* Luyện tập thể thao :
+NikeTraining Club: huấn luyện viên chuyên nghiệp.
+Ứng dụng của nhà sản xuất thiết bị Nike được nhiều người dùng đánh giá cao với hơn 10 triệu lượt tải theo Google Play và được đánh giá 4,6/5 điểm. Ứng dụng này cung cấp cho bạn hơn 160 video luyện tập miễn phí tùy theo từng cấp độ. Nó cũng cung cấp cho bạn một kế hoạch tập luyện linh động, tùy theo điều kiện hàng tuần.
+Seven: lấy lại vóc dáng với những người thừa cân.
+Nguyên tắc của Seven rất đơn giản nhưng không kém hiệu quả : 7 phút tập luyện mỗi ngày, bất cứ nơi nào, bất cứ khi nào, không cần thiết bị. Với ứng dụng này, bạn sẽ không có lý do để thoái thác ! Các kế hoạch luyện tập cũng thích ứng với mức độ và mục tiêu mà bạn đề ra.
+* Sắp xếp cuộc sống tốt hơn :
+Wunderlist : chống chứng hay quên.
+Ứng dụng Wunderlist giúp bạn soạn danh sách những điều bạn sẽ làm để bạn không quên và danh sách đó luôn hiện diện trong điện thoại thông minh của bạn. Ứng dụng cũng cho phép thêm hình ảnh, video và chia sẻ chúng với các địa chỉ liên lạc trong danh bạ điện thoại. Một tính năng thú vị khác dành cho những người đãng trí nhất : Wunderlist gửi thông báo về thời hạn hoặc những mốc sự kiện quan trọng.
+Any.do : tất cả trong 1.
+Những tính năng của của ứng dụng Any.do đã thu hút sự chú ý của không dưới 15 triệu người dùng. Ưu điểm lớn nhất: với ứng dụng, bạn có thể đồng bộ hóa mọi thứ. Hộp thư Outlook, các sự kiện trên Facebook, lịch Google, lịch, danh sách những việc cần làm... Bạn có thể chia sẻ chúng với tất cả số liên lạc trong danh bạn điện thoại và lưu giữ chúng dễ dàng nhờ tính năng giọng nói.
+*Lưu giữ thông tin:
+Pocket : thông tin trong túi bạn.
+Hàng ngày trên các mạng xã hội bạn sẽ tìm thấy hàng loạt bài viết mà bạn thấy thú vị nhưng bạn không có thời gian để đọc chúng ngay. Đây là lúc Pocket ra tay : với ứng dụng này, bạn có thể lưu các trang thông tin chỉ bằng một cú nhấp chuột và truy cập chúng ở mọi nơi, ngay cả khi điện thoại không kết nối Internet!
+Phạm Lê - Quế Anh (tổng hợp).

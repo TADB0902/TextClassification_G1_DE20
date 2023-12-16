@@ -1,0 +1,21 @@
+Duplicate Media Remover.
+- Bước 2: Khi hoàn tất, bạn chỉ cần khởi động ứng dụng, lựa chọn thư mục cần kiểm tra các tập tin trùng lặp và chờ một lát cho đến khi kết thúc.
+- Bước 3: Duplicate Media Remover sẽ hiển thị biểu đồ tương ứng với từng loại tập tin, đơn cử như Audio (âm thanh), Images (hình ảnh), Videos (video), Others (các tập tin khác) và Free Space (không gian trống). Để xem các tập tin trùng lặp, bạn chỉ cần bấm vào tùy chọn Show Duplicates.
+Cuối cùng, người dùng chỉ cần đánh dấu vào các tập tin cần xóa rồi bấm vào biểu tượng thùng rác. Theo thử nghiệm của người viết, sau khi xóa bớt các tập tin trùng lặp, smartphone đã có thêm 1-2 GB dung lượng lưu trữ. Tất nhiên con số này sẽ thay đổi tùy vào thiết bị bạn đang sử dụng.
+Duplicate Files Fixer.
+- Bước 1: Về cơ bản, Duplicate Files Fixer cho phép người dùng tìm kiếm và xóa bỏ các tập tin trùng lặp trên smartphone Android chỉ với vài thao tác đơn giản.
+- Bước 2: Tại màn hình bắt đầu, bạn hãy nhấn vào nút Let's go > Got It để cấp quyền cho phép ứng dụng xóa các tập tin âm thanh, hình ảnh, video, tài liệu bị trùng lặp.
+- Bước 3: Tiếp theo, người dùng chỉ cần đánh dấu vào các mục cần quét hoặc chọn Full scan (quét toàn bộ) rồi nhấn Scan now. Kết quả sẽ trả về sẽ hiển thị toàn bộ danh sách các tập tin trùng lặp, lúc này bạn chỉ cần chọn và xóa bỏ để lấy lại không gian trống cho smartphone.
+Search Duplicate File.
+Ứng dụng này sẽ kiểm tra và loại bỏ các tập tin trùng lặp, cache, những tập tin đã lâu không được sử dụng... để lấy lại không gian lưu trữ.
+- Bước 1: Đầu tiên, bạn hãy chọn các thư mục, ổ đĩa, thẻ nhớ cần kiểm tra, sau đó nhấn vào biểu tượng kính lúp và chờ cho đến khi hoàn tất.
+- Bước 2: Cuối cùng, người dùng chỉ cần chọn các tập tin trùng lặp và nhấn Delete.
+Sao lưu đám mây.
+Bên cạnh đó, dịch vụ đám mây đang ngày càng phát triển và có mức giá rẻ hơn, cho phép người dùng có thể truy cập dữ liệu cá nhân mọi lúc mọi nơi và ở bất cứ đâu. Do đó, không có lí do gì mà chúng ta không tận dụng công nghệ đám mây để giảm tải cho thiết bị.
+Nếu muốn lưu trữ hình ảnh, bạn có thể cài đặt Google Photos. Ứng dụng cho phép bạn lưu trữ hình ảnh chất lượng cao và không giới hạn dung lượng, đồng thời hỗ trợ thêm tính năng sao lưu và đồng bộ hóa. Để kích hoạt, bạn hãy mở ứng dụng Google Photos, tìm đến phần Settings (cài đặt) > Back up & sync (sao lưu và đồng bộ).
+Lưu ý, nếu tải lên ảnh gốc, Google sẽ trừ vào phần dung lượng miễn phí (15 GB) ban đầu. Khi đã đồng bộ đám mây hoàn tất, người dùng hãy vào Settings (cài đặt) > Free up device storage (làm trống bộ nhớ thiết bị).
+Hi vọng với 4 mẹo nhỏ mà Kynguyenso.plo.vn vừa giới thiệu bên trên, người dùng có thể nhanh chóng xóa bớt các tập tin trùng lặp chỉ với vài thao tác đơn giản. Bên cạnh đó, bạn cũng có thể tham khảo thêm một số mẹo để lấy lại không gian trống trên smartphone như Xử lý lỗi smartphone Android hết dung lượng lưu trữ hoặc Giải pháp hay dành cho iPhone có bộ nhớ nhỏ.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Cách sửa lỗi Google Maps không hiển thị.
+(PLO)- Trong quá trình sử dụng, hẳn là sẽ có đôi lần bạn gặp phải tình trạng Google Maps không hiển thị bản đồ. Làm thế nào để khắc phục tình trạng trên?
+MINH HOÀNG.

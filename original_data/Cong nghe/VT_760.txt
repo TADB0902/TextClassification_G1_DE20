@@ -1,0 +1,13 @@
+Những lời tố cáo của một cựu nhân viên đã làm việc cho Google hơn 10 năm, ít nhiều cũng nói lên nhiều sự thật trong nội bộ, đang thu hút nhiều chú ý của dư luận vì "những nhận xét gây sốc" về gã khổng lồ công nghệ tìm kiếm Mỹ.
+Steve Yegge - Cựu nhân viên phần mềm cao cấp, đã làm việc cho Google hơn 13 năm trước khi rời khỏi công ty này.
+Yegge cho biết, một trong những nguyên nhân chính khiến anh quyết định rời Google là việc công ty này biến đổi thành doanh nghiệp 100% tập trung vào đối thủ cạnh tranh, không còn chú trọng vào khách hàng như trước kia nữa.
+Chiến lược bắt kịp và giành ưu thế trước các đối thủ về công nghệ có thể là nguyên nhân lớn nhất, nhưng không phải là duy nhất khiến Yegge chia tay Google.
+Cựu kỹ sư phần mềm này chia sẻ trên trang Medium rằng, lý do chính khiến tôi rời Google là họ không thể đổi mới sáng tạo nữa. Họ đã mất đi khả năng ấy. Trước hết, do họ bảo thủ, quá tập trung vào việc bảo vệ những gì họ đã có, đến mức sợ mạo hiểm và đổi mới thực sự.
+Kế đến, họ còn dính líu đến chính trị. Và cuối cùng là họ kiêu căng. Họ ngạo mạn trước thế giới về cái gọi là "chúng tôi" - chứ không phải "tôi".
+Khi một công ty thành công vang dội (như Google đã đạt được), công ty đó có thể bị ám ảnh với cảm giác "bất khả chiến bại" và kết cục bi thảm là: Sự tự mãn, hội chứng "không phát minh" tiếp, mất thấu cảm khách hàng và hoạch định chiến lược, chính sách kém.
+Yegge đã lấy ví dụ Google+ để minh chứng. Đó là câu trả lời trực tiếp của Google trước Facebook, Google Cloud nhằm đáp trả dịch vụ web của Amazon, Allo, nhằm chống lại WhatsApp, Android Instant Apps cũng như đối trọng với các thành tựu của Facebook và WeChat, và tất nhiên còn có trợ lý ảo Google Assistant để cạnh tranh với Apple Siri và Amazon Alexa.
+"Họ đơn giản không còn sự đổi mới trong 'chuỗi ADN' của mình nữa. Và điều đó xảy ra bởi vì mọi con mắt của họ đều đổ dồn vào các đối thủ, chứ không phải khách hàng của mình", Yegge nhấn mạnh.
+Theo Yegge, không chỉ mình Google mà còn nhiều hãng công nghệ lớn khác ở Thung lũng Silicon cũng vậy. Chẳng hạn như Oracle, Twitter, Apple, eBay, Microsoft, Adobe hay SalesForce,... tất cả cũng đang "tha hóa dần" như vậy.
+Đây không phải là lần đầu tiên Yegge tự đặt mình vào tầm ngắm của Google. Năm 2011, anh từng nổi như cồn trên báo sau khi "vô tình" đăng tải một bài viết chỉ trích dài về chiến lược Google+ yếu kém của Google, đồng thời lên án CEO Amazon - tỉ phú Jeff Bezos là "tên cướp biển đáng sợ". Song, lúc đó Yegge không bị công ty sa thải.
+Tuy nhiên, Yegge vẫn cảm thấy "Google vẫn là một trong nơi làm việc tốt nhất trên trái đất, theo bất kỳ cách nào bạn muốn đo lường nó". Anh cẩn thận lý giải việc này bằng các màn ra mắt sản phẩm mới, quan trọng của Google trong vài năm trở lại đây.
+Thanh Trà.

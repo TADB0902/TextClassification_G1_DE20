@@ -1,0 +1,25 @@
+Hết dung lượng luôn là nỗi ám ảnh đối với nhiều người dùng smartphone có bộ nhớ thấp. Khi không đủ bộ nhớ, bạn sẽ không thể cài đặt thêm ứng dụng mới, chụp ảnh, quay video... và thậm chí hiệu suất thiết bị cũng giảm đi đáng kể.
+Nếu smartphone đang sử dụng có hỗ trợ khe cắm thẻ nhớ, bạn chỉ cần áp dụng một số mẹo nhỏ sau đây để chuyển bớt các ứng dụng nặng sang thẻ nhớ.
+Chuyển ứng dụng sang thẻ nhớ để tiết kiệm dung lượng lưu trữ. Ảnh: Internet.
+Sử dụng thẻ nhớ như bộ nhớ trong.
+Bắt đầu từ Android 6.0 Marshmallow, Google đã bổ sung thêm một tính năng mới cho phép người dùng sử dụng thẻ nhớ như bộ nhớ trong, giúp tăng thêm dung lượng lưu trữ nhưng vẫn đảm bảo hiệu suất.
+- Bước 1: Đầu tiên, bạn hãy gắn thẻ nhớ vào smartphone (nên lựa chọn thẻ nhớ Class 10 trở lên, tốc độ tối thiểu 30 MB/s). Lưu ý, quá trình này sẽ xóa sạch toàn bộ dữ liệu trên thẻ nhớ, do đó, người dùng cần sao lưu lại toàn bộ dữ liệu trước khi thực hiện.
+Lựa chọn thẻ nhớ smartphone sao cho máy không bị chậm.
+(PLO) - Việc sử dụng thẻ nhớ sẽ giúp bạn có thêm nhiều không gian lưu trữ, tuy nhiên giữa một rừng các chủng loại và tên tuổi khác nhau thì thật khó để biết được đâu mới là sản phẩm phù hợp.
+- Bước 2: Tiếp theo, bạn hãy vào Settings (cài đặt) > Storage (lưu trữ), chọn thẻ nhớ và nhấp vào tùy chọn Storage Settings (cài đặt lưu trữ) > Format as internal > Erase  & Format. Lưu ý, nếu smartphone tự nhận diện thẻ nhớ mới, người dùng chỉ cần chọn Use as internal storage và làm theo các bước hướng dẫn.
+Chuyển ứng dụng sang thẻ nhớ trên Android 8.0 Oreo.
+Đầu tiên, bạn hãy vào Settings (cài đặt) > Apps & notifications (ứng dụng & thông báo) > App info (thông tin ứng dụng), tìm đến ứng dụng cần chuyển sang thẻ nhớ, sau đó bạn chọn Storage > Internal shared storage > Move. Lưu ý, không phải ứng dụng nào cũng có sẵn tùy chọn này.
+Nếu muốn chuyển ứng dụng về lại bộ nhớ trong, bạn chỉ cần thực hiện ngược lại.
+Chuyển ứng dụng sang thẻ nhớ trên Android 7.0 và 6.0.
+Tương tự, bạn hãy vào Settings (cài đặt) > Apps (ứng dụng), tìm đến ứng dụng cần chuyển sang thẻ nhớ, sau đó chọn Storage > Change > Internal shared storage. Tùy thuộc vào kích thước của ứng dụng mà thời gian chuyển có thể mất vài phút hoặc hơn (nếu là trò chơi). Nếu đang sử dụng Android 6.0, bạn chỉ cần thực hiện tương tự.
+Chuyển ứng dụng sang thẻ nhớ trên Android 5.0 Lollipop.
+Android 5.0 chưa hỗ trợ tốt việc chuyển ứng dụng sang thẻ nhớ, tuy nhiên vẫn có một số cái thực hiện được. Việc bạn cần làm là vào Settings (cài đặt) > Apps (ứng dụng), tìm đến ứng dụng cần chuyển sang thẻ nhớ và chọn Storage > Move to SD Card. Lưu ý, nếu không thấy xuất hiện tùy chọn này nghĩa là ứng dụng đó không được hỗ trợ.
+Link2SD.
+Ngoài những cách kể trên, bạn có thể cài đặt thêm các ứng dụng của bên thứ ba để thực hiện việc này nhanh hơn. Đơn cử như Apps2SD, FolderMount (yêu cầu thiết bị đã root) hoặc Link2SD (có hai phiên bản dành cho máy đã root và chưa root).
+Đầu tiên, bạn hãy mở Link2SD, cấp quyền cho ứng dụng nếu máy đã root trước đó. Tiếp theo, người dùng chỉ cần tìm đến ứng dụng cần chuyển sang thẻ nhớ, tại đây sẽ có các tùy chọn gồm Link to SD Card (yêu cầu máy đã root) hoặc Move to SD Card (dành cho máy chưa root).
+Nếu muốn chuyển đồng thời cùng lúc nhiều ứng dụng sang thẻ nhớ, bạn hãy nhấp vào biểu tượng menu ở góc trên bên phải và chọn Multi-select, thực hiện lại các bước kể trên.
+Hy vọng với những mẹo nhỏ đơn giản mà Kynguyenso.plo.vn vừa giới thiệu bên trên, bạn đọc có thể dễ dàng lấy lại không gian lưu trữ trên smartphone.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Sửa lỗi máy tính không nhận thẻ nhớ và USB.
+(PLO)- Trong quá trình sử dụng, hẳn là sẽ có đôi lần USB hoặc thẻ nhớ của bạn bị virus xâm nhập, khiến máy tính không thể nhận ra. Làm thế nào để khắc phục tình trạng trên?
+MINH HOÀNG.

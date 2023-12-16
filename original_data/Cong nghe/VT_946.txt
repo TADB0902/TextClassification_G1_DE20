@@ -1,0 +1,6 @@
+Microsoft hiện đang cung cấp bản cập nhật cho Office 2019, qua đó tiết lộ rằng các ứng dụng sẽ chỉ chạy trên Windows 10. Trong bài viết về dịch vụ và hỗ trợ của Windows và Office, Microsoft đã cho biết người dùng cần phải nâng cấp lên Windows 10 nếu muốn sử dụng phiên bản mới nhất của Office mà không đăng ký dịch vụ Office 365 của hãng.
+Đây là động thái nhằm thúc đẩy các doanh nghiệp đang sử dụng Office 365, bởi Office 2019 sẽ chỉ được hỗ trợ trên Windows 10 và sẽ không hỗ trợ trên Windows 7 hoặc Windows 8.1. Điều này sẽ không ảnh hưởng đến ứng dụng Office dành cho Mac vì đây là sản phẩm được phát hành riêng biệt của Microsoft. Microsoft cũng đang thay đổi vòng đời hỗ trợ Office 2019, nó sẽ nhận được 5 năm hỗ trợ chính thức và sau đó là "khoảng 2 năm hỗ trợ mở rộng".
+Office 2019 sẽ được phát hành vào nửa cuối năm 2018. Nó bao gồm các ứng dụng Word, Excel, PowerPoint và Outlook, cùng với đó là các phiên bản máy chủ như Exchange, SharePoint và Skype for Business. Phần mềm này được thiết kế chủ yếu cho các tổ chức không sử dụng phiên bản điện toán đám mây Office 365 của Microsoft.
+Windows 10 phiên bản 1511, 1607, 1703 và 1709 sẽ được hỗ trợ thêm 6 tháng nữa để giúp doanh nghiệp và các đơn vị giáo dục chuyển sang các phiên bản mới nhất của Windows 10.
+Theo TheVerge.
+Sang Smith.

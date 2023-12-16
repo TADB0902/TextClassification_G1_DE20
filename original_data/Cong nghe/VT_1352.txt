@@ -1,0 +1,11 @@
+Sinh viên tham gia cuộc thi Cuộc đua số do FPT tổ chức. (Ảnh: FPT).
+Tin từ FPT chiều 1/2 cho biết, đơn vị này đã trao 71 suất học bổng với tổng trị giá 142.000 USD cho 71 sinh viên của 18 đội xuất sắc lọt vào vòng bán kết cuộc thi Cuộc đua số 2017-2018.
+Theo đó, các thí sinh sẽ được tham gia khóa học Kỹ sư lập trình mã nhúng theo chuẩn châu Âu trong vòng 10 tuần trị giá 2.000 USD/người (bao gồm trợ cấp đào tạo theo tháng, đào tạo lý thuyết, thực hành lab và huấn luyện thực địa tại các dự án về tự động hóa đang triển khai tại FPT Software). Sau khi kết thúc khóa học, các sinh viên hoàn thành xuất sắc sẽ được tuyển vào làm việc tại FPT Software.
+Để nhận được học bổng trên, các thí sinh đã phải trải qua 3 phần thi gay cấn tại Vòng thi tìm kiếm đội đại diện trường diễn ra từ 16-27/1.
+Với chủ đề Lập trình Xe tự hành, thử thách lớn nhất đối với các thí sinh tại vòng trường của Cuộc đua số 2017-2018 là phần nhận dạng biển báo giao thông.
+Tiến sỹ Đỗ Thanh Hà, (giảng viên Đại học Khoa học tự nhiên, Đại học Quốc gia Hà Nội, thành viên Ban giám khảo) cho hay, khi đi trên đường người lái xe phải tuân theo luật giao thông, trước tiên là các loại biển báo. Với xe tự hành, trước hết là cần phải biết chỗ nào có biển báo và sau đó cần phải học để biết biển đó là gì từ đó quyết định nên làm gì: rẽ, dừng hay giảm tốc độ Mục tiêu của Cuộc đua số 2017-2018 là giúp sinh viên tiếp cận và giải bài toán nói trên.
+Theo đó, 18 đội thi lọt vào bán kết sẽ được FPT cung cấp mỗi đội 1 xe tự hành với tỷ lệ 1/10 so với kích thước thật. Ngoài ra, các đội thi cũng sẽ được FPT cung cấp các thuật toán cơ bản; một chương trình mã nguồn mở cho phép xe chạy được trên đường cong (địa hình đơn giản) và tránh được vật cản (thuật toán phát hiện biên của ảnh, từ đó làm cơ sở để xác định đường di chuyển của xe.
+Cùng lúc, Ban tổ chức còn thêm các mã nguồn mở của xe một phiên bản chạy trên ROS (Robot Operating System ) - nền tảng mã nguồn mở nổi tiếng về robotic trên thế giới. Ở vòng bán kết, đội ngũ huấn luyện viên gồm nhiều chuyên gia về công nghệ xử lý hình ảnh, tự động hóa cũng sẽ trực tiếp hướng dẫn cho các thí sinh.
+Trận Bán kết dự kiến sẽ diễn ra vào tháng 3để chọn ra các đội xuất sắc nhất vào thi đấu tại trận chung kết dự kiến diễn ra vào trung tuần tháng Tư./.
+Trận Chung kết cuộc thi điều khiển xe không người lái 2016-2017. (Video: FPT).
+Trung Hiền (Vietnam+).

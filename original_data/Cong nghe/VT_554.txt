@@ -1,0 +1,7 @@
+Các bản vá lỗ hổng bảo mật Meltdown và Spectre của Intel lại gây ra sự cố khởi động nhiều lần với vi xử lý mới.
+Navin Shenoy, người đứng đầu trung tâm dữ liệu của Intel cho biết, những thử nghiệm mới cho thấy, kể cả các bản vá mới cho lỗ hổng bảo mật Meltdown và Spectre, khi áp dụng cho những bộ vi xử lý tối tân Bridge, Sandy Bridge, Skylake, Kaby Lake cũng gặp sự cố khởi động nhiều lần ngoài dự kiến.
+Thật không may là công ty vẫn chưa xác định được nguyên nhân gốc rễ của hiện tượng trên. Tuy vậy. Shenoy cũng hứa hẹn đang có những tiến bộ lạc quan trong việc giải quyết vấn đề. Ông nói thêm: Chúng tôi sẽ cung cấp mã vạch beta cho các nhà cung cấp để xác nhận vào tuần tới.
+Shenoy cũng thảo luận về cách thức các bản sửa lỗi Spectre và Meltdown sẽ ảnh hưởng đến các máy chủ. Theo đó, những dữ liệu ban đầu mà công ty nhận được từ việc so sánh các nền tảng máy chủ sử dụng hệ thống kiến trúc vi mô mới nhất là Xeon Scalable 2 Socket. Kết quả cho thấy, thiết bị có thể chạy chậm lại trong khoảng 2- 4%, tùy thuộc vào khối lượng công việc và Java. Sự chậm lại đáng kể nhất được ghi nhận trong bài kiểm tra I/O với khoảng 25%.
+Intel cho biết, họ đang làm việc với các đối tác để giải quyết các vấn đề mà họ cho rằng đã gây ra sự chậm trễ đáng kể cho các thiết bị. Một trong những lựa chọn đó là Retpoline, kỹ thuật bảo vệ các hệ thống mới mà không ảnh hưởng đến hiệu năng.
+Theo Engadget.
+Đ.Huệ.

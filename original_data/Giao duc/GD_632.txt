@@ -1,0 +1,18 @@
+Phương án nhiễu được xây dựng tốt hơn.
+Nhận định chung, đề thi tham khảo có độ khó tăng lên, kiến thức trong đề bao phủ chương trình lớp 11 và lớp 12. Cụ thể, lớp 11 chiếm 20%, lớp 12 chiếm 80%. Có câu kết hợp cả kiến thức 11 và 12 để xử lý (ví dụ câu 42).
+Cấu trúc đề thi hầu như không thay đổi, chỉ có sự hoán đổi tỷ lệ một chút ở các chủ đề và có thêm 4 câu về tổ hợp và xác suất, lượng giác.
+Chủ đề chủ đạo trong đề thi là chủ đề đạo hàm và ứng dụng với các nội dung liên quan như: giới hạn, tiệm cận, đọc bảng biến thiên, nhận dạng đồ thị, tiếp tuyến, biện luận phương trình, cực trị. Chủ đề này chiếm tỷ trọng 13/50 câu trong đề thi.
+Chủ đề hàm số mũ và logarit đã giảm xuống từ 10 câu còn 6 câu, nhường chỗ cho 4 câu của chủ đề tổ hợp và xác suất. Số câu của hai chủ đề số phức và đa diện hoán vị cho nhau: trước đây là 6-4 và bây giờ là 4-6.
+Các chủ đề còn lại về cơ bản không thay đổi: Hình giải tích không gian, mặt tròn xoay, tích phân và ứng dụng. Như vậy, có thể nói cấu trúc nội dung đề thi THPT quốc gia về cơ bản không thay đổi.
+Điểm cộng cho đề thi minh họa lần này là các phương án nhiễu đã được xây dựng tốt hơn. Tuy nhiên, đề thi cần tăng thêm câu hỏi vận dụng toán học, gắn với thực tế.
+Độ khó xếp theo thứ tự tăng dần.
+Thầy Đỗ Huy Bình cho biết: Cũng như đề thi năm 2017, độ khó của các câu hỏi được xếp theo thứ tự tăng dần về độ khó, cụ thể:
+10 câu đầu rất dễ, ở mức độ nhận biết, học sinh nào không kiếm được đủ điểm ở phần này thì quả là hơi yếu. 10 câu tiếp theo vẫn còn dễ nhưng có thách thức hơn một chút.
+20 câu tiếp theo ở mức độ vận dụng thấp, trong đó vẫn có trộn lẫn một số câu mức dễ (như câu 24) và về cuối có một số câu khó hơn (như các câu 39, 40).
+10 câu hỏi cuối là câu hỏi ở mức độ vận dụng cao, được đánh giá là khó hoặc rất khó. Ví dụ các câu 46, 47, 48, 50 đều là rất khó. Đặc biệt câu 50 theo đánh giá của nhiều giáo viên là quá khó, không phù hợp với một bài thi xét tốt nghiệp THPT mà chủ yếu nhằm vào việc xét tuyển Đại học. Đây là điều đương nhiên với một đề thi "2 trong1".
+Với đề thi trên, học sinh có thể dễ dàng đạt 6 điểm. Từ câu 1 đến câu 30, kiến thức rất cơ bản, học sinh có thể tận dụng máy tính cầm tay làm bài.
+Từ câu 31  40 (mức 6  8), đòi hỏi học sinh kỹ năng xử lý biến đổi bài tập tốt. Từ múc độ 8 - 10 điểm, đan xen cả câu cơ bản và câu vận dụng, vận dụng cao; yêu cầu học sinh phải hiểu rõ bản chất mới có thể ăn gọn được.
+Kiến thức lớp 11 phù hợp, có 3 xếp vào vận dụng và câu vận dụng cao: rơi vào phần dãy số và lượng giác, phần xác suất nếu không phân tích kỹ có thể học sinh mắc bẫy!
+Đây chỉ là đề tham khảo, vì vậy học sinh vẫn cần học hết toàn bộ kiến thức lớp 11 tránh học tủ (mặc dù 1 vài chương lớp 11 không xuất hiện trong đề thi). Vì khả năng cao đề thi chính thức sẽ vẫn có đủ toàn bộ câu thuộc toàn bộ 6 chương lớp 11.
+Kiến thức lớp 12 trong đề thì bao phủ toàn bộ kiến thức lớp 12. Nội dung trong đề cũng không ra vào phần giảm tải. Kiến thức bám sát theo sách cơ bản. Học sinh nên bám sát theo hướng dẫn giảm tải của Bộ GD&ĐT năm 2011 và theo khóa học phù hợp với mục tiêu thi.
+Hiếu Nguyễn.

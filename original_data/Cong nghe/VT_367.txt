@@ -1,0 +1,11 @@
+Nhờ tính đơn giản và kết nối cực kỳ nhanh gọn, FaceTime đã trở thành một trong những ứng dụng được sử dụng khá nhiều trong các hộ gia đình, đặc biệt là những gia đình có người thân ở nước ngoài.
+Trên iOS 11, Apple đã bổ sung tính năng quay phim màn hình iPhone và iPad, nhưng bạn lại không thể ghi âm được. Để có thể vừa ghi hình vừa ghi âm, bạn sẽ phải dùng máy Mac.
+- Đầu tiên bạn cắm iPhone hoặc iPad vào máy Mac bằng một sợi cáp sạc thông thường. Đừng quên mở khóa màn hình và thoát ra màn hình chính.
+- Bật ứng dụng QuickTime trên máy Mac.
+- Trên thanh menu của máy Mac, chọn File > New Movie Recording.
+- Trong cửa sổ hiện ra, bấm mũi tên hướng xuống và chọn iPhone hoặc iPad trong mục Camera.
+- Bấm nút ghi hình (hình tròn màu đỏ ở giữa) trong QuickTime và bắt đầu cuộc gọi FaceTime trên iPhone hoặc iPad.
+- Sau khi kết thúc cuộc gọi, bạn cũng bấm nút Stop trên thanh menu của máy Mac, và đoạn video bạn vừa ghi được sẽ hiện ra. Chọn File > Save để lưu xuống máy.
+Bạn sẽ tự hỏi tại sao quá trình ghi lại cuộc gọi FaceTime lại hơi phức tạp như vậy? Câu trả lời là có lẽ Apple muốn hạn chế điều này vì một số lý do liên quan quyền riêng tư.
+Phương pháp trên chỉ có thể áp dụng nếu bạn sử dụng máy Mac, còn nếu bạn sử dụng máy tính Windows thì có lẽ sẽ phải đợi một giải pháp khác từ chính Apple mà thôi.
+Theo Vnreview.

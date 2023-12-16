@@ -1,0 +1,10 @@
+Theo báo cáo nghiên cứu đăng tải trên tạp chí Science, giáo sư George Church thuộc Đại học Harvard (Mỹ) và các đồng nghiệp đang sử dụng một kỹ thuật có tên gọi Crispr để biến đổi ADN của lợn, nhằm khiến chúng phù hợp hơn với con người.
+Nghiên cứu này được thực hiện với mục đích ban đầu là giải quyết các quan ngại về sự thải loại và lây nhiễm các virus bám dính trong ADN của lợn.
+Các nhà khoa học Mỹ hy vọng có thể cho ra đời lợn biến đổi gene, có khả năng cung cấp bộ phận cấy ghép cho con người.
+Crispr là một công cụ khoa học tương đối mới, cho phép các nhà khoa học cắt xén và thao tác với ADN. Nhóm của giáo sư Church đã dùng nó để vô hiệu hóa một retrovirus đang tồn tại trong thành tế bào của lợn. Retrovirus nói trên tiềm tàng nguy hiểm vì có thể lây nhiễm cho các tế bào của người, ít nhất trong phòng thí nghiệm.
+Trong các thử nghiệm ở phôi thai lợn giai đoạn đầu, giáo sư Church đã có thể loại bỏ cả 62 bản sao retrovirus khỏi các tế bào của lợn nhờ kỹ thuật Crispr. Bước tiếp theo, ông đã kiểm tra xem liệu các tế bào lợn có còn dễ dàng truyền nhiễm retrovirus sang các tế bào người hay không. Câu trả lời nhìn chung là không, dù vẫn có một lượng rất nhỏ retrovirus truyền sang các tế bào của người.
+Giáo sư Church nhấn mạnh, khám phá trên mở ra triển vọng lớn về việc sử dụng các nội tạng của động vật ở người, quá trình mà các bác sĩ gọi là "cấy ghép bộ phận khác loài". Giáo sư Church và các đồng nghiệp đang muốn phát triển các con lợn biến đổi gen để lấy nội tạng cấy ghép cho con người.
+Giáo sư George Church.
+Nếu thành công, nó sẽ là giải pháp cho tình trạng khan hiếm bộ phận cơ thể người hiến tặng phục vụ phẫu thuật cấy ghép y tế hiện nay.
+Dẫu vậy, ông Church thừa nhận cần có thêm nhiều nghiên cứu kéo dài hàng năm nữa, trước khi các con lợn biến đổi gen có thể được nhân giống để cung cấp bộ phận cấy ghép phù hợp cho con người.
+Cẩm Tú (dịch).

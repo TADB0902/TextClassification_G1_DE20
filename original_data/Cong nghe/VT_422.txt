@@ -1,0 +1,10 @@
+Từ lâu ATM jackpotting đã là một mối đe dọa đối với các ngân hàng ở châu Âu và châu Á. Diebold Nixdorf và NCR Corp - 2 trong số các nhà sản xuất máy ATM lớn nhất thế giới, đã cảnh báo rằng tội phạm mạng đang nhắm tới các máy ATM ở Mỹ, bằng các công cụ khiến máy ATM nhả tiền ào ạt, một kỹ thuật hack gọi là jackpotting.
+Hai nhà sản xuất ATM không nói rõ đã có bao nhiêu nạn nhân hay có bao nhiêu tiền bị mất. Tuy nhiên, vấn nạn jackpotting đang gia tăng trên toàn thế giới trong những năm gần đây, mặc dù không rõ số tiền mặt đã bị đánh cắp vì nạn nhân và cảnh sát thường không tiết lộ chi tiết.
+ATM jackpotting - là một loại tội phạm tinh vi, trong đó các tên trộm cài đặt phần mềm độc hại hoặc phần cứng tại các máy ATM buộc các máy phải nhả ra lượng tiền mặt lớn. Từ lâu, ATM jackpotting đã là một mối đe dọa đối với các ngân hàng ở châu Âu và châu Á.
+Hacker khiến ATM tự động nhả tiền. Ảnh: Getty.
+Các cuộc tấn công ATM jackpotting mới nhất vừa xảy ra vào cuối tuần qua. Các công ty sản xuất máy ATM xác nhận họ đã gửi đi cảnh báo cho khách hàng. Đây là các vụ ATM jackpotting đầu tiên xảy ra tại Mỹ và đang khiến toàn bộ ngành công nghiệp ATM lo ngại.
+Tất cả các ngân hàng và nhà phát triển ATM cần kêu gọi hành động, có những bước đi thích hợp nhằm bảo vệ máy ATM chống lại những dạng tấn công này, cảnh báo phát đi nêu rõ.
+Đầu 2016, một nhóm tội phạm kỹ thuật cao đã cài mã độc lên nhiều ATM ở Đài Loan và Thái Lan, khiến máy nhả tiền vào các khung giờ nhất định và lúc này hacker chỉ việc đi thu. Các hacker thường giả mạo là kỹ thuật viên của ngân hàng nhằm tránh gây chú ý.
+Theo cảnh sát, những kẻ tấn công thường chọn các điểm ATM đặt độc lập, khảo sát trước hệ thống, rồi dùng máy tính xách tay đem theo để chạy phần mềm độc hại. Sau đó, chúng sẽ liên hệ với đồng bọn có mặt tại ATM để thu tiền với tốc độ nhả tới 40 tờ chỉ trong 23 giây.
+Chưa rõ loại virus nào đã được hacker sử dụng nhưng báo cáo của Krebs cho biết đó có thể là mã độc Ploutus.D. Năm ngoái, Kaspersky đã nêu ra ba trường hợp có thể tấn công và điều khiển ATM từ xa, bao gồm cả việc sử dụng phần mềm độc hại có tên ATMitch.
+Vũ Đậu (T/h).

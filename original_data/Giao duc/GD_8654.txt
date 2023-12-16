@@ -1,0 +1,10 @@
+Ngày 1/6, tại Hà Nội, đã chính thức diễn ra lễ phát động cuộc thi Lập trình Quốc tế Samsung 2017 mang tên "Samsung Collegiate Programming Cup 2017", dành cho sinh viên Việt Nam. Hai cuộc thi tương tự cũng được phát động tại Hàn Quốc và Ấn Độ.
+Lễ phát động cuộc thi.
+Cuộc thi hứa hẹn sẽ tạo ra một sân chơi quốc tế, nhằm khuyến khích các sinh viên tiếp cận, tìm hiểu và trang bị thêm các kỹ năng về lập trình, giải quyết thuật toán, xây dựng ý tưởng, tư duy logic, đồng thời ứng dụng kiến thức lập trình vào cuộc sống, bắt kịp xu thế của cuộc Cách mạng Công nghiệp lần thứ 4.
+Đối tượng dự thi là sinh viên đang theo học tại các trường Đại học (ĐH), học viện trên toàn quốc. Các thí sinh có thể đăng ký dự thi trên website chính thức của cuộc thi, thời gian từ nay đến hết ngày 22/6.
+Tham gia cuộc thi Lập trình Quốc tế Samsung 2017, các thí sinh sẽ thực hiẹn bài thi về thuật toán và cấu trú dữ liệu (sử dụng ngôn ngữ lập trình C, C++, Java).
+Sinh viên đăng ký tham gia dự thi tại lễ phát động.
+Cuộc thi gồm 3 vòng. Vòng 1 (Online), diễn ra từ 7 giờ ngày 30/6 đến 7 giờ ngày 1/7/2017, thí sinh thực hiện bài thi của mình với nội dung chính là thuật toán cơ bản và cấu trúc dữ liệu. Vòng 2 (Offline), diễn ra ngày 15/7, tại Hà Nội và TP Hồ Chí Minh, với thời gian làm bài là 12 tiếng với nội dung chính là thuật toán nâng cao và cấu trúc dữ liệu. Dựa trên kết quả của vòng 2, BTC sẽ chọn ra 5 thí sinh xuất sắc tham gia vòng chung kết, được tổ chức tại Hàn Quốc vào ngày 17/8/2017.
+Tổng giá trị giải thưởng của cuộc thi tại Việt Nam lên tới 2,5 tỉ đồng, gồm: 1 giải nhất (1 điện thoại Samsung Galaxy S8 và 40 triệu tiền mặt); 1 giải nhì (1 điện thoại Samsung Galaxy S8 và 20 triệu tiền mặt), 3 giải ba (mỗi giải 1 điện thoại Samsung Galaxy S8 và 10 triệu tiền mặt), 15 giải khuyến khích ( mỗi giải 1 điện thoại Samsung Galaxy A7).
+Giải thưởng vòng chung kết tại Hàn Quốc bồm: 1 giải nhất trị giá 400 triệu đồng; 2 giải nhì trị giá 200 triệu đồng/giải; 5 giải ba trị giá 80 triệu đồng/ giải; 10 giải tư trị giá 40 triệu đồng/ giải; 20 giải năm trị giá 20 triệu đồng/ giải. Ba thí sinh xuất sắc nhất còn có cơ hội tham gia hội thảo ở nước ngoài.
+TT/ Báo Tin Tức.

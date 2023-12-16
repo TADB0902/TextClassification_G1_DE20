@@ -1,0 +1,7 @@
+Ảnh minh họa.
+Trong nghiên cứu vừa được công bố trên tạp chí Molecular Therapy, nhóm nghiên cứu tại Đại học Temple và Đại học Pitttsburgh (Mỹ) thông báo họ đã loại bỏ thành công virus HIV ở trong cơ thể những con chuột bị cấy tế bào nhiễm bệnh của con người. Đây là nghiên cứu đầu tiên đạt hiệu quả đối với động vật sống nhiễm HIV.
+Theo RT, Phó Giáo sư Wenhui Hu tại Đại học Temple cho biết, dựa trên nền tảng nghiên cứu cũ từ năm 2016, họ đã đạt được bước tiến trong kỹ thuật sử dụng công cụ chỉnh sửa gien CRISPR.
+Qua đó, nhóm nghiên cứu đã thu được kết quả như ý muốn trên ba nhóm chuột thí nghiệm: nhóm thứ nhất bị cấy virus HIV-1, nhóm thứ hai bị cấy một lượng virus EcoHIV và nhóm thứ ba được cấy các tế bào miễn dịch ở người bị nhiễm HIV-1 vào cơ thể chuột.
+Công cụ CRISPR  được mô tả như các chiếc kéo phân tử cho phép cắt dán enzyme của ADN chính xác với bất cứ đoạn gien nào  đã loại bỏ các mảnh gien HIV nhờ sử dụng acid Ribonucleic để tìm kiếm virus gây bệnh. Một khi đã bị nhận dạng, chất enzyme Cas9 đặc biệt sẽ tống khứ virus ra khỏi các tế bào của chuột.
+Ông Hu cho biết giai đoạn tiếp theo của chương trình nghiên cứu sẽ được áp dụng trên một loài linh trưởng phù hợp hơn để virus HIV có thể phát triển thành bệnh, và cuối cùng là được thử nghiệm trên các bệnh nhân.
+Xuân Chi/Báo Tin Tức.

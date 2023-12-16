@@ -1,0 +1,7 @@
+Việc tạm dừng tải bản cập nhật sẽ giúp mang đến sự tiện lợi hơn cho người dùng.
+Theo SlashGear , cập nhật hệ điều hành cho smartphone được xem là điều quan trọng đối với mọi người dùng, bởi không chỉ bổ sung các tính năng mới tiên tiến, nó cũng giúp bịt kín các lỗ hổng bảo mật quan trọng.
+Mặc dù vậy, những tập tin cập nhật này thường rất lớn và có thể được cung cấp đến người dùng trong khoảng thời gian không thích hợp. Không ai thích bắt đầu tải xuống bản cập nhật ở khu vực có đường truyền internet thiếu ổn định hoặc đang di chuyển, vì như vậy sẽ khiến pin nhanh chóng cạn kiệt. Tuy nhiên, mọi thứ sẽ được giải quyết trong bản cập nhật Android O sắp tới.
+Với việc phiên bản Android O Beta đã được phát hành đến các nhà phát triển dùng thử trước, nhiều người đã phát hiện ra rằng họ được cung cấp tùy chọn mới mà ở đó có thể tạm dừng việc tải xuống bản cập nhật hệ thống lớn. Điều này được mô tả giống những gì mọi người có thể làm với việc tải xuống bản cập nhật cho các ứng dụng, hay tải tập tin như hiện nay.
+Kỹ sư Google - Elliott Hughes tiết lộ trên tài khoản cá nhân rằng tính năng mới thực sự là một phần của bản cập nhật mới dành cho Play Services, tuy nhiên nó có thể mở rộng hơn khi Android O được phát hành vào cuối năm nay.
+Hughes cũng đề cập rằng tùy chọn tạm dừng không chỉ giới hạn ở việc tải bản cập nhật hệ thống lớn mà còn có thể sử dụng cho các bản cập nhật nhỏ, nhưng vì bản cập nhật nhỏ có thời gian tải xuống nhanh hơn nên hầu hết người dùng không nhận thấy.
+Kiến Văn.

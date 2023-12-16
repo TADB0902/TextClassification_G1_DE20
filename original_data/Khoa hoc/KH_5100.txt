@@ -1,0 +1,8 @@
+Nội dung câu đố như sau:
+Nàng Portia xinh đẹp có 3 cái tráp bằng vàng, bạc và chì. Nàng đặt bức chân dung của mình vào một trong số chúng.
+Bố nàng đặt ra quy định bất cứ ai đến cầu hôn chọn đúng chiếc tráp có bức chân dung sẽ trở thành chồng của Portia.
+Tuy nhiên, Portia hy vọng chồng của mình phải là người thông minh. Do đó, nàng dán thêm 3 tờ giấy trên 3 chiếc tráp.
+Tráp bằng vàng, tờ giấy ghi: "Bức chân dung nằm trong chiếc này". Chiếc tráp bằng bạc là dòng chữ: "Bức chân dung không nằm trong chiếc này". Tráp bằng chì được dán tờ giấy với nội dung: "Bức chân dung không nằm trong tráp bằng vàng".
+Portia nói với những người đến cầu hôn rằng trong 3 tờ giấy, chỉ một tờ ghi đúng sự thật. Vậy bức chân dung nằm ở tráp nào?
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

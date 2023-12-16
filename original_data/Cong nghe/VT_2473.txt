@@ -1,0 +1,9 @@
+- Cung cấp cho các thiết bị di động kết nối Internet băng rộng di động nhanh hơn và đáng tin cậy hơn.
+- Dùng các tần số khác 3G nên không ảnh hưởng tới mạng 3G đang có.
+- Tốc độ nhanh hơn giúp load các website nhanh hơn, có thể livestream video ngay mà không cần phải chờ nạp đầy bộ nhớ đệm (buffer), giúp tăng tính thời gian thực hơn.
+- Có thể tải các file đính kèm e-mail hay các nội dung khác từ web có dung lượng lớn nhanh hơn.
+- Sử dụng các ứng dụng online Internet như các bản đồ, cũng như có tính năng tương tác một cách mượt mà hơn, dễ dàng phóng to-thu nhỏ hình ảnh online.
+- Xử lý tốt việc livestream video hay các tác vụ tương tự mà trước đây cần phải chuyển từ 3G sang kết nối Internet mới có thể thực hiện được.
+- Tải các nội dung media như hình ảnh, video lên các mạng xã hội nhanh hơn.
+- Trong khi 3G tải dữ liệu để kết nối Internet di động, 4G tải dữ liệu để thực hiện các ứng dụng Internet di động.
+- 4G cho phép người dùng xem phim 4K, chơi game 4K và 3D online, sử dụng các ứng dụng thực tế ảo VR, thực tế tăng cường AR có tính tương tác cao, cũng như tải các nội dung có dung lượng lớn.

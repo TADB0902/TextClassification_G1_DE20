@@ -1,0 +1,21 @@
+Tránh các trang web không sử dụng giao thức HTTPS.
+Truy cập một trang web không có tiền tố HTTPS có nghĩa bất cứ điều gì bạn làm ở đó đều không được mã hóa. Mặc dù điều này không phải là mối quan tâm đối với các trang web chứa nội dung công khai nhưng nó rất đáng xem với bất kỳ trang web nào mà bạn đang nhập thông tin cá nhân như thông tin đăng nhập, chứng minh thư.
+Các trang web được mã hóa với giao thức HTTPS sẽ đảm bảo dữ liệu truy cập đã mã hóa an toàn.
+Một số trang web có thể bao gồm tiền tố HTTPS trên trang chủ, sau đó chuyển sang HTTP không được mã hóa ở các trang liên kết. Mọi thứ trở nên tồi tệ hơn khi bạn ở một trang web cần đăng nhập bằng mật khẩu hoặc chi tiết thanh toán.
+Trình duyệt Chrome giờ đây sẽ gắn cờ các trang web là an toàn nếu chúng được mã hóa đầy đủ hoặc không an toàn nếu chúng chưa được mã hóa, nhưng vẫn yêu cầu mật khẩu hoặc thông tin thẻ tín dụng. Cảnh báo xuất hiện ở bên trái của hộp URL và nó đánh dấu các trang web mã hóa bị lỗi.
+Vì vậy hãy kiểm tra xem URL của trang đó có tiền tố HTTPS trước khi nhập bất kỳ thông tin đăng nhập hoặc thông tin thanh toán nào. Tiện ích mở rộng HTTPS Everywhere dành cho Firefox, Chrome và Opera sẽ tự động mã hóa các liên lạc của trình duyệt với trang web chính nếu phát hiện liên kết HTTPS bị lỗi.
+Giảm thiểu việc sử dụng plugin và phần mở rộng.
+Có nhiều phần mềm tải về được thiết kế để cung cấp cho trình duyệt của bạn thêm an toàn, nhưng chúng có thể chứa lỗ hổng mà các hacker có thể khai thác để thu thập thông tin cá nhân của bạn. Và khi các nhà phát triển không cập nhật phần mở rộng, người sử dụng chúng có thể trở thành mục tiêu của tin tặc.
+Hãy tránh sử dụng các phần mở rộng không cần thiết trên trình duyệt.
+Để an toàn, hãy truy cập vào phần thiết lập trình duyệt để xem bạn đã tải xuống những plugin và tiện ích mở rộng nào, sau đó tắt những plugin mà bạn không thường xuyên sử dụng hoặc không sử dụng. Bạn có thể xem xét vô hiệu hóa 3 plugin lớn, gồm Microsoft Silverlight, Adobe Flash và Java. Nhiều trang web không còn sử dụng các plugin này để phát video nữa. Netflix đã bỏ Silverlight và YouTube không sử dụng Flash.
+Tránh bị theo dõi.
+Các trang web thường yêu cầu truy cập dữ liệu vị trí, kích thước màn hình hoặc phiên bản trình duyệt mà bạn sử dụng để tải các trang web một cách chính xác. Tuy nhiên, các trình plugin bổ sung như Adobe Flash và Java cũng chuyển tiếp nhiều thông tin hơn, bao gồm phần cứng, plugin đã được cài đặt Danh sách này kết hợp để tạo ra dữ liệu đặc trưng cho trình duyệt, khiến bạn bị theo dõi ngay cả khi đã vô hiệu hóa trình theo dõi.
+Hãy sử dụng các nền tảng có độ bảo mật cao để bảo vệ dữ liệu cá nhân.
+Về lý thuyết, mỗi nền tảng có cách thiết lập tránh bị theo dõi khác nhau. Ví dụ: iPhone sẽ bảo vệ tốt hơn so với Android vì nó ít được tùy chỉnh.
+Ngăn chặn tấn công lừa đảo với tính năng tự điền của trình duyệt.
+Chức năng tự động điền của trình duyệt giúp bạn điền vào các biểu mẫu yêu cầu thông tin như tên, địa chỉ và ngày sinh. Tuy nhiên, một nhà phát triển web gần đây đã phát hiện ra rằng một số trình duyệt nhất định, bao gồm Chrome, Safari và Opera cũng như phần mở rộng của trình quản lý mật khẩu LastPass có thể bị đánh lừa để tiết lộ thông tin cá nhân đã lưu mà người dùng không phát hiện.
+Tính năng tự động điền của trình duyệt có thể bị khai thác bởi kẻ gian.
+Điều này sẽ xảy ra thông qua các hộp văn bản ẩn được mã hóa vào một trang web độc hại, cùng với một vài yêu cầu hiển nhiên đối với những thông tin vô hại như tên và địa chỉ email của bạn. Khi bạn nhập thông tin, tính năng tự động điền sẽ thêm thông tin khác được lưu trong trình duyệt hoặc LastPass, có thể bao gồm đủ chi tiết để kích hoạt gian lận thẻ tín dụng.
+Do đó, hãy tránh nhập bất kỳ thông tin cá nhân nào trên trang web mà bạn không chắc chắn. Đăng xuất khỏi LastPass để bất kỳ thông tin cá nhân bạn đã lưu ở đó được mã hóa an toàn. Xóa thông tin thẻ tín dụng khỏi trình duyệt của bạn hoặc tắt hoàn toàn tính năng tự động điền.
+Kiến Văn.
+Kiến Văn.

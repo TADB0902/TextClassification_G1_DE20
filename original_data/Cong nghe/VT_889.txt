@@ -1,0 +1,24 @@
+Google Play (Android).
+- Bước 1: Đầu tiên, bạn hãy mở Google Play trên smartphone, bấm vào menu ở góc trên bên trái và chọn My apps  & games (ứng dụng và trò chơi của tôi).
+- Bước 2: Tiếp theo, bạn hãy chuyển sang thẻ Installed (đã cài đặt), bấm vào bộ lọc ở góc phải và chọn Last used (lần sử dụng cuối). Lúc này, những ứng dụng ít được sử dụng sẽ nằm ở cuối danh sách.
+- Bước 3: Việc bạn cần làm là bấm vào các ứng dụng cần gỡ bỏ rồi nhấn Uninstall (gỡ cài đặt).
+5 ứng dụng ghi âm tốt nhất trên smartphone.
+(PLO)- ACR, Sony Audio Recorder... là một trong những ứng dụng ghi âm cuộc gọi tốt nhất trên Android.
+Tùy chọn nhà phát triển (Android).
+- Bước 1: Trước khi sử dụng, bạn hãy vào Settings (cài đặt) > About phone/tablet (giới thiệu điện thoại), chạm 7 lần vào mục Build Number (số hiệu phiên bản) cho đến khi xuất hiện thông báo bạn đã là nhà phát triển.
+- Bước 2: Quay ngược lại mục Settings (cài đặt) > Developer option (tùy chọn nhà phát triển) > Inactive apps (ứng dụng không hoạt động). Lưu ý, người dùng Xiaomi sẽ không thấy tùy chọn này do lỗi bên trong hệ thống MIUI.
+- Bước 3: Những ứng dụng nào không được sử dụng trong vòng 4 tuần hoặc lâu hơn, nó sẽ được đánh dấu là Inactive, touch to toggle (không hoạt động). Lúc này, bạn chỉ cần gỡ bỏ ứng dụng để lấy lại không gian trống cho thiết bị.
+Files Go (Android).
+Đầu tiên, ứng dụng sẽ quét toàn bộ tập tin, hình ảnh và dữ liệu trong thư mục Download trên thiết bị, đồng thời gợi ý các tập tin đã lâu không được sử dụng hoặc truy cập. Qua đó, người dùng có thể lựa chọn để xóa bớt nhằm lấy lại dung lượng trống trên smartphone.
+Tương tự, Files Go còn liệt các tập tin, hình ảnh, video và những ứng dụng đã lâu không xài ở ngay bên dưới, người dùng có thể đánh dấu chọn rồi bấm Delete hoặc Uninstall để gỡ bỏ. Nếu smartphone có hỗ trợ thẻ nhớ, bạn sẽ thấy xuất hiện thêm một mục để chuyển dữ liệu từ bộ nhớ trong sang thẻ nhớ trong nháy mắt.
+Bên cạnh đó, Files Go còn hỗ trợ chia sẻ tập tin qua lại giữa các thiết bị mà không cần Internet, việc bạn cần làm là cài ứng dụng và chuyển sang thẻ Files > Transfer securely without internet.
+Dr. Clean (iOS).
+- Bước 2: Về cơ bản, Dr. Clean sẽ làm trống bộ nhớ trên iPhone bằng cách xóa bớt các tập tin tạm không cần thiết. Thao tác sử dụng tương đối đơn giản, người dùng chỉ cần nhấn nút Start và chờ khoảng vài phút cho đến khi quá trình này kết thúc.
+- Bước 3: Theo thử nghiệm, Dr. Clean có thể giúp lấy lại 1-1,5 GB dung lượng lưu trữ. Lưu ý, con số này sẽ thay đổi tùy vào thiết bị bạn đang sử dụng.
+Ưu điểm của Dr. Clean là dễ sử dụng, giúp làm trống bộ nhớ trên iPhone chỉ với một cú chạm. Ngoài ra, người dùng cũng có thể tải một bộ phim có dung lượng lớn trên iTunes Store hoặc đồng bộ hóa dữ liệu trên điện thoại lên đám mây để hệ thống tự động xóa bớt các tập tin không cần thiết.
+Nếu áp dụng các giải pháp trên vẫn không giải quyết được vấn đề, lúc này bạn hãy nghĩ đến việc mua thêm các thiết bị lưu trữ gắn ngoài thông qua cổng Lightning, mức giá dao động trong khoảng từ 500.000 đồng đến 3 triệu đồng tùy dung lượng và thương hiệu.
+Hi vọng với những mẹo nhỏ mà Kynguyenso.plo.vn vừa giới thiệu, bạn đọc có thể dễ dàng xóa bớt các ứng dụng không cần thiết trên smartphone để lấy lại không gian lưu trữ và giúp máy hoạt động nhanh hơn.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+4 ứng dụng giúp smartphone an toàn hơn.
+(PLO)- Android luôn là miếng mồi béo bở đối với tội phạm mạng, chỉ tính riêng trong năm 2016 đã có hơn 1,85 tỉ smartphone sử dụng hệ điều hành Android.
+MINH HOÀNG.

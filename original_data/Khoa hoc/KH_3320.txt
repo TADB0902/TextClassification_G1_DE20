@@ -1,0 +1,7 @@
+JPSS-1 sẽ cải thiện dự báo thời tiết nhờ trang bị nhiều cảm biến hiện đại.
+Hệ thống vệ tinh JPSS-1 được cho là hiện đại nhất từ trước tới nay. Nó rất quan trọng và cần thiết cho việc cải thiện dự báo thời tiết, trợ giúp nhân viên cứu hỏa, phát hiện tàu, thủy thủ bị mất tích trên biển. Cùng đó, hàng loạt ứng dụng khác sẽ được triển khai trên hệ thống vệ tinh này.
+Theo lịch trình, JPSS-1 sẽ được phóng đi từ căn cứ không quân Vandenberg ở California (Mỹ) vào khoảng 16h30 (theo giờ Việt Nam).
+JPSS-1 là vệ tinh đầu tiên trong số cụm 4 vệ tinh có quỹ đạo cực đại của Cơ quan Quản lý Khí quyển và Đại dương Quốc gia Mỹ (NOAA) cung cấp phần lớn dữ liệu để đưa vào các mô hình dự báo thời tiết.
+Quỹ đạo của vệ tinh JPSS-1 sẽ đi qua đường xích đạo khoảng 14 lần mỗi ngày, và bao phủ toàn trái đất hai lần/ngày. Các cảm biến trên vệ tinh sẽ thu thập các dữ kiện về không khí, đại dương, điều kiện mặt đất, cũng như vị trí của nơi phát nhiệt và hơi nước trong bầu khí quyển.
+Việc triển khai JPSS-1 một phần do Mỹ lo lắng những vệ tinh thời tiết địa tĩnh đã cũ có thể bị rơi rớt do đó dự báo thời tiết không còn chính xác. Tuy nhiên, vệ tinh địa tĩnh lại có những nhiệm vụ riêng bởi JPSS-1 không cung cấp về hình ảnh hiển thị trong dự báo thời tiết. Như vậy, Mỹ sẽ có 2 hệ thống vệ tinh thời tiết hoạt động song song.
+HĐ.

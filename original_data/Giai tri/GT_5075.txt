@@ -1,0 +1,22 @@
+Công nghệ Deep learning (Học nhiều tầng).
+Bach là một bậc thầy về một hình thức thánh ca phức điệu được gọi là chorale cantata. Những bài thánh ca của Bach dựa vào ca từ của kinh thánh Giáo hội Luther và được viết cho bốn giọng, luôn sử dụng một giai điệu thánh ca quen thuộc làm giai điệu chính cho giọng soprano (nữ cao). Bach còn sáng tác ba bè hòa âm cho ba giọng alto (nữ trầm), tenor (nam cao) và bass (nam trầm).
+Tổng cộng, ông đã sáng tác hơn 300 tác phẩm thánh ca hợp xướng ngắn loại này với mỗi tác phẩm chỉ dài khoảng một phút.
+Cách sáng tác hòa âm hợp xướng của Bach thực sự là một hình thức logic mà các hệ thống máy móc như trí tuệ nhân tạo có thể hiểu được.
+Những tác phẩm soạn nhạc của Bach đã thu hút các nhà khoa học máy tính bởi quá trình sáng tác các bản thánh ca này về bản chất là mang tính thuật toán.
+Tất nhiên để sáng tác được một tác phẩm kinh điển không hề đơn giản bởi nó còn phụ thuộc vào sự tương tác cực kỳ tinh vi giữa hòa âm và giai điệu. Chính vì vậy, một câu hỏi đầy gợi mở được đặt ra: Một cỗ máy có thể sáng tác được những bản thánh ca hợp xướng theo phong cách của Bach không?
+Học giả Gaetan Hadjeres và Francois Pachet thuộc Phòng Thí Nghiệm Khoa học Máy tính Sony (Sony Computer Science Laboratories) tại Paris đã trả lời câu hỏi trên.
+Họ đã phát triển một mạng lưới thần kinh (neuralnetwork) có thể học để sản xuất ra những bản chorale cantata theo phong cách của Bach và đặt tên cỗ máy là DeepBach.
+Hadjeres và Pachet cho rằng sau khi được đào tạo cách hòa âm hợp xướng theo phong cách của Bach thì mô hình DeepBach của họ đã có thể tạo ra các bài hợp xướng nghe rất thuyết phục.
+Trong một khảo sát, có khoảng một nửa số chuyên gia nghe những tác phẩm này nghĩ rằng chúng thực sự được viết bởi Bach.
+Công nghệ Machine learning (Học máy) mà các học giả sử dụng ở đây có cơ chế đơn giản.
+Trước tiên, Hadjeres và Pachet tạo ra một bộ dữ liệu nhằm huấn luyện mạng lưới thần kinh của DeepBach.
+Cả hai bắt đầu với 352 bài thánh ca hợp xướng của Bach. Sau đó, hai ông dịch giọng các bài nhạc này sang những tông giọng nằm trong một phạm vi cao độ đã định sẵn để cho ra một bộ dữ liệu gồm 2503 bài hợp xướng. Tiếp đó, họ dùng 80% số tác phẩm này để huấn luyện cho mạng lưới thần kinh của mình có thể nhận ra những hòa âm kiểu Bach và 20% còn lại để xác nhận nó. Sau cùng, DeepBach sẽ sản xuất ra những hòa âm của riêng mình theo phong cách của Bach.
+Hadjeres và Pachet nhận định: Phương pháp này không chỉ có thể tiến hành được với thể loại hợp xướng của Bach mà còn có thể dùng để sáng tác nhiều hình thức hợp xướng phức điệu khác. Nhưng để làm được điều này không phải chuyện một sớm một chiều bởi lẽ hiếm có hình thức âm nhạc nào lại có cấu trúc chặt chẽ, tuân theo những quy tắc cụ thể trong sáng tác như những bản chorale cantata của Bach.
+Thay thế con người làm nghệ thuật.
+Cuối năm 2016, các nhà nghiên cứu thuộc Đại học Washington (Mỹ) đã phát hành một bộ dữ liệu nhạc cổ điển quy mô lớn tên MusicNet nhằm giúp máy móc hiểu được cấu trúc cơ bản của nhạc cổ điển, thậm chí hỗ trợ chúng dự đoán những nốt tiếp theo trong một bài nhạc.
+Bộ dữ liệu này được mở cho công chúng, bao gồm 330 bản ghi âm các tác phẩm cổ điển cùng với hơn một triệu chú giải đã được kiểm duyệt bởi các nhạc sĩ chuyên nghiệp cho biết thời điểm của từng nốt nhạc, loại nhạc cụ nào chơi nốt đó và vị trí của nốt đó trong cấu trúc nhịp của toàn bộ tác phẩm.
+Sham Kakade, Gáo sư công nghệ Đại học Washington (Mỹ) bình luận: Một trong những thách thức lớn nhất với trí tuệ nhân tạo là thiết kế được những phương pháp Machine learning có khả năng tách rời phong cách- phần nghệ thuật thuần túy, ra khỏi nội dung của một tác phẩm- phần tuân theo những quy luật hòa âm dễ dự đoán hơn.
+Với MusicNet, nhóm nghiên cứu của Đại học Washington hi vọng có thể bắt đầu quá trình tìm hiểu sâu hơn về những yếu tố liên quan đến phong cách nghệ thuật để từ đó khám phá điều gì khiến âm nhạc lôi cuốn đôi tai và điều cốt lõi nào tạo nên phong cách âm nhạc đặc trưng của Bach.
+Theo một diễn biến khác, vào tháng 6 năm 2016, Google cũng tung ra một đoạn giai điệu piano dài 90 giây được viết bởi công nghệ Machine learning. Đây là một phần của Dự án Magenta, nỗ lực của Google với tham vọng giúp trí tuệ nhân tạo sáng tác nhạc và nghệ thuật thị giác.
+Những phương pháp khác nhau trên đều có chung mục đích: Giúp trí tuệ nhân tạo học thông qua ví dụ để từ đó tự tạo ra những tác phẩm nghệ thuật.
+Quang Anh (Theo Tia sáng).

@@ -1,0 +1,16 @@
+Rủi ro liên quan đến công nghệ tự động giám sát dựa vào tín hiệu quảng bá (ADS-B). Theo báo cáo của Cơ quan Giải trình Trách nhiệm của Chính phủ (GOA), quy tắc quản lý Hàng không Liên bang năm 2010 yêu cầu tất cả máy bay quân sự phải được trang bị các bộ chuyển tín hiệu ADS-B vào ngày 1 tháng 1 năm 2020.
+Tuy nhiên, cả Bộ Quốc phòng và Không quân Mỹ đều chưa hề có bất kỳ những bước đi quan trọng nào để giảm thiểu những rủi ro về an ninh.
+Trong khi các thiết bị thu phát cũ như Mode S phát đi các mã của Tổ chức Hàng không Dân dụng Quốc tế (ICAO), mã Squawk và độ cao, thì công nghệ ADS-B cung cấp nhiều thông tin chi tiết hơn.
+Màn hình hiểu thị của một phần mềm quản lý tọa độ máy bay dựa trên công nghệ ADB-S.
+Số hiệu máy bay đăng ký, kinh độ và vĩ độ, kích thước và vận tốc đều được phát đi bởi các bộ phát đáp ADS-B, cho phép bất cứ ai có máy thu ADS-B đều có thể theo dõi máy bay với độ chính xác hơn các ra-đa phòng không.
+GAO đã sử dụng một máy thu thương mại đã để theo dõi một số loại máy bay quân sự. Cơ quan giám sát chỉ ra nguy cơ đối phương có thể tận dụng các lỗ hổng của công nghệ này để khởi động các cuộc tấn công điện tử và không gian mạng đối với máy bay.
+Đối phương cũng có thể cố gắng truyền tín hiệu ADS-B để kiểm soát không lưu hoặc giả mạo tín hiệu để gây nhầm lẫn cho các máy bay.
+Theo một đánh giá của RAND năm 2015, việc phát các thông tin chi tiết không được bảo vệ về vị trí của một chiếc máy bay chiến đấu như F-22 đem lại những rủi ro an ninh đáng kể cho phi công và các phái đoàn quân sự được hộ tống.
+Ai cũng có thể thấy được F-22 nếu DoD không hành động.
+Với thời hạn đến năm 2020, GAO cảnh báo, quân đội phải giải quyết những rủi ro bảo mật để triển khai ADS-B theo đúng kế hoạch.
+GAO giải thích, "Bộ Quốc phòng (DoD) và Không quân (FAA) chỉ tập trung trang bị công nghệ ADS-B cho máy bay quân sự mà không tập trung vào giảm thiểu rủi ro về an ninh từ công nghệ này".
+Mặc dù đã biết những rủi ro này từ năm 2008, DoD và FAA đã không đưa ra bất kỳ giải pháp nào hiệu quả.
+Hầu hết các bản sửa lỗi được đề xuất bởi DoD chọn lựa làm mất hiệu quả của công nghệ. Chẳng hạn như, để che dấu số nhận dạng máy bay, DoD cho phép phi công tắt ADS-B.
+Dữ liệu theo dõi chính xác cho phép tăng hiệu suất vận hành của hệ thống vận chuyển hàng không, tăng cường an toàn không phận, giảm số lần hủy và trì hoãn, giảm nhiên liệu và thậm chí làm giảm các ảnh hưởng xấu đến môi trường.
+Đó là những lý do mà chính phủ Mỹ yêu cầu các máy bay bắt buộc phải trang bị công nghệ ADB-S trước năm 2020.
+Như Ý.

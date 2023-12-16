@@ -1,0 +1,26 @@
+Trong những bài hướng dẫn trước đây ICTnews chủ yếu minh họa phát video trực tiếp trên Facebook bằng XSplit, vì thế bây giờ sẽ là hướng dẫn thêm về cách sử dụng OBS để tránh bị lạ lẫm.
+Mới đây nền tảng live stream của Facebook đã khá hoàn thiện khi Facebook cho ra đời server chính thức hỗ trợ ngay cả những tài khoản người dùng cá nhân cũng có thể phát video trực tiếp từ máy tính PC. Nhưng tất nhiên để live stream bằng PC được thì bên cạnh server, chúng ta vẫn cần những phần mềm streaming như XSplit hay OBS.
+Trong những bài hướng dẫn trước đây ICTnews chủ yếu minh họa bằng XSplit, vì thế bây giờ sẽ là hướng dẫn thêm về cách sử dụng OBS để phát video trực tiếp trên Facebook. Như vậy chúng ta sẽ không bị lạ lẫm nếu phải thay đổi phần mềm.
+Hướng dẫn cách stream trên FB bằng OBS.
+Bước 1 : Vào trang chủ của OBS ở địa chỉ obsproject.com (hoặc vào đây) rồi bấm nút Download để tải về file cài đặt OBS.
+Stream trên Facebook bằng OBS: Vào trang chủ của OBS ở địa chỉ obsproject.com (hoặc vào đây) rồi bấm nút Download để tải về file cài đặt OBS.
+Stream trên Facebook bằng OBS: Lựa chọn nền tảng hệ điều hành máy tính của bạn để tải file cài đặt, gồm Windows, OS X hoặc Linux.
+Bước 2 : Mở file cài đặt vừa tải về và tiến hành cài đặt.
+Stream trên Facebook bằng OBS: Mở file cài đặt vừa tải về và tiến hành cài đặt, bắt đầu bằng bấm Next.
+Stream trên Facebook bằng OBS: Bấm I Agree nếu đồng ý với điều khoản của OBS.
+Stream trên Facebook bằng OBS: Bấm Browse để lựa chọn vị trí cài đặt OBS nếu muốn rồi bấm Next.
+Stream trên Facebook bằng OBS: Bạn có thể đánh dấu lựa chọn thêm các phần bổ sung ví dụ như Browser plugin để thêm nguồn hình ảnh từ cửa sổ trình duyệt. Xong xuôi chúng ta bấm Install để bắt đầu cài đặt.
+Stream trên Facebook bằng OBS: Sau khi cài đặt xong, trong lần đầu mở OBS chúng ta có thể sẽ cần bấm OK một lần nữa để đồng ý các điều khoản.
+Ads by AdAsia.
+Bước 3 : Bắt đầu thực hiện thêm nguồn hình cho video trực tiếp.
+Stream trên Facebook bằng OBS: Bắt đầu thực hiện thêm nguồn hình cho video trực tiếp bằng cách bấm dấu + ở phần Sources và chọn một thể loại nguồn hình.
+Stream trên Facebook bằng OBS: Đặt tên cho nguồn hình mới và bấm OK.
+Stream trên Facebook bằng OBS: Ở đây nếu chúng ta chọn nguồn hình là file ảnh thì bấm Browse để chọn file ảnh tải lên và bấm OK.
+Bước 4 : Bắt đầu bấm Settings để thêm vào URL máy chủ và Khóa luồng giống như cách làm với XSplit trong bài hướng dẫn ở đây (từ bước 1 đến 3).
+Stream trên Facebook bằng OBS: Bấm Settings.
+Stream trên Facebook bằng OBS: Sẽ có một số thông số chúng ta cần tùy chỉnh để video phát trực tiếp hoàn hảo nhất, nhưng quan trọng nhất vẫn là vào mục Stream, chọn Custom Streaming Server (4) và thêm URL máy chủ vào khung 5, Khóa luồng vào khung 6 giống như cách làm với XSplit trong bài hướng dẫn ở đây. Sau đó chúng ta bấm Apply (7) và cuối cùng bấm OK (8).
+Bước 5 : Bấm Start Streaming để bắt đầu truyền dữ liệu.
+Stream trên Facebook bằng OBS: Bấm Start Streaming để bắt đầu truyền dữ liệu.
+Bước 6 : Bây giờ trên server của Facebook chúng ta đã có thể bấm nút Phát trực tiếp để lên sóng.
+Stream trên Facebook bằng OBS: Bây giờ trên server của Facebook chúng ta đã có thể bấm nút Phát trực tiếp để lên sóng.
+Anh Hào.

@@ -1,0 +1,10 @@
+Công cụ trực tuyến kiểm tra lộ lọt thông tin tài khoản. (Nguồn: chụp màn hình).
+Chia sẻ với phóng viên VietnamPlus tối 28/12, đại diện Cục An toàn Thông tin (thuộc Bộ Thông tin và Truyền thông) cho biết đơn vị này đã cung cấp công cụ miễn phí giúp người dùng kiểm tra có bị lộ lọt tài khoản hay không.
+Ở địa chỉ , người dùng cần nhập địa chỉ email muốn kiểm tra, sau đó kết quả sẽ trả về cho chính email được tìm kiếm.
+Trước đó, Trung tâm khẩn cấp máy tính Việt Nam (VNCERT) đã phát lệnh điều phối liên quan tới 1,4 tỷ tài khoản và mật khẩu từ các trang mạng xã hội, dịch vụ trực tuyến bị lộ lọt.
+Công văn do Phó Giám đốc Nguyễn Khắc Lịch ký nêu rõ, qua theo dõi các sự cố trên không gian mạng, VNCERT đã ghi nhận được số lượng lớn tài khoản sử dụng thư điện tử và mật khẩu bị lộ lọt thông tin trên toàn thế giới từ các mạng xã hội và dịch vụ trực tuyến như Bitcoin, Pastebin, LinkedIn, MySpace, Netflix, Last.FM, Zoosk, Badoo, RedBox.
+Cụ thể, tổng cộng có hơn 41GB dữ liệu ước tính khoảng 1,4 tỷ tài khoản sử dụng thư điện tử và mật khẩu trên thế giới đã bị lộ. Trong đó, số tài khoản sử dụng thư điện tử tại Việt Nam có đuôi.vn là 437.664 tài khoản (gồm các tài khoản sử dụng thư điện tử của cơ quan nhà nước có đuôi gov.vn và nhiều tài khoản sử dụng thư điện tử của các tập đoàn, doanh nghiệp hạ tầng quan trọng của Việt Nam).
+Ảnh chỉ có tính minh họa. (Nguồn: nbcnews.com).
+Việc lộ lọt này, theo VNCERT, sẽ tạo điều kiện cho tin tặc dò thông tin và đăng nhập nhiều hệ thống thông tin. Nếu thành công, tin tặc sẽ chiếm đoạt tài khoản và sử dụng vào việc tấn công, đánh cắp và phá hủy hệ thống thông tin, dữ liệu.
+Do đó, VNCERT yêu cầu các đơn vị trong mạng lưới và khuyến cáo người dùng cả nước thực hiện khẩn cấp các công việc nhằm hạn chế tối đa rủi ro. Cụ thể, cần kiểm tra, rà soát hệ thống, tăng cường chính sách mật khẩu và giải pháp xác thực nhiều lớp; thay đổi mật khẩu các tài khoản đăng nhập. Đặc biệt, không được sử dụng email của đơn vị để đăng ký tài khoản cá nhân sử dụng trên mạng xã hội, dịch vụ trực tuyến./.
+Yên Thủy (Vietnam+).

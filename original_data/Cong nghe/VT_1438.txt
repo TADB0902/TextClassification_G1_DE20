@@ -1,0 +1,23 @@
+1. iOS.
+Để kích hoạt tính năng AssistiveTouch trên các thiết bị iOS (iPhone, iPad và iPod Touch), đầu tiên, bạn hãy vào Settings (cài đặt) > General (cài đặt chung) > Accessibility (trợ năng) > AssistiveTouch và chuyển nó sang chế độ On. Khi hoàn tất, trên màn hình chính sẽ xuất hiện một phím Home ảo cùng nhiều tùy chọn được thiết lập sẵn.
+Kích hoạt phím Home ảo trên các thiết bị iOS. Ảnh: MINH HOÀNG.
+Để phù hợp với nhu cầu sử dụng, bạn có thể chỉnh sửa lại các tùy chọn này bằng cách nhấn vào mục Customize Top Level Menu (tùy chỉnh menu cao nhất). Mặc định, AssistiveTouch sẽ chỉ có 6 nút chức năng, cho phép truy cập nhanh vào Notification Center (trung tâm thông báo), Siri, Custom (tùy chỉnh) Người dùng có thể nhấp vào biểu tượng dấu + hoặc - để thêm mới hoặc loại bỏ các tùy chọn ít sử dụng.
+Việc thay đổi vị trí các công cụ sẽ giúp bạn có thể truy cập nhanh hơn. Ảnh: MINH HOÀNG.
+Nếu muốn thay đổi chức năng, bạn chỉ cần chạm vào một tùy chọn bất kì, sau đó lựa chọn tính năng tương ứng, nhấn Done (xong) để lưu lại.
+4 cách gỡ bỏ các ứng dụng dư thừa trên smartphone.
+(PLO) - Việc gỡ bỏ các ứng dụng dư thừa sẽ giúp smartphone có nhiều không gian lưu trữ và hoạt động mượt mà hơn.
+Android.
+Hiện nay trên thị trường chỉ có một số ít dòng máy trang bị phím Home ảo, đơn cử như Xiaomi (Trung Quốc). Trước khi sử dụng, bạn hãy chạm vào mục Settings để cấu hình lại một vài thông số và tính năng gồm Home, Settings, Lock, Wi-Fi, Location.
+Assistive Touch được cung cấp hoàn toàn miễn phí trên Google Play. Ảnh: MINH HOÀNG.
+Ứng dụng có giao diện tương đối giống AssistiveTouch trên iPhone, hỗ trợ người dùng giải phóng RAM để tăng tốc thiết bị, bật/tắt nhanh các chức năng thường dùng, tăng/giảm âm lượng, kích hoạt chế độ máy bay Điểm yếu của ứng dụng là chưa hỗ trợ tính năng chụp ảnh màn hình và Google Now.
+Phím Home ảo cho các thiết bị Android. Ảnh: MINH HOÀNG.
+Ngoài việc tạo ra phím Home ảo, ứng dụng còn giúp người dùng mở nhanh các công cụ thường dùng như Đèn Flash, Chuyển chế độ âm thanh, Chụp ảnh màn hình..
+Việc sử dụng phím Home ảo sẽ giúp bảo vệ các phím bấm vật lý và hạn chế những hư hỏng không đáng có.
+Mở khóa thiết bị bằng cách nhấp đôi lên màn hình.
+Việc nhấp đôi lên màn hình (Double Tap) để khóa thiết bị sẽ giúp hạn chế tối đa tình trạng hư hỏng phím nguồn.
+Trước khi cài đặt, hãy chắc chắn rằng tùy chọn Unknown source (không rõ nguồn gốc) đã được kích hoạt trong phần Settings (cài đặt) > Security (bảo mật). Tiếp theo, bạn cần cấp quyền cho ứng dụng bằng cách nhấp vào tùy chọn Activate this device admin app > Get Started.
+Mặc định, bạn chỉ có thể khóa thiết bị khi nhấp đúp vào thanh trạng thái (hoặc thanh điều hướng). Nếu muốn thao tác trên toàn bộ màn hình, người dùng chỉ cần kích hoạt tùy chọn Double tap anywhere to lock, thay đổi thời gian đáp ứng và một số tính năng khác mà bạn có thể tìm hiểu thêm trong quá trình sử dụng.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Cách kiểm tra ai đang xài ké WiFi.
+(PLO)- Không cần phải đăng nhập vào router, bạn vẫn có thể biết được những thiết bị đang kết nối vào mạng WiFi và ngăn chặn dễ dàng.
+MINH HOÀNG.

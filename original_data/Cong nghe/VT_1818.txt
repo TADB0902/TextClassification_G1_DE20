@@ -1,0 +1,17 @@
+Nếu cảm thấy tốc độ WiFi bỗng nhiên chậm hẳn đi, bạn có thể áp dụng thủ thuật sau để kiểm tra và ngăn chặn những vị khách xài chùa WiFi.
+WiFi Router Master.
+Giao diện của ứng dụng tương đối đơn giản với các mục chính gồm Kiểm tra tốc độ Internet , Ai đang sử dụng WiFi của tôi? Cài đặt Router và Mật khẩu Router.
+WiFi Router Master cung cấp khá nhiều tính năng hữu ích, đặc biệt đối với những người không rành công nghệ. Ảnh: MINH HOÀNG.
+- Bước 2: Để kiểm tra danh sách các thiết bị đang kết nối WiFi, bạn hãy bấm vào mục Ai đang sử dụng WiFi của tôi? và chờ một lát cho đến khi quá trình kiểm tra kết thúc. Nếu thấy xuất hiện các thiết bị lạ, người dùng chỉ cần bấm vào tên thiết bị và chọn Chặn "Lạ" thiết bị trong Cài đặt Router.
+Ngăn chặn các thiết bị xài chùa WiFi chỉ với vài thao tác đơn giản. Ảnh: MINH HOÀNG.
+- Bước 3: Lúc này, bạn sẽ được chuyển đến trang đăng nhập router. Nếu không nhớ tên đăng nhập và mật khẩu, bạn có thể bấm vào gợi ý ở phía trên. WiFi Router Master cung cấp sẵn một cơ sở dữ liệu gồm tên đăng nhập và mật khẩu mặc định của nhiều dòng router khác nhau gồm Netgear, TP-Link, Linksys... Để tiết kiệm thời gian, người dùng có thể nhập model router vào khung tìm kiếm.
+Lưu ý, nếu không tìm thấy, người dùng có thể sử dụng tên đăng nhập và mật khẩu của những dòng router cùng loại và làm theo các bước hướng dẫn để ngăn chặn những vị khách xài chùa WiFi.
+Tìm lại mật khẩu đăng nhập router trong nháy mắt. Ảnh: MINH HOÀNG.
+NetCut.
+Giao diện chính của NetCut khá đơn giản, đầu tiên, bạn hãy nhấn nút Scan để ứng dụng tìm kiếm các thiết bị đang kết nối.
+NetCut được cung cấp miễn phí trên Google Play, yêu cầu thiết bị phải được root trước đó. Ảnh: MINH HOÀNG.
+Để chặn hoàn toàn những người xài chùa WiFi, bạn hãy chạm vào biểu tượng WiFi trước tên thiết bị (máy tính, smartphone, tablet). Nếu chỉ muốn ngắt mạng trong một khoảng thời gian cụ thể thì chọn vào biểu tượng đồng hồ, sau đó thiết lập thời gian tương ứng rồi nhấn Set.
+Lưu ý: Có hai mục không thể ngắt kết nối đó là This Device (thiết bị bạn đang sử dụng) và Gateways (modem/router). Ngoài ra, bạn cũng nên đổi mật khẩu WiFi thường xuyên hơn để tránh bị người khác dò ra mật khẩu.
+Chặn xài chùa WiFi bằng smartphone. Ảnh: MINH HOÀNG.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+MINH HOÀNG.

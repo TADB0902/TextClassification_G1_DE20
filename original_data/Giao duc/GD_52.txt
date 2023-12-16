@@ -1,0 +1,449 @@
+Theo đó, ngưỡng điểm này được áp dụng cho các cơ sở giáo dục đại học thành viên, khoa, viện, phân hiệu trực thuộc Đại học Đà Nẵng.
+Cụ thể, các đơn vị có ngưỡng điểm nhận đăng ký xét tuyển bằng ngưỡng đảm bảo chất lượng đầu vào tuyển sinh đại học hệ chính quy năm 2017 (15,5 điểm đối với học sinh phổ thông khu vực 3) gồm:
+- Trường Đại học Kinh tế (mã trường DDQ);
+- Trường Đại học Ngoại ngữ (mã trường DDF);
+- Khoa Công nghệ (mã trường DDC);
+- Khoa Công nghệ Thông tin và Truyền thông (mã trường DDI);
+- Phân hiệu Đại học Đà Nẵng tại Kon Tum (mã trường DDP);
+- Viên Nghiên cứu và Đào tạo Việt  Anh (mã trường DDV).
+Các đơn vị có một hoặc nhiều ngành có ngưỡng điểm nhận đăng ký xét tuyển cao hơn ngưỡng đảm bảo chất lượng đầu vào tuyển sinh đại học hệ chính quy gồm:
+- Trường Đại học Bách khoa (mã trường DDK);
+- Trường Đại học Sư phạm (mã trường DDS);
+- Khoa Y Dược (mã trường DDY).
+Chi tiết điểm nhận ĐKXT cho từng ngành của các đơn vị này như sau:
+TT.
+Tên ngành tuyển sinh.
+Mã ĐKXT.
+Điểm xét tuyển (ĐXT).
+Mã tổ hợp xét tuyển.
+Điểm nhận ĐKXT.
+I.
+TRƯỜNG ĐẠI HỌC BÁCH KHOA.
+DDK.
+Sư phạm kỹ thuật công nghiệp.
+( Chuyên ngành SPKT điện - điện tử).
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ sinh học.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+Toán + Hóa học + Sinh học.
+1.A00.
+2.D07.
+B00.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ thông tin.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ thông tin (Chất lượng cao ngoại ngữ Anh).
+52480201CLC1.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ thông tin (Chất lượng cao ngoại ngữ Nhật).
+52480201CLC2.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+3.Toán + Vật lý + Tiếng Nhật.
+1.A00.
+2.A01.
+D28.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ kỹ thuật vật liệu xây dựng.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ chế tạo máy.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Quản lý công nghiệp.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật cơ khí.
+( Chuyên ngành Cơ khí động lực).
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật cơ - điện tử.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật nhiệt ( Gồm các chuyên ngành: Nhiệt điện lạnh; Kỹ thuật năng lượng & môi trường).
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật tàu thủy.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật điện, điện tử.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật điện, điện tử (Chất lượng cao).
+52520201CLC.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật điện tử & viễn thông.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật điện tử & viễn thông (Chất lượng cao).
+52520209CLC.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật điều khiển & tự động hóa.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật điều khiển & tự động hóa (Chất lượng cao).
+52520216CLC.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật hóa học.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+1.A00.
+2.D07.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật môi trường.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+1.A00.
+2.D07.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật dầu khí (Chất lượng cao).
+52520604CLC.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+1.A00.
+2.D07.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ thực phẩm.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+Toán + Hóa học + Sinh học.
+1.A00.
+2.D07.
+B00.
+Tổng điểm 3 môn thi  16,00.
+Công nghệ thực phẩm (Chất lượng cao).
+52540102CLC.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+Toán + Hóa học + Sinh học.
+1.A00.
+2.D07.
+B00.
+Tổng điểm 3 môn thi  16,00.
+Kiến trúc (Chất lượng cao).
+52580102CLC.
+1.Vẽ MT + Toán + Ngữ Văn.
+2.Vẽ MT + Toán + Vật lý.
+Vẽ MT + Toán + Tiếng Anh.
+1.V01.
+2.V00.
+V02.
+Tổng điểm 3 môn thi  16,00 và Điểm năng khiếu.
+Kỹ thuật công trình xây dựng.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật công trình thủy.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật xây dựng công trình giao thông.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật xây dựng công trình giao thông (Chất lượng cao).
+52580205CLC.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kỹ thuật xây dựng.
+(C huyên ngành Tin học xây dựng).
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Kinh tế xây dựng.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật lý + Tiếng Anh.
+1.A00.
+2.A01.
+Tổng điểm 3 môn thi  16,00.
+Quản lý tài nguyên & môi trường.
+1.Toán + Hóa học + Vật lý.
+2.Toán + Hóa học + Tiếng Anh.
+1.A00.
+2.D07.
+Tổng điểm 3 môn thi  16,00.
+Chương trình tiên tiến ngành Điện tử viễn thông.
+Tiếng Anh*2 + Toán + Vật lý.
+Tiếng Anh*2 + Toán + Hóa học.
+A01.
+D07.
+Tổng điểm 3 môn thi (chưa nhân hệ số)  16,00.
+Chương trình tiên tiến ngành Hệ thống nhúng.
+Tiếng Anh*2 + Toán + Vật lý.
+Tiếng Anh*2 + Toán + Hóa học.
+A01.
+D07.
+Tổng điểm 3 môn thi (chưa nhân hệ số)  16,00.
+Chương trình đào tạo kỹ sư chất lượng cao Việt-Pháp.
+PFIEV.
+Toán*3 + Vật lý*2 + Hóa học.
+Toán*3 + Vật lý*2 + Tiếng Anh.
+A00.
+A01.
+Tổng điểm 3 môn thi (chưa nhân hệ số)  16,00.
+II.
+TRƯỜNG ĐẠI HỌC SƯ PHẠM.
+DDS.
+Giáo dục Tiểu học.
+Toán + Ngữ văn + Tiếng Anh.
+D01.
+ĐXT  20,00.
+Giáo dục Chính trị.
+Ngữ văn + Lịch sử + Địa lý.
+Ngữ Văn + Giáo dục công dân + Địa lý.
+C00.
+C20.
+ĐXT  16,00.
+Sư phạm Toán học.
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật Lý + Tiếng Anh.
+1.A00.
+2.A01.
+ĐXT  17,00.
+Sư phạm Tin học (*).
+1.Toán + Vật lý + Hóa học.
+2.Toán + Vật Lý + Tiếng Anh.
+1.A00.
+2.A01.
+ĐXT  15,50.
+Sư phạm Vật lý.
+1.Vật lý + Toán + Hóa học.
+2.Vật lý + Toán + Tiếng Anh.
+1.A00.
+2.A01.
+ĐXT  15,50.
+Sư phạm Hóa học.
+Hóa học + Toán + Vật lý.
+Hóa học + Toán + Tiếng Anh.
+A00.
+D07.
+ĐXT  15,50.
+Sư phạm Sinh học (*).
+Sinh học + Toán + Hóa học.
+B00.
+ĐXT  15,50.
+Sư phạm Ngữ văn.
+Ngữ văn + Lịch sử + Địa lý.
+C00.
+ĐXT  18,00.
+Sư phạm Lịch sử.
+Lịch sử + Ngữ văn + Địa lý.
+Lịch sử + Ngữ Văn + Giáo dục công dân.
+C00.
+C19.
+ĐXT  16,00.
+Sư phạm Địa lý.
+Địa lý + Ngữ văn + Lịch sử.
+C00.
+ĐXT  16,00.
+Giáo dục Mầm non.
+Năng khiếu + Toán + Ngữ văn.
+M00.
+ĐXT  20,00 và.
+Điểm năng khiếu 5,00.
+Sư phạm Âm nhạc.
+Năng khiếu 1 (Thẩm âm +Xướng âm) *2 + Năng khiếu 2 (Hát + Nhạc cụ) *2 + Ngữ văn.
+N00.
+ĐXT  25,00 và Điểm các môn năng khiếu  5,00.
+Việt Nam học.
+Ngữ văn + Địa lý + Lịch Sử.
+Ngữ văn + Địa lý + Tiếng Anh.
+Ngữ văn + Lịch sử + Tiếng Anh.
+C00.
+D15.
+D14.
+ĐXT  15,50.
+Lịch sử (*).
+Lịch sử + Ngữ văn + Địa lý.
+Lịch sử + Ngữ văn + Giáo dục công dân.
+C00.
+C19.
+ĐXT  15,50.
+Văn học (*).
+Ngữ văn + Địa lý + Lịch Sử.
+Ngữ văn + Địa lý + Tiếng Anh.
+Ngữ văn + Lịch sử + Tiếng Anh.
+C00.
+D15.
+D14.
+ĐXT  15,50.
+Văn hóa học (*).
+Ngữ văn + Địa lý + Lịch Sử.
+Ngữ văn + Địa lý + Tiếng Anh.
+Ngữ văn + Lịch sử + Tiếng Anh.
+C00.
+D15.
+D14.
+ĐXT  15,50.
+Tâm lý học.
+Sinh học + Toán + Hóa học.
+Ngữ văn + Địa lý + Lịch Sử.
+Ngữ văn + Tiếng Anh + Toán.
+B00.
+C00.
+D01.
+ĐXT  15,50.
+Địa lý học (Chuyên ngành Địa lý du lịch).
+Địa lý + Ngữ văn + Lịch sử.
+Địa lý + Ngữ văn + Tiếng Anh.
+C00.
+D15.
+ĐXT  15,50.
+Báo chí.
+Ngữ văn + Địa lý + Lịch Sử.
+Ngữ văn + Địa lý + Tiếng Anh.
+Ngữ văn + Lịch sử + Tiếng Anh.
+C00.
+D15.
+D14.
+ĐXT  16,00.
+Công nghệ sinh học(*).
+Sinh học + Hóa học + Toán.
+B00.
+ĐXT  15,50.
+Vật lý học (*).
+1.Vật lý + Toán + Hóa học.
+2.Vật lý + Toán + Tiếng Anh.
+1.A00.
+2.A01.
+ĐXT  15,50.
+Hóa học (*), gồm các chuyên ngành:
+Hóa Dược;
+Hóa Dược (tăng cường Tiếng Anh);
+Hóa phân tích môi trường.
+Hóa học + Toán + Vật lý.
+Hóa học + Toán + Tiếng Anh.
+A00.
+D07.
+ĐXT  15,50.
+Địa lý tự nhiên (Chuyên ngành Địa lý tài nguyên & môi trường)(*).
+Toán + Vật Lý + Hóa học.
+Toán + Địa lý + Sinh học.
+A00.
+B02.
+ĐXT  15,50.
+Khoa học môi trường (*).
+Hóa học + Toán + Vật lý.
+Hóa học + Toán + Tiếng Anh.
+A00.
+D07.
+ĐXT  15,50.
+Toán ứng dụng (*), gồm:
+Toán ứng dụng;
+Toán ứng dụng (tăng cường tiếng Anh).
+Toán + Vật lý + Hóa học.
+Toán + Vật Lý + Tiếng Anh.
+A00.
+A01.
+ĐXT  15,50.
+Công nghệ thông tin.
+Toán + Vật lý + Hóa học.
+Toán + Vật lý + Tiếng Anh.
+A00.
+A01.
+ĐXT  15,50.
+Công nghệ thông tin (Chất lượng cao) (*).
+52480201CLC.
+Toán + Vật Lý + Hóa học.
+Toán + Vật lý + Tiếng Anh.
+A00.
+A01.
+ĐXT  15,50.
+Công tác xã hội.
+Ngữ văn + Địa lý + Lịch Sử.
+Ngữ văn + Tiếng Anh + Toán.
+C00.
+D01.
+ĐXT  15,50.
+Quản lý tài nguyên và môi trường (*).
+Sinh học + Toán + Hóa học.
+B00.
+ĐXT  15,50.
+II I.
+KHOA Y DƯỢC.
+DDY.
+Y đa khoa.
+Toán + Sinh học + Hóa học.
+B00.
+ĐXT  22,00.
+Điều dưỡng.
+Toán + Sinh học + Hóa học.
+B00.
+ĐXT  18,00.
+Răng - Hàm - Mặt.
+Toán + Sinh học + Hóa học.
+B00.
+ĐXT  22,00.
+Dược học.
+Toán + Sinh học + Hóa học.
+Toán + Vật lý + Hóa học.
+B00.
+2.A00.
+ĐXT  20,00.
+Tấn Tài.

@@ -1,0 +1,15 @@
+Các nhà khoa học trường Y Lewis Katz, Đại học Temple và Đại học Pittsburgh ở Hoa Kỳ vừa có thêm minh chứng cho thấy, có thể loại bỏ hoàn toàn ADN của virus HIV từ tế bào người được cấy vào chuột.
+Điều thú vị nhất trong nghiên cứu của các nhà khoa học ở 3 trường đại học đó là nó liên quan đến một mô hình "nhân hóa", trong đó, chuột đã được cấy ghép các tế bào miễn dịch ở người và bị nhiễm virus HIV.
+Nghiên cứu được thực hiện bởi các nhà khoa học đến từ 3 trường đại học đã hoàn toàn loại bỏ được virus HIV trên các tế bào của người được cấy vào cơ thể chuột. (Ảnh: Shutterstock).
+Nghiên cứu mới do TS. Wenhui Hu làm trưởng nhóm cho kết quả, có thể xóa toàn bộ gen virus HIV-1 khỏi các mô trong cơ thể. Đây là lần đầu tiên bệnh AIDS được chữa khỏi hoàn toàn trên động vật nhờ công nghệ chỉnh sửa gen Crispr.
+Nhóm nghiên cứu đã thử nghiệm ba nhóm chuột. Nhóm chuột đầu tiên bị mắc HIV-1, nhóm chuột thứ 2 bị nhiễm EcoHIV (tương đương với virut HIV-1 ở người) và nhóm chuột thứ 3 được sử dụng mô hình chuột "nhân hóa", tức là đưa các tế bào miễn dịch ở người đã bị nhiễm HIV-1 vào cơ thể chuột.
+Đối với nhóm đầu tiên, các nhà khoa học đã kiểm soát được gen để làm bất hoạt virus HIV-1, giảm sự biểu hiện RNA của các gen virus lên đến 95%, qua đó, khẳng định những phát hiện trước đây của mình là chính xác.
+Nhóm thứ hai gặp phải một thách thức, đó là virus thường dễ lây lan và nhân lên.
+Tiến sĩ Khalili giải thích: "Trong giai đoạn nhiễm trùng cấp tính, HIV chủ động tái tạo. Với chuột bị nhiễm virus EcoHIV, chúng tôi đã chứng minh khả năng ngăn chặn sự nhân lên của virus HIV và nhiễm trùng hệ thống của phương pháp CRISPR/Cas9".
+Hình ảnh hiển vi chụp các tế bào T bị nhiễm virus HIV.
+Cuối cùng, các chuyên gia thực hiện điều trị trên nhóm 3, những con chuột nhân hóa nhờ tiêm các tế bào miễn dịch của người (bao gồm tế bào T), nơi virus thường ẩn nấp, tránh được sự phát hiện.
+Sau một lần điều trị bằng Crispr/Cas9, các nhà khoa học đã loại bỏ được hoàn toàn các mảnh virus (gen) ra khỏi tế bào của con vật bị nhiễm virus trong mô và cơ quan.
+"Những con vật này mang virus HIV tiềm ẩn trong bộ gen của tế bào T ở người, nơi virus thường ẩn nấp để không bị phát hiện, Tiến sỹ Hu giải thích.
+Kết quả này được đánh giá là một bước tiến quan trọng để tìm ra một phương pháp chữa trị dứt điểm căn bệnh thế kỷ HIV/AIDS.
+Các nhà khoa học dự kiến sẽ tiến tới thử nghiệm lâm sàng trên bệnh nhân nhiễm HIV. Nhưng trước hết, họ cần thành công với thử nghiệm tiếp theo trên linh trưởng. Liệu nó có thể chứng minh CRISPR/Cas9 có thể loại bỏ hết tế bào T nhiễm HIV và cả các virus tồn tại ngầm trong não bộ động vật linh trưởng hay không?
+Sơn Anh (Theo DailyMail).

@@ -1,0 +1,15 @@
+Apple có thể sẽ ra mắt loạt MacBook Pro mới trong năm nay - Ảnh: AFP.
+Năm nay, Apple có thể làm mới MacBook Pro với những thay đổi lớn, tập trung vào đại tu chip xử lý bên trong máy tính. Tuy nhiên giới hâm mộ vẫn mong muốn một số cải tiến sẽ được Apple áp dụng vào Touch Bar mà công ty đã phát triển trước đây.
+Khuyến khích macro khai thác Touch Bar.
+Sự phổ biến của Apple đối với người dùng chuyên nghiệp là không thể bàn cãi khi nó được bổ sung sức mạnh bởi các ứng dụng có khả năng và cung cấp cải tiến hiệu quả như Automator.
+Ứng dụng cung cấp macro giúp tạo các shortcut cực kỳ mạnh mẽ có thể giúp tăng thêm quá trình làm việc của macOS. Ngay cả khi là một người dùng chính thống, các macro cũng sẽ giúp bạn xử lý và thay đổi kích thước hình ảnh tốt hơn, tạo tài liệu PDF với nhiều trang nguồn khác nhau.
+Thật không may bạn không thể gắn các macro của Automator vào Touch Bar. Về lý tưởng, bạn có thể chọn một tập hợp các tập tin hình ảnh trong Finder, và sau đó chạm vào nút Resize to 1.920 trên thanh Touch Bar để chúng tự động thay đổi kích thước. Mặc dù bạn có thể đặt nhiều chức năng Finder khác nhau trong Touch Bar nhưng các shortcut Automator không nằm trong số đó.
+Cho phép các trang web đáng tin cậy sử dụng Touch Bar.
+Hầu hết mọi người dành phần lớn thời gian để làm việc với một số ít ứng dụng cài sẵn và một số ứng dụng dựa trên trình duyệt. Apple đã mở cửa cho ứng dụng có sẵn quyền truy cập vào Touch Bar từ đầu, nhưng điều này vẫn chưa mở cửa đến ứng dụng web. Hiện chỉ điều khiển của trình duyệt riêng có thể được đặt vào Touch Bar.
+Nếu là người dùng Gmail hoặc có một tài khoản CMS như WordPress trong Safari hoặc Chrome, thậm chí thường mua sắm tại Amazon, việc kiểm soát cụ thể trang web được thêm vào bên trên bàn phím có thể là một lợi ích thực sự.
+Một trong những thay đổi mong chờ nhất trên MacBook Pro mới chính là đại tu Touch Bar - Ảnh: AFP.
+Dĩ nhiên không thể muốn mọi trang web có thể được đặt vào Touch Bar, nhưng một danh sách trắng các trang web được chấp nhận sẽ là một cách tiến rõ ràng nhưng hữu ích.
+Di chuyển thông báo tới Touch Bar.
+macOS đã xử lý các thông báo tốt hơn, đặc biệt với sự xuất hiện của Notifications Center và thời gian của cảnh báo. Tuy nhiên, cách mà Mac đánh dấu khi đặt ở góc trên cùng bên phải dường như sẽ rất hợp lý cho một thiết kế lại trên Touch Bar.
+Touch Bar có thể hoạt động như một mã thông báo. Nếu điều này xảy ra, các nút dựa vào ngữ cảnh trượt xuống bên cạnh khi một thông báo xuất hiện trên màn hình sẽ là một cải tiến về cách macOS xử lý chúng so với hiện nay. Thay vì phải nhấp chuột vào Close hoặc Reply trong một thông báo bằng email mới là xong. Nếu Apple thực sự xem trọng việc đưa người dùng đến với dải cảm ứng trên bàn phím, điều này có vẻ tốt hơn nhiều so với việc buộc người dùng chạm vào touchpad.
+Kiến Văn.

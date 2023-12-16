@@ -1,0 +1,14 @@
+Yann LeCun.
+Yann LeCun - một trong những cái tên nổi tiếng nhất trong lĩnh vực trí tuệ nhân tạo, đã vừa bỏ chức vụ của mình trong việc giám sát các hoạt động hàng ngày của nhóm nghiên cứu về AI của Facebook.
+Thế nhưng, mạng xã hội lớn nhất thế giới này lại vừa tuyển dụng được Jérôme Pesenti - cựu chiến binh của IBM (Tập đoàn máy tính quốc tế tại Mỹ) và là cựu Giám đốc điều hành của Start-up AI (có tên BenevolentAI) để thay thế vị trí của LeCun.
+Còn LeCun sẽ tiếp tục với cương vị là nhà khoa học chính về AI, chuyên chịu trách nhiệm về những đường đi nước bước trong nghiên cứu trí tuệ nhân tạo của Facebook.
+Sau khi tiếp nhận vị trí, Pesenti sẽ kiểm soát việc nghiên cứu về AI cho Facebook (Facebook AI Research - FAIR), mà LeCun đã đưa ra vào năm 2013. Ông cũng sẽ phụ trách nhóm áp dụng các quy trình máy học (AML). Nhiệm vụ của nhóm AML chính là giúp tích hợp AI vào các sản phẩm và tính năng của Facebook như nguồn ảnh, video và tin tức.
+LeCun nói với Quartz: "Facebook cần có một ai đó để giám sát mảng AI, đồng thời nghiên cứu, phát triển và kết nối chúng với các sản phẩm".
+Pesenti và LeCun đã xác nhận những chuyển đổi vị trí này trong các bài đăng trên các trang Facebook cá nhân của mình.
+Facebook đang lên kế hoạch chuyển mình trong mảng AI.
+Sếp cũ LeCun là người từng giảng dạy tại Đại học New York đã được đích thân CEO Mark Zuckerberg tuyển dụng. Từ lâu Zuckerberg đã lập luận rằng AI chính là chìa khóa cho tương lai của cả Facebook nói riêng và toàn thế giới nói chung. Đây cũng là công nghệ tốt nhất để tăng cường năng lực của con người. Những bước chuyển mình trong bộ máy nhân sự này của công ty báo hiệu một sự thay đổi lớn trong việc cải tổ AI, dự đoán đến từ Quartz.
+Gần đây, LeCun đãcông khai chỉ trích Robot Sophia như là một sản phẩm trí tuệ nhân tạo "nhảm nhí".
+Còn đối Pesenti, đã cho biết trong bài đăng trên Facebook cá nhân: "với vai trò mới của mình, chúng tôi đảm bảo rằng sẽ tiếp tục phát triển những nghiên cứu về AI và giúp các sản phẩm của Facebook trở nên thông minh, hữu ích và có ý nghĩa hơn. Tôi cảm thấy ngạc nhiên và đầy vinh dự khi gia nhập nhóm làm việc này".
+Bài đăng trên Facebook cá nhân của Jérôme Pesenti.
+Pesenti sẽ trực tiếp báo cáo cho Mike Schroepfer - Giám đốc công nghệ của Facebook để có thể sắp xếp cơ cấu quản lý nhóm AI. Ngoài ra, nhóm AML của Facebook sẽ làm việc chặt chẽ hơn với FAIR, giữ vai trò là một phần của sáng kiến lớn để thống nhất các nỗ lực của AI.
+Quỳnh Như (Theo BI).

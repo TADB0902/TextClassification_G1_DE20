@@ -1,0 +1,21 @@
+Ứng dụng Thrive.
+Thrive sẽ khóa tất cả các thứ bay tới điện thoại của bạn, bao gồm các cuộc gọi, tin nhắn, thông báo, v.v trong một thời gian nhất định do bạn thiết lập. Bạn sẽ có những giây phút chợp mắt, thư giãn mà không bị ai làm phiền.
+Hoặc khi bạn muốn tập trung tối đa cho bản báo cáo mà lại cứ bị các cuộc gọi đến liên tục? Thrive sẽ tự động trả lời cuộc gọi và tin nhắn để người gọi biết rằng bạn đang bận.
+Thế nhưng nếu bạn đang họp với sếp mà người vợ sư tử Hà Đông của bạn gọi đến thì sao?. Chắc chắn bạn không thể từ chối cuộc gọi của cô ấy nếu không muốn tối về nhà không có cơm ăn. Đừng lo, ứng dụng Thrive giúp bạn thiết lập một danh sách VIP, tức là những người này có thể liên lạc với bạn cho dù điện thoại đang bật chế độ Đừng làm phiền.
+Thực ra ứng dụng này không phải do Samsung phát triển, mà do hãng Thrive Global viết ra. Hiện nay thì người dùng có thể tải nó trên Google Play Store, mặc dù phiên bản vẫn chưa hoàn thiện. Tôi đã thử tải về vọc vạch.
+Ứng dụng Thrive của hãng Thrive Global vẫn chưa hoàn thiện, nhưng bạn vẫn có thể tải về.
+Tôi đã thử tải về và cài đặt. Vẫn cài được "ngon lành".
+Đây là giao diện của ứng dụng sau khi cài đặt xong.
+Bước đầu tiên bạn có thể thực hiện là đặt thời gian mà bạn không muốn bị ai làm phiền. Sau khi bạn thiết lập thời gian, điện thoại sẽ tạm thời trở thành một "cục gạch"!
+Bạn có thể đặt chế độ trả lời tự động cho tin nhắn.
+Chẳng hạn bạn có thể viết là: "Xin lỗi tôi đang bận họp", hoặc nếu "phũ" hơn bạn có thể viết là: "đang ngủ, lúc khác gọi nhé".
+Đây là tính năng bổ sung ai đó vào danh sách VIP để họ có thể liên lạc với bạn bất cứ khi nào, kể cả khi bạn đã bật Thrive.
+Ở đây tôi bổ sung Vợ vào danh sách VIP, vì tôi không muốn tối về bị nhịn cơm!
+Sau khi bấm Begin, ứng dụng Thrive bắt đầu thực thi nhiệm vụ trong thời gian bạn đã đặt. Nó sẽ chặn tất cả các cuộc gọi, tin nhắn, thông báo, đồng thời tự động trả lời. Trong thời gian này, tôi cũng đã thử nhờ vợ gọi đến. Điện thoại có đổ chuông, nhưng màn hình vẫn hiển thị màu đen chứ không bật sáng như khi bạn nhận một cuộc gọi thông thường. Đây có lẽ là điểm chưa hoàn thiện của ứng dụng.Khi phiên bản Thrive hoàn thiện được phát hành thì chắc lỗi này sẽ không còn nữa.
+Trong thời gian bị giới hạn, nếu bạn muốn khôi phục lại điện thoại về chế độ bình thường ngay lập tức, bạn có thể nhấp vào màn hình và chọn "End This Session".
+Đây là màn hình sau khi bạn thoát chế độ "Đừng làm phiền". Ứng dụng sẽ hỏi bạn đã làm gì vào thời gian giới hạn vừa rồi.
+Tôi cũng có thể thiết lập chế độ Siêu hạn chế, tức là ngay cả Vợ tôi cũng không gọi được nếu đặt chế độ này. Có lẽ lúc nào đi chơi với bạn gái tôi sẽ áp dụng.
+Thrive cũng cho phép kiểm soát thời gian hoạt động của các ứng dụng trong điện thoại. Chẳng hạn như tôi chỉ muốn cho phép mình được sử dụng Facebook 30 phút một ngày.
+Ở đây tôi đã thiết lập ứng dụng Facebook và Tin nhắn chỉ được phép truy cập 30 phút.
+Nhìn chung, đây là một app khá lý thú, giúp tôi có những phút giây tránh xa khỏi đồ công nghệ để thư giãn. Nếu bạn thấy lý thú, có thể tải về nghịch thử. Nhưng nhớ là vào thời điểm bài viết này lên trang, sản phẩm vẫn chưa hoàn thiện đâu nhé.
+Hoài Nam.

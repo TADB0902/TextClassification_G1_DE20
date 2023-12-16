@@ -1,0 +1,13 @@
+Trong nghiên cứu mới được công bố, các nhà khoa học tại khoa Y Lewis Katz (LKSOM) thuộc Đại học Temple và Đại học Pittsburgh (Mỹ) cho biết họ có thể loại bỏ hoàn toàn ADN HIV từ tế bào người được cấy vào chuột, thậm chí còn ngăn chặn khả năng lây lan của virus này.
+Đây là lần đầu tiên các nhà khoa học thành công trong việc loại bỏ hoàn toàn virus HIV trên cơ thể động vật sống, mở đường cho những thử nghiệm lâm sàng ở người trong tương lai.
+Điều thú vị nhất trong nghiên cứu lần này, đối tượng thực hiện nghiên cứu là những con chuột được nhân hóa, chúng được cấy ghép các tế bào miễn dịch (tế bào T) của người và bị nhiễm virus HIV-1.
+Đứng đầu dự án, Tiến sĩ Wenhui Hu tại LKSOM, cho biết dựa theo những nghiên cứu trước đây của nhóm, họ đã có thể xóa bỏ HIV-1 ra khỏi hệ gen ở các mô và loại bỏ hoàn toàn virus chỉ một năm sau đó.
+Kết quả nghiên cứu mới đã mang đến niềm hi vọng chữa khỏi căn bệnh thế kỷ. Ảnh: Shutterstock/vchal.
+Cụ thể, nhóm nghiên cứu đã tiến hành thử nghiệm trên ba nhóm chuột.
+Nhóm đầu tiên là những con chuột bị nhiễm HIV-1, nhóm thứ hai nhiễm EcoHIV (tương tự như HIV-1 của con người) và nhóm thứ ba là những con chuột nhân hóa.
+Với nhóm đầu tiên, các nhà khoa học quản lý được gen, ngăn chặn khả năng hoạt động của HIV-1 và làm giảm sự biểu hiện ARN của các gen virus lên đến 95%, khẳng định những phát hiện trước đây của mình.
+Ở nhóm thứ hai, virus EcoHIV dễ lây lan và nhân lên nhanh chóng. Tiến sĩ Khalili, thành viên nhóm nghiên cứu, giải thích rằng trong giai đoạn nhiễm trùng cấp tính (hay còn gọi là sơ nhiễm), virus HIV sẽ chủ động tái tạo. Với con chuột nhiễm EcoHIV, CRISPR/Cas9 có thể ngăn chặn sự nhân lên và lây lan, đồng thời loại bỏ được 96% virus trong cơ thể. Đây là bằng chứng đầu tiên cho thấy khả năng loại bỏ virus HIV-1 bằng hệ thống CRISPR/Cas9.
+Nhóm thứ 3 là những con chuột nhân hóa hoàn toàn loại bỏ virus tiềm ẩn trong mô và cơ quan của chuột chỉ sau một lần điều trị bằng CRISPR/Cas9.
+Nghiên cứu mới đánh dấu một bước tiến hết sức quan trọng trong việc tìm ra phương pháp chữa khỏi hoàn toàn dành cho người nhiễm HIV.
+Các nhà khoa học cho biết trong thời gian tới, họ sẽ tiến hành nghiên cứu trên loài linh trưởng, hướng tới mục tiêu cuối cùng là thử nghiệm lâm sàng ở người.
+Minh Hải.

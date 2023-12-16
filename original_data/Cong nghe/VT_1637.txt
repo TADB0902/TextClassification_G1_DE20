@@ -1,0 +1,11 @@
+Các hạ tầng kinh doanh trọng yếu và nền tảng IoT (Internet vạn vật) hiện nay đang được cải tiến bằng mọi cách để giảm độ trễ, tăng cường kết nối và cải thiện hiệu suất. Để làm được việc này, một trong các yếu tố quan trọng là các bộ lưu điện UPS có hiệu suất cao nhằm duy trì hệ thống vẫn hoạt động, hoặc gián đoạn không đáng kể, xảy ra trong các sự cố về nguồn điện.
+Hãng Schneider Electric chuẩn bị tung ra thị trường dòng ắc quy Li-Ion cho loạt sản phẩm bộ lưu điện một pha Smart-UPS của APC. Trước đó hãng đã sử dụng công nghệ ắc quy Li-Ion trong danh mục các giải pháp bảo vệ nguồn hệ thống UPS công nghiệp ba pha.
+Bộ lưu điện APC Smart UPS tích hợp ắc quy Lithium Ion.
+Sử dụng bộ lưu điện với ắc quy Li-Ion làm giảm thời gian bảo trì, giúp giảm tình trạng gián đoạn (downtime) đột ngột xảy ra, sẽ ảnh hưởng đến hiệu suất kinh doanh và tốn kém chi phí thay thế và sửa chữa thiết bị hỏng hóc.
+Theo Schneider Electric, ắc quy Li-Ion có tuổi thọ đến 10 năm. Do mật độ năng lượng cao hơn, ắc quy Li-Ion có kích thước nhỏ và nhẹ hơn khoảng 30% so với loại dùng axit chì. Với tuổi thọ pin tăng gấp đôi, chi phí bảo trì và các chi phí liên quan trong suốt dòng đời của bộ lưu điện UPS giảm 53%.
+Ắc quy Li-Ion có thể hoạt động ở những môi trường với nhiệt độ trung bình cao hơn thông thường (ví dụ: 40C /104F) mà không làm giảm hiệu suất hoạt động của UPS. Bộ lưu điện SmartUPS OnLine của APC (thương hiệu của Schneider Electric) có thể được cấu hình với nhiều ắc quy Li-Ion để đáp ứng các yêu cầu về thời gian chạy của hệ thống IT và nhu cầu kinh doanh.
+Nếu muốn, người dùng có thể điều khiển bằng thẻ điều khiển (Network Management Card) đã được tích hợp sẵn, giải pháp này tăng cường khả năng hiển thị của môi trường biên với khả năng giám sát và kiểm soát của thiết bị.
+Các ắc quy cũng đuược thiết kế tuân thủ các tiêu chuẩn an toàn (UL 1973, UL1642 / IEC62133).
+Giải pháp này cũng có thể kết nối với nền tảng điện toán đám mây EcoStruxure IT của Schneider Electric, cho phép người dùng biết được thông số và tình trạng của bộ lưu điện UPS mà họ đang sử dụng để đơn giản hóa việc bảo trì và tối ưu hóa hiệu năng.
+Bộ lưu điện Smart-UPS On-line Li-Ion sẽ bắt đầu được phân phối tại nhiều quốc gia trên toàn cầu bắt đầu từ quý 1/2018. Các sản phẩm ắc quy Li-Ion một pha khác cũng sẽ được tung ra từ 2018.
+Hải Đăng.

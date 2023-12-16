@@ -1,0 +1,15 @@
+Mặc định smartphone thường bắt sóng Wi-Fi kém hơn so với laptop, đặc biệt là những dòng điện thoại có khung viền bằng kim loại. Nếu ngồi quá xa router, tín hiệu mạng sẽ rất chập chờn, do đó bạn có thể sử dụng laptop để tạo thêm một điểm phát Wi-Fi gần hơn, giúp điện thoại, máy tính bảng hoặc bạn bè ngồi kế bên truy cập dễ dàng.
+Xem thêm: Cách sửa lỗi iPhone, iPad bị treo máy - Khi bạn lỡ tay nhấn đồng thời cùng lúc vào ba tùy chọn bên trong Control Center, iPhone sẽ ngay lập tức bị đơ. Làm thế nào để khắc phục tình trạng trên?
+Mặc định cả Windows và macOS đều được tích hợp sẵn chức năng chia sẻ kết nối Internet, tuy nhiên khả năng tùy biến không cao và thường rất khó chỉnh sửa. Do đó người dùng nên cài đặt ứng dụng của bên thứ ba, đơn cử như Connectify. Về cơ bản, ứng dụng sẽ tận dụng kết nối Internet của laptop và tạo thêm một điểm phát Wi-Fi mới.
+Ưu điểm.
+- Tạo điểm phát cho các thiết bị khác truy cập gần hơn.
+- Khi chỗ bạn đang ngồi không có Wi-Fi mà chỉ có dây mạng LAN cho máy tính.
+- Bước 2: Khi cài đặt hoàn tất, bạn hãy khởi động lại máy tính. Sau đó nhấp vào biểu tượng ứng dụng ở góc phải màn hình và chuyển sang thẻ Wi-Fi Hotspot.
+- Bước 3: Tại đây bạn hãy lựa chọn kết nối cần chia sẻ, ví dụ nếu máy tính đang gắn dây mạng LAN thì chọn Local Area Network hoặc Wi-Fi. Phần Network Access có hai mục là Routed và Bridged, nếu bạn chọn Bridged nghĩa là máy tính sẽ đóng vai trò như một cây cầu nối để các thiết bị kết nối trực tiếp đến router, ngược lại các thiết bị sẽ kết nối với máy tính của bạn.
+- Bước 4: Tiếp theo, đặt tên cho điểm phát Wi-Fi và mật khẩu (vì là phiên bản miễn phí nên chỉ có thể đặt tên theo dạng Connectify-abc).
+- Bước 5: Để tăng mức độ bảo mật, người dùng nên lựa chọn chế độ Access Point, WPA2-PSK tại phần Mode. Cuối cùng bấm Start Hotspot để tạo điểm phát, biểu tượng của ứng dụng ở góc phải màn hình sẽ chuyển từ màu xám sang màu xanh.
+Nếu muốn kiểm tra danh sách cách thiết bị đang kết nối, bạn hãy truy cập vào menu Clients > Connected to my Hotspot. Bên cạnh đó, người dùng cũng có thể theo dõi việc download/upload của các thiết bị, chặn quảng cáo hoặc chặn truy cập Internet dễ dàng.
+Connectify còn cung cấp tính năng cho phép mở rộng vùng phủ sóng Wi-Fi trong ngôi nhà, lúc này laptop sẽ đóng vai trò như một router hoặc thiết bị tăng sóng bổ sung.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Xem thêm: Tải về ngay 2 công cụ hỗ trợ ngăn chặn mã độc tống tiền - Chỉ trong vài ngày ngắn ngủi đã có hàng loạt công ty viễn thông, tổ chức y tế trên thế giới trở thành nạn nhân của ransomware WannaCry, một loại mã độc tống tiền kiểu mới.
+MINH HOÀNG.

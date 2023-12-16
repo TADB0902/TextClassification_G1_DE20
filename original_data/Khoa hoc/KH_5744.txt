@@ -1,0 +1,17 @@
+Hector, một robot khổng lồ giống côn trùng nghiên cứu sự di chuyển trên địa hình (nguồn Internet).
+Aaron Johnson, một nhà nghiên cứu robot và là giáo sư về kỹ thuật cơ khí tại Đại học Carnegie Mellon, cho biết: "Hầu như bất cứ động vật nào mà bạn có thể tưởng tượng ra đều đã được sử dụng để làm nguồn cảm hứng cho robot. Đó là bởi vì động vật - bao gồm cả con người - rất giỏi trong những chuyển động khó mà robot không thể thực hiện, như nhặt các đồ vật, nhảy lên vách đá, hoặc di chuyển qua địa hình gồ ghề.".
+Bản thân con người cũng từng bắt chước chuyển động của các loài động vật để rồi làm được những điều không tưởng: như bay lên khỏi mặt đất, lặn xuống biển sâu, hay lướt đi trên mặt nước.
+Tuy nhiên với robot, các nhà khoa học lại cho thấy một cách tiếp cận hoàn toàn mới. "Thay vì bắt chước chính xác cùng một cơ chế và hành vi của động vật, chúng tôi cố gắng tìm hiểu các nguyên tắc và cách thức di chuyển của động vật, để rồi áp dụng nó vào một hệ thống robot hoàn toàn mới", giáo sư Johnson chia sẻ.
+Dưới đây là những mẫu robot thành công nhất trong việc bắt chước cách di chuyển của các loài động vật.
+Robot di chuyển giống con gián.
+Robot có tên là RHex là một sản phẩm nghiên cứu được giới thiệu vào năm 1999, nổi tiếng với khả năng mô phỏng di chuyển của loài gián - nhằm vượt qua các địa hình kém bằng phẳng, ẩm ướt, và ngóc ngách.
+Robot di chuyển giống loài báo.
+Một robot là sản phẩm của Viện Công nghệ Massachusetts (MIT) vào năm 2015 có thể bắt chước bước chạy của loài báo, đạt vận tốc cao, nhảy qua vật thể mà vẫn giữ được thăng bằng.
+Robot mô phỏng xúc tu của bạch tuộc.
+Robot được nghiên cứu bởi Festo - một công ty robot ở Đức lại có những cánh tay chuyển động giống với xúc tu bạch tuộc, giúp chúng uốn cong theo vật thể một cách dễ dàng.
+Robot chuyển động giống loài rắn.
+Các nhà nghiên cứu tại Phòng thí nghiệm Biorobotics của trường Đại học Carnegie Mellon đã phát triển một robot mô phỏng chuyển động của loài rắn, giúp chúng di chuyển đến những địa hình khó mà robot chuyển động bằng chân hoặc bằng bánh xe không thể.
+Robot di chuyển bằng 2 chân giống đà điểu.
+Hồi đầu năm nay, một nhóm các nhà nghiên cứu từ trường Đại học Bang Oregon đã giới thiệu một công nghệ robot vô cùng độc đáo có khả năng bắt chước lối đi của đà điểu để di chuyển một cách dễ dàng bằng 2 chân.
+Theo Dân Trí.
+Nguyễn Nguyễn -.

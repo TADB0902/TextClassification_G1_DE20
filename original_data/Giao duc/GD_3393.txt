@@ -1,0 +1,11 @@
+Đối tượng tham gia Giải thưởng là công trình khoa học và công nghệ của giảng viên, nghiên cứu viên trong các cơ sở giáo dục đại học không quá 35 tuổi (tính tròn theo năm dương lịch), tại thời điểm nộp hồ sơ của năm xét tặng Giải thưởng. Giải thưởng được tổ chức 3 năm một lần.
+Giải thưởng được xét tặng cho các công trình khoa học và công nghệ thuộc các lĩnh vực sau:
+Khoa học Tự nhiên: Toán học và thống kê, Khoa học máy tính và thông tin, Vật lý, Hóa học, Khoa học trái đất và môi trường, Sinh học, Khoa học tự nhiên khác.
+Khoa học Kỹ thuật và Công nghệ: Kỹ thuật dân dụng, Kỹ thuật điện, Kỹ thuật điện tử, Kỹ thuật thông tin, Kỹ thuật cơ khí, Kỹ thuật hóa học, Kỹ thuật vật liệu và luyện kim, Kỹ thuật y học, Kỹ thuật môi trường, Công nghệ sinh học môi trường, Công nghệ sinh học công nghiệp, Công nghệ nano, Kỹ thuật thực phẩm và đồ uống, Khoa học kỹ thuật và công nghệ khác.
+Khoa học Y, Dược: Y học cơ sở, Y học lâm sàng, Dược học, Công nghệ sinh học trong y học, Khoa học y, dược khác.
+Khoa học Nông nghiệp: Trồng trọt, Chăn nuôi, Thú y, Lâm nghiệp, Thủy sản, Công nghệ sinh học nông nghiệp, Khoa học nông nghiệp khác.
+Khoa học Xã hội: Tâm lý học, Kinh tế và kinh doanh, Khoa học giáo dục, Xã hội học, Pháp luật, Khoa học chính trị, Địa lý kinh tế và xã hội, Thông tin đại chúng và truyền thông, Khoa học xã hội khác.
+Khoa học Nhân văn: Lịch sử và khảo cổ học, Ngôn ngữ học và văn học, Triết học, Đạo đức học và tôn giáo, Nghệ thuật, Khoa học nhân văn khác.
+Công trình tham gia xét tặng Giải thưởng phải đáp ứng các yêu cầu sau: Mỗi công trình do một hoặc nhiều giảng viên trẻ thực hiện nhưng phải có một người chịu trách nhiệm chính, tổng số người tham gia thực hiện không quá 9 và có ít nhất 50% số người tham gia là giảng viên trẻ.
+Công trình khoa học và công nghệ đã được nghiệm thu theo quy định. Công trình được công bố hoặc ứng dụng trong thực tiễn ít nhất 1 năm và chưa nhận bất kỳ Giải thưởng cấp quốc gia, quốc tế tính đến thời điểm nộp hồ sơ tham gia xét tặng Giải thưởng.
+Tính đến thời điểm xét tặng Giải thưởng, tác giả, tập thể tác giả không vi phạm quy định tại Điều 8 Luật khoa học và công nghệ năm 2013.

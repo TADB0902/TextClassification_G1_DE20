@@ -1,0 +1,23 @@
+Bạn không xài 3G nhưng lại muốn check Facebook, e-mail nếu có kết nối wifi công cộng miễn phí thì còn gì hạnh phúc hơn. Tuy nhiên, miễn phí cũng đồng nghĩa với rủi ro cao, tiềm ẩn nhiều mối nguy hiểm về an ninh bảo mật.
+Dưới đây là một số gợi ý của Brightside :
+Không dùng cho các giao dịch trực tuyến, đặc biệt là giao dịch ngân hàng.
+Nếu bạn cần mua hàng trực tuyến hoặc thực hiện các giao dịch ngân hàng, hãy ngừng kết nối wifi miễn phí, thay vào đó là sử dụng 3G. Một khoản phí nhỏ có thể sẽ bị áp dụng nhưng điều này sẽ giúp bảo vệ bạn khỏi trộm cắp thông tin cá nhân như địa chỉ, số điện thoại, số tài khoản ngân hàng, mật khẩu.
+Đừng để kết nối nếu không sử dụng.
+Tắt mạng wifi lúc này không những giúp bạn tiết kiệm pin cho máy tính và điện thoại mà còn ngăn kết nối tự động với các mạng do tội phạm thiết lập. Bạn có thể cài đặt phần mềm Do not track me (Đừng theo dõi tôi) cho trình duyệt của mình để hạn chế sự xâm nhập dữ liệu trong thiết bị của tội phạm thông qua mạng wifi miễn phí.
+Vào website thông qua VPN.
+Sử dụng VPN (Virtual Private Network) để đăng nhập ẩn danh. Nếu đang sử dụng wifi công cộng, duyệt web trên những trang web không phải https thì tính an toàn của dữ liệu trao đổi trong mạng sẽ dễ bị lộ.
+Nếu muốn ẩn hoạt động duyệt web của mình để dữ liệu được bảo mật hơn, bạn nên kết nối VPN. Mọi thông tin truyền qua mạng lúc này sẽ được mã hóa. Sử dụng VPN sẽ tốn một khoản phí và thậm chí làm chậm tốc độ kết nối, tuy nhiên sẽ bảo vệ thông tin cá nhân và thiết bị của bạn an toàn ở mức độ tương đối cao.
+Không ghi nhớ thông tin mạng.
+Hầu hết các thiết bị di động và máy tính sẽ tự động nhớ những mạng wifi, hotspot đã từng được kết nối. Vì vậy, bọn tội phạm có thể tạo điểm truy cập wifi có cùng tên để dễ dàng lấy cắp thông tin lịch sử dữ liệu của bạn. Điểm khác biệt giữa một mạng wifi chuẩn và giả chính là yêu cầu mật khẩu đăng nhập. Bạn đừng nên thấy miễn phí mà vô tư sử dụng. Trước khi kết nối với bất cứ mạng wifi nào, hãy hỏi chủ nhân tên chính xác của mạng.
+Cài đặt phần mềm chống virus.
+Hãy chắc rằng bạn có cài đặt và luôn cập nhật bản mới nhất của phần mềm chống virus. Những phần mềm này sẽ gửi cảnh báo đến cho bạn nếu nó nhận thấy điểm truy cập có dấu hiệu không an toàn.
+Sử dụng mạng có yêu cầu nhập code bảo mật.
+Để đảm bảo an toàn, bạn hãy sử dụng những điểm kết nối có yêu cầu bạn nhập mã bảo mật được gửi tới điện thoại. Điều này sẽ giúp bảo vệ bạn khỏi những tên tội phạm cố sao chép tên mạng wifi để kết nối với bạn.
+Đừng sử dụng tính năng mặc định ghi nhớ mật khẩu.
+Tính năng ghi nhớ mật khẩu hữu ích khi bạn có quá nhiều tài khoản với quá nhiều mật khẩu để nhớ. Tuy nhiên, bọn tội phạm có thể lợi dụng tính năng này để lấy cắp tài khoản của bạn, thực hiện các giao dịch bất chính khi chúng đã truy cập được vào thiết bị thông qua wifi miễn phí. Nếu bạn vẫn muốn ghi nhớ mật khẩu, hãy sử dụng trình quản lý mật khẩu để đảm bảo an toàn.
+Kiểm tra địa chỉ website.
+Các mạng wifi lừa đảo có thể chuyển hướng website mà bạn đang muốn truy cập. Vì vậy, nếu thấy bất cứ điều gì khả nghi ở địa chỉ website thì hãy thoát khỏi đó ngay lập tức. Đặc biệt, bạn chỉ nên sử dụng các trình duyệt web đáng tin cậy để được cảnh báo mỗi khi có điều khả nghi.
+Sử dụng kết nối an toàn.
+Các đường link kết nối an toàn khá dễ nhận biết.
+Một số website lớn thường sử dụng kết nối an toàn để truyền tải dữ liệu. Nếu bạn muốn mọi website mình truy cập đều được mã hóa và bảo mật, hãy thử cài chương trình HTTPS Everywhere.
+Theo Phương Thảo / VNE.

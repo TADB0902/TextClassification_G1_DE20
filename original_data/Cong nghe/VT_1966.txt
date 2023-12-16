@@ -1,0 +1,24 @@
+Đối với Android 6.0 trở lên (Marshmallow đến Oreo).
+Đối với tất cả các ứng dụng.
+Trong mục General của menu Settings của smartphone, bạn sẽ tìm thấy tùy chọn thiết lập Location. Chỉ cần kích vào phần bật tắt ở trên cùng để kích hoạt hoặc hủy kích hoạt theo ý muốn. Bạn phải lưu ý rằng, tùy chọn này sẽ vô hiệu hóa khả năng của mọi ứng dụng, kể cả những ứng dụng mà bạn có thể muốn sử dụng GPS, chẳng hạn như Google Maps. Nếu bạn không muốn thế thì hãy kiểm tra các tùy chọn tiếp theo.
+Bạn cũng có thể thay đổi chế độ Location thành một trong ba tùy chọn để tùy chỉnh thêm:
+- High accuracy sử dụng tất cả các tùy chọn, gồm GPS, WiFi, Bluetooth và các mạng di động.
+- Battery saving sử dụng WiFi, Bluetooth và các mạng di động nhưng không phải là GPS.
+- Device only chỉ sử dụng GPS chứ không phải WiFi, Bluetooth hoặc mạng di động.
+Đối với các ứng dụng cá nhân.
+Truy cập vào Settings>Apps>Configure apps hoặc App Settings , chọn App Permissions. Sau đó, bạn sẽ nhìn thấy một danh sách các tính năng nhạy cảm của điện thoại (gống như micro, camera hoặc danh bạ). Tại đây bạn có thể chọn những ứng dụng có quyền truy cập vào các ứng dụng đó, gồm Your location.
+Kích vào Location của bạn để chọn ứng dụng bạn muốn có quyền truy cập vào vị trí thực tế của thiết bị. Đối với các ứng dụng như Google Maps hoặc Google App, có thể hữu ích khi cấp cho họ quyền truy cập vào vị trí của bạn cho thuận tiện. Nhưng các ứng dụng khác có thể không đến từ một nguồn đáng tin cậy, hoặc thậm chí chúng không cần vị trí của bạn. Trong trường hợp đó, tắt quyền truy cập vị trí đối với các ứng dụng đó.
+Đối với phiên bản Android 4.3 - 5.1.
+Đối với tất cả các ứng dụng.
+Giống như trong các phiên bản Android mới hơn, bạn có thể thay đổi cài đặt Vị trí cho tất cả các ứng dụng bằng một nút chuyển đổi duy nhất. Truy cập vào Settings > More > Permission và kích vào nút chuyển đổi tắt/bật bên cạnh Location. Khi chuyển đổi sang vị trí tắt, điện thoại sẽ ngừng thu thập dữ liệu vị trí.
+Bạn cũng có thể thay đổi phương pháp báo cáo vị trí được sử dụng. Kích vào Location > Mode. Sau đó, bạn có thể chọn giữa ba chế độ khác nhau tùy theo sở thích của bạn (giống như hình bên dưới).
+Nếu bạn kéo xuống qua Location , bạn có thể xem danh sách tất cả các ứng dụng đã yêu cầu thông tin về vị trí của bạn (xem hình bên dưới). Sau đó, bạn có thể điều tra các thiết lập cho từng ứng dụng để xem có cách nào để tắt theo dõi vị trí không.
+Khi điện thoại của bạn được cập nhật lên Android Marshmallow hoặc phiên bản mới hơn, bạn sẽ có quyền kiểm soát nhiều hơn đối với các quyền ứng dụng cá nhân thông qua cài đặt hệ thống.
+Ngoài các ứng dụng bạn đã cài đặt, nhiều dịch vụ của Google  chẳng hạn như Google Now có thể sử dụng vị trí của bạn và bạn có thể kiểm soát. Bên dưới danh sách ứng dụng, kích vào Google Location Reporting và bạn sẽ nhìn thấy một danh sách tất cả các tài khoản bạn đã thiết lập trên thiết bị cầm tay của bạn.
+Đối với mỗi tài khoản, bạn có thể sử dụng cài đặt Location Reporting để cho phép hoặc từ chối truy cập vào dữ liệu vị trí của bạn, trong khi mục Location History cung cấp cho bạn cơ hội xóa dữ liệu đã được ghi lại.
+Đối với các ứng dụng cá nhân.
+Mặc dù có thể vô hiệu tính năng theo dõi vị trí trong các phiên bản Android cũ hơn, nhưng đó là cách tiếp cận toàn bộ hoặc không có gì. Là một cách tiếp cận khác, AppOps là một ứng dụng miễn phí có thể được sử dụng để kiểm soát sự cho phép vị trí của từng ứng dụng.
+Có một số ứng dụng có tên tương tự trong Google Play, vì vậy hãy đảm bảo cài đặt đúng ứng dụng. Chạy ứng dụng và bạn sẽ thấy một danh sách các ứng dụng sử dụng thông tin vị trí.
+Kích vào bất kỳ ứng dụng nào trong danh sách, bạn sẽ thấy một danh sách tất cả các quyền mà chúng sử dụng.
+Sau đó, bạn có thể chuyển đổi cài đặt Location để ngăn không cho ứng dụng đó sử dụng thông tin vị trí. Lặp lại quy trình đối với ứng dụng nào bạn muốn chặn quyền thu thập thông tin vị trí.
+Tuệ Minh (Theo AP).

@@ -1,0 +1,7 @@
+Câu đố như sau:
+Bạn có một chai rượu ngon. Chiều dài của cái chai là 27 cm, đường kính của nó là 7 cm. Ban đầu, nó chứa đầy rượu với thể tích 750 cm3. Đáy chai có một hình lõm ở giữa.
+Chai lúc đầy rượu tương tự như hình dưới:
+Một ngày nọ, bạn bỗng phát hiện rượu trong chai vơi đi. Lượng rượu trong chai còn 14 cm. Nếu xoay ngược chiều, phần chai có rượu là 19 cm (như hình dưới).
+Theo bạn, thể tích rượu còn lại trong chai là bao nhiêu?
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

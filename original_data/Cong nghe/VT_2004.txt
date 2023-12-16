@@ -1,0 +1,7 @@
+Chạm để mở khóa: Nút Home đã bị bỏ nhưng người dùng vẫn có thể kích hoạt iPhone bằng cách gõ vào màn hình một lần. Cách mở khác là nhấn vào nút nguồn bên hông điện thoại.
+Giảm độ sáng khi người dùng không nhìn màn hình: iPhone X có thể nhận biết được khi nào người dùng nhìn vào màn hình. Chiếc điện thoại này có thể tự động tăng, giảm độ sáng màn hình khi người dùng nhìn vào hoặc quay đi chỗ khác. Tính năng này giúp tiết kiệm pin đáng kể.
+Reachability (Khả năng tiếp cận): Tính năng Reachability (Khả năng tiếp cận) dùng để hỗ trợ những người có bàn tay nhỏ vẫn được giữ lại trên iPhone X. Để bật chức năng này, vào Settings (Cài đặt)> General (Chung)> Accessibility (Tiếp cận)> Reachability (Khả năng tiếp cận).
+Vuốt để chuyển đổi các ứng dụng: Người dùng có thể chuyển đổi giữa các ứng dụng đang hoạt động bằng cách vuốt qua trái hoặc phải. Tính năng này rất tiện lợi khi người dùng cần dùng nhiều ứng dụng cùng một lúc.
+Ẩn nội dung xem trước trong thông báo: Khi người dùng đang không nhìn vào màn hình, iPhone X sẽ tự động ẩn nội dung xem trước của các thông báo đi. Chỉ khi người dùng nhìn trực tiếp vào màn hình thì những nội dung này mới hiện ra.
+Vô hiệu hóa nhanh Face ID: Nếu muốn vô hiệu hóa nhanh tính năng Face ID, người dùng chỉ cần nhấn vào nút nguồn 5 lần. iPhone X sẽ chuyển qua chế độ bảo mật bằng mã PIN ngay sau đó.
+Gia Minh.

@@ -1,0 +1,36 @@
+Theo đó, kỳ thi THPT quốc gia 2017 tại thành phố Đà Nẵng có 10.003 thí sinh dự thi, trong đó có 9.501 thi sinh đỗ tốt nghiệp, đạt tỷ lệ 94,98%. Có 2 trường THPT có thí sinh đỗ tốt nghiệp 100% là Trường THPT Sky  Line (với 28/28 học sinh) và THPT chuyên Lê Quy Đôn (với 277/ 277 học sinh). Đơn vị có số tỷ lệ học sinh đỗ tốt nghiệp thấp nhất là Trung tâm GDTX số 1 với 66,13% (82 học sinh đỗ/124 học sinh dự thi).
+Thông tin chi tiết và tỉ lệ cụ thể các trường như sau:
+Số.
+TT.
+Tên trường.
+Số HS.
+dự thi.
+Số tốt nghiệp.
+TS.
+Tỷ lệ.
+001-THPT Nguyễn Hiền.
+002-THPT Phan Châu Trinh.
+003-THPT Trần Phú.
+005-THPT chuyên Lê Quý Đôn.
+007-THPT Thái Phiên.
+009-THPT Quang Trung.
+010-THPT Hoàng Hoa Thám.
+011-THPT Ngô Quyền.
+014-THPT Ngũ Hành Sơn.
+016-PT Hermann Gmeiner.
+017-THPT Nguyễn Trãi.
+018-THPT Khai Trí.
+020-THPT Hòa Vang.
+021-THPT Phan Thành Tài.
+022-THPT Ông Ích Khiêm.
+023-THPT Phạm Phú Thứ.
+026-THPT Nguyễn Thượng Hiền.
+027-THPT Tôn Thất Tùng.
+028-THPT Thanh Khê.
+029-THPT Cẩm Lệ.
+031-THPT Hiển Nhân.
+033-THPT Sky-Line.
+034-Trung tâm GDTX số 1.
+035-Trung tâm GDTX số 2.
+036-Trung tâm GDTX số 3.
+Tổng cộng.

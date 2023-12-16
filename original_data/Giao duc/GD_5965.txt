@@ -1,0 +1,8 @@
+Sáng ngày 16/5, tại kỳ thi Học kỳ II năm 2016-2017 môn Toán lớp 9, đề thi do Sở GD-ĐT Quảng Nam ra đã phát hiện một câu không đúng.
+Đề thi Toán lớp 9 của Sở GD-ĐT Quảng Nam.
+Cụ thể, câu 4 (cho 4 điểm) trong đề thi có nội dung: Cho tam giác ABC vuông tại A. Đường tròn O, đường kính AB cắt BC tại M. Phần a: Chứng minh AM vuông góc với BC và AM.BC=AB.AC. Phần b: Gọi I là trung điểm của BC. Đường thẳng BI cắt đường tròn O tại điểm thứ hai N. Chứng minh MNIC là tứ giác nội tiếp. Phần c: chứng minh IC2 =IN.IB.
+Ngay sau khi phát đề, giáo viên đã phát hiện phần b ra sai. Bởi vì, nếu gọi I là trung điểm của BC thì sẽ không giải được đáp số. Sau đó, giáo viên đã hướng dẫn học sinh sửa thành AC và bù thêm thời gian 5 phút cho học sinh làm bài.
+Phần b, giáo viên đã hướng dẫn học sinh sửa thành AC.
+Ông Hà Thanh Quốc, giám đốc Sở GD-ĐT Quảng Nam, cho biết chưa nắm được sự cố sai đề thi này vì chưa nhận được báo cáo.
+Theo ông Quốc, khi mở đề ra mà phát hiện sai thì bộ phận trực đề thi sẽ chỉ đạo điều chỉnh ngay tại chỗ. Đây là lỗi về mặt chuyên môn, Sở sẽ xem xét người ra đề, nếu sai sẽ kiểm điểm rút kinh nghiệm - ông Quốc nói.
+Vũ Trung.

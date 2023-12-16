@@ -1,0 +1,47 @@
+Giống nhiều sản phẩm được nhà sản xuất D-Link tung ra thị trường dạo gần đây, DWR-921 có kiểu dáng phải gọi là rất đẹp, vỏ ngoài bằng nhựa bóng loáng cùng các góc cạnh được trau chuốt kỹ và phối màu thể hiện sự hiện đại.
+D-Link DWR-921.
+Ở mặt trước, D-Link bố trí trực quan dãy đèn báo các trạng thái hoạt động của thiết bị, kèm theo đó là nút kích hoạt tính năng kết nối "1 chạm" an toàn WPS và lỗ tròn nhỏ để thực hiện tác vụ reset cứng thiết bị.
+Dãy đèn báo trạng thái.
+Ở mặt sau, bên cạnh cổng WAN để tiếp nhận "ngõ ra Internet" từ modem/router lớp trên thì D-Link DWR-921 còn cung cấp 4 cổng LAN để kết nối với PC, máy in hay những thiết bị mạng khác như IP Camera, ổ NAS, Acess Point.
+Trong khi đó khe thẻ SIM (hỗ trợ mạng dữ liệu chuẩn 4G LTE) cũng được bố trí ở mặt sau, ngay sát cổng WAN, và in "chú thích" rõ ràng, giúp hạn chế tối đa tình trạng người dùng gắn sai chiều của thẻ SIM.
+Mặt sau bố trí 4 cổng LAN 10/100Mbps, 1 cổng WAN, và sát bên là khe cắm thẻ SIM 4G.
+Khe SIM được ghi chú rõ chiều cắm, giúp người dùng hạn chế tối đa sai sót khi thao tác.
+Mặt đáy thiết bị bố trí nhiều lỗ thoát nhiệt, giúp đảm bảo DWR-921 luôn vận hành trong môi trường khả dĩ nhất.
+D-Link DWR-921 trang bị tổng cộng 5 anten độ lợi 3dBi, trong đó có 3 anten ngầm dành cho Wi-Fi và 2 anten gắn ngoài với khả năng xoay linh hoạt dành riêng cho 4G LTE.
+Cấu hình trong vài phút.
+Theo thông số được D-Link công bố và in rõ trên hộp đựng sản phẩm, DWR-921 hoàn toàn tương thích với các dịch vụ 4G/3G hiện được nhiều nhà mạng cung cấp tại Việt Nam, hỗ trợ tốc độ tải lên tối đa ở mức 150Mbps và tải xuống 50Mbps.
+D-Link cho biết DWR-921 hỗ trợ 32 kết nối không dây đồng thời.
+Mặc định, DWR-921 được nhà sản xuất D-Link "gán cứng" địa chỉ IP là 192.168.0.1 và SSID mang tên DWR-912-xxxx cùng mật khẩu đăng nhập tương ứng.
+Do đó, để giao diện cấu hình/cài đặt DWR-921, bạn chỉ cần thiết lập máy tính có cùng lớp địa chỉ IP (qua mạng LAN hay Wi-Fi), sau đó dùng bất kỳ trình duyệt nào mở trang web tương ứng với địa chỉ 192.168.0.1.
+Nhóm thử nghiệm dám tự tin nói rằng, nếu làm theo hướng dẫn thì bất kỳ người dùng nào - từ amateur cho đến chuyên nghiệp - cũng chỉ mất chừng 5 phút là đã có thể cấu hình để D-Link DWR-921 vi vu "lên sóng" theo cấu hình riêng.
+Thông số mạng Wi-Fi mặc định.
+Ở trình điều khiển, D-Link DWR-921 cho phép người dùng chỉnh sửa lại các thông số mặc định như lớp địa chỉ mạng LAN, chế độ vận hành là khai thác "ngõ ra Internet" từ mạng WAN lớp trên theo cơ chế cấp phát địa chỉ IP tĩnh/động hay mạng dữ liệu 4G/3G.
+Giao diện trang chủ của trình điều khiển D-Link DWR-921.
+Tùy chỉnh chế độ vận hành.
+D-Link DWR-921 có cơ chế tự động áp thông số đăng nhập mạng 4G/3G (dựa trên cấu hình từ thẻ SIM).
+Với mạng Wi-Fi do DWR-921 tạo ra, người dùng có thể chủ động đặt lại tên SSID cũng như mật khẩu đăng nhập mới theo ý thích, chuẩn mã hóa WEP/WPA/WPA2 hay WPS.
+Tùy chỉnh lại tên SSID và mật khẩu đăng nhập Wi-Fi do DWR-921 phát ra.
+Tuy nhiên, nếu không am tường về mạng, bạn có thể sử dụng tính năng trợ giúp cài đặt Wizard được D-Link cung cấp sẵn ngay trong giao diện điều khiển.
+Công cụ trợ giúp cài đặt Wizard khá tiện lợi.
+Thử nghiệm thực tế tại Xã hội Thông tin cho thấy, ngoài các tính năng cơ bản thì D-Link DWR-921 còn cung cấp một số tính năng nâng cao như lọc MAC, lọc IP, ép băng thông (tính năng QoS), DMZ, định tuyến kết nối (Routing), lên lịch khởi động lại thiết bị hay tắt/mở Wi-Fi...
+Tính năng lọc địa chỉ URL.
+Tính năng lọc MAC.
+Tính năng lên lịch tắt mở Wi-Fi.
+Nói không với rớt mạng.
+Có thể khẳng định rằng, tính năng nổi bật nhất trên D-Link DWR-921 chính là tự động chuyển đổi nguồn tín hiệu - Failover.
+Về cơ bản, đây là cơ chế giúp D-Link DWR-921 thiết lập "ngõ ra Internet" dự phòng dựa trên tín hiệu cấp từ cổng WAN hay thẻ SIM 4G/3G.
+Tính năng tự động chuyển nguồn Failover.
+Nhóm thử nghiệm tại Xã hội Thông tin thấy rằng, nếu đang chọn ngõ ra Internet mặc định (Primary WAN) là tín hiệu từ cổng WAN thì bạn phải chọn mạng 4G là ngõ ra dự phòng (Secondary WAN), và ngược lại.
+Ngoài ra, theo khuyến nghị từ các kỹ thuật viên từ D-Link Việt Nam, ở mục Remote Host for Keep Alive, người dùng nên đặt giá trị là 8.8.8.8 (tức địa chỉ máy chủ DNS của Google).
+Về nguyên lý vận hành của tính năng Failover, khi ngõ ra Internet truyền thống bị ngắt do rớt mạng, thì ngay lập tức DWR-921 sẽ chuyển tín hiệu sang mạng dữ liệu 4G/3G đã được cấu hình sẵn, và ngược lại.
+Nhìn chung, qua trải nghiệm thực tế, Xã hội Thông tin nhận thấy tính năng Failover vận hành khá mượt, độ trễ tín hiệu dường như không đáng kể.
+Sóng khỏe, tốc độ ổn định.
+Nhóm thử nghiệm Xã hội Thông tin cũng nhận thấy, D-Link DWR-921 hoàn toàn tương thích với SIM 4G của nhà mạng VNPT VinaPhone.
+Các phép đo, kiểm thử tốc độ thực tế cho thấy tốc độ truyền tải khá tốt, trong khi đó vùng phủ sóng của D-Link DWR-921 cũng thực sự rộng, cường độ tín hiệu cao.
+Kết quả đo tốc độ truyền tải dữ liệu và cường độ sóng khi thử nghiệm D-Link DWR-921 với thẻ SIM 4G VNPT VinaPhone.
+Ngoài ra, nhóm thử nghiệm cũng nhận thấy, khi cần gắn D-Link DWR-921 trên ô tô cá nhân hay xe khách để phục vụ nhu cầu giải trí và làm việc di động của "chủ nhân" VIP hay hành khách, người dùng chỉ cần mua thêm tẩu sạc loại 12V/1A (gắn vào đầu mồi thuốc lá) và cáp USB tương ứng với chuẩn jack cắm cấp nguồn của thiết bị.
+Còn nếu không có thời gian thực hiện hay e ngại làm hỏng hóc thiết bị, bạn có thể nhờ sự trợ giúp từ cửa hàng đồ chơi ô tô hay xưởng sửa chữa thân quen để đội ngũ kỹ thuật viên tại đây nối trực tiếp cáp nguồn vào hệ thống điện ắc-quy của xe.
+Thậm chí, D-Link DWR-921 hoàn toàn còn có thể gắn trên xe tải, ghe tàu, sà lan và tàu hỏa vốn dĩ cũng cần cung cấp kết nối Internet cho hành khách hay các chủ thể liên quan khác.
+Thay lời kết: D-Link DWR-921 là lựa chọn thích hợp cho nhu cầu triển khai mạng Wi-Fi di động hay tại gia đình, văn phòng quy mô nhỏ với sự dễ dàng trong cài đặt, cấu hình.
+Hơn thế, với khả năng hỗ trợ 4G LTE tích hợp, DWR-921 sẽ giúp người dùng có được sự chủ động tối đa trong làm việc, học tập cũng như giải trí khi sở hữu một ngõ ra Internet dự phòng luôn trong trạng thái "sẵn sàng lên sóng", và chiếc 4G Wi-Fi Router này cũng là cứu tinh cho những căn hộ, văn phòng chưa kịp lắp đường truyền Internet cáp quang, hay khi cần triển khai gấp "ngõ ra Internet" tại các công trường xây dựng, sự kiện ngoài trời, khu công viên, phòng họp/điều hành hay bệnh xá dã chiến.
+Bài, ảnh: Anh Khoa.

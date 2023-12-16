@@ -1,0 +1,14 @@
+Camera, màn hình, con chip và vô số linh kiện khác có trong smartphone đang ngày càng tốt lên và không ngừng cải thiện trong suốt nhiều năm qua. Duy chỉ có công nghệ về pin dường như dậm chân tại chỗ. Sau hàng thập kỉ, pin trong smartphone không có nhiều cải thiện rõ rệt về thời lượng mang lại, trong khi luôn yêu cầu người dùng phải nâng như nâng trứng để duy trì tuổi thọ.
+Dù vậy, cho dù bạn cẩn thận ra sao, viên pin vẫn sẽ kém đi theo thời gian bởi đây là bản chất của công nghệ pin hiện tại. Tin vui là có một số cách để bạn kéo dài tuổi thọ pin cho dế yêu. Những thông tin này được tổng hợp từ chuyên trang thông tin về pin Battery University.
+Cách tốt nhất để sạc pin là sạc mỗi lúc một chút, bất kì lúc nào có thể.
+Hãy cắm sạc bất kì khi nào bạn có thể, ngay cả khi bạn có thể sạc được chỉ vài phút. Sạc nhỏ giọt kiểu này không hề làm hại pin, theo nghiên cứu của Battery University.
+Đừng dùng cạn pin mới cắm sạc.
+Battery University cho biết việc dùng smartphone cạn sâu pin có thể làm giảm tuổi thọ viên pin trong máy. Không chỉ Battery University, Samsung cũng từng nhấn mạnh lời khuyên này trên trang blog chính thức của mình. Lời khuyên này đúng với pin lithium-ion, tức loại pin có trong haayi heetf smartphone hiện đại.
+Duy trì dung lượng pin ở mức sạc 65% đến 75%.
+Theo Battery University, pin lithium-ion duy trì được tuổi thọ khi mức độ sạc máy của người dùng được duy trì ở mức từ 65% đến 75% dung lượng. Dĩ nhiên, trong thực tế sử dụng thì thật khó để lúc nào cũng giữ mức sạc của pin ở mức này, tuy nhiên ít nhất thì qua đây bạn cũng biết tình trạng nào là tối ưu cho viên pin.
+Nếu không thể làm điều đó, hãy giữ mức sạc ở từ 45% đến 75%.
+Khoảng dung lượng tối ưu thứ hai cho pin lithium-ion là từ 45% đến 75%. So với mức 65% đến 75%, khoảng dung lượng dễ duy trì hơn trong thực tế và bạn hoàn toàn có thể tạo cho mình thói quen sạc pin trong mức dung lượng này.
+Đừng bao giờ sạc đầy máy, đặc biệt là từ một dung lượng thấp.
+Sạc pin từ mức độ dung lượng còn lại thấp khoảng 25% đến mức đày 100% sẽ làm giảm chất lượng viên pin, từ đó làm giảm tuổi thọ của nó.
+Thực tế, sạc pin từ bất kì dung lượng nào đến mức đầy 100% là một thói quen công nghệ không tốt. Theo Battery University, pin lithium-ion không cần được sạc đầy tràn. Thực tế, bạn không nên làm điều này bởi điện áp cao khiến viên pin phải chịu áp lực và sẽ kém bền trong dài hạn.
+Vũ Tuấn Anh (Theo Business Insider).

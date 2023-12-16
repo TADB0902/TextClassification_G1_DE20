@@ -1,0 +1,5 @@
+Cuối tháng 3/2017, khách hàng mua các sản phẩm điện thoại di động G4, V10, V20, Nexus 5X và G5 của LG mắc lỗi bootloop đã tiến hành khởi kiện nhà sản xuất này. Bootloop là lỗi hiện tượng máy tự động khởi động lại trên thiết bị sử dụng hệ điều hành Android, do việc cài đặt các ứng dụng không tương thích với thiết bị đó. Các dòng sản phẩm LG bị đánh giá là thường xuyên mắc lỗi bootloop, gây khó khăn cho người sử dụng. Vụ kiện sau đó đã được chuyển thành hòa giải thông qua trọng tài giữa LG và công ty luật Girard Gibbs đại diện cho bên nguyên đơn.
+Dòng sản phẩm như G4, V10, V20, Nexus 5X hay G5 thường mắc lỗi bootloop (Nguồn: LG).
+Các khách hàng sẽ nhận được khoản bồi thường bằng tiền mặt là 425 USD hoặc một sản phẩm điện thoại LG mới tương đương 700 USD. Khoản bồi thường này được đánh giá là tương đối lớn, nhằm làm xoa dịu làn sóng phản đối sản phẩm LG.
+Tuy nhiên, khoản bồi thường mà LG đưa ra chỉ áp dụng cho các khách hàng đã làm việc với Girard Gibbs để đại diện cho quyền lợi của họ. Các khách hàng khác nếu không nhận được email thông báo về việc nhận được bồi thường có khả năng lớn không được hưởng chính sách này.
+A.M (Theo Androidpolice).

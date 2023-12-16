@@ -1,0 +1,7 @@
+Những người sử dụng máy tính chạy hệ điều hành Windows 10 giờ đây đã có thể tải và cài đặt trực tiếp ứng dụng Office 365 từ cửa hàng Windows Store, thay vì phải vào trang web của Office 365 để tải bộ cài đặt này như trước đây nữa.
+Bộ Office 365 đã có trên cửa hàng Windows Store, người dùng có thể tải về.
+Các ứng dụng trong bộ Office 365 bao gồm Word 2016, Excel 2016, PowerPoint 2016, Access 2016, Outlook 2016 và Publisher 2016. Riêng ứng dụng OneNote 2016 không xuất hiện trong bộ Office 365, có lẽ bởi Microsoft muốn người sử dụng dùng ứng dụng ghi chú UWP OneNote mặc định thay cho nó.
+Tuy nhiên, nếu bạn muốn tải và cài đặt bộ ứng dụng Office 365 từ cửa hàng Windows Store, bạn cần phải gỡ bộ ứng dụng hiện tại trên máy tính của mình trước.
+Bạn có thể lựa chọn giữa việc tự động gia hạn hàng năm, với mức giá 1.299.000 đồng, hoặc tự động gia hạn hàng tháng với mức giá 130.000 đồng.
+Bởi Office 365 được tính phí theo hình thức thuê bao, khác với hình thức mua một lần như bộ ứng dụng Office 2016. Do vậy, bạn cũng sẽ liên tục được cập nhật các phiên bản phần mềm mới nhất khi ra mắt, bên cạnh đó cũng sẽ nhận được dung lượng lưu trữ đám mây miễn phí, và nhiều lợi ích khác.
+Thanh Trà.

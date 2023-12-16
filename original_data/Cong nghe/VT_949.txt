@@ -1,0 +1,15 @@
+Ngân hàng lớn nhất Hà Lan theo giá trị tài sản, ING, cho biết đã bị tin tặc "ghé thăm" theo hình thức "tấn công từ chối dịch vụ" (DDoS) vào tối 28/1, gây tắc nghẽn thông tin, khiến các máy chủ bị quá tải và gây khó khăn cho dịch vụ ngân hàng trực tuyến.
+Cho tới nay, hoạt động trang chủ của ING đã được khôi phục và hoạt động trở lại.
+Ngân hàng lớn nhất Hà Lan theo giá trị tài sản, ING, cho biết đã bị tin tặc "ghé thăm" theo hình thức "tấn công từ chối dịch vụ" (DDoS) vào tối 28/1. (Nguồn: Reuters).
+Trong khi đó, ngân hàng lớn thứ hai Hà Lan, Rabobank, thông báo dịch vụ ngân hàng trực tuyến đã bị tấn công theo hình thức tương tự vào sáng 29/1 khiến khách hàng không thể truy cập hoặc gặp khó khăn khi truy cập vào dịch vụ này.
+Người Phát ngôn của Rabobank Margo van Wijgerden cho hay, ngân hàng này đã giải quyết vấn đề nhanh nhất có thể và sự cố đã được khắc phục vào sáng cùng ngày.
+Truyền thông Hà Lan đưa tin về sự cố tương tự đối với ngân hàng ABN Amro khi ngân hàng lớn thứ ba nước này phải hứng chịu 3 cuộc tấn công mạng hồi cuối tuần, nâng tổng số vụ tấn công mạng nhằm vào ngân hàng này trong tuần qua lên con số 7. Hiện dịch vụ ngân hàng trực tuyến đã được khôi phục.
+Cả ba ngân hàng hàng đầu Hà Lan này đều cho biết toàn bộ thông tin khách hàng đều được an toàn.
+Cũng trong ngày 29/1, các tin tặc đã "ghé thăm" Cơ quan Thuế Hà Lan và hệ thống chữ ký điện tử trực tuyến DigiD.
+Theo đó, trang chủ của Cơ quan Thuế Hà Lan bị dừng hoạt động trong 10 phút và sau đó đã trở lại hoạt động bình thường, trong khi DigiD cũng hứng chịu một cuộc tấn công mạng trong thời gian ngắn.
+Người Phát ngôn của DigiD Rick Bron nhấn mạnh, các thông tin của 12 triệu người Hà Lan không bị ảnh hưởng.
+Theo Chủ tịch Ngân hàng trung ương Hà Lan, đây không phải lần đầu tiên các ngân hàng nước này bị tin tặc "ghé thăm" bằng hình thức tấn công DDoS.
+Ông cho biết, những ngân hàng này đều phải hứng chịu hàng nghìn cuộc tấn công mạng mỗi ngày và cuộc tấn công cuối tuần qua là lần đầu tiên trong năm 2018.
+Trong khi đó, người đứng đầu lực lượng chống khủng bố Hà Lan Dick Schoof cho rằng, các ngân hàng cũng như các cơ quan chính phủ nước này cần tăng cường đầu tư cho an ninh mạng nhằm đề phòng các cuộc tấn công theo hình thức DDoS ngày càng tình vi.
+Hồi năm 2013, các ngân hàng lớn và nhiều cơ quan của Hà Lan đã phải hứng chịu một cuộc tấn công quy mô lớn.
+(theo AFP).

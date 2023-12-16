@@ -1,0 +1,9 @@
+Trong 15 năm qua, giao thức bảo mật mạng không dây WPA2 đã được sử dụng rộng rãi trên thế giới và bộc lộ nhiều điểm yếu. Điểm yếu đầu tiên của WPA2 là không mã hóa đường truyền trong mạng Wi-Fi.
+Điều này khiến cho bất cứ thành viên nào trong cùng 1 mạng Wi-Fi đều có thể can thiệp vào kết nối của thiết bị khác. Điểm yếu thứ 2 của WPA2 là Key Reinstallation Attack (KRACK) giúp kẻ tấn công có thể truy cập và giải mã traffic Wi-Fi giữa điểm truy cập và các máy tính.
+Do đó, giao thức bảo mật mạng Wi-Fi WPA3 sẽ khắc phục các điểm yếu đó của WPA2, bao gồm việc mã hóa dữ liệu cá nhân để tăng tính bảo mật cho người dùng trong các mạng. Ngoài ra nó có khả năng chống lại các hình thức tấn công dùng cách đăng nhập mật khẩu nhiều lần.
+WPA3 ra đời với nhiều giao thức bảo mật tiên tiến hơn.
+Với các thiết bị không có màn hình hiển thị để thiết lập cấu hình bảo mật, WPA3 sẽ cung cấp các cơ chế bảo mật đơn giản cho các thiết bị này. Bên cạnh đó WPA3 với tiêu chuẩn bảo mật 192  bit sẽ đáp ứng các yêu cầu bảo mật nghiêm ngặt của chính phủ, các doanh nghiệp, các tổ chức lớn.
+Dự kiến, người dùng sẽ có các thiết bị Wi-Fi hỗ trợ giao thức bảo mật WPA3 vào cuối năm nay, khi Liên hiệp Wi-Fi cung cấp chứng chỉ bảo mật. Cả thiết bị Wi-Fi dành cho cá nhân lẫn dành cho doanh nghiệp đều sẽ được hỗ trợ sẵn giao thức bảo mật WPA3.
+Trước sự việc này, ông Joe Hoffman, đến từ SAR Insight & Consulting cho biết: Công nghệ bảo mật Wi-Fi sẽ còn kéo dài hàng thập kỉ nữa, nên việc tiếp tục cập nhật để đáp ứng yêu cầu là rất quan trọng.
+Hiện tại, người dùng nên cân nhắc có nên đầu tư hệ thống mạng Wi-Fi mới bởi rất có thể cuối năm nay, người dùng sẽ dễ dàng sở hữu hàng loạt thiết bị Wi-Fi mới với tiêu chuẩn bảo mật cao hơn, tính riêng tư được đảm bảo hơn.
+Ngọc Quang.

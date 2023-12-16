@@ -1,0 +1,44 @@
+ThS. NGUYỄN VĂN HƯỞNG.
+Trường Đại học Giao thông vận tải.
+TÓM TẮT: Máy đột dập CNC đã được chế tạo và ứng dụng hiệu quả trong quá trình sản xuất nhằm gia công các vật liệu tấm với yêu cầu độ chính xác, năng suất cao. Tuy nhiên, các công bố liên quan đến thiết kế và chế tạo máy đột dập CNC không được phổ biến mà chủ yếu là các công trình liên quan đến phương pháp đột dập thông thường. Bài báo trình bày các kết quả nghiên cứu thiết kế và chế tạo máy, nghiên cứu tích hợp Mach3 làm phần mềm điều khiển, lập trình gia công phôi tự động.
+TỪ KHÓA: Máy đột dập CNC, hệ thống điều khiển, cổng giao tiếp LPT.
+ABSTRACT: CNC punching machines have been manufactured and applied effectively in the production process for the processing of sheet materials with high precision, high productivity. However, publications related to the design and manufacture of CNC turret punch presses are not popular, but are mainly connected to conventional punching methods. This article presents the results of the design and manufacture of machine, research into the integration of Mach3 as the controlled software, program for automatic punch.
+KEYWORDS: CNC punching machines, control system, LPT port.
+ĐẶT VẤN ĐỀ.
+Đối với máy đột dập thông thường, việc di chuyển vị trí phôi dập thực hiện bằng tay nên thời gian gia công lâu, mỗi lần muốn thay đổi khuôn đột thì phải dừng máy rất mất thời gian. Các máy đột dập CNC có thể điều khiển được hành trình đột, lực đột một cách linh hoạt, nâng cao năng suất gia công. Các máy đột dập CNC sử dụng trong nước chủ yếu là sản phẩm ngoại nhập nên giá thành cao, trong khi đó việc nghiên cứu chế tạo chúng trong nước còn hạn chế.
+Ở các trường kỹ thuật đào tạo kiến thức về công nghệ chế tạo máy cho ngành Kỹ thuật cơ khí đều phải giảng dạy môn học có liên quan đến máy CNC nói chung và máy đột dập CNC nói riêng nhưng sinh viên không có nhiều điều kiện thực hành do thiếu thiết bị.
+Do đó, việc nghiên cứu thiết kế và chế tạo máy đột dập CNC rất cần thiết bước đầu phục vụ đào tạo, rồi tiến tới thiết kế các máy cỡ lớn phục vụ sản xuất trong nước.
+NỘI DUNG.
+Thiết kế máy.
+Phần cơ khí.
+Máy được thiết kế dạng 3 trục X,Y,A (trục X,Y để điều khiển chuyển động của phôi và trục A để điều khiển chuyển động quay đồng thời của chày và cối), máy có thể lắp đồng thời 4 cụm chày cối và tự động thay cụm chày cối trong quá trình đột [1]. Mô hình thiết kế thể hiện trên Hình 2.1. Các thông số đầu vào khi thiết kế máy được liệt kê trong Bảng 2.1.
+Bảng 2.1. Các thông số đầu vào khi thiết kế máy.
+Nguyên lý làm việc: Phôi tấm được gá lên kẹp phôi 3 và được di chuyển (theo trục X và Y) - đến tọa độ đột nhờ 2 động cơ bước 4 và 5. Khi cần thay chày, mô-tơ 11 sẽ quay để di chuyển cụm khuôn đột 2 đến đúng vị trí làm việc của các chày cối đột được lựa chọn. Hai động cơ bước trục A số 10 được điều khiển đồng thời để quay cụm chày cối số 9 một góc bất kỳ. Kết cấu chày đột được thể hiện trên Hình 2.1c [3].
+Hình 2.1: Mô hình máy đột dập CNC thiết kế.
+Tích hợp phần mềm Mach 3 để điều khiển máy.
+Hình 2.2 thể hiện sơ đồ hệ thống điều khiển máy đột dập [1]. Mạch đệm LPT (Line Printer) - Mạch Mach3 kết nối với máy tính bằng cổng LPT một cổng song song dùng để kết nối máy tính và các phần tử điều khiển khác như Hình 2.3. Máy tính cài phần mềm Mach3 có vai trò trung gian kết nối điều khiển giữa người và máy. Driver (mạch điện tử điều khiển động cơ bước) và động cơ các trục có vài trò tạo chuyển động bàn máy mang phôi và cụm chày cối số 4. Bộ điều khiển thay chày cối dùng để gọi dụng cụ cần gia công.
+Hình 2.2: Sơ đồ hệ thống điều khiển máy đột dập CNC cỡ nhỏ.
+Máy cần 3 trục làm việc nên ta sử dụng 3 driver, mỗi driver cần điều khiển xung và chiều do đó cần 6 chân vào ra trên mạch đệm là 2,3,4,5,6,7 như Hình 2.3.
+Hình 2.3: Sơ đồ kết nối mạch đệm LPT (BOB Mach3 CNC) với driver và động cơ bước.
+Trên trục A ta sử dụng 2 động cơ bước kết nối các chân A+, A-, B+, B- sao cho 2 động cơ quay ngược chiều đồng thời.
+Bộ điều khiển thay chày cối tự động thiết kế như Hình 2.4. Để thay dao (chày cối) ví dụ số 2 ta nhập lệnh M202 (mã lệnh đã được lập trình trên Macro theo [2]) tức là làm cho tín hiệu output 2 hoạt động, tín hiệu được nối từ chân P16 trên mạch đệm đến chân kích rơ-le EN2 làm cho nguồn 1 chiều -24V đi từ rơ-le số 2 đến số 6 đến số 11, 7 của rơ-le trung gian T, đến mô-tơ 1 chiều 24V, nguồn +24V qua 11, 3, 8 của rơ-le trung gian N đến mô- tơ. Nếu trong quá trình di chuyển chạm vào công tắc hành trình thì mô-tơ 24V sẽ quay theo chiều ngược lại. Mô-tơ sẽ dừng lại khi tiếp điểm T0 tiếp xúc với T2. Như vậy, chày cối được thay tự động tại mọi vị trí ban đầu.
+Hình 2.4: Sơ đồ kết nối điều khiển thay chày cối tự động.
+Chế tạo và thử nghiệm máy.
+Mô hình máy chế tạo.
+Từ kết quả thiết kế cơ khí, tác giả lập quy trình công nghệ và gia công các chi tiết máy, lắp ráp các bộ phận cơ khí, hệ thống điều khiển. Kết quả sản phẩm máy được chế tạo thể hiện trên Hình 2.5. Các thông số kỹ thuật của máy được thể hiện trong Bảng 2.2.
+Hình 2.5: Máy đột dập dập CNC sau khi chế tạo.
+Bảng 2.2. Các thông số kỹ thuật của máy chế tạo.
+Thử nghiệm máy.
+Các tính năng của máy được thiết kế, chế tạo đã được kiểm tra thông qua dập vật liệu phôi kim loại ( tấm tôn dày 0,5mm). Để dập sản phẩm này cần 2 lần thay chày, M204 để gọi chày số 4, lệnh M203 (được lập trình Macro) [2] gọi chày số 3. Đo kích thước và so sánh với thiết kế được kết quả như Bảng 2.3. Để đánh giá độ chính xác vị trí đột, ta tiến hành dập 5 mẫu như Hình 2.6 và được kết quả đo như Bảng 2.2 (sử dụng máy đo tọa độ 2 chiều).
+Bảng 2.3. Đánh giá kết quả đột với phôi kim loại.
+Hình 2.6: Hình đột với vật liệu kim loại.
+Một số hình đột khác được thể hiện trong Hình 2.7.
+Đánh giá kết quả dập thực nghiệm:
+Từ Bảng 2.3 ta thấy vị trí phôi được bàn máy di chuyển chính xác với phần mềm điều khiển Mach3. Sai số kích thước 44 trong Bảng 2.3 luôn lớn hơn các kích thước còn lại cho thấy vị trí tương quan của các chày chưa tuyệt đối chính xác. Điều này có thể khắc phục bằng cách thay động cơ 1 chiều bằng động cơ servo và sử dụng bộ truyền vít me đai ốc bi cho việc di chuyển chày cối.
+Hình 2.7: Một số hình đột khác.
+KẾT LUẬN.
+Máy đột dập CNC cỡ nhỏ đã được thiết kế và chế tạo hoàn thiện với các thông số kỹ thuật phù hợp yêu cầu. Máy sử dụng phần mềm Mach3 để điều khiển tự động có lắp đồng thời 4 chày có thể thay chày tự động trong quá trình dập, các chày - cối có thể điều khiển góc quay chính xác đáp ứng việc phục vụ đào tạo.
+Tài liệu tham khảo.
+Tạ Duy Liêm (1999), Hệ thống điều khiển số cho các máy công cụ, NXB. Khoa học kỹ thuật.
+ArtSoft group (2010), Mach3 Version 3.x Macro Programmers Reference Manual.
+Z. Marciniak, J.L. Duncan, S.J. Hu (2002), Mechanics of Sheet Metal Forming, Butterworth-Heinemann An imp.rint of Elsevier Science Linacre House, Jordan Hill, Oxford OX2 8DP 225 Wildwood Avenue, Woburn, MA 01801-2041.

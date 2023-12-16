@@ -1,0 +1,20 @@
+Sàn giao dịch chứng khoán New York.
+Ngày 8/7/2015, Sàn chứng khoán New York (NYSE) đột ngột dừng giao dịch bởi một lỗi kỹ thuật. NYSE lập tức phát ra thông cáo cho biết: Chúng tôi gặp phải vấn đề kỹ thuật và đang làm việc để giải quyết nhanh hết sức có thể. Chúng tôi đang nỗ lực hết sức để tìm giải pháp nhanh chóng và sẽ cập nhật thông tin sớm nhất có thể.
+Lỗi trên được báo cáo xảy ra vào lúc 11h30 và sàn NYSE khẳng định đây không phải là một vụ tấn công mạng.
+Sàn giao dịch chứng khoán New York - Ảnh: New York Times.
+"Tình trạng chúng ta đang gặp phải là vấn đề kỹ thuật nội bộ chứ không phải tấn công mạng. Chúng tôi đã chọn cách dừng giao dịch trên sàn NYSE để tránh các vấn đề nảy sinh do lỗi kỹ thuật này, thông cáo trên cho biết.
+Sau đó, đại diện NYSE giải thích rằng sự cố xảy ra sau khi hệ thống của sàn cập nhật phần mềm. Sự cố được khắc phục và sàn mở cửa trở lại vào lúc 15h10 cùng ngày.
+Theo tờ New York Times, đây không phải lần đầu tiên sàn chứng khoán hơn 200 tuổi ngừng giao dịch giữa phiên. Đáng chú ý nhất là vào ngày V-J Day khi quân đội Mỹ trở về nước sau kết thúc thế chiến thứ 2, và 3 ngày đóng cửa hoàn toàn sau vụ tấn công khủng bố ngày 11/9/2001.
+Tuy vậy, sàn NYSE đã từng đóng cửa vì đủ loại lý do từ đám tang của các nhân vật nổi tiếng thế giới như Nữ hoàng Victoria của Anh (1901), mục sư Martin Luther King, Jr. (1968), và Tổng thống Mỹ Richard Nixon (1994) cho tới nắng nóng kỷ lục (4/8/1917).
+Sàn giao dịch chứng khoán London.
+Theo BBC, ngày 25/2/2011, sàn giao dịch chứng khoán London (LSE) cũng bất ngờ dừng giao dịch vì lỗi kỹ thuật. Sự việc xảy ra sau khi LSE bắt đầu giao dịch trực tuyến với nền tảng giao dịch mới được cung cấp bởi Millennium IT có trụ sở tại Sri Lanka từ đầu tháng. Kể từ đó, sàn này đã gặp phải nhiều sự cố kỹ thuật khiến giao dịch bị ảnh hưởng.
+Ảnh: BBC.
+Các giao dịch trên sàn này bị ngưng trệ vào lúc 8h03 và dừng hẳn sau đó 30 phút do lỗi được LSE gọi là sự cố cập nhật dữ liệu theo thời gian thực.
+"Chúng tôi vô cùng xin lỗi vì những bất tiện gây ra cho khách hàng bởi giao dịch bị gián đoạn, Xavier Rolet - CEO của London Stock Exchange Group nói. Cùng ngày, sự cố đã được khắc phục và LSE giao dịch trở lại lúc 12h15.
+Sàn giao dịch chứng khoán Singapore.
+Ngày 3/12/2014, một lỗi kỹ thuật khi cập nhật phần mềm khiến sàn giao dịch chứng khoán Singapore (SGX), dừng giao dịch 3,5 giờ đồng hồ sau khi mở cửa, tờ Straits Times cho biết.
+Sự cố này, được cho là lỗi Java, khiến các file mà các môi giới chứng khoán thường nhận được vào buổi sáng không chính xác. Vấn đề này đã xảy ra từ ngày hôm trước và không xử lý được qua đêm, Magnus Bocker  CEO của SGX cho biết trong cuộc họp báo gấp ngay trong đêm.
+Vì vậy, SGX quyết định dừng giao dịch mở cửa ngày hôm sau để dành thời gian cho các môi giới xử lý file dữ liệu từ ngày hôm trước. Ông Bocker cho rằng vì lý do đó nên đây không được coi là sự cố sập sàn.
+Sàn giao dịch chứng khoán Tokyo và Sàn giao dịch chứng khoán Tây Ban Nha.
+Theo Business Insider, ngày 6/8/2012, sàn giao dịch chứng khoán Tokyo dừng giao dịch sản phẩm phái sinh vì một lỗi hệ thống và chỉ được khắc phục 95 phút sau đó. Gần như cùng ngày, sàn chứng khoán Tây Ban Nha cũng sập trong vài giờ đồng hồ vì sự cố kỹ thuật.
+Nguyễn Duy.

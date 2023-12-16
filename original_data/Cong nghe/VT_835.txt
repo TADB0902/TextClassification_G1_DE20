@@ -1,0 +1,8 @@
+Với đầu tư mới, Amazon Web Service sẽ cung cấp dịch vụ tốt hơn.
+Amazon Web Services (AWS, công ty con thuộc Amazon.com) vừa công bố ra mắt Vùng sẵn sàng thứ ba (Availability Zone) thuộc Khu vực AWS Châu Á - Thái Bình Dương tại Singapore để hỗ trợ cho sự tăng trưởng nhanh chóng số lượng khách hàng tại khu vực này.
+Theo đại diện truyền thông của Amazon Web Services tại Việt Nam, đầu tư này sẽ mang tới cho những khách hàng đang sử dụng dịch vụ AWS thêm nhiều lựa chọn hơn, linh hoạt và độ tin cậy cao hơn.
+Vùng sẵn sàng là hạ tầng công nghệ trong những địa điểm địa lý riêng biệt và độc lập, với khoảng cách vừa đủ để giảm thiểu rủi ro khi có một sự cố đơn lẻ ảnh hưởng tới tính sẵn sàng của dịch vụ, đảm bảo tính liên tục của các ứng dụng kinh doanh cần được khôi phục nhanh chóng khi gặp sự cố.
+Mỗi vùng sẵn sàng sẽ có hệ thống điện, làm mát và an ninh riêng, được kết nối với hệ thống mạng đường trục quốc gia thông qua mạng cáp quang tốc độ cao.
+Những khách hàng AWS quan tâm tới tính sẵn sàng cao có thể thiết kế ứng dụng của họ chạy trên nhiều vùng để có khả năng chịu lỗi cao.
+AWS cũng cung cấp các dịch vụ Amazon CloudFront tại các điểm đặt ở Kuala Lumpur, Manila và Singapore để phục vụ các khách hàng đang muốn triển khai các trang web, ứng dụng và nội dung tới người dùng cuối với độ trễ thấp hơn.
+Nguyên Đức.

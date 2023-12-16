@@ -1,0 +1,9 @@
+Bạn có thể kiểm soát thời lượng pin Apple Pencil thông qua iPad.
+Theo Apple, Pencil cung cấp thời lượng pin sử dụng kéo dài khoảng 12 giờ. Nếu pin đã hết bạn có thể kết nối nó với cổng Lightning của iPad Pro và nhận được 30 phút sử dụng cho khoảng 15 giây sạc.
+Để xem widget trên iPad Pro, bạn hãy mở giao diện Today bằng cách vuốt xuống từ trên đầu màn hình để xem thông báo, sau đó vuốt sang phải, vuốt ngay từ màn hình chính ở bên trái hoặc vuốt ngay từ màn hình khóa.
+Nhấp Edit để chỉnh sửa và thêm tiện ích Batteries vào màn hình Today của iPad.
+Nếu không nhìn thấy tiện ích Batteries trong danh sách, hãy cuộn xuống và chạm vào nút Edit ở cuối màn hình, sau đó tìm tiện ích Batteries trong danh sách More Widgets và nhấn vào nút + để thêm nó vào danh sách.
+Kéo thanh trượt sang bên phải tiện ích Batteries để sắp xếp nó ở nơi bạn ưa thích, ví dụ bạn có thể đặt tiện ích Batteries ở đầu màn hình để dễ dàng xem nó. Nhấn Done khi đã hoàn tất.
+Thông tin chi tiết thời lượng pin Apple Pencil được hiển thị.
+Lúc này bạn sẽ thấy một tiện ích Batteries hiển thị mức pin của iPad Pro, Apple Pencil và bất kỳ phụ kiện kết nối nào khác, chẳng hạn như AirPod của Apple. Chỉ cần vuốt lại chế độ xem Today bất cứ khi nào bạn muốn kiểm tra mức pin.
+Kiến Văn.

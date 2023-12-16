@@ -1,0 +1,8 @@
+Robot sẽ giúp các hoạt động vào ban đêm tại bệnh viện diễn ra thuận lợi hơn - Ảnh: SlashGear.
+Theo SlashGear , việc có quá ít y tá làm việc ban đêm khiến hoạt động tìm kiếm vật dụng y tế trở nên vất vả hơn. Triển khai robot sẽ lấp đầy khoảng trống đó, giúp vận chuyển thuốc, mẫu và các vật dụng khác giữa các điểm đến trong bệnh viện.
+Các robot này đang được triển khai như là một dự án thí điểm, về cơ bản có thể được sử dụng vĩnh viễn nếu chúng chứng tỏ có ích. Bệnh viện Đại học Nagoya sẽ bắt đầu sử dụng bốn trong số những robot này vào tháng tới, thực hiện công việc trong khoảng thời gian từ 17 giờ đến 8 giờ sáng hôm sau. Thời gian thử nghiệm kéo dài trong một năm.
+Theo trang tin tức địa phương Asahi Shimbun , những robot này có khả năng nhìn 360 độ và có thể điều khiển người hoặc yêu cầu họ di chuyển sang một bên. Chúng cũng có màn hình tương tác và chủ yếu bao gồm một khoang tủ lớn giống như với các giá để hàng đặt vật dụng lên đó.
+Giống như Roomba và các robot tương tự khác, những robot này được thiết kế để hỗ trợ sạc lại khi pin ở mức thấp. Chúng có thể tự đi qua các tuyến đường khác nhau đến những nơi khác nhau trong bệnh viện, bao gồm sử dụng thang máy.
+Mỗi robot có tốc độ di chuyển tối đa khoảng 3,5 km/giờ với khả năng tải tối đa 30 kg. Các y tá và dược sĩ có thể truy cập trực tiếp vào robot thông qua tablet để gọi nó đến. Họ cũng có thể chỉ định đích đến cuối cùng của robot bằng cách sử dụng tablet, sau đó chỉ robot di chuyển và thực hiện công việc.
+Kiến Văn.
+Kiến Văn.

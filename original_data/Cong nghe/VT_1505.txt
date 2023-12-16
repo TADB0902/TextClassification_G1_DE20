@@ -1,0 +1,31 @@
+Zing.vn lược dịch ý kiến của Musings.rand, cây bút của trang Hackernoon về vấn đề hiệu suất hoạt động và tuổi thọ của các dòng iPhone ngày càng giảm đáng kể.
+Tôi thích sử dụng xen kẽ giữa các dòng iPhone và Android. Hồi đó tôi nhận thấy iPhone lúc nào cũng vượt trội hơn một bậc, nhưng giờ thì không như vậy nữa. Mấy tháng trước, tôi chuyển hẳn sang sử dụng chiếc Galaxy S8 và không muốn quay lại sử dụng iPhone nữa, kể cả iPhone X. Với tôi, các dòng iPhone như đã lụi tàn.
+Tuổi thọ không cao.
+Đa số các app tôi sử dụng trên chiếc iPhone 6 Plus đều dính lỗi crash ngay khi vừa khởi động. Hơn nữa, các ứng dụng thường bị đơ khoảng 5-10 giây đầu, rồi mới tiếp tục vận hành.
+Chiếc smartphone của tôi cứ mỗi phút hao hụt mất 3-4% lượng pin sạc và Apple Support vẫn đinh ninh là cục pin của tôi hoàn toàn không vấn đề gì. Sau đó, tôi phải lướt tùy chọn "apps using significant power" (các ứng dụng mau hao pin) và xóa đi gần hết.
+Không những thế, gần đây Apple có thừa nhận cố ý làm cho iPhone chậm đi vì vấn đề chất lượng pin. Họ đã nhận lỗi và dự định tung ra các bản cập nhật đồng thời giảm giá phí thay pin iPhone (có khi tốn gần tháng trời), các biện pháp của Apple quá nhanh làm tôi có cảm giác tất cả đã được tính toán trước.
+iPhone có xu hướng hao hụt pin sạc đáng kể.
+Ứng dụng quay video thì hoàn toàn vô dụng. Nhiều lần tôi sử dụng nó để ghi lại vài khoảnh khắc nhưng tất cả những gì được lưu là một màn hình đen vô tận. Còn vụ chụp ảnh thì thôi: Mở ứng dụng camera không phản hồi, còn độ trễ màn chập kéo dài thêm nhiều giây.
+Ba năm trước, chiếc iPhone 6+ này vận hành trơn tru. Mặc dù không cung cấp nhiều trải nghiệm người dùng tốt đẹp như các dòng mới nhất, các tính năng của iOS đời trước vẫn đủ sức thỏa mãn tôi. Tôi vẫn còn giữ một chiếc Moto X từ năm 2013, tới giờ chạy vẫn rất mượt mà.
+AppleCare và đội ngũ chăm sóc khách hàng kém cỏi.
+Vấn đề này không có gì liên quan đến chiếc iPhone tôi từng dùng nhưng đây chính là hiện trạng chung của Apple. Gần đây, một chiếc đế lót cao su của MacBook tôi đang dùng bị rơi ra.
+Vì nó vẫn còn thời hạn bảo hành AppleCare nên tôi quyết định đến Genius Bar. Người ở đấy từ chối tiếp nhận vấn đề này vì nó là lỗi bên ngoài của thiết bị.
+Làm thế nào mà chiếc đế cao su lại chỉ về vẻ ngoài và không phải là một bộ phận của máy cơ chứ. Bạn thử gõ phím cành cạch mà thiếu nó xem, rung lắc là cái chắc. Để sửa chữa, toàn bộ phần khung dưới phải được thay thế với mức giá 250 USD.
+Nhân viên tại AppleCare không phục vụ tốt khách hàng.
+Tôi nói với nhân viên trực tại Apple rằng tôi thật sự bất ngờ và sẽ gọi họ lại sau. Tôi đề nghị người nhân viên xuất thẻ theo dõi và anh ta bảo đã làm rồi. Ngay sau đó, tôi gọi đến AppleCare để hỏi lại và họ thông báo rằng sẽ chấp nhận thay đế lót cho máy tôi không tốn phí.
+Họ còn bảo rằng họ không hề tìm thấy phiếu theo dõi trong hệ thống từ người nhân viên mà tôi vừa mới nói chuyện khi nãy. Apple đề nghị tôi phải trở lại lần nữa để xác nhận sự việc. Bức xúc cực độ, tôi bảo họ gọi đến Apple Genius Bar, nơi tiếp nhận yêu cầu của tôi để đảm bảo rằng tôi có ghé qua. Sau đó, mọi chuyện mới ổn thỏa.
+Trước đó không lâu, tôi đã yêu cầu Apple gửi bộ phận thay thế đến Apple Store gần nhà tôi thay vì nơi mà tôi đã ghé. Một tuần sau, tôi nhận được một cuộc gọi cho biết bộ phận thay thế đã được chuyển đến Apple Store. Ngạc nhiên cực độ, họ gửi nó đến Apple Store khác (cách đó tầm 24 km).
+Lại một tuần sau đó nữa, Apple Store gần nhà tôi cuối cùng cũng nhận được hàng. Tôi đến đó, đưa laptop ra, chờ vài tiếng để thay thế. Nhân viên mang laptop tôi ra và bảo rằng xong cả rồi. Tôi kiểm tra máy thì phát hiện chân đế vẫn bị thiếu.
+Chính sách sửa chữa thiết bị, phục vụ khách hàng của Apple ngày càng xuống cấp.
+Anh ta ngạc nhiên, mang laptop tôi đi lần nữa và trở lại sau đó 5 phút với một bộ khung máy mới, chân đế lúc này đã được sửa rồi. Vậy là họ chẳng những không sửa phần đế ngay từ lúc đầu, mà việc này cũng chỉ mất có 5 phút chứ không phải hàng tiếng đồng hồ. Sự yếu kém một cách có hệ thống của bộ phận hỗ trợ Apple thật ngoài sức chịu đựng.
+Liên quan vấn đề pin iPhone nêu trên, nếu bạn muốn thay pin, bạn sẽ phải chờ hàng tháng trời. Hơn nữa, bạn phải gửi máy đến Apple Store hoặc tự tay mang đến và sẽ phải đối diện với nguy cơ không có máy trong khoảng một tuần. Ai mà sống không có điện thoại lâu thế được chứ? Có phải Apple thực sự yếu kém đến vậy hay họ đang cố ý muốn người dùng từ bỏ việc thay pin?
+iOS tạo cảm giác gò ép, tù túng.
+Trên Android, bạn có thể cài đặt ứng dụng tự động thay đổi hình nền, thay đổi màn hình khởi động, sử dụng thanh tìm kiếm riêng, khởi động Google Now bằng cách vuốt lên, quản lý SMS... Đồng thời, bạn có thể tùy biến trình gọi điện, Facebook Messenger, Samsung Edge...
+Bạn thậm chí có thể cài ứng dụng từ ngoài Play Store. Google Photos thì luôn đồng bộ ảnh khi chạy nền, trong khi trên iPhone, bạn phải mở ứng dụng này 10 phút một lần để đảm bảo nó đang đồng bộ. Các bàn phím custom trên Android rất ổn định, còn trên iOS thì thường xuyên bị treo bất kì lúc nào.
+iOS không có bất kỳ tính năng nào nêu trên bởi Apple giới hạn những thứ lập trình viên có thể làm được.
+Apple đã không còn như xưa.
+Apple thường là một kẻ sao chép nhanh nhảu và hoàn thiện thêm những tính năng vốn đã xuất hiện trước đó. Gần đây, họ lại là một kẻ bám đuôi lề mề khi mang lên iPhone các tính năng tương tự hoặc ít hơn các dòng máy khác.
+Chẳng hạn, các thiết bị Samsung đã có sạc không dây từ lâu còn Apple thì mới mang nó lên các dòng iPhone 8, iPhone 8 Plus và iPhone X gần đây. Tốc độ sạc giữa hai bên hầu như không có gì thay đổi.
+Animoji, tính năng được cho là đặc biệt đầy cách tân của iPhone X.
+"Những tính năng mới mẻ và mang tính cải cách" của Apple cũng không gây ấn tượng mấy. Animoji có thể được thực hiện bởi một camera thông thường, nhưng họ lại chỉ cho phép iPhone X sử dụng nó. Đây là một hình thức marketing để bán được nhiều iPhone X hơn. Tôi thậm chí còn chẳng sử dụng tính năng Force Touch vốn được giới thiệu vài năm trước.
+Anh Thi.

@@ -1,0 +1,65 @@
+Nhìn chung, 10 cái tên đầu tiên trong bảng xếp hạng những trường tốt nhất châu Á do QS đưa ra có nhiều thay đổi so với năm ngoái.
+Cụ thể, ĐH Công nghệ Nanyang (Singapore) vươn từ vị trí thứ ba lên vị trí thứ nhất. ĐH Quốc gia Singapore tụt xuống hạng hai.
+ĐH Phục Đán (Trung Quốc) lên 4 hạng, từ thứ 11 lên thứ bảy, đồng thời đẩy ĐH Quốc gia Seoul (Hàn Quốc) ra khỏi top 10 trường tốt nhất.
+Như vậy, năm nay, trong số 10 trường đứng đầu, Trung Quốc chiếm 7 trường, Singapore hai trường. Trường còn lại thuộc về Hàn Quốc (Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc).
+ĐH Công nghệ Nanyang.
+Năm thành lập: 1981.
+Địa chỉ: Singapore.
+Số giảng viên: 4.338.
+Số sinh viên: 25.738.
+Ngành tiêu biểu: Kỹ thuật và Công nghệ, Kỹ thuật Điện, Điện tử, Khoa học Vật liệu.
+ĐH Quốc gia Singapore.
+Năm thành lập: 1905.
+Địa chỉ: Singapore.
+Số giảng viên: 5.106.
+Số sinh viên: 32.728.
+Ngành tiêu biểu: Kỹ thuật, Y học, Luật, Cơ khí, Khoa học Máy tính, Kinh doanh.
+ĐH Khoa học và Công nghệ Hong Kong.
+Năm thành lập: 1991.
+Địa chỉ: Hong Kong, Trung Quốc.
+Số giảng viên: 1.150.
+Số sinh viên: 10.375.
+Ngành tiêu biểu: Kỹ thuật và Công nghệ, Quản lý, Kinh doanh, Chính sách công.
+Viện Khoa học và Công nghệ Tiên tiến Hàn Quốc.
+Năm thành lập: 1971.
+Địa chỉ: Daejeon, Hàn Quốc.
+Số giảng viên: 1.250.
+Số sinh viên: 9.826.
+Ngành tiêu biểu: Khoa học vật liệu, Kỹ thuật và Công nghệ, Hóa học, Kỹ thuật.
+ĐH Hong Kong.
+Năm thành lập: 1911.
+Địa chỉ: Hong Kong, Trung Quốc.
+Số giảng viên: 3.012.
+Số sinh viên: 20.214.
+Ngành tiêu biểu: Nha khoa, Kế toán và Tài chính, Giáo dục, Kỹ thuật Y sinh.
+ĐH Thanh Hoa.
+Năm thành lập: 1911.
+Địa chỉ: Bắc Kinh, Trung Quốc.
+Số giảng viên: 5.506.
+Số sinh viên: 36.300.
+Ngành tiêu biểu: Kỹ thuật, Luật, Y học, Lịch sử, Tâm lý học, Kinh tế học, Quản lý.
+ĐH Phục Đán.
+Năm thành lập: 1905.
+Địa chỉ: Thượng Hải, Trung Quốc.
+Số giảng viên: 4.037.
+Số sinh viên: 29.135.
+Ngành tiêu biểu: Khoa học vật liệu, Chính trị học, Y học, Kinh doanh.
+ĐH Thành phố Hong Kong.
+Năm thành lập: 1984.
+Địa chỉ: Hong Kong, Trung Quốc.
+Số giảng viên: 1.349.
+Số sinh viên: 9.240.
+Ngành tiêu biểu: Ngôn ngữ, Kỹ thuật xây dựng, Toán, Kế toán và Tài chính, Truyền thông.
+ĐH Bắc Kinh.
+Năm thành lập: 1898.
+Địa chỉ: Bắc Kinh, Trung Quốc.
+Số giảng viên: 5.185.
+Số sinh viên: 42.136.
+Ngành tiêu biểu: Ngôn ngữ, Nghệ thuật, Nhân văn, Lịch sử, Y học, Văn học.
+ĐH Hong Kong Trung Quốc.
+Năm thành lập: 1963.
+Địa chỉ: Hong Kong, Trung Quốc.
+Số giảng viên: 2.208.
+Số sinh viên: 18.037.
+Ngành tiêu biểu: Truyền thông, Nghệ thuật, Kinh doanh, Giáo dục, Kỹ thuật, Luật.
+Nguyễn Sương.

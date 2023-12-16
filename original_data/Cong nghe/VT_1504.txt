@@ -1,0 +1,7 @@
+Theo Engadget, một trong những tính năng sáng giá nhất của Google Allo khi so sánh với trình nhắn tin SMS thông thường đó là Smart Reply dựa trên AI do Google cung cấp thông qua Google Assistant.
+Android Messages sắp bổ sung tính năng Smart Reply. Ảnh: Androidcentral.
+Tuy nhiên, nếu không sử dụng Allo, người dùng có thể tận dụng chức năng này trong ứng dụng Android Messages thông thường. Điều này đã được xác nhận bởi tài khoản Project Fi trên Twitter.
+Tính năng này dường như hoạt động tương tự như trong ứng dụng Alo, Gmail, hoặc Assistant: Google sẽ phân tích văn bản của hội thoại, và sẽ tự động tạo các phản hồi dựa theo ngữ cảnh trong ứng dụng tin nhắn và sau đó bạn có thể chọn lựa giữa các câu trả lời nhanh.
+Có vẻ như để dùng ứng dụng này, Google sẽ yêu cầu truy cập đến lịch sử SMS, kèm theo các thông tin cá nhân khác mà công ty đã có.
+Hiện tại, Google đã xác nhận rằng tính năng trả lời thông minh cho ứng dụng tin nhắn của Android sẽ chỉ được tung ra cho người dùng của Project Fi.
+Vũ Đậu (T/h).

@@ -1,0 +1,42 @@
+Y học cũng không ngoài cuộc. Các nhà khoa học đưa ra nhiều quan niệm mới về y khoa 4.0 như Trí tuệ nhân tạo là ống nghe của thế kỷ 21, Chatbot là trợ lý thầy thuốc hay Y khoa sẽ thiếu chính xác nếu không có trí tuệ nhân tạo.
+Bốn cuộc cách mạng công nghệ.
+Loài người đã trải qua 4 cuộc cách mạng công nghệ: Cách mạng công nghiệp lần 1 sử dụng năng lượng hơi nước để cơ giới hóa sản xuất. Cách mạng lần 2 diễn ra nhờ ứng dụng điện năng để sản xuất hàng loạt. Cách mạng lần 3 sử dụng điện tử và công nghệ thông tin để tự động hóa sản xuất. Cách mạng công nghiệp lần 4 là kết hợp các công nghệ lại với nhau, làm mờ ranh giới giữa vật lý, kỹ thuật số và sinh học tức trí tuệ nhân tạo.
+Theo Klaus Schwab, người khai sinh từ công nghệ 4.0, thì cách mạng công nghiệp 4.0 sẽ diễn ra trên 3 lĩnh vực chính là công nghệ sinh học, kỹ thuật số và vật lý nano. Và cốt lõi của kỹ thuật số trong công nghệ 4.0 sẽ là trí tuệ nhân tạo (Artificial Inteligence, AI), kết nối vạn vật (Internet of Things, IoT) và dữ liệu lớn (Big Data).
+Công nghệ 4.0 trong y khoa.
+Thông qua trí tuệ nhân tạo (artificial inteligence).
+Trí tuệ nhân tạo, thuật toán và các phần mềm hổ trợ con người có thể phân tích các dữ liệu y tế phức tạp rất nhanh và chính xác. Cụ thể AI sẽ giúp thầy thuốc: (1) Thu thập và xử lý dữ liệu nhanh hơn, (2) Tăng dung lượng dữ liệu sức khỏe vào máy tính, (3) Tăng dữ liệu cơ sở về bộ gen di truyền, (4) Phổ cập rộng rãi các hệ thống hồ sơ y tế điện tử, (5) Cải tiến tốc độ, tầm xử lý, nhân rộng nhận thức của con người.
+* Hỗ trợ chẩn đoán hình ảnh bệnh lý.
+Y học là ngành khoa học chứng cứ (evidence based). Do đó, kỹ thuật chẩn đoán hình ảnh như X quang, MRI, siêu âm vô cùng quan trọng trong y khoa hiện đại. Việc đọc, phân tích, đọc hình ảnh và liên hệ bệnh lý đòi hỏi thầy thuốc phải có kiến thức rộng và kinh nghiệm nhiều. Đọc thủ công không những mất nhiều thời gian mà lại có độ tin cạnh không lớn.
+Nhờ hệ thống phát hiện qua máy tính (Computer Aided Detection, CADe), hay chẩn đoán nhờ máy tính (Computer Aided Diagnosis CADx), máy móc với dung lượng bộ nhớ rất lớn sẽ dễ dàng giúp bác sĩ phân tích các hình ảnh y học nhanh và chuẩn xác hơn rất nhiều. Ví dụ sử dụng CAD hỗ trợ trong chẩn đoán ung thư vú, u đại tràng, ung thư phổi, thoái hóa võng mạc.
+* Hỗ trợ phân tích, đánh giá kết quả xét nghiệm.
+Cũng như trong chẩn đoán hình ảnh, máy tính sẽ giúp thầy thuốc phân tích so sánh các xét nghiệm cận lâm sàng chuẩn xác, nhanh chóng, đặc biệt nhưỡng xét nghiệm vàng, xét nghiệm sinh học phân tử, gen di truyền.
+* Phẫu thuật bằng robot (robotic surgery).
+Phẫu thuật robot, phẫu thuật máy tính hỗ trợ, phẫu thuật robot hỗ trợ, được phát triển để xâm lấn tối thiểu và tăng cường khả năng của các phẫu thuật viên. Trong các phẫu thuật robot hỗ trợ này, phẫu thuật viên sẽ điều khiển cuộc mổ bằng một trong hai cách: trực tiếp qua điều khiển từ xa (telemanipulator) hoặc thông qua điều khiển máy tính. Do đó, phẫu thuật robot còn được gọi là phẫu thuật từ xa (remote surgery, telesurgery).
+* Kiến tạo phương pháp điều trị mới.
+Hiện nay, nhiều công ty công nghệ sinh học đã nghiên cứu sâu và phát triển các liệu pháp miễn dịch nhắm mục tiêu (targeted immunotherapies) để điều trị ung thư. Các công ty này sử dụng AI để phân tích các khối u ở cấp độ phân tử và khoanh vùng, chọn lựa các liệu pháp miễn dịch phù hợp nhất.
+* Chọn dược phẩm thích hợp.
+Nhiều công ty dược phẩm đã sử dụng các siêu máy tính dung lượng cao tầm soát vài chục triệu tài liệu, công trình nghiên cứu để chọn lựa ra các loại thuốc và tiếp cận điều trị hoàn hảo.
+Thông qua công nghệ nano (nanomedicine).
+Nhờ các công nghệ nano y học như hạt nano hóa học, nano sinh học, các nanorobotsngành y đã được nối dài tay hơn.
+* Giúp chẩn đoán nhanh chính xác.
+Viện Đa công nghệ Worcester sử dụng kháng thể gắn trên chip ống nano carbon để phát hiện tế bào ung thư trong dòng máu.
+Viện MIT phát triển đầu dò ống nano carbon nhúng trong gel chích dưới da để theo dõi lượng nitric oxide trong máu. Nồng độ nitric oxide này là chỉ điểm đánh giá tình trạng nhiễm trùng.
+Đại học Michigan phát triển đầu dò graphene oxide có gắn những kháng thể chống tế bào ung thư nhờ đó có thể phát hiện qua huỳnh quang lượng tế bào ung thư rất nhỏ khi chưa thể phát hiện dược bằng hiển vi thông thường.
+Với kỹ thuật dùng que vàng nano (gold nanorods) có thể phát hiện rất sớm những tổn thương thận. Khi tổn thương thận sẽ tạo ra những protein lạ, các protein này tích tụ lại ở các que nano vàng và làm thay đổi màu của chúng.
+* Xác định vị trí khối u.
+Phát hiện, định vị và mô tả sớm các ổ di căn là một thách thức lớn trong chẩn đoán và điều trị ung thư. Hầu hết các phương pháp chụp ảnh hiện nay không phát hiện được các thương tổn ung thư nhỏ, do rào cản giải phẩu và sinh học.
+Nhờ các chất chỉ điểm nano (nano indicator) thầy thuốc có thể phát hiện được các khối u nhỏ, tại chổ khi chưa xâm lấn hay di căn.
+* Tạo các dụng cụ, kỹ thuật điều trị mới.
+Y khoa nano mang lại nhiều công cụ, kỹ thuật điều trị mới như tampon nano (nanosponges) có khả năng hấp thu và loại bỏ các độc tố trong dòng máu; hạt nano polyethylene glycol-hydrophilic carbon (PEG-HCC) để hấp thu các gốc tự do để giảm tổn thương não sau chấn thương, đột quỵ; lăng kính phủ carbon nano (lens coated with carbon nanotubes) biến tia laser thành sóng âm hội tụ để phá hủy khối u hoặc các mô bệnh mà không làm hỏng các mô khỏe mạnh kề bên; hạt bismuth nano để tăng tập trung phóng xạ vào khối u trong xạ trị; liệu pháp nhiệt mục tiêu (targeted heat therapy) điều trị ung thư vú, các kháng thể kháng protein khối u được gắn vào ống nano khiến các ống nano tập trung nhiều ở khối ung thư vú và tia hồng ngoại sẽ được các ống nano hấp thụ đốt cháy khối u.
+* Đưa thuốc chính xác tận nơi.
+Ứng dụng công nghệ nano quan trọng trong y học: Thuốc, hoạt chất được cho bao quanh các hạt nano rồi dùng từ tính, nhiệt, ánh sáng hoặc các chất khác lôi kéo chúng đến đúng các tế bào đích. Hai ưu điểm của thuốc nano là có thể xuyên qua các rào cản sinh học và phóng thuốc tại chỗ không ảnh hưởng mô, cơ quan chung quanh.
+Đã điều chế được thuốc gelatin nano điều trị đột quỵ, vắc-xin nano hiệu quả và lâu dài hơn Hiện nay, các nhà y học nano đang ráo riết nghiên cứu nang nano insulin, thuốc chính chữa bệnh đái tháo đường; thuốc nano uống (nanoparticle taken orally) có thể đi qua niêm mạc ruột để vào máu; hạt nano chứa các enzymes ức chế sự nhân lên của virut.v.v.
+* Sát khuẩn, chống nhiễm trùng.
+Khá nhiều hạt nano được dùng để sát khuẩn, chống nhiễm trùng như bạc nano, hạt nano chứa khí oxit nitric, cũng được dùng để sát khuẩn vết thương, ổ áp-xe.. , kháng sinh nano tẩm trong băng gạc trong điều trị bỏng; hạt vàng nano vàng để thanh trùng dụng cụ y khoa, chấm lượng tử (quantum dots) điều trị những vi khuẩn kháng thuốc, hạt nano sắt oxide (polymer coated iron oxide nanoparticles) điều trị các nhiễm trùng mãn tính.
+* Chỉnh sửa gen, tế bào.
+Những người máy nano (nanorobot) được lập trình có thể đi sâu đến sửa chữa những bệnh lý tế bào. Các nanorobot này hoạt động chuyên biệt như các kháng thể đến đúng ngay cơ quan, tế bào bị bệnh để chỉnh sửa mà không ảnh hưởng các tế bào lành chung quanh.
+Đôi điều bàn luận.
+Thế giới đang bước vào cách mạng công nghệ 4.0, với ba nội dung cốt lõi của kỹ thuật số là trí tuệ nhân tạo, kết nối vạn vật, và dữ liệu lớn. Rõ ràng trí tuệ nhân tạo sẽ chuyển cách y khoa truyền thống thành một kiểu chăm sóc sức khỏe hiện đại, chuẩn mực và chính xác hơn với cách điều trị có chủ đích, cá nhân hóa và những thuốc đặc hiệu.
+Trong thời công nghệ 4.0, các chatbot, robot nghe nhìn trao đổi thính giác hoặc văn bản, sẽ là những trợ lý đắc lực cho thầy thuốc, chuyên gia y tế giải quyết nhanh, chính xác các vấn đề y tế như chẩn đoán, điều trị, quản lý sức khỏe.v.v Thầy thuốc thời công nghệ 4.0 sẽ không phải dùng hết bốn thủ pháp thăm khám cổ điển là nhìn, sờ, gõ, nghe nữa mà đã có các công nghệ CADe, CDx, Chatbothỗ trợ. Giờ đây, cái ống nghe của thầy thuốc thế kỷ 21 chính là trí tuệ nhân tạo !!
+Cũng cần lưu ý, công nghệ 4.0, trí tuệ nhân tạo cũng chỉ là sản phẩm của con người. Dù nó hoạt động năng suất rất cao, rất hiệu quả nhưng nó vẫn không thay thế được con người, đặc biệt về vấn đề tâm lý tiếp xúc. Và khía cạnh đạo đức và pháp lý của chúng vẫn là vấn đề đang tranh luận hiện nay.
+TS.BS TRẦN BÁ THOẠI -  Ủy viên BCH Hội Nội tiết Việt Nam/  Theo Dân trí.

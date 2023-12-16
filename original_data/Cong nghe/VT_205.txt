@@ -1,0 +1,19 @@
+Màn hình iPhone X sử dụng Pulse Width Modulation (PWM), một dạng công nghệ điều khiển màn hình nháy ở nhiều tần số khác nhau tùy theo độ sáng màn hình.
+Người dùng nhạy cảm sử dụng điện thoại trong thời gian dài rất dễ dị ứng với PWM. Tuy nhiên, đây là lần đầu tiên người dùng iPhone X phản ánh có tình trạng nhức mắt, đau đầu, và thậm chí có cảm giác có vật gì trong mắt.
+Một bài viết trên diễn đàn công nghệ Reddit vừa kêu gọi Apple bổ sung thêm lựa chọn trong phần  Accessibility  (Trợ năng) của iOS để người dùng có thể tắt tính năng PWM. Hai video sau sẽ cho thấy sự khác biệt giữa iPhone X có PWM và iPhone 8 không có PWM.
+VIDEO: iPhone X tích hợp công nghệ PWM.
+Gây nhức mắt, đau đầu với những người nhạy cảm. VIDEO: iPhone 8 không tích hợp công nghệ PWM.
+Không gây ra tình trạng đau đầu, nhức mắt với người nhạy cảm.
+Tuy mắt người không dễ nhận thấy iPhone X nháy màn hình nhưng nháy nhiều sẽ không tốt cho sức khỏe. Dù có để ý hay không thì hiện tượng này sẽ ảnh hưởng xấu tới mắt nhất là khi sử dụng trong thời gian dài, trích bài viết trên Reddit.
+Về mặt kỹ thuật, PWM được tích hợp ở mức phần cứng nên Apple khó có thể tắt bỏ hoàn toàn. Apple chỉ có thể bổ sung thêm cơ chế tùy chỉnh độ mờ màn hình LED nhằm hạn chế bớt ảnh hưởng với mắt.
+Tuy PWM giờ mới được nhắc tới nhưng thực tế Apple đã tích hợp công nghệ này cho MacBook Pro từ cách đây rất lâu.
+Bài thảo luận dài trên 164 trang trên diễn đàn hỗ trợ của Apple có nhiều phản ánh về tình trạng đau đầu và nhức mắt khi sử dụng MacBook Pro trong thời gian rất ngắn, chỉ sau 15 hay 20 phút.
+iPhone X không phải nạn nhân duy nhất của công nghệ PWM.
+Tôi mua chiếc MacBook Pro 15 inch từ ngày 4/11 năm ngoái. Chỉ sau 10 phút sử dụng, mắt tôi đã có hiện tượng nháy nhiều. Sau 30 phút, mắt nhức mỏi. Tôi đã cố khắc phục bằng nhiều cách nhưng không có kết quả, một người dùng phản ánh trên diễn đàn Apple.
+Vậy PWM là gì, và tại sao lại gây ra các vấn đề về sức khỏe?
+Trước tiên, cần làm rõ rằng ở thời điểm hiện tại chỉ có số ít người dùng gặp tình trạng mỏi mắt, đau đầu và có các hiện tượng không bình thường khác khi sử dụng màn hình tích hợp PWM.
+Công nghệ PWM dùng để giả lập điện áp analog bằng cơ chế thực thi số (digital) cho mục đích làm mờ ánh sáng màn hình. Smartphone thường sử dụng bộ điều khiển tín hiệu số (digital signal controller - DSC) vì kích thước nhỏ và chi phí sản xuất thấp hơn. PWM được tích hợp vào DCS nhằm cho ra kết quả tương tự như bộ điều khiển analog.
+Nháy màn hình là một phần của cơ chế phức tạp hơn để đo tần số, tính toán độ sáng, và làm giảm độ sáng màn hình. Mắt người không nhận ra các hoạt động này. Tuy nhiên, với những người nhạy cảm về mắt có thể cảm nhận được điều này, khiến họ dễ đau đầu và nhức mắt.
+Apple không phải công ty duy nhất sử dụng công nghệ PWM giúp thiết bị tự động điều chỉnh độ sáng màn hình. Các mẫu smartphone như Samsung Galaxy S và Google Pixel cũng tích hợp công nghệ này.
+Với trường hợp điện thoại Android, chỉ có thể vô hiệu hóa tính năng PWM ở cấp độ phần mềm khi root máy. Apple hiện chưa xác nhận về hiệu ứng tiêu cực của PWM với người dùng iPhone X.
+Gia Nguyễn.

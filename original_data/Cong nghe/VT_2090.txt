@@ -1,0 +1,9 @@
+Ảnh minh họa. (Nguồn: Reuters).
+Ngày 17/4, Hiệp hội Viễn thông liên ngân hàng và tài chính quốc tế (SWIFT) đã phát đi thông điệp cảnh báo khách hàng nên thận trọng khi lựa chọn công ty giúp truy cập hệ thống SWIFT sau khi vừa xuất hiện thông tin cho rằng Chính phủ Mỹ đã tìm cách theo dõi khách hàng của những công ty này.
+Theo thông cáo báo chí của SWIFT, hiệp hội này khuyến cáo khách hàng nên đặc biệt lưu ý đến các thông tin bí mật cá nhân và thận trọng khi chọn một công ty dịch vụ cũng như giao dịch với bên thứ ba.
+SWIFT đưa ra cảnh báo trên sau khi một nhóm tin tặc tự xưng là "Shadow Brokers" (Kẻ môi giới bóng tối) ngày 14/4 công bố các tài liệu mà theo các chuyên gia an ninh mạng, Cơ quan An ninh quốc gia Mỹ (NSA) đã tìm cách xâm nhập vào hệ thống mạng của hai công ty (một ở Trung Đông và một ở Mỹ Latinh) chuyên hỗ trợ khách hàng của SWIFT truy cập vào hệ thống này với mục đích theo dõi lưu lượng tin nhắn của máy.
+Thông tin trên trang web của SWIFT cho biết, hiệp hội này đã liên lạc với hai nhà cung cấp dịch vụ nêu trên, gồm EastNets có trụ sở tại Dubai và Business Computer Group (BCG) đặt trụ sở tại Panama, và đề nghị hai công ty này cung cấp thông tin về các hoạt động an ninh của mình.
+Ngoài ra, SWIFT cũng đã đề nghị EastNets và BCG chịu trách nhiệm cung cấp thông tin đến khách hàng và thực hiện công tác kiểm tra an ninh bổ sung đối với các mối đe dọa an ninh đã xác định cũng như đảm bảo mọi biện pháp phòng ngừa bổ sung cần thiết.
+Trên trang web của mình, Tổng Giám đốc điều hành EastNets Hazem Mulhim cuối tuần qua cho biết, bộ phận an ninh mạng nội bộ của EastNets đã tiến hành kiểm tra toàn bộ hệ thống máy chủ của công ty, song không phát hiện có bất cứ lỗ hổng hay dấu vết nào của một cuộc tấn công mạng.
+NSA cho đến nay vẫn chưa đưa ra phản ứng nào đối với các tài liệu vừa được công bố nêu trên./.
+(TTXVN/Vietnam+).

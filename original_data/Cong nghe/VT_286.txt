@@ -1,0 +1,8 @@
+Samsung gần đây đã vượt mặt Intel trở thành nhà sản xuất chip lớn nhất thế giới. Tuy nhiên, tham vọng của họ không đơn thuần chỉ dừng lại ở đó. Các báo cáo gần đây cho thấy, họ đang dần nhảy vào lĩnh vực chip khai thác tiền ảo.
+Samsung đã xác nhận rằng họ đang bắt đầu sản xuất chip ASIC (Application-Specific Integrated Circuit), đây sẽ là loại chip chuyên dụng được dùng trong việc khai thác tiền ảo. Chúng có hiệu quả hơn nhiều so với GPU (cũng được sử dụng tương tự trong khai thác "mỏ").
+Các thông báo khác cho thấy, hãng công nghệ đến từ Hàn Quốc đang bắt tay với một đối tác phân phối của Trung Quốc. Trong một xác nhận với TechCrunch, họ từ chối tiết lộ thông tin về đối tác này của mình. Samsung có thể đã bắt đầu sản xuất chip ASIC vào tháng Giêng vừa qua.
+Samsung đã sản xuất chip nhớ dung lượng cao cho GPU để phục vụ cho mục đích khai thác tiền ảo. Việc sản xuất các phần cứng đặc trưng cho khai thác tiền ảo được xem như một động thái lớn của các hãng công nghệ trong lĩnh vực tiềm năng này.
+Hiện, việc sản xuất phần cứng phục vụ khai mỏ Bitcoin vẫn đang chiếm ưu thế bởi các công ty như Bitmain và Canaan Creative có trụ sở ở Trung Quốc. Cả hai công ty này đều đang làm việc với hãng sản xuất chip TSMC.
+Thị trường chip khai thác tiền ảo trong tương lai gần có thể phải chịu những "cơn rung chấn" khi Samsung nhảy vào cuộc chơi. Năm ngoái, TSMC đã kiếm được 350 đến 450 triệu USD trong doanh thu quý IV nhờ sự bùng nổ của thị trường tiền ảo. Trong khi đó, Samsung đã thu được tới 69 tỷ USD nhờ doanh thu chip trong năm 2017. Với việc đầu tư vào lĩnh vực mới, có thể doanh thu của Samsung sẽ còn được nâng cao hơn nhiều khi mà tiền ảo vẫn chưa hết "hot" thời gian tới.
+Theo iDropnews.
+Đ.Huệ.

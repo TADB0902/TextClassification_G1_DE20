@@ -1,0 +1,37 @@
+Vấn đề này thể hiện ở nhiều mức độ khác nhau, có thể là điện thoại hoàn toàn không vào sạc hoặc vào rất chậm. Đừng hoảng sợ hãy kiểu tra theo các cách sau.
+Tự sửa cổng USB.
+Cách nhanh, dễ và thành công nhất là tiến hành sửa chữa trên phần cứng. Nguyên nhân vì bề mặt kim loại bên trong cổng USB và microUSB không tiếp xúc tốt với nhau, xuất phát từ lỗi nhà sản xuất hoặc do liên tục cắm/rút phích cắm dây cáp sạc.
+Tất cả những gì mà bạn cần làm là tắt điện thoại, tháo pin và sử dụng một cái gì đó nhỏ như cây tăm để bật đòn bẩy nhỏ bên trong cổng USB smartphone, table. Hãy làm một cách cẩn thận và nhẹ nhàng, sau đó lắp pin vào và cắm lại.
+Làm sạch xơ vải, chất bám dính và bụi bẩn.
+Bạn có thường xuyên cho điện thoại vào trong túi quần jeans? Nếu có thì bụi bẩn, xơ vải có thể chính là thủ thạm bởi bụi bẩn bên trong quần làm che lấp mất những chân tiếp xúc cổng sạc USB.
+Đã có trường hợp các cổng sạc bị dính đầy kẹo hay socola sau khi bị kẹt trong một túi xách cùng một gói kẹo dễ chảy nước. Cách xử lý khá đơn giản bạn chỉ cần sử dụng bình khí nén để thổi hết bụi bẩn ở cổng USB, sau đó việc kết nối sẽ trở lại bình thường.
+Đổi dây cáp.
+Phần dễ hỏng hóc nhất của bộ sạc là dây cáp, không phải là bộ sạc cắm vào ổ cắm điện. Trong đó người dùng Apple là người dễ bị ảnh hưởng nhất bởi các loại cáp Lightning độc quyền (và đắt tiền) của Apple dường như chỉ có tuổi thọ khoảng 15 phút. Tuy nhiên, tất cả các loại cáp đều có vòng đời không lâu, việc uốn cong nhiều lần đều lần thể làm hỏng nó. Thay thế một cáp USB ngẫu nhiên cho điện thoại chắc chắn là một trải nghiệm không mấy vui vẻ.
+Cách dễ nhất để chẩn đoán một cáp bị lỗi là thử một trong những khác nhau và xem nó có hoạt động đúng với thiết bị của bạn hay không. Nếu có, cáp gốc đã bị lỗi, còn nếu không có thể do một vấn đề khác.
+Chẩn đoán củ sạc.
+Nếu cáp không phải là vấn đề, hãy kiểm tra củ sạc trên tường, đặc biệt nếu đó là nơi cáp sạc được tháo rời khỏi nguồn điện. Vấn đề này gặp nhiều bởi cổng sạc USB có thể bị lỏng lẻo khi thực hiện các thao tác cắm và rút cáp.
+Bạn cũng nên kiểm tra sự kết hợp giữa bộ đôi dây cáp và củ sạc đi theo cặp chuẩn khi sạc pin cho các thiết bị khác nhau, vì điều này sẽ giúp bạn xác định được khả năng thiết bị bị lỗi chứ không phải do dây cáp hay củ sạc. Bạn cũng nên chắc chắn rằng không có vấn đề với ổ cắm điện.
+An toàn khi sạc.
+Không sạc điện thoại gần nước hoặc trong điều kiện quá nóng hoặc ẩm. Ngoài ra, nếu bạn thay thế bộ sạc hoặc dây cáp, hãy thận trọng bởi trong thời gian qua có khá nhiều sự cố liên quan đến sạc pin do sử dụng bộ sạc giá rẻ của khiến điện thoại bị cháy nổ. Giống như bất kỳ thiết bị điện nào, đảm bảo rằng bất cứ thứ gì bạn mua tuân thủ tất cả các tiêu chuẩn an toàn có liên quan.
+Thay pin.
+Pin không bao giờ kéo dài mãi vì vậy sau một khoảng thời gian, nó sẽ bị chai pin. Việc thường xuyên sạc/xả pin điện thoại sẽ khiến nó sớm cần phải thay thế. Nếu pin bị yếu sau khoảng 6 tháng sử dụng, nó có thể bị lỗi và bạn nên yêu cầu một chính sách bảo hành thay thế miễn phí. Nhưng nếu pin trên 2 tuổi, tuổi thọ của nó có thể gần đến mức tuổi thọ có thể cho phép trên điện thoại.
+Một số pin bị lỗi rất dễ phát hiện vì chúng bắt đầu bị phình lên và rò rỉ chất lỏng. Nếu không thấy những điều này xuất hiện từ bên ngoài, bạn có thể tháo vỏ của thiết bị và kiểm tra nếu có thể. Khi sản phẩm thuộc pin liền không thể tháo rời, một cục pin phồng lên sẽ làm biến dạng vỏ, bạn có thể không để ý thấy chỗ phình nhưng khi xoay thì điểm này rất dễ lộ ra.
+Nếu bạn nghi ngờ pin của bạn đang bị sưng lên hoặc rò rỉ, hãy mang điện thoại đến một cửa hàng sửa chữa và mua một bộ phận thay thế có uy tín.
+Sạc đúng nguồn.
+Sạc từ ổ cắm trên tường sẽ luôn nhanh hơn sạc qua máy tính cá nhân hoặc máy tính xách tay vì cổng USB của máy tính không cung cấp đủ năng lượng cần thiết. Một ổ cắm điện có thể cung cấp gấp đôi năng lượng so với một cổng USB, và bộ sạc nhanh có thể cung cấp nhiều năng lượng gấp 5 lần giúp thời gian sạc nhanh hơn nhiều. Vì vậy, nếu điện thoại của bạn sạc chậm và đang kết nối với một máy tính xách tay, đó có thể nguyên nhân gây ra vấn đề.
+Hãy kiểm tra xem bộ sạc có phù hợp với thiết bị của bạn hay không. Bộ sạc từ điện thoại khác có thể không cung cấp đúng năng lượng - chẳng hạn như bộ sạc cho tai nghe Bluetooth sẽ không cung cấp năng lượng nhiều như thiết bị được thiết kế riêng cho điện thoại thông minh.
+Trong trường hợp điện thoại cao cấp bạn có thể nhận được tính năng sạc nhanh, nhưng thông thường bộ sạc đi kèm không hỗ trợ khả năng này, nghĩa là bạn phải đầu tư vào bộ sạc nhanh riêng.
+Cập nhật hoặc khôi phục trạng thái cũ.
+Cập nhật phần mềm hoặc phiên bản Android mới có thể ảnh hưởng đến tuổi thọ pin của thiết bị, đặc biệt khi cập nhật các phần mềm hiện tại cho các thiết bị cũ. Thiết bị mới hơn thường được tối ưu hóa để tận dụng lợi thế của các phần mềm mới nhất, trong khi một thiết bị 2 tuổi có thể khó khăn khi được cập nhật.
+Nếu điều này xảy ra và bạn không thể khắc phục sự cố, hãy xem xét việc cho thiết bị quay trở lại phiên bản Android trước đó, mặc dù cảnh báo rằng điều này sẽ mang đến rủi ro bảo mật.
+Tương tự như vậy, đôi khi thiết bị sử dụng pin có thể được cải thiện đáng kể bởi một bản cập nhật, do đó hãy truy cập vào Settings > About phone để kiểm tra cập nhật.
+Tắt một số tính năng khi sạc.
+Sử dụng các tính năng và ứng dụng chuyên sâu có thể ảnh hưởng đến khả năng sạc pin của điện thoại. Nếu bạn đang sạc pin trong khi bật 100% độ sáng màn hình hay lướt web trên 3G thì các thiết bị sẽ mất nhiều thời gian để sạc hơn nếu bạn tắt màn hình đi và ngắt các kết nối mạng Wi-Fi hay 4G.
+Chuyển điện thoại sang chế độ máy bay hoặc tắt hoàn toàn khi đang sạc pin sẽ giúp thiết bị được sạc nhanh nhất có thể.
+Hiệu chỉnh pin.
+Đôi khi mức pin mà thiết bị mặc định lại không hoàn toàn đúng. Ảnh hưởng của việc này là điện thoại có thể thực hiện chức năng khác nhau, bao gồm cả hạn chế hoạt động trước khi nó cần sạc hoặc mất một giờ với hai phần trăm pin cuối cùng.
+Kiểm tra điện áp và cường độ dòng điện của pin.
+Với một ứng dụng Ampere, bạn có thể kiểm tra thông tin cường độ dòng điện sạc trên smartphone của mình có đúng với tiêu chuẩn hay không.
+Vấn đề do bị dính nước.
+Nếu điện thoại của bạn không sạc được sau khi bị rơi xuống nước, bạn không có nhiều lựa chọn: cách tốt nhất là thử thay pin - nếu có thể.
+Thanh Hà.

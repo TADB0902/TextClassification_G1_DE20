@@ -1,0 +1,8 @@
+Apple đã gỡ bỏ Telegram ra khỏi App Store vào hôm qua, ngay sau khi công ty này ra mắt Telegram X trên Android. Bản thân Telegram X cũng đang được thử nghiệm trên iOS nhưng cũng đã bị xóa khỏi App Store.
+"Chúng tôi đã được Apple cảnh báo rằng những nội dung không phù hợp đang xuất hiện trên ứng dụng của chúng tôi, và sau đó thì cả hai đã bị gỡ xuống khỏi App Store. Chúng tôi sẽ có các biện pháp khắc phục và hy vọng các ứng dụng sẽ nhanh chóng xuất hiện trở lại", Giám đốc điều hành Telegram - Pavel Durov - cho hay.
+Theo Tech Crunch , nguyên nhân có thể xuất phát từ nhiều lý do, mà trong đó có thể Telegram đã không có bộ lọc, hoặc cơ chế báo cáo rõ ràng những nội dung không phù hợp mà người dùng đăng tải.
+Telegram là một trong những ứng dụng nhắn tin đình đám nhất hiện nay. Ảnh: The Verge.
+Telegram bắt đầu trở nên phổ biến nhờ được xây dựng trên cơ sở các tính năng bảo mật tiên tiến, với khả năng tạo ra các cuộc hội thoại bí mật được mã hóa hai đầu (end-to-end), nghĩa là chính Telegram cũng không thể tiếp cận nội dung hội thoại, hoặc giao chúng cho cơ quan chức năng nếu bị yêu cầu. Vào thời điểm ra mắt hồi năm 2013, tính năng này của Telegram đã khiến các đối thủ khác phải thay đổi.
+Người sáng lập Durov, đồng thời tạo ra mạng xã hội lớn nhất nước Nga VKontakte, cũng cho biết Telegram dựa trên ý tưởng ban đầu là một ứng dụng tin nhắn mà các cơ quan an ninh Nga không thể đột nhập.
+Cũng chính vì khả năng bảo mật này mà Telegram bị hàng loạt chính phủ các nước cho rằng đây là hang ổ để khủng bố và tội phạm hoạt động. Công ty buộc phải thành lập nhóm điều hành ở Indonesia để kiểm soát các thông tin liên quan đến khủng bố, sau khi chính phủ nước này đe dọa xóa sổ Telegram.
+Đại Việt.

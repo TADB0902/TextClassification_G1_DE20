@@ -1,0 +1,15 @@
+Ở các địa điểm công cộng, các hội trường, phòng họp, hoặc các quán ăn, quán cà phê thì "chủ nhà" không tránh khỏi phải thường xuyên chia sẻ mạng Wi-Fi cho nhiều người và đọc mật khẩu Wi-Fi nhiều lần. Hơn nữa chẳng hạn nếu dán mật khẩu Wi-Fi lên tường thì người muốn truy cập cũng sẽ phải mất một chút công nhập mật khẩu.
+Thay vì thế chúng ta có thể tạo ngay mã QR Code để rồi người muốn truy cập chỉ cần quét mã là vào ngay được Wi-Fi! Với mã QR Code, người dùng chỉ cần dùng một phần mềm quét mã bất kỳ, hoặc bản thân camera trên iOS 11 cũng đã có sẵn chức năng quét mã, vừa nhanh gọn tiện lợi mà lại không sợ bị sai.
+Hãy tham khảo các bước sau đây để biết cách tạo một mã QR Code cho Wi-Fi.
+Hướng dẫn chia sẻ mật khẩu Wi-Fi bằng QR Code.
+*Nguồn: fptshop.com.vn.
+Bước 1 : Trên máy tính hoặc điện thoại đều được, chúng ta tìm các web tạo mã QR Code. Ở đây chúng ta dùng thử trang goqr.me (hoặc vào thẳng đây).
+Bước 2 : Giao diện trang web hiện ra, bạn sẽ lần lượt chọn và điền đầy đủ các mục như sau:
+Mục Encryption là tiêu chuẩn Wi-Fi của nhà bạn, thường là WPA vì chuẩn WEP rất ít người dùng.
+Mục SSID/network name là mục nhập tên của Wi-Fi, hãy nhập đúng tên WiFi của nhà bạn, nếu sai mạng sẽ không thể kết nối được.
+Password là mật khẩu Wi-Fi tương ứng với tên Wi-Fi ở trên.
+Giao diện trang web hiện ra, bạn sẽ lần lượt chọn và điền đầy đủ các mục như: Encryption là tiêu chuẩn WiFi của nhà bạn, SSID/network name là tên của WiFi, Password là mật khẩu WiFi tương ứng.
+Bước 3 : Sau khi nhập xong tên và mật khẩu Wi-Fi, ở mục Live preview bên cạnh bạn sẽ thấy một mã QR Code được tạo ra, đó chính là mã QR Code được tạo ra cho Wi-Fi của bạn.
+Sau khi nhập xong tên và mật khẩu WiFi, ở mục Live preview bên cạnh bạn sẽ thấy một mã QR Code được tạo ra, đó chính là mã QR Code được tạo ra cho Wi-Fi của bạn.
+Giờ bạn hãy tải về và in mã QR Code này ra các miếng dán nhỏ để dán ở những chỗ cần thiết.
+H.A.H (Tổng hợp).

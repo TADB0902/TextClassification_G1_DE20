@@ -1,0 +1,14 @@
+Bắt đầu từ phiên bản iOS 9 tới bây giờ, Apple có thay đổi rất nhiều trên hệ điều hành iOS để nền tảng này được bảo mật hơn, trong đó đáng chú ý nhất là bước chuyển đổi mật mã mở khóa màn hình (passcode) từ 4 số sang 6 số nhằm tăng mức độ an toàn cho thiết bị iPhone/iPad.
+Tuy nhiên, vẫn có một bộ phận người dùng muốn sử dụng passcode 4 số để mở khóa màn hình iPhone/iPad nhanh và tiện lợi hơn. Hơn nữa passcode 4 số mang lại cảm giác theo hơi hướng... cổ điển hơn.
+Trong khi đó passcode là chiếc chìa khóa mà người dùng iPhone luôn phải chuẩn bị dù cho dùng Touch ID hay Face ID. Nếu bạn muốn chuyển từ passcode 6 số về 4 số hãy làm theo các bước hướng dẫn dưới đây.
+Bắt đầu từ phiên bản iOS 9 tới bây giờ, Apple có thay đổi rất nhiều trên hệ điều hành iOS để nền tảng này được bảo mật hơn, trong đó đáng chú ý nhất là bước chuyển đổi mật mã mở khóa màn hình (passcode) từ 4 số sang 6 số.
+Hướng dẫn chuyển mật mã passcode iPhone 6 số về 4 số.
+*Nguồn: fptshop.com.vn.
+Bước 1: Đầu tiên, từ màn hình khóa bạn hãy truy cập vào Settings > Touch ID & Passcode. Bạn hãy nhập passcode 6 số hiện tại. Lưu ý, trên iPhone X đường dẫn sẽ là Settings > Face ID & Passcode.
+Từ màn hình khóa bạn hãy truy cập vào Settings > Touch ID & Passcode.
+Bước 2: Lựa chọn vào Change Passcode , sau đó tiến hành nhập lại mật mã 6 số lần nữa.
+Lựa chọn vào Change Passcode, sau đó tiến hành nhập lại mật mã 6 số lần nữa.
+Bước 3: Bảng nhập mật mã mới hiện ra, bạn hãy chọn vào Passcode Options nằm ngay phía trên bàn phím. Sau đó hãy chọn 4-Digit Numeric Code. Giờ bạn hãy nhập mật mã 4 số vào và nhập lần hai để xác nhận, thiết bị iPhone/iPad của bạn sẽ mất vài giây để đổi mật mã.
+Bảng nhập mật mã mới hiện ra, bạn hãy chọn vào Passcode Options nằm ngay phía trên bàn phím. Sau đó hãy chọn 4-Digit Numeric Code. Giờ bạn hãy nhập mật mã 4 số vào và nhập lần hai để xác nhận, thiết bị iPhone/iPad của bạn sẽ mất vài giây để đổi mật mã.
+Giờ bạn đã có thể sử dụng mật mã passcode 4 số cho thiết bị của mình. Bạn lưu ý rằng mật mã 4 số luôn kém bảo mật hơn mật mã 6 số mặc định của Apple đề xuất, vì thế cũng nên cân nhắc trước khi thực hiện chuyển đổi sang mật mã 4 số.
+H.A.H (Tổng hợp).

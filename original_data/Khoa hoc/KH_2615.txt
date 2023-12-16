@@ -1,0 +1,14 @@
+Hành tinh thứ tám, Kepler 90i, được tìm thấy bằng phần mềm AI trong một dự án đột phá giữa Google và NASA. Việc khám phá ra một hệ mặt trời tương tự đã làm tăng hy vọng tìm ra những hành tinh khác có sự sống ngoài trái đất.
+Các hành tinh Kepler-90 có cấu tạo tương tự như hệ mặt trời của chúng ta, với các hành tinh nhỏ quay quanh sao của chúng và các hành tinh lớn hơn được tìm thấy ở khoảng cách xa hơn.
+Các hành tinh Kepler-90 có cấu tạo tương tự như hệ mặt trời.
+Andrew Vanderburg, nhà thiên văn học và nhà nghiên cứu NASA Sagan của Đại học Texas, Austin cho biết hành tinh mới này lớn hơn Trái Đất khoảng 30%, nhưng có thể "không phải là nơi bạn muốn đến".
+Nó có thể là đá và không có không khí. Nhiệt độ ở bề mặt hành tinh này có thể thiêu đốt tất cả.
+Theo ông Vanderburg, nhiệt độ bề mặt trung bình của hành tinh trên có thể khoảng 800 độ F.
+Vệ tinh săn tìm hành tinh của Kepler đã tìm kiếm các hành tinh khác bằng việc sử dụng hệ thống AI của Google với độ chính xác lên đến 96 phần trăm. Giống như AI có thể học cách phát hiện ra sự khác biệt giữa mèo và chó, nó có thể nhận ra sự khác nhau giữa các mẫu liên kết với các hành tinh và các loại mô hình khác trong vũ trụ.
+Christopher Shallue, kỹ sư phần mềm cao cấp của Google AI tại Mountain View, California cho biết: "Sau khi mô hình hóa 15.000 tín hiệu, mạng nơron học được cách phân biệt các mẫu từ các hành tinh so với hành tinh khác.
+Hệ thống Kepler 90 được phát hiện lần đầu tiên vào năm 2013. Đây là hệ thống bảy hành tinh đầu tiên được xác định bằng kính thiên văn. Tuy nhiên, hành tinh thứ tám vẫn không bị phát hiện trong nhiều năm - cho đến khi AI của Google nhặt được tín hiệu "yếu".
+Hệ thống Kepler 90 có nhiều nét tương đồng với hệ mặt trời.
+AI sử dụng các bài đọc bằng ánh sáng từ những ngôi sao xa để xác định các dấu hiệu tiềm ẩn của một hành tinh và sau khi được huấn luyện bởi hàng ngàn tín hiệu đã được kiểm tra trước đó, nó đã có thể phát hiện ra các mô hình bị bỏ lỡ trước đây của hành tinh thứ tám.
+Mặc dù khám phá này rất thú vị, nhưng hệ thống này không có nhiều dấu hiệu khả quan mang sự sống.
+Theo Dailymail.
+Ngọc Ánh.

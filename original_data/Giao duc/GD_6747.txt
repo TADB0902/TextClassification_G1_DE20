@@ -1,0 +1,6 @@
+Theo đó, ngành Thú y có điểm chuẩn cao nhất là 23,75. Cụ thể điểm chuẩn các ngành của trường như sau:
+Điểm trúng tuyển là tổng điểm 3 môn lập thành tổ hợp môn xét tuyển + điểm ưu tiên theo khu vực (nếu có) + điểm ưu tiên theo đối tượng (nếu có).
+Đối với ngành Ngôn ngữ Anh: Môn chính là Tiếng Anh (nhân hệ số 2), điểm chuẩn trúng tuyển được quy về thang điểm 30 dành cho tổ hợp môn xét tuyển.
+Công thức tính: Điểm xét tuyển = [(Điểm môn 1 + Điểm môn 2 + (Điểm Tiếng Anh x 2)) x 3/4 ] + điểm ưu tiên (nếu có).
+Lưu ý: Điểm được làm tròn đến 0,25.
+Minh Nhật.

@@ -1,0 +1,3 @@
+CETC cho biết, hình ảnh khuôn mặt của đối tượng sẽ được phần mềm chuyên dụng nâng cấp chất lượng, sau đó được chuyển tới máy chủ và tiến hành phân tích bằng các thuật toán.
+CETC cho biết, ứng dụng mới này dựa trên sự phát triển của ứng dụng nhận dạng khuôn mặt và sự mở rộng của các cơ sở dữ liệu. Kết quả thử nghiệm thực tế đến nay cho thấy, phần mềm của CETC đã đạt được tỷ lệ nhận dạng thành công tới 98,23% khuôn mặt của 500.000 người.
+PHƯƠNG AN.

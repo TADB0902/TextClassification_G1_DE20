@@ -1,0 +1,10 @@
+(Nguồn: ing).
+Ngày 29/1, ba ngân hàng hàng đầu của Hà Lan gồm ING, Rabobank và ABN Amro thông báo đã hứng chịu nhiều vụ tấn công mạng trong tuần qua khi tin tặc phong tỏa việc truy cập các website cũng như dịch vụ ngân hàng trực tuyến của các ngân hàng này.
+ING, ngân hàng hàng đầu Hà Lan có khoảng 8 triệu khách hàng cá nhân cho biết bị tấn công theo hình thức "tấn công từ chối dịch vụ" (DDoS) vào chiều 28/1 khi tin tặc gây nghẽn thông tin, khiến các máy chủ ngân hàng bị quá tải và gây áp lực đối với những máy còn hoạt động về dịch vụ ngân hàng trực tuyến.
+Hiện dịch vụ này đã được khôi phục lại hoạt động.
+Trong khi đó, Rabobank, ngân hàng lớn thứ hai Hà Lan cho biết dịch vụ ngân hàng trực tuyến của mình cũng đã bị tấn công theo hình thức DDoS vào sáng 29/1 khi khách hàng không thể truy cập hoặc truy cập rất khó khăn.
+Người phát ngôn của Rabobank cho biết ngân hàng đang nỗ lực sớm giải quyết vấn đề này.
+Tương tự, ABN Amro - ngân hàng lớn thứ ba Hà Lan - đã hứng chịu ba đợt tấn công mạng vào cuối tuần, nâng tổng số vụ tấn công nhằm vào ngân hàng này trong tuần qua lên tới con số 7.
+Các ngân hàng trên cho biết thông tin về khách hàng của họ không bị rò rỉ trong các vụ việc.
+Theo người đứng đầu Ngân hàng trung ương Hà Lan Klaas Knot, đây không phải là lần đầu tiên, các ngân hàng nước này hứng chịu các vụ tấn công DDoS.
+Ngân hàng trung ương Hà Lan đã bị tấn công mạng hàng nghìn lần mỗi ngày./.

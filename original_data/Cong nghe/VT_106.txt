@@ -1,0 +1,7 @@
+Người dùng Android có thể sớm tiếp cận chức năng ghi âm cuộc gọi chính thống - Ảnh: Reuters.
+Theo Neowin , một số cam kết gần đây trong Dự án Nguồn mở Android (AOSP) cho thấy Google đang tìm cách đưa chức năng ghi âm cuộc gọi, được mô tả dưới dạng một tần số 1.400 Hz lặp đi lặp lại mỗi 15 giây.
+Âm thanh sẽ được thêm vào luồng âm thanh đi, có nghĩa đầu bên kia sẽ nghe được thông tin cuộc gọi bị ghi âm. Điều này nhằm đáp ứng các quy định, mặc dù việc tuân thủ như vậy có thể không áp dụng mọi nơi tùy quy định địa phương. Đó có thể là lý do tại sao các cam kết bao gồm một tính năng cho phép nhà mạng cấu hình vô hiệu hóa khả năng này.
+Mặc dù các cam kết không đề cập cụ thể đến một API công khai mở ra chức năng ghi âm cuộc gọi cho các nhà phát triển ứng dụng nhưng điều này có thể sớm xảy ra đối với các ứng dụng ghi âm.
+Điều đáng chú ý chính là tính năng này dường như đã tồn tại trong Android dưới hình thức nào đó trong nhiều năm nhưng Goolge thường hạn chế quyền truy cập của nhà phát triển vào nó. Các nhà sản xuất OEM như Samsung, Xiaomi và OnePlus đã làm cho nó có mặt trong vô số thiết bị trong nhiều năm, thậm chí một số còn cung cấp ứng dụng từ Google Play.
+Với hành động mới, Google dường như đang chuyển sang hạn chế quyền truy cập vào một số API ẩn với phiên bản Android tiếp theo, thường có lẽ mở quyền truy cập vào một số chức năng đã bị hạn chế.
+Kiến Văn.

@@ -1,0 +1,27 @@
+Tác giả đề xuất viết 'Tiếq Việt': Chữ cải tiến sẽ tiết kiệm 8% giấy PGS.TS Bùi Hiền, người đề xuất viết "giáo dục" thành "záo zụk", cho biết việc cải tiến chữ viết không chỉ giúp người học dễ nhớ mà còn góp phần tiết kiệm 8% giấy.
+PGS.TS Bùi Hiền - nguyên Phó hiệu trưởng ĐH Sư phạm Ngoại ngữ Hà Nội, nguyên Phó viện trưởng Viện Nội dung & Phương pháp dạy - học phổ thông -đề xuất cải tiến ký tự viết tiếng Việt với "giáo dục" thành "záo zụk", "Tiếng Việt" thành "Tiếq Việt".
+Sau nhiều ý kiến trái chiều, trả lời Zing.vn, ông Hiền cho rằng đề xuất này không nhằm thay thế hệ thống văn tự hiện tại, mà sẽ bổ sung, chỉnh sửa theo hướng hợp lý, tối ưu hơn. Ông khẳng định việc cải tiến ký tự viết sẽ góp phần tiết kiệm 8% giấy cho cả nước.
+Tuy nhiên, nhiều chuyên gia cho rằng khó triển khai đề xuất này vì không chỉ các văn bản, giấy tờ hành chính, giấy tờ tùy thân như căn cước công dân, hộ khẩu, bằng lái, bằng đại học... đều cần thay đổi nếu áp dụng chữ viết đề xuất của PGS.TS Bùi Hiền.
+Tiếp đó, các chương trình giáo dục phải thay đổi, kéo theo giai đoạn chuyển đổi phức tạp. Ngoài ra, những phương án với văn bản, thậm chí tên người hiện theo chuẩn cũ, sẽ được xử lý ra sao? Số giấy được tiết kiệm có đủ bù cho các loại văn bản, hướng dẫn ban hành để phổ biến những quy chuẩn mới?
+Tiết kiệm 8% giấy?
+Thửkiểm ký tự sơ bộ con số ông đưa ra bằng việc so sánh số ký tự, lượng giấy cần để in văn bản theo 2 cách viết hiện tại và phương án đề xuất. Văn bản theo cách viết "mới" được "ký chuyển thể" dựa trên công cụ "tieqviet-demo" do một tác giả người Việt tên Phan An chia sẻ trên GitHub.
+Các văn bản được thử nghiệm trên khổ giấy A4, font Times New Roman, cỡ ký tự 13, spacing 1,5.
+Dạng văn bản pháp luật, nhiều dòng ngắn, ít đoạn dài: Luật Giáo dục, văn bản Luật Giáo dục 2005 38/2005/QH11:
+Văn bản văn học thông thường:
+Dạng thơ lục bát, Truyện Kiều - Nguyễn Du.
+Thử nghiệm nhanh cho thấy cách ghi mới có sự giảm về mặt ký tự, nhưng tùy từng loại văn bản mà lượng giấy tiết kiệm được ít hơn. Con số giảm 8% giấy của PGS.TS Bùi Hiền là có cơ sở.
+Giá trị của 8%.
+Xét về hiệu quả khi đánh máy, cách viết mới giảm khoảng 10%-12% số ký tự cho cùng văn bản, tiết kiệm tương đương về thời gian đánh máy.
+Về mặt cơ cấu nhu cầu giấy, theo con số của Tổng cục Thống kê năm 2008, giấy in viết chiếm tỷ trọng 20,2% và có tốc độ tăng cao về số lượng. Trong khi đó, khả năng sản xuất chỉ đạt khoảng 60%.
+Do cầu vượt cung, hàng năm, Việt Nam phải nhập một lượng giấy khá lớn. Trong đó, tổng lượng giấy in báo và in viết nhập khẩu lên đến 29% tổng giá trị nhập khẩu.
+Theo báo cáo năm 2016 từ Tổng cục Hải Quan, con số nhập khẩu này lên đến hơn 1,9 triệu tấn giấy, giá trị 1,5 tỷ USD.
+Nếu giả thiết cơ cấu nhu cầu giấy không đổi quá nhiều, con số giấy dùng cho việc in ấn sẽ vào khoảng 435 triệu USD. Tiết kiệm 8% số đó, mỗi năm Việt Nam dư ra 34,8 triệu USD, hay hơn 790 tỷ đồng.
+790 tỷ đồng/năm có đáng để đánh đổi?
+Nhìn lại nhiều dự thảo, đề án giáo dục gần đây, chúng ta thấy những con số khổng lồ hơn.
+Tháng 1/2017, Bộ GD&ĐT lấy ý kiến góp ý cho dự thảo đề án nâng cao năng lực đội ngũ giảng viên, cán bộ quản lý các cơ sở giáo dục. Cụ thể, trong giai đoạn 2018-2025 (7 năm), dự án có thể được chi 12.000 tỷ đồng, đào tạo 9.000 tiến sĩ. Vị chi, mỗi năm đề án chi khoảng 1.714 tỷ đồng.
+Năm 2008, đề án Dạy và học ngoại ngữ trong hệ thống giáo dục quốc dân giai đoạn 2008-2020 được đầu tư kinh phí 9.400 tỷ đồng được phê duyệt. Trung bình, mỗi năm đề án cần hơn 783 tỷ đồng.
+Tháng 11/2016, Bộ trưởng GD&ĐT Phùng Xuân Nhạ trả lời trước Quốc hội, khẳng định đến năm 2020 (tức sau 12 năm), Đề án ngoại ngữ 9.400 tỷ đồng không đạt mục tiêu.
+Như vậy, nếu chỉ dùng cho giáo dục, 790 tỷ/năm là con số không nhỏ để chi cho các đề án nâng cao chất lượng dạy và học, hoặc ít nhất, là nguồn bổ sung ngân sách giáo dục vốn còn hạn chế.
+Tuy nhiên, cần tính toán trước những chi phí dành cho chuẩn hóa và áp dụng cách viết mới, sự thay đổi trong chương trình học, kèm theo đó là những chi phí để đào tạo giáo viên. Mỗi sự thay đổi mang tính hệ thống đều yêu cầu chi phí lớn, chưa thể ước tính. Và số tiền 790 tỷ đồng cũng "như muốn bỏ bể" so với những chi phí dành cho thay đổi.
+Từ cải tiến chữ viết 'záo zụk' đến chuyện tiếp nhận ý tưởng mới Đề xuất cải tiến chữ viết của PGS Bùi Hiền khiến dư luận tranh cãi. Nhiều chuyên gia cho rằng cần đón nhận nghiêm túc các ý tưởng khoa học, dù chưa khả thi.
+Mạnh Hà - Lê Phát; Đồ họa: Mai Trí.

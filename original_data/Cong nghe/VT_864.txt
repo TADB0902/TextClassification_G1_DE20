@@ -1,0 +1,12 @@
+Phillip R. Durachinsky, 28 tuổi, sống tại North Royalton, bang Ohio, Mỹ vừa bị buộc tội sử dụng mã độc máy tính nhằm đánh cắp thông tin và do thám hàng chục nghìn nạn nhân trong suốt 13 năm qua.
+Theo cáo trạng tại Tòa quận Cleveland, Durachinsky bị cáo buộc thực hiện 16 hành vi phạm tội, trong đó có vi phạm Luật lạm dụng và Gian dối máy tính, đạo luật nghe lén, sản xuất nội dung khiêu dâm trẻ em và đánh cắp danh tính.
+Durachinsky cũng bị cáo buộc phát triển mã độc Fruitfly để thực hiện các hành vi phạm tội của mình. Fruitfly là mã độc được phát hiện lần đầu năm 2017, nhưng thực tế nó đã được sử dụng nhiều năm trước đó.
+Mã độc này có thể tấn công máy Mac, Linux và Windows, can thiệp rất sâu vào máy tính nạn nhân. Fruitfly có thể chụp ảnh màn hình, biến webcam và microphone thành công cụ gián điệp, đồng thời ghi tác vụ bàn phím, chuột và thực hiện các chỉnh sửa bất hợp pháp trên máy tính.
+Tin tặc 28 tuổi người Mỹ, Phillip R. Durachinsky, bị bắt sau 13 năm do thám người dùng.
+Phân tích của Patrick Wardle, giám đốc nghiên cứu bảo mật công ty Synack, đồng thời là cựu tin tặc của Cơ quan An ninh Quốc gia Mỹ (NSA), cho thấy Fruitfly chiếm 90% trong tổng số mã độc lây nhiễm tại Mỹ.
+Patrick Wardle từng nêu giả thuyết tác giả của Fruitfly là một tin tặc đơn lẻ, chuyên sử dụng mã độc để do thám người dùng.
+Có vẻ giả thuyết trên đã được chứng thực. Durachinsky là tác giả duy nhất của mã độc Fruitfly. Theo Bộ Tư pháp Mỹ, Fruitfly tấn công máy tính cá nhân, công ty, trường học, sở cảnh sát và các bộ ngành. Một chi nhánh của Bộ Năng lượng Mỹ cũng là nạn nhân của Fruitfly.
+Durachinsky sử dụng mã độc để đánh cắp thông tin cá nhân như mật khẩu, thông tin đăng nhập, dữ liệu thuế, y tế, thông tin ngân hàng, ảnh cá nhân, từ khóa tìm kiếm Internet và các đoạn chat.
+Hơn 13 năm qua, Durachinsky sử dụng Fruitfly đánh cắp hàng triệu ảnh chụp thông tin nạn nhân, đồng thời có ghi chép cẩn thận về các hoạt động tội phạm. Durachinsky phát triển cơ chế do thám tự động bằng cách bật cảnh báo mỗi khi người dùng gõ từ khóa liên quan tới khiêu dâm hoặc các hoạt động đáng nghi khác.
+Cơ quan điều tra tin rằng Durachinsky đã sử dụng thông tin đánh cắp để hack vào tài khoản nạn nhân và đánh cắp thêm các thông tin khác. Ngoài ra, tin tặc này còn bán ảnh và dữ liệu đánh cắp cho những kẻ khác.
+Gia Nguyễn.

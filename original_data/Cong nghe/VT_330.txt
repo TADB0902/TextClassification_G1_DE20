@@ -1,0 +1,8 @@
+Hãng vận chuyển khổng lồ toàn cầu FedEx đã bắt đầu nỗ lực để tích hợp các nền tảng dựa trên công nghệ blockchain vào các hoạt động hàng ngày bằng cách gia nhập Liên minh Blockchain trong Vận chuyển (Blockchain in Transport Alliance - BiTA).
+Freightwaves, một cơ quan tin tức về vận chuyển hàng hóa, thông báo rằng FedEx đã bắt đầu phát triển một bộ tiêu chuẩn ngành cho việc sử dụng blockchain như một phần của BiTA. Công ty tham gia vào tổ chức liên minh như là một thành viên sáng lập, đã bắt đầu thử nghiệm một số nền tảng blockchain.
+FedEx, là một thành viên Ban Tiêu chuẩn của BiTA, đã đưa ra một chương trình thí điểm sử dụng blockchain để lưu trữ dữ liệu để giải quyết tranh chấp, Phó chủ tịch của kế hoạch chiến lược và phân tích Dale Chrystie cho biết. Dự án hy vọng sẽ thiết lập những dữ liệu cần thiết cho một sổ cái vĩnh viễn để giảm bớt các tranh chấp giữa các khách hàng gửi và nhận hàng qua FedEx.
+Người khổng lồ vận chuyển cũng muốn sử dụng blockchain để lưu trữ hồ sơ, ông nói, và mở rộng:
+"Chúng tôi có hàng triệu hồ sơ một ngày trong hệ thống, và chúng tôi nghĩ rằng blockchain như là một chuỗi bảo đảm an toàn có thể chuyển đổi ngành công nghiệp logistic. Chúng tôi tin rằng nó có rất nhiều hứa hẹn trong không gian và sẽ sắp xếp tất cả những trao đổi dữ liệu đó một cách an toàn".
+Tương tự, Phó chủ tịch FedEx của công ty CNTT Kevin Humphries nói với Freightwaves rằng nền tảng blockchain sẽ cho phép khách hàng theo dõi gói hàng hiệu quả hơn, không chỉ khi hàng hóa đang ở trong kho của FedEx mà còn trước và sau khi công ty nhận hàng.
+Trong khi FedEx chỉ mới phác thảo một vài trường hợp sử dụng khả thi, Humphries cho biết, ông "hy vọng rằng blockchain sẽ có nhiều trường hợp sử dụng".
+Đình Kiên (theo Coindesk).

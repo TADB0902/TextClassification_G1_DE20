@@ -1,0 +1,12 @@
+(Nguồn: cio.com.au).
+Các nhà nghiên cứu Australia mới đây đã phát triển được một phương pháp, trong đó cho phép các nhà khoa học có thể nhìn sâu hơn vào không gian.
+Trước đây, cách duy nhất để có thể quan sát không gian sâu hơn là thông qua việc sử dụng tia của kính thiên văn với một đồng hồ nguyên tử để ghi nhận chính xác thời điểm phát hiện tín hiệu từ một vật thể trong không gian.
+Tuy nhiên, các chuyên gia từ nhóm các viện nghiên cứu Australia như Tổ chức Nghiên cứu công nghiệp và khoa học (CSIRO), Viện Đo lường quốc gia, Mạng lưới Học thuật và Nghiên cứu Australia, Đại học Adelaide và Đại học Macquarie, do Đại học Quốc gia Australia (ANU) đứng đầu, đã lần đầu tiên chứng minh được hai kính viễn vọng vô tuyến có thể kết nối thông qua tham chiếu tần số ổn định.
+Tham chiếu tần số là việc sử dụng chuẩn tần số để thiết lập một tần số có độ chính xác cao có thể dùng để tạo ra các điểm tham chiếu.
+Theo Ken Baldwin, đồng tác giả nghiên cứu thuộc ANU, công nghệ mới này đặc biệt hữu dụng cho kính viễn vọng SKA trong một nỗ lực toàn cầu nhằm phát hiện các sóng vô tuyến từ sâu trong không gian với độ nhạy gấp khoảng 50 lần kính viễn vọng Hubble.
+Phương pháp phát tham chiếu tần số có độ ổn định cao hứa hẹn sẽ thay thế cho việc sử dụng đồng hồ nguyên tử đắt đỏ với chi phí lên tới 200.000 USD/chiếc.
+SKA là dự án kính viễn vọng vô tuyến đang được xây dựng tại Australia, New Zealand và Nam Phi. Sau khi hoàn tất, các kính viễn vọng đơn lẻ sẽ được kết nối để tạo ra kính viễn vọng tần số lớn nhất thế giới.
+Ông Baldwin nhấn mạnh công nghệ mới này không đòi hỏi sự thay đổi đáng kể nào đối với mạng lưới cáp quang và dễ dàng thực hiện.
+Thông qua việc thử nghiệm trên cáp quang, các nhà nghiên cứu đã chứng minh được rằng việc phát chuẩn tần số ổn định không ảnh hưởng đến dữ liệu hoặc các cuộc gọi trên các kênh khác.
+Điều này có vai trò quan trọng trong việc giành được sự hợp tác từ các công ty viễn thông sở hữu các mạng lưới cáp quang này./.
+(TTXVN/Vietnam+).

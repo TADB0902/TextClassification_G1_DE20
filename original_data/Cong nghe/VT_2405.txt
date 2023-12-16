@@ -1,0 +1,13 @@
+Triển khai hệ thống chặn lọc tin nhắn rác thông minh.
+Theo thông tin từ Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VNCERT), Vietnammobile đã chính thức đưa vào khai thác hệ thống chặn lọc thông minh. Như vậy sau 4 tháng triển khai, cả 4 nhà mạng lớn đều đã có hệ thống chặn lọc tin nhắn rác thông minh. Chỉ còn lại duy nhất Gtel. Tuy nhiên đơn vị này phát tán rất ít tin nhắn rác.
+Các nhà mạng đã thống nhất yêu cầu chức năng và xây dựng phần mềm cơ sở dữ liệu tập trung về tập mẫu tin nhắn rác để chia sẻ cho hệ thống chặn lọc thông minh. Hết năm nay, nhiều khả năng hệ thống này sẽ được đưa vào khai thác để đảm bảo việc chặn đứng tin nhắn rác.
+Về vấn đề thu hồi SIM kích hoạt sẵn, Cục Viễn thông cũng đã họp với các doanh nghiệp viễn thông yêu cầu triển khai thực hiện sớm. Tuy nhiên vẫn còn một số điểm chưa đồng thuận. Cục Viễn thông đã yêu cầu các doanh nghiệp cam kết và thúc đẩy tốc độ triển khai.
+Hội nghị giao ban quản lý nhà nước tháng 11 của Bộ TT &TT. ; Ảnh: Trọng Đạt.
+Cũng liên quan đến vấn đề viễn thông, Cục Tần số đã cấp phép cho nhà mạng VietnamMobile sử dụng băng tần 900 MHz để cung cấp dịch vụ 3G và băng tần 2.100 MHz để cung cấp dịch vụ 4G.
+Trước những vấn đề còn tồn đọng, lãnh đạo Bộ TT&TT; yêu cầu Cục Viễn thông triển khai dướng dẫn việc thực hiện quy định về việc chuyển mạng di động mặt đất giữ nguyên số. Ngoài ra, phải nghiên cứu đề xuất các phương pháp xử lý triệt để tình trạng SIM rác, tin nhắn rác.
+Bên cạnh đó, cần đôn đốc thực hiện các vấn đề liên quan đến giá cước viễn thông, tổ chức hội nghị tổng kết công tác chuyển đổi mã vùng và phối hợp với VNCERT đánh giá việc sử dụng thiết bị viễn thông, CNTT trong triển khai mạng 4G.
+Ghi nhận nhiều sự cố thông tin, cảnh báo.
+Trong tháng 11, Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) ghi nhận được 597 sự cố. Trong đó bao gồm 248 sự cố lừa đảo, 232 sự cố thay đổi giao diện và 117 vụ tấn công mã độc. Trong số này, không có sự cố nào liên quan đến các website.gov của chính phủ.
+Cũng trong khoảng thời gian này, các đơn vị chức năng của Bộ TT&TT; đã phát hành hơn 20 cảnh báo các loại bằng văn bản và thư điện tử cho các chủ quản hệ thống thông tin về những nguy cơ, lỗ hổng và điểm yếu đặc biệt nghiêm trọng. Bên cạnh đó, Cục ATTT đang phối hợp với Hiệp hội ATTT Việt Nam (VNISA) nhằm xây dựng chỉ số an toàn thông tin của Việt Nam.
+Một trong những thông tin tích cực là theo báo cáo của Trung tâm Internet Việt Nam (VNNIC), việc triển khai IPv6 tại Việt Nam đã đạt được nhiều kết quả đáng khích lệ. Hiện Việt Nam đang đứng thứ 3 tại Đông Nam Á về triển khai IPv6, chỉ xếp sau Thái Lan và Malaysia. Tại châu Á, Việt Nam đứng thứ 5, sau Ấn Độ, Nhật Bản và xếp trên cả Hàn Quốc.
+Trọng Đạt.

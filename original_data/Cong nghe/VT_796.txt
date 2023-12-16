@@ -1,0 +1,22 @@
+Điều làm nên sức hút của sản phẩm này nằm ở chiếc SIM ghép "thần thành", sửa hoàn toàn các lỗi phát sinh còn tồn tại trên iPhone khóa mạng.
+SIM ghép "thần thánh" đang là cứu tinh của iPhone khóa mạng.
+Chỉ hơn 1 tháng trở lại đây, thị trường Việt xuất hiện dòng SIM ghép Heicard hoàn toàn mới có thể "hồ biến" tất cả các mẫu iPhone khóa mạng trở thành iPhone quốc tế một cách nhanh chóng.
+Chỉ việc cắm SIM ghép vào, máy sẽ tự động sửa tất cả các lỗi mà không phải qua bất cứ các thao tác sửa lỗi phức tạp như trước đây. Chính điều này đã lôi kéo khá nhiều người dùng yêu thích các sản phẩm iPhone với túi tiền hạn hẹp dễ dàng tiếp cận các mẫu iPhone với giá mềm.
+Theo một kỹ thuật viên chuyên iPhone tại đường Lê Hồng Phong, quận 10, TPHCM cho biết: "SIM ghép mới tận dụng lỗ hổng kích hoạt trên máy chủ của Apple để qua mặt hãng này và giúp người dùng truy cập thẳng vào máy để sử dụng, không qua bất cứ bước kích hoạt khó khăn như trước. Do đó, chỉ cần gắn vào máy là sử dụng ngay không cần qua bất cứ thao tác sửa lỗi nào".
+Chính lý do đó đã khiến cho dòng máy iPhone khóa mạng trở nên "hot" trong thời điểm hiện nay. Vị kỹ thuật này cũng cho biết, ngày trước, người dùng Việt chuộng iPhone khóa mạng Nhật hơn bởi vì việc ghép SIM và sửa lỗi dễ hơn so với iPhone khóa mạng Mỹ.
+Các dòng iPhone khóa mạng Mỹ thường giá rẻ hơn và khó kích hoạt hơn, chưa kể lỗi phát sinh vẫn không thể sửa được.
+Tuy nhiên, chỉ với chiếc SIM ghép "thần thánh" này, hầu như tất cả các lỗi của iPhone khóa mạng Mỹ lẫn mạng Nhật đều bị "qua mặt" một cách dễ dàng. Tức chỉ cắm vào là xài ngay, không cần phải sửa bất cứ lỗi phát sinh như trước đây.
+Theo ông Minh Tuấn, điều hành Minh Tuấn Mobile, iPhone khóa mạng đặc biệt là mẫu iPhone 6, 6S Plus đang là sản phẩm thu hút người dùng Việt.
+Sức mua sản phẩm này đang tăng rất mạnh và nguồn hàng giờ khá hạn hẹp. Khác biệt so với những tháng trước đó, dù giá thấp nhưng sức mua vẫn "lẹt đẹt".
+Lý do cho điều này, ông Tuấn cho rằng, SIM ghép mới đã giúp cho mẫu iPhone khóa mạng dễ dàng cạnh tranh đối với các phiên bản iPhone quốc tế đã qua sử dụng. Việc cắm SIM ghép vào và sử dụng không khác phiên bản quốc tế.
+Tuy nhiên, lợi thế của iPhone khóa mạng đó là vỏ máy đều hoàn toàn là vỏ zin bởi không ai thay vỏ iPhone khóa mạng mà chỉ tập trung vào iPhone quốc tế. Đồng thời, giá bán iPhone khóa mạng rẻ hơn từ 1,5 đến 2 triệu đồng.
+Đơn cử mẫu iPhone 6s Plus khóa mạng 16 GB có giá 6,2 triệu đồng (đã bao gồm SIM ghép), trong khi mẫu iPhone 6S Plus quốc tế đã qua sử dụng có giá trên 8 triệu đồng.
+Nên hay không nên mua sản phẩm này?
+Mặc dù mẫu SIM ghép "thần thánh" trên đã cứu rỗi dòng sản phẩm iPhone khóa mạng Nhật và Mỹ nhưng thực tế, khi Apple kịp thời vá lỗi, thì các dòng SIM ghép này coi như "vứt đi".
+Theo một số kỹ thuật viên, SIM ghép "thần thánh" đang xuất hiện tại Việt Nam đang lợi dụng lỗ hổng của Apple trong việc kích hoạt để bẻ khóa và sử dụng bình thường nhưng có thể sẽ bị khóa lại trong thời gian tới. Khi Apple tiến hành vá lỗi trên, những sản phẩm này sẽ bị vô hiệu hóa trong việc kích hoạt sử dụng và bắt buộc phải sử dụng dòng SIM ghép khác.
+Như vậy, để tiếp tục sử dụng khi SIM ghép mất hết "sức mạnh", người dùng phải quay trở lại những chiếc SIM ghép còn có thể ghép được, các lỗi phát sinh từ trước đã kịp trở lại.
+Điều này sẽ khiến cho bạn thêm bực bội vì những lỗi phát sinh, gồm: lỗi USSD (Unstructured Supplementary Service Data), được sử dụng trong việc duyệt WAP, các dịch vụ gọi hàm độc lập, kiểm tra tài khoản, các dịch vụ liên quan tới thực đơn.
+Chẳng hạn để kiểm tra tiền còn lại trong tài khoản, người dùng phải nhấn *101# thì ở phiên bản khóa mạng không thể thực hiện được đối với SIM ghép bình thường.
+Hoặc không thể kích hoạt iMessage và Facetime khi máy không nhận ra số điện thoại của người dùng và nhiều lỗi phát sinh khác.
+Chính vì vậy, bắt buộc người dùng phải Jailbreak để sửa lỗi này. Tuy nhiên, khi đã Jailbreak máy, người dùng không thể nâng cấp lên phiên bản mới và tiếp tục chung sống với những phiên bản iOS cũ.
+Do đó, lời khuyên đưa ra là người dùng nên cân nhắc và hãy lựa chọn các sản phẩm quốc tế để đảm bảo thời gian sử dụng dài hơn và an toàn hơn.

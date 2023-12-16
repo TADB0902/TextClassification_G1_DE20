@@ -1,0 +1,9 @@
+Chuyên gia CyRadar mô tả cách thức hacker tấn công có chủ đích vào thiết bị sử dụng hệ điều hành macOS.
+Ông Nguyễn Minh Đức - Giám đốc Công ty CyRadar cho biết, cuộc tấn công bắt đầu bằng các email có các nội dung hấp dẫn và đính kèm file văn bản chứa mã độc hại được gửi tới các nạn nhân. Từ đó, file văn bản độc hại sẽ lợi dụng tính năng Macro của Microsoft Word để bung ra 1 phần mềm gián điệp chỉ chạy trên hệ điều hành macOS.
+Phần mềm gián điệp này sau đó kết nối tới máy chủ điều khiển để gửi các thông tin, dữ liệu cho kẻ tấn công. Đồng thời từ xa, các mã độc khác có thể được âm thầm thả xuống để kiểm soát máy tính đó, cũng như làm bàn đạp để xâm nhập sang máy tính khác, ông Đức cho hay.
+Theo ghi nhận của CyRadar, những file độc hại trong chiến dịch này đều chưa từng được nhận diện bởi phần mềm diệt virus nào. Hơn nữa, mỗi nạn nhân khác nhau sẽ nhận được các file độc hại khác nhau.
+CEO CyRadar Nguyễn Minh Đức nhận định, sự chuyển hướng sang tấn công các máy tính Mac sẽ là xu hướng tất yếu khi số lượng người dùng máy này đang ngày càng tăng lên. Trong khi đó hiện nay nhiều người sử dụng máy Mac vẫn chưa có thói quen để ý hoặc có biện pháp bảo vệ hợp lý do các cuộc tấn công trước đó thường nhắm vào các máy chạy hệ điều hành Window. Điều đó dẫn đến những kẽ hở trong hệ thống mạng của tổ chức và có thể dễ dàng bị lợi dụng.
+Để phòng tránh, CyRadar khuyến cáo người sử dụng hệ điều hành macOS cần thường xuyên cập nhật các bản vá cho phần mềm và hệ điều hành. Cụ thể, bật ứng dụng App Store và chọn mục Updates.
+Đồng thời, người dùng hệ điều hành macOS cũng cần cẩn trọng khi nhận được các file, đường dẫn lạ qua email hoặc chat; trang bị các phần mềm bảo mật uy tín cho macOS.
+Ngoài ra, các doanh nghiệp và tổ chức còn cần trang bị hệ thống giám sát an ninh mạng để kịp thời phát hiện các cuộc tấn công vào máy tính của người sử dụng.
+Vân Anh.

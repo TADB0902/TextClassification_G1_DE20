@@ -1,0 +1,6 @@
+Ảnh minh họa. (Nguồn: Android Authority).
+"Gã khổng lồ công cụ tìm kiếm" đã loại các ứng dụng này khỏi Google Play. Tuy nhiên, các ứng dụng này vẫn tồn tại trên các thiết bị đã cài đặt chúng từ trước.
+Các ứng dụng này dường như hoàn toàn hợp lệ và nằm trong một loạt các danh mục, chẳng hạn như trình phát media, nhạc chuông và quản lý lưu trữ, như Akamai, Cloudflare, Flashpoint, Oracle Dyn, RiskIQ và Team Cymru. Google cho biết: "Chúng tôi đã xác định được khoảng 300 ứng dụng được liên kết với vấn đề này [phần mềm độc hại], và đã loại bỏ chúng khỏi Play Stor và chúng tôi đang trong quá trình gỡ bỏ chúng khỏi tất cả các thiết bị bị ảnh hưởng.".
+"Những phát hiện của các nhà nghiên cứu, kết hợp với phân tích của chúng tôi, đã cho phép chúng tôi bảo vệ tốt hơn người dùng Android, ở mọi nơi.". Theo blog Krebs On Security, ít nhất 70.000 thiết bị Android có thể bị ảnh hưởng.
+Các ứng dụng độc hại đang được sử dụng để thực hiện tấn công từ chối dịch vụ (DDoS), khiến mục tiêu bị tấn công tràn ngập dữ liệu từ một số lượng lớn các nguồn dữ liệu đổ đến cho đến khi thiết bị bị treo và sập nguồn. Các ứng dụng có thể khởi động các cuộc tấn công ngay cả khi chúng không được sử dụng, hoặc khi màn hình của điện thoại bị khóa./.
+Theo Việt Đức/vietnamplus.vn.

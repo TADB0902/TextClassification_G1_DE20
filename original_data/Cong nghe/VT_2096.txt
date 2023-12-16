@@ -1,0 +1,15 @@
+Quét QR Code.
+Để kích hoạt tính năng quét QR Code trên iOS 11, bạn hãy vào Settings (cài đặt) > Camera (máy ảnh) > Scan QR Code (quét mã QR). Kể từ lúc này, người dùng có thể tận dụng nhanh camera trên iPhone để quét QR Code nhanh hơn mà không cần phải cài đặt thêm các ứng dụng của bên thứ ba.
+Việc sử dụng QR Code để chia sẻ thông tin mở ra rất nhiều ý tưởng độc đáo. Thực tế cho thấy đa số các quán cà phê, trà sữa hay khách sạn hiện nay đều dán một tờ giấy trên tường với tên WiFi và mật khẩu tương ứng.
+Tuy nhiên có những chỗ lại không ghi rõ khiến chúng ta phải đi hỏi nhân viên, gây mất thời gian cho cả đôi bên. Để giải quyết vấn đề này, người dùng chỉ cần chuyển các thông tin như tên mạng, mật khẩu WiFi sang dạng QR Code và dán lên tường, ai cần truy cập Internet thì chỉ cần quét mã, vừa tiết kiệm được thời gian mà vẫn bảo mật.
+Tiết kiệm dung lượng.
+Trong bản cập nhật iOS 11, Apple đã bổ sung thêm một thuật toán mới cho phép duy trì chất lượng hình ảnh và video trong khi dung lượng tập tin giảm chỉ còn một nửa so với trước đây, giúp hạn chế tình trạng bị đầy bộ nhớ.
+Để chắc chắn rằng bạn đang dùng thuật toán mới, hãy truy cập vào Settings (cài đặt) > Camera (máy ảnh) > Formats (định dạng) > High Efficiency (hiệu quả cao). Lúc này video sẽ được lưu lại dưới dạng HEVC MOV, trong khi hình ảnh sẽ lưu lại dưới dạng HEIC thay vì JPG. Hiện tại thuật toán mới chỉ có sẵn trên các thiết bị chạy vi xử lý A10, tức là từ iPhone 7 trở lên.
+Chỉnh sửa và thêm hiệu ứng trên Live Photos.
+Live Photos cho phép người dùng chia sẻ nhanh những khoảnh khắc thú vị bằng ảnh động trong vài giây. Bên cạnh đó, Apple còn vừa bổ sung thêm một số công cụ chỉnh sửa và hiệu ứng mới trong Live Photos, cho phép người dùng làm chủ mọi thứ dễ dàng hơn.
+Nhiều chế độ chụp ảnh chân dung.
+Nếu đang sử dụng iPhone 7 Plus, bạn sẽ thấy xuất hiện thêm tùy chọn OIS (ổn định hình ảnh quang học), tận dụng HDR để làm nổi bật các chi tiết cần thiết.
+Truy cập nhanh vào các bộ lọc ảnh.
+Thay vì phải bấm vào biểu tượng bộ lọc ở góc trên bên phải ứng dụng camera, giờ đây bạn chỉ cần vuốt từ dưới màn hình lên để mở nhanh các bộ lọc.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+MINH HOÀNG.

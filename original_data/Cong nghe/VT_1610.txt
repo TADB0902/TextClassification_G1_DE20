@@ -1,0 +1,10 @@
+Một người bạn đã rất lâu không liên hệ "bỗng dưng" gửi file đính kèm.zip. (Ảnh: Vietnam+).
+Nhiều người dùng tại Việt Nam phản ánh họ nhận được tập tin (file) có đuôi.zip qua ứng dụng của mạng xã hội Facebook và kể từ lúc mở file này ra, máy tính của họ bị chậm.
+Người viết cũng đã nhận được tập tin từ một người có trong danh sách bạn bè. Tuy nhiên, đã rất lâu rồi chúng tôi không liên lạc. Tập tin được gửi tới mà không có thêm một lời nhắn từ phía đối tác.
+Trao đổi với phóng viên VietnamPlus, ông Vũ Ngọc Sơn, Phó chủ tịch phụ trách mảng Chống mã độc (Anti Malware) của Bkav cho biết đây là một loại mã độc.
+Đầu tiên, nạn nhân sẽ nhận được một file zip qua chat, sau khi mở file zip này sẽ thấy một file video giả mạo bên trong. Nếu mở tiếp file giả mạo, máy tính sẽ bị nhiễm mã độc.
+Trong trường hợp máy tính nạn nhân dùng trình duyệt Google Chrome, mã độc sẽ cài một extension [tiện ích mở rộng-pv] để tiếp tục phát tán file zip qua Facebook Messenger tới danh sách bạn bè của nạn nhân.
+Vẫn theo ông Sơn, mục đích của đợt phát tán mã độc này nhằm chiếm quyền điều khiển máy tính. Từ đó, hacker lợi dụng máy của nạn nhân để đào tiền ảo, khiến cho máy tính có hiện tượng bị chậm, giật.
+Các chuyên gia bảo mật khuyến nghị, người dùng không nên tò mò tải và mở những tệp tin không rõ nguồn gốc để tránh những rủi ro có thể xảy ra với thiết bị của mình.
+Ông Sơn cho hay, Bkav đã cập nhật mẫu nhận diện mã độc này với tên là W32.FBCoinMiner.Worm, người dùng có thể tải phần mềm Bkav phiên bản mới nhất để diệt virus. Riêng khách hàng sử dụng phiên bản Bkav Pro có bản quyền sẽ được tự động cập nhật./.
+Yên Thủy (Vietnam+).

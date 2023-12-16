@@ -1,0 +1,9 @@
+Dựa vào số liệu tổng hợp ban đầu về số học sinh đăng ký 3 nguyện vọng (NV), học sinh có quyền thay đổi nguyện vọng đăng ký. Theo đó, các em sẽ làm lại đơn mới, hủy đơn cũ và nộp tại trường đang học lớp 9 từ ngày 5/5 đến 11/5.
+Số liệu thống kê cho thấy, trường có nhiều hồ sơ đăng ký nguyện vọng 1 (NV1) là: THPT Gia Định (Bình Thạnh) với 1.740 hồ sơ; kế đến là trường THPT Trần Phú với 1.715 hồ sơ, trường THPT Mạc Đĩnh Chi (Q.6) và trường THPT Hùng Vương có cùng số lượng là 1.656 hồ sơ.
+Ở NV2, nhiều nhất là trường Marie Curie 1.856 hồ sơ đăng ký; trường THPT Phạm Văn Sáng với 1.804 hồ sơ đăng ký; tiếp theo là trường THPT Nguyễn Trung Trực với 1.670 hồ sơ.
+Ở NV3, trường THPT Đa Phước có nhiều hồ sơ đăng ký nhất với 2.995 hồ sơ đăng ký; trường THPT Nguyễn Văn Cừ với 2.941 hồ sơ, trường THPT Nguyễn Trung Trực: 2.704 hồ sơ.
+Trong khi đó ở hệ chuyên, trường THPT Lê Hồng Phong dẫn đầu số hồ sơ NV1 với 2.728 hồ sơ; trường THPT chuyên Trần Đại Nghĩa: 782 hồ sơ NV1; trường THPT Nguyễn Thượng Hiền: 711 hồ sơ NV1.
+Tỷ lệ chọi vào Trường THPT Chuyên Lê Hồng Phong nguyện vọng 1 là 1 chọi 3,9. Một số trường cũng có tỷ lệ chọi khá cao như THPT Trưng Vương, THPT Nguyễn Thị Minh Khai, THPT Trần Khai Nguyên, THPT Mạc Đĩnh Chi, THPT Gia Định.
+Ngoài ra, một số trường có thí sinh đăng ký nguyện vọng 1 thấp hơn so với chỉ tiêu như THPT Năng khiếu Thể dục thể thao (85 thí sinh nguyện vọng 1 so với 270 chỉ tiêu); THPT Lê Thị Hồng Gấm (324 so với 360); THPT Phạm Phú Thứ (310 so với 675); Phước Kiển (134 so với 495).
+Dưới đây là số liệu cụ thể của các trường.
+Bạch Dương.

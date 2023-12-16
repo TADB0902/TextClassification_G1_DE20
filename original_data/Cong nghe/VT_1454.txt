@@ -1,0 +1,11 @@
+Ảnh minh họa.
+Dự thảo nêu rõ, doanh nghiệp, tổ chức kinh doanhđã áp dụng Hóa đơn điện tử của doanh nghiệp trước ngày 01/01/2018 theo hướng dẫn của Bộ Tài chính tiếp tục áp dụng hóa đơn điện tử của doanh nghiệp.
+Doanh nghiệp, tổ chức kinh doanhđang thực hiện giao dịch điện tử trong khai thuế với cơ quan thuế, hoặc là tổ chức kinh tế có sử dụng giao dịch điện tử trong hoạt động ngân hàng có: chữ ký điện tử theo quy định của pháp luật; phần mềm bán hàng hóa, dịch vụ kết nối với phần mềm kế toán, đảm bảo dữ liệu của hóa đơn điện tử bán hàng hóa, cung ứng dịch vụ được tự động chuyển vào phần mềm (hoặc cơ sở dữ liệu) kế toán tại thời điểm lập hóa đơn thì sử dụng hóa đơn điện tử của doanh nghiệp trong hoạt động bán hàng hóa, cung ứng dịch vụ.
+Doanh nghiệp, tổ chức kinh doanh có mã số thuế đang sử dụng hóa đơn giấy in từ hệ thống máy tính trước ngày 01/01/2018 nếu có đủ điều kiện quy định thì sử dụng hóa đơn điện tử của doanh nghiệp từ ngày 01/01/2018 trong hoạt động bán hàng hóa, cung ứng dịch vụ.
+Dự thảo cũng quy định rõ về điều kiện đối với hóa đơn điện tử của doanh nghiệp. Theo đó, hóa đơn điện tử của doanh nghiệp phải thỏa mãn đồng thời các điều kiện sau: Có sự đảm bảo đủ tin cậy về tính toàn vẹn của thông tin chứa trong hóa đơn điện tử từ khi thông tin được tạo ra ở dạng cuối cùng là hóa đơn điện tử.
+Tiêu chí đánh giá tính toàn vẹn là thông tin còn đầy đủ và chưa bị thay đổi, ngoài những thay đổi về hình thức phát sinh trong quá trình trao đổi, lưu trữ hoặc hiển thị hóa đơn điện tử.
+Đồng thời thông tin chứa trong hóa đơn điện tử có thể truy cập, sử dụng được dưới dạng hoàn chỉnh khi cần thiết.
+Người bán hàng hóa được chuyển đổi hóa đơn điện tử sang hóa đơn giấy để chứng minh nguồn gốc xuất xứ hàng hóa hữu hình trong quá trình lưu thông và chỉ được chuyển đổi 01 lần. Hóa đơn điện tử chuyển đổi sang hóa đơn giấy để chứng minh nguồn gốc xuất xứ hàng hóa phải đáp ứng các quy định và phải có chữ ký người đại diện theo pháp luật của người bán, dấu của người bán.
+Người mua, người bán được chuyển đổi hóa đơn điện tử sang hóa đơn giấy để phục vụ việc lưu trữ chứng từ kế toán theo quy định của Luật Kế toán. Hóa đơn điện tử chuyển đổi sang hóa đơn giấy phục vụ lưu trữ chứng từ kế toán phải đáp ứng các quy định cụ thể.
+Bộ Tài chính đang lấy ý kiến góp ý của nhân dân đối với dự thảo này tại Cổng Thông tin điện tử của Bộ.
+Lan Phương.

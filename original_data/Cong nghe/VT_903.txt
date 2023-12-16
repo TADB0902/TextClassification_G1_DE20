@@ -1,0 +1,8 @@
+Ảnh minh họa: CNET.
+Các phần mềm được phát triển là một phần của dự án tuyệt mật Imperial. Một trong số đó - Achilles - cho phép tin tặc truy cập đến cấu hình ổ đĩa hệ điều hành. Phần mềm thứ 2 là Aeris, được thiết kế để chuyển dữ liệu từ máy tính bị tấn công. Phần mềm thứ 3 - SeaPea , dùng để che giấu các kết nối mà dữ liệu được truyền đi từ một máy tính bị nhiễm mã độc.
+Mã độc Achilles cung cấp cho hacker khả năng cài trojan lên ổ đĩa OS X (.dmg) với một hoặc nhiều các tệp thực thi cần thiết được lựa chon để hoạt động một lần.
+Aeris là một mã cấy ghép tự động được viết bằng C, hỗ trợ cho một số hệ thống dựa trên nền tảng POSIX (Debian, RHEL, Solaris, FreeBSD, CentOS). Phần mềm hỗ trợ lọc file tự động, cấu hình thời gian các gói tin (beacon interval) và mức độ truyền tải các gói tin, hoạt động độc lập, hỗ trợ HTTPS LP và giao thức SMTP dựa trên nền tảng Collide, tất cả các liên kết đều được mã hóa TLS và xác thực lẫn nhau. Phần mềm tương thích với NOD Cryptographic Specification và cung cấp lệnh cấu trúc và kiểm soát tương tự như một số phần mềm cấy ghép của Windows.
+SeaPea là một Rootkit OS X cung cấp tính năng tàng hình và khả năng khởi chạy công cụ. Mã độc có khả năng ẩn các tập tin / thư mục, các kết nối socket (ổ cắm) và / hoặc quá trình phần mềm thực thi trên máy tính. SeaPea chạy trên Mac OSX 10.6 và 10.7.
+WikiLeaks đã công bố phần đầu gói tài liệu tuyệt mật của CIA vào ngày 07.03.2017, đồng thời cũng thông báo rằng gói tài liệu này là vụ rò rỉ lớn nhất các dữ liệu nhạy cảm của cơ quan Tình báo trung ương Mỹ. Gói tài liệu rò rỉ gồm hơn 8,700 tài liệu và tệp tin, lưu trữ trong một mạng nội bộ độc lập của trung tâm tình báo mạng, đặt trong trụ sở của CIA ở Langley, bang Virginia.
+QA.
+Quang Anh -.

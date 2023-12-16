@@ -1,0 +1,10 @@
+Mẫu smartphone dạng gập đầu tiên của Samsung sẽ ra mắt với 2 tùy chọn chip xử lý. Nguồn: Businesses Insider.
+Thành viên có nickname mweibach đã tìm ra một chuỗi tập tin đuôi XML gồm mã hiệu của nhiều thiết bị của Samsung ngay trong phiên bản thử nghiệm Android 8.0 Oreo dành cho Galaxy Note 8. Đào sâu tìm hiểu, các tập tin này không chỉ tiết lộ những mẫu smartphone của Samsung sẽ được cập nhật lên Oreo. Quan trọng hơn, các lập trình viên độc lập trên diễn đàn XDA-Developers còn phát hiện ra một bản danh sách các thiết bị thậm chí còn chưa được Samsung tung ra thị trường.
+Danh sách này bao gồm:
+Nhìn qua, có thể xác định 3 mẫu flagship hàng đầu của Samsung mang mã hiệu crown là Galaxy Note 9 và star/star2 là Galaxy S9/S9 Plus. Dựa trên báo cáo năm ngoái của trang The Bell, astarqlte nhiều khả năng sẽ là mẫu Galaxy S9 Active sử dụng chip xử lý Snapdragon 845 với chữ q viết tắt của cái tên Qualcomm.
+Giữa năm ngoái, trang Asia Business Daily đã công bố về việc Samsung Trung Quốc đang dự kiến ra mắt 2 mẫu smartphone trung cấp trang bị Snapdragon 660. Tuy đến nay vẫn chưa được xác nhận nhưng cùng trong thư mục có mã hiệu c10lte và c10plte tồn tại một tập tin có tên dvfs_policy_sdm660_xx.xml. Bởi vậy, nhiều khả năng người dùng Trung Quốc sẽ có cơ hội sở hữu Galaxy C10/C10 Plus trong năm 2018.
+Đáng chú ý là sự thay đổi của mã hiệu dòng J. Trước đây, Samsung đã đưa lên kệ 3 mã hiệu là J3, J5 và J7. Năm nay, nội bộ đại gia đình Galaxy J sẽ khác đi đôi chút với sự góp mặt của 4 thành viên mới: J2, J4, J6 và J8.
+Samsung có thể sẽ tung ra tới 3 mẫu máy tính bảng, với mã hiệu gta2xl, gtesy18lte và gts4llte. Căn cứ trên cách đặt mã hiệu trước đây của Samsung, chúng được dự đoán lần lượt là Galaxy Tab A 10.1 2018, Galaxy Tab E và Galaxy Tab S4.
+Riêng các mẫu mang mã hiệu jackpot lần đầu tiên xuất hiện với hai phiên bản thường và Plus. Dựa trên cách ký hiệu, với hai phiên bản trang bị chip xử lý Qualcomm và Exynos. Nhiều ý kiến cho rằng jackpot là mã hiệu được Samsung lựa chọn cho dòng smartphone gập Galaxy X.
+Hiện tại vẫn chưa có thông tin về 5 còn lại gồm: kellylte, lugelte, degasy18wifi, grandppirislte và gtaxlad.
+Việt Anh.

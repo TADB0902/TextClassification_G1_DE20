@@ -1,0 +1,7 @@
+Câu đố như sau:
+Bạn được tặng 3 thùng trái cây, trong đó, một thùng táo, một thùng cam và một thùng đựng cả cam lẫn táo.
+Nhãn dán ở 3 thùng đều ghi không chính xác loại trái cây bên trong. Ảnh: Techie.
+Chúng được dán nhãn lần lượt là "Táo", "Cam", "Táo và Cam". Tuy nhiên, cả 3 nhãn đều bị dán sai thùng.
+Làm thế nào để dán lại đúng nhãn nếu bạn chỉ được lấy ra và nhìn vào chỉ một quả từ mỗi thùng?
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

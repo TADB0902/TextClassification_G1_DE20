@@ -1,0 +1,7 @@
+Câu đố này tương tự bài tập của học sinh lớp 1 Singapore. Tuy nhiên, tác giả Alex Bellos của The Guardian đã sửa lại để nó hợp lý hơn.
+Cho hình gồm 5 số được điền sẵn như hình dưới:
+Trong mỗi một phần tư của hình tròn lớn nhất có một số gồm hai chữ số.
+Bạn hãy sử dụng các số tự nhiên từ 1 đến 9 để điền vào các hình tròn nhỏ còn trống sao cho số nằm trong phần tư của hình trong bằng tổng 3 số nằm trong hình tròn ở 3 góc của phần tư đó.
+Lưu ý: Mỗi số chỉ được sử dụng một lần và số 3 (ở hình tròn giữa) đã được cho sẵn, đồng nghĩa với việc bạn không được điền số này nữa.
+Bạn đọc có bài toán khó cần giải đáp hoặc muốn chia sẻ những phép tính hay, có thể gửi về tòa soạn theo địa chỉ email giaoduc@zing.vn.
+Nguyễn Sương.

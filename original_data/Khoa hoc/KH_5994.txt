@@ -1,0 +1,9 @@
+Mô hình Tàu vũ trụ đánh chặn tiểu hành tinh Dart. Ảnh: internet.
+Cơ quan hàng không và vũ trụ Mỹ (NASA) vừa công bố dự án tưởng chừng chỉ có trong phim khoa học viễn tưởng, đó là đánh chặn các tiểu hành tinh nhằm làm thay đổi quỹ đạo của nó để tránh tiểu hành tinh này va chạm với Trái Đất.
+Theo ông Tom Statler, nhà khoa học làm việc tại NASA, cơ quan này đang trong quá trình thiết kế Tàu vũ trụ đánh chặn tiểu hành tinh mang tên là Dart với kỳ vọng tránh cho nhân loại khỏi những thảm họa do va chạm với thiên thạch. Dart sẽ va chạm trực tiếp với tiểu hành tinh bay gần Trái Đấtđể thay đổi quỹ đạo của nó.
+Đây là dự án hợp tác giữa NASA và Cơ quan nghiên cứu vật lý ứng dụng Johns Hopkins. Nếu thành công, dự án sẽ mở ra khả năng đánh chặn các thiên thạch có nguy cơ va chạm với địa cầu trong tương lai.
+Đối tượng của dự án Dartlà tiểu hành tinh Didymos, gồm hai vật thể, dự kiến tiến sát Trái Đất vào năm 2022 và năm 2024. Đường kính của hai vật thể thuộc tiểu hành tinh Didymos lần lượt là Didymos Adài khoảng 780m và Didymos B dài 160m.
+Theo kế hoạch, tàu vũ trụ Dart sẽ tiếp cận Didymos và đánh chặn vật thể Didymos B. Tàu vũ trụ Đát sẽ va chạm trực tiếp với Didymos B ở tốc độ 6km/giây, tức nhanh gấp 9 lần tốc độ của một viên đạn khiến thiên thạch di chuyển xa khỏi Trái Đất.
+NASA cho biết, các nhà khoa học sẽ nghiên cứu cú va chạm và các tác động mà Dartgây ra cho Didymos B, từ đó quyết định khả năng ứng dụng xa hơn nữa kỹ thuật tác động động học trong bảo vệ Trái Đất trước mối đe dọa từ các thiên thạch.
+Các thiên thạch với kích thước nhỏ lao vào Trái Đất mỗi ngày và bị đốt cháy khi bay qua thượng tầng khí quyển. Tuy nhiên, những vật thể có kích thước lớn không bị đốt cháy hết sẽ gây ra thảm họa khủng khiếp nếu va chạm với Trái Đất chúng ta. Theo tính toán, va chạm với vật thể có kích thước lớn hơn 1km có khả năng gây ra tác động toàn cầu.
+Theo VOV.vn.

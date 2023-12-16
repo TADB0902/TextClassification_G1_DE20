@@ -1,0 +1,8 @@
+Kode War là hoạt động thi đấu lập trình được tổ chức thường xuyên tại công ty NAL Solutions (148 đường 3/2, quận Hải Châu, TP Đà Nẵng) - với mục tiêu tạo sân chơi cũng như rèn luyện kỹ năng lập trình cho nhân viên. Thể thức thi đấu: mỗi đội chơi sẽ vượt qua số lượng bài toán trong thời gian nhất định, ngôn ngữ lập trình sử dụng tùy ý.
+Kode War lần thứ 3 phiên bản "Đi tìm dũng sĩ Đà thành" được mở rộng cho các bạn yêu thích lập trình tại Đà Nẵng và đã thu hút sự tham gia của 29 team đến từ các công ty phần mềm và trường đại học trên địa bàn Đà Nẵng. Các đội phải hoàn thành 6 thử thách trong vòng 30 phút.
+Kode War lần thứ 3 phiên bản "Đi tìm dũng sĩ Đà thành".
+Kode War là hoạt động thi đấu lập trình được tổ chức thường xuyên tại công ty NAL Solutions.
+Kết quả chung cuộc, team "DanhDoan" đã giành giải nhất với số điểm tuyệt đối 1.800 trong vòng 16 phút. Team "DanhDoan" cũng ẵm luôn 2 giải Bắn tỉa (dành cho team giải được bài toàn nhanh nhất) và giải Sát thủ (giải được bài toàn mà các team khác bó tay). Team "HoaDoPhuc" đứng thứ haìi với số điểm 1.200 trong vòng 21 phút.
+Công ty NAL Solutions được thành lập vào năm 2015, là công ty công ty chuyên phát triển phần mềm, nghiên cứu và phát triển sản phẩm dịch vụ trong mảng ứng dụng giải pháp, ứng dụng di động, giải pháp nghiệp vụ cho thị trường Nhật Bản và các nước châu Á và thế giới.
+Ngoài Kode War, năm vừa qua NAL còn có nhiều hoạt động như NAL Seagame, NALKathon... nhằm nâng cao sức khỏe cũng như kỹ năng nghề nghiệp cho lập trình viên.
+Nguyễn Tuấn.

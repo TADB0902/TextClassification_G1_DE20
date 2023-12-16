@@ -1,0 +1,8 @@
+Cảm biến MicroPressure.
+Theo Honeywell, MicroPressure là bộ cảm biến lý tưởng cho các ứng dụng đòi hỏi độ chính xác cao hơn với diện tiếp xúc nhỏ (đo mỗi lượt chỉ 5 milimet).
+Cảm biến gắn trên bảng mạch có cổng vào bằng vật liệu cứng không gỉ giúp tạo độ bền cao cho sản phẩm, mức tiêu thụ năng lượng thấp giúp tuổi thọ pin của sản phẩm được lâu hơn.
+Những bộ cảm biến áp suất nhỏ gọn với độ chính xác cao có thể được đưa vào các thiết bị y tế như máy đo huyết áp và máy bơm hút không khí, các thiết gia dụng, như máy pha cà phê, máy giặt và máy rửa chén hiệu suất cao.
+Những bộ cảm biến cực nhỏ của hãng sở hữu giao diện tích hợp sẵn công nghệ Internet of Things giúp khách hàng đưa các sản phẩm nhẹ, nhỏ gọn và lưu động vào thị trường.
+Đối với các thiết bị y tế, với kích thước nhỏ gọn và mức tiêu thụ điện thấp của cảm biến MicroPressure cho phép tạo ra thiết kế sản phẩm máy đo huyết áp nhỏ gọn.
+Đối với máy pha cà phê, cảm biến đem đến một mức độ chính xác cao giúp đảm bảo lượng nước hợp lý luôn có đủ trong hộp chứa. Khả năng này cho phép máy mỗi lần đều tạo ra một ly cà phê ngon hơn.
+P.V.

@@ -1,0 +1,9 @@
+Trường ĐH Công nghệ, nhiều nhóm ngành có điểm sàn cao nhất là 20 và thấp nhất là 16.
+Sinh viên ĐH Quốc gia Hà Nội đang tự học tại Trung tâm thư viện.
+Trường ĐH Khoa học Tự nhiên, ngành Công nghệ sinh học có điểm sàn cao nhất 19,5 và vài ngành có mức điểm 15,5.
+Trường ĐH Khoa học xã hội và Nhân văn 6 ngành có mức điểm đảm bảo chất lượng đầu vào là 20, các ngành còn lại đều 17 điểm.
+Trường ĐH Ngoại ngữ, tất cả các ngành đều có ngưỡng đảm bảo chất lượng đầu vào 15,5.
+Trường ĐH Kinh tế, ngưỡng điểm sàn cao nhất 17 áp dụng cho ngành Kế toán và nhiều ngành có mức điểm 15,5.
+Trường ĐH Giáo dục, điểm sàn từ 16 đến 16,5.
+Khoa Luật; Y dược và Quốc tế có mức điểm sàn từ 15,5 đến 21 điểm.
+Thông tin chi tiết xem có thể xem TẠI ĐÂY.

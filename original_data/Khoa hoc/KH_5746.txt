@@ -1,0 +1,7 @@
+Ảnh minh họa.
+Ông Marcel Just, giáo sư tâm lý học tại Đại học Carnegie Mellon kiêm giám đốc Trung tâm Nghiên cứu Hình ảnh Trí tuệ Nhận thức, đã phát triển một chương trình máy tính có khả năng nhận dạng và xác định cảm xúc. Ông hy vọng công nghệ mới sẽ giúp ngăn chặn những người có ý định tự tử.
+Các nhà nghiên cứu đã lựa chọn 34 người, trong đó có 17 người cho biết họ đang có ý định tự tử. Tiếp đó, họ được cho đọc 30 từ có ý nghĩ tích cực như vô tư" hay "tốt", tiêu cực như "tàn nhẫn" hoặc "xấu hổ" và những từ liên quan đến cái chết như "dùng thuốc quá liều" hoặc "vô vọng". Phản ứng của não trong quá trình đọc đó được ghi lại và phân tích.
+Kết quả, hệ thống trí tuệ nhân tạo đã có ra kết quả chính xác tới 91% khi xác định được 15 trong số 17 người có ý định tự tử và 16 trong tổng số 17 người không có ý định tự tử.
+Ông Just nói: "Chúng ta có thể nhìn vào các biểu hiện thần kinh đó và xem nó thay đổi thế nào, người đó đang nghĩ gì, có bình thường hay không.
+Chương trình máy tính trên còn có thể phân biệt hai đối tượng có ý nghĩ tự tử và đã từng cố tự tử. Nó sẽ không hoàn toàn ngăn chặn được tự tử nhưng là một bước quan trọng để phát hiện ra dấu hiệu trầm cảm. Ông Just hy vọng phát hiện mới trên có thể giúp được nhiều người đang cần sự giúp đỡ.
+PHẠM KHÁNH (Lược dịch).

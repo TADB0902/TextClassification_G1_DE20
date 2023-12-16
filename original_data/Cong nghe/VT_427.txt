@@ -1,0 +1,30 @@
+Thời gian phát hành cuối cùng của Android O.
+Google đã đưa thời gian phát hành mới trên trang web dành cho nhà phát triển của họ. Theo đó thời điểm Android 8.0 được dự kiến phát hành là trong quý 3/2017. Trước đây, bạn có thể cài đặt và thử Preview của nhà phát triển và phiên bản beta công khai.
+Cách cài đặt bản Preview dành cho nhà phát triển.
+Cùng với thông báo về các tính năng của nó, các hình ảnh Android O Developer Preview đã được cung cấp cho Nexus 5X, Nexus 6P, Nexus Player, Pixel C, Pixel và Pixel XL.
+Phiên bản Preview dành cho các nhà phát triển được cung cấp từ ngày 21/3 cho đến khi phiên bản cuối cùng của Android O được phát hành. Hiện bản Preview 3 và Preview 4 mới được phát hành hồi tháng 6 và tháng 7 tương ứng.
+Người dùng có thể tải các phiên bản đó tại đây , và sau đó kích vào install xuất hiện trên thiết bị của bạn. Phần tiếp theo chứa các hướng dẫn từ Google về cách cài hình ảnh hệ thống.
+Cài hình ảnh hệ thống:
+Tải xuống hình ảnh hệ thống thích hợp đối với thiết bị của bạn bên dưới, sau đó giải nén nó vào một thư mục an toàn.
+Kết nối thiết bị của bạn với máy tính qua USB.
+Khởi động thiết bị ở chế độ fastboot bằng một trong các cách sau:
+- Sử dụng công cụ adb: Với thiết bị được bật, thực hiện lệnh sau: adb reboot bootloader.
+- Sử dụng kết hợp phím: Tắt thiết bị, sau đó bật và giữ phím kết hợp thích hợp đối với thiết bị của bạn. Bạn có thể tham khảo tổ hợp phím bấm thích hợp với từng smartphone cụ thể tại đây.
+Nếu cần, mở bootloader của thiết bị sử dụng một trong các cách sau:
+- Nếu bạn đang cập nhật thiết bị Nexus 5X hoặc Nexus 6P bằng cách sử dụng tên mã Hammerhead, hãy cập nhật công cụ khởi động nhanh lên phiên bản mới nhất (>=23.0.1) và sau đó chạy lệnh này: fastboot flashing unlock.
+Nếu bạn đang cập nhật thiết bị cũ hơn thì nên chạy lệnh: fastboot oem unlock.
+Thiết bị mục tiêu sẽ hiển thị cho bạn một màn hình xác nhận. (Thao tác này sẽ xóa tất cả dữ liệu trên thiết bị của bạn).
+Xem phần mở khóa bootloader để biết thêm hướng dẫn chi tiết tại đây.
+Mở một thiết bị đầu cuối và điều hướng tới thư mục hình ảnh hệ thống đã giải nén.
+Thực hiện tất cả các tập lệnh. Tập lệnh này cài đặt bootloader cần thiết, fireware cơ bản và hệ điều hành.
+Khi chạy hết các tập lệnh, thiết bị của bạn sẽ khởi động lại. Bạn nên khóa bootloader để bảo mật:
+Khởi động lại thiết bị ở chế độ fastbook như mô tả ở trên.
+Thực hiện:
+fastboot flashing lock.
+or, for older devices, run:
+fastboot oem lock.
+Khóa bootloader sẽ xóa dữ liệu trên một số thiết bị. Sau khi khóa bootloader, nếu bạn muốn cài lại thì phải chạy lại fastboot oem unlock, sẽ xóa dữ liệu.
+Cách cài đặt bản beta công khai của Android O.
+Đối với những người không biết, chương trình beta cho phép người dùng sử dụng thiết bị Pixel và Nexus của Google để thử các phiên bản mới của Android trước khi triển khai chính thức ra thị trường. Các phiên bản beta có xu hướng bị lỗi, nhưng nếu bạn muốn khám phá thì nên thử cài các bản beta này. Bạn có thể tải về  tại đây.
+Thiết bị đã tham gia vào website Android Beta Program thì trên đó có sẵn tất cả các phiên bản beta. Nếu điện thoại của bạn vẫn chạy phiên bản Nougat beta thì có thể tải hình ảnh OTA của Android O tại đây.
+B.H (Theo Androidpit).

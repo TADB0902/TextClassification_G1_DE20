@@ -1,0 +1,14 @@
+Cảm biến vân tay đang là tính năng được yêu thích trên điện thoại.
+Chỉ cần một cái chạm trên nút Home là có thể mở khóa điện thoại, không cần mật khẩu. Tại các nước phát triển, như Mỹ, với các dịch vụ Apple Pay hay Android Pay, dấu vân tay cũng có thể giúp mua một túi rau quả, một chiếc laptop hay thậm chí cả một con siêu xe Aston Martin giá 1 triệu USD.
+Và chỉ một cái nhấn ngón tay lên ứng dụng ngân hàng cũng giúp người dùng trả hóa đơn hàng tháng của gia đình hay chuyển hàng nghìn USD chỉ trong nháy mắt.
+Mặc dù thuận tiện là thế nhưng hóa ra cảm biến vân tay lại lộ một lỗ hở bảo mật chết người.
+Một phát hiện vừa được các nhà khoa học thuộc Trường ĐH New York và Michigan State công bố cho rằng smartphone đang dễ dàng bị đánh lừa bởi các dấu vân tay giả, được số hóa từ tổng hợp nhiều dấu vân tay khác nhau.
+Mô phỏng trên máy tính, các nhà khoa học từ các trường đại học trên đã có thể tạo ra một chuỗi siêu dấu vân tay nhân tạo để có thể khớp với phần lớn dấu vân tay được sử dụng với tỷ lệ lên tới 65% thành công.
+Các nhà khoa học không thử nghiệm trên các smartphone thực, và các chuyên gia bảo mật khác thì cho rằng tỷ lệ khớp dấu vân tay là khá thấp trong điều kiện thực tế. Tuy nhiên, nghiên cứu đã khiến người ta đặt câu hỏi về tính tiện dụng của dấu vân tay trên smartphone.
+Thực tế vấn đề này không đáng lo ngại như nghiên cứu, nhưng cũng gây ra rắc rối, Andy Adler, Giáo sư hệ thống và kỹ thuật máy tính tại trường Đại học Carleton ở Canada, người nghiên cứu về sinh trắc học, nhấn mạnh.
+Dù vậy, các nhà nghiên cứu khẳng định nếu tin tặc có thể tạo ra được một bàn tay ma thuật với siêu cảm biến (MasterPrint) trên mỗi ngón tay thì bạn có thể sẽ truy cập được từ 40-50% điện thoại iPhone chỉ trong 5 lần thử trước khi điện thoại yêu cầu nhập mã số.
+Trả lời về nghiên cứu trên, Apple cho hay cơ hội để qua mặt hệ thống dấu vân tay trên iPhone là 1/50.000 lần. Ryan James, phát ngôn viên của Apple, cho biết hãng nay đã tiến hành nhiều cuộc tấn công thử nghiệm khi phát triển hệ thống Touch ID, và đã kết hợp với nhiều tính năng bảo mật khác để ngăn chặn việc giả mạo dấu vân tay.
+Trong khi đó, Google từ chối bình luận về vấn đề này.
+Rủi ro thực tế thì khó có thể đo đếm được. Cả Apple và Google đều giữ nhiều bí mật về công nghệ dấu vân tay. Các hãng sản xuất smartphone khác cũng đã tìm cách giúp sản phẩm của mình tương thích với chuẩn thiết kế của Google nhằm giảm thiểu rủi ro an ninh.
+Theo Dân Trí.
+Theo Dân Trí.

@@ -1,0 +1,29 @@
+Dưới đây là danh sách 13 trường dẫn đầu có lượng thí sinh đăng ký nhiều nhất:
+Danh sách 13 trường đại học có số học sinh nguyện vọng đăng ký nhiều nhất.
+STT.
+Tên trường Đại học.
+Tổng số NV.
+NV1,2,3.
+Tỉ lệ.
+ĐH Cần Thơ.
+ĐH Công nghiệp Hà Nội.
+ĐH Kinh tế Quốc dân.
+ĐH Thương mại.
+ĐH Bách khoa Hà Nội.
+ĐH Kinh tế TP.HCM.
+Học viện Tài chính.
+ĐH Tôn Đức Thắng.
+ĐH Sư phạm Kỹ thuật TP.HCM.
+ĐH KHXH và NV- ĐH Quốc gia TP.HCM.
+ĐH KHXH và NV  ĐH Quốc gia Hà Nội.
+ĐH Công nghiệp TP.HCM.
+ĐH Nông lâm TP.HCM.
+Thống kê mới nhất tính đến 8 giờ sáng ngày 17/4 tổng số thí sinh đăng ký dự tuyển là 705.264.
+Số thí sinh đăng ký xét tuyển là 526,810 (74.7%), thí sinh tự do là 45,483 (chiếm 6.45%).
+Về tỉ lệ chọn các bài thi:
+Tỉ lệ chọn bài thi Khoa học Tự nhiên là: 270,730 thí sinh (38.39%); Bài thi Khoa học Xã hội 349,908 thí sinh (49.61%).
+Số thí sinh chọn đăng ký cả hai bài thi Khoa học Tự nhiên và Khoa học Xã hội là 61,333 (8.7%).
+Có 458.287 hồ sơ đăng ký dự thi được nhập vào hệ thống (đạt 86,99%).
+Cụ thể như sau: Nguyện vọng 1 là 458,287 (100%); Nguyện vọng 2 là 402,580 (87.84%); Nguyện vọng 3 là 325,401 (71%); Nguyện vọng 4 là 234,438 (51.16%); Nguyện vọng 5 là 161,078(35.15%); 276,084 (60.24%) là nguyện vọng còn lại.
+Từ ngày 1 đến 20/4, học sinh lớp 12 làm thủ tục đăng ký dự thi THPT quốc gia và đăng ký xét tuyển vào đại học, cao đẳng.
+Ngô Chuyên.

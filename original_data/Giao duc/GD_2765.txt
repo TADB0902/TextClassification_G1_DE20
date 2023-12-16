@@ -1,0 +1,8 @@
+Các sinh viên đoạt giải Tư tại Samsung Collegiate Programming Cup 2017. (Nguồn: Samsung Việt Nam).
+Chia sẻ với phóng viên VietnamPlus sáng 19/8, đại diện Samsung Việt Nam cho biết, trong số 10 thí sinh Việt Nam tham dự vòng Chung kết cuộc thi lập trình quốc tế Samsung Collegiate Programming Cup 2017 (SCPC 2017) tại Hàn Quốc, đã có 4 sinh viên đoạt giải thưởng.
+Tại vòng chung kết, trong khoảng thời gian bốn tiếng, 150 thí sinh (gồm Việt Nam, Hàn Quốc, Ấn Độ) phải tập trung giải quyết 4 bài thi với nội dung chính xoay quanh thuật toán nâng cao và cấu trúc dữ liệu. Với mỗi bài thi, thí sinh có tối đa 10 lượt nộp bài.
+Có hai sinh viên của Việt Nam đoạt giải Tư là Trần Tấn Phát (Đại học Khoa học Tự nhiên Thành phố Hồ Chí Minh) và Lê Minh Quang (Đại học Bách khoa Hà Nội). Ngoài ra, có 2 sinh viên đạt giải Năm là Nguyễn Đức Duy (Đại học Công nghệ - Đại học Quốc gia Hà Nội) và Nguyễn Ngọc Trung ( Đại học FPT).
+Theo ông Huh Chang Wan, Phó Tổng Giám đốc Samsung Electronics Việt Nam, Tổng Giám đốc Trung tâm Nghiên cứu và Phát triển Di động Samsung (SVMC), ngay sau khi cuộc thi tại Việt Nam kết thúc, Samsung Việt Nam đã nhận được đánh giá rất tốt từ phía Hàn Quốc về chất lượng bài thi của các thí sinh khi có điểm thi cao và đồng đều.
+Đây là năm thứ 3 cuộc thi Lập trình quốc tế Samsung được tổ chức tại Hàn Quốc nhưng là năm đầu tiên sinh viên Việt Nam được thử sức với sân chơi này.
+Đại diện Samsung cho biết, theo dự kiến cuộc thi tiếp theo sẽ sẽ mở rộng quy mô để thu hút các ứng viên đến từ châu Âu và Australia. Tại Việt Nam, SVMC sẽ tiếp tục hỗ trợ, quảng bá hoạt động này cho các trường đại học./.
+Trung Hiền (Vietnam+).

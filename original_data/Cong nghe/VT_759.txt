@@ -1,0 +1,14 @@
+Tội phạm mạng đang có xu hướng tăng cường tấn công tinh vi nhằm biến máy tính nạn nhân thành công cụ đào tiền mã hóa. Cách thức tu hú đẻ nhờ này đang mang lại khoản lợi nhuận khổng lồ cho tin tặc.
+Tin tặc đã có cách đào trộm tiền mã hóa tinh vi hơn.
+Theo ArsTechnica, nhiều máy chủ trên toàn cầu vừa được phát hiện bị tin tặc lợi dụng đào tiền mã hóa. Chỉ trong 23 ngày đào trộm tiền mã hóa AEON, các máy chủ này mang về cho tin tặc 6.000 USD.
+Phòng thí nghiệm Morphus Labs ước tính có tới 450 máy chủ đã tham gia vào phi vụ trên. Qua phân tích một máy chủ bị kiểm soát, chuyên gia bảo mật nhận thấy hacker đã khai thác lỗ hổng nguy hiểm trong gói WebLogic của Oracle.
+Lỗ hổng trên đã được Oracle khắc phục từ tháng 10/2017 nhưng có lẽ người quản trị máy chủ chưa cập nhật bản sửa lỗi. Tin tặc được cho đã sử dụng mã khai thác rất đơn giản để lợi dụng lỗ hổng trong WebLogic.
+Giám đốc nghiên cứu Renato Marinho của Morphus Labs cho biết mã khai thác trên được thiết kế riêng cho nhiệm vụ đào tiền mã hóa nhưng cũng có thể dùng cho mục đích khác.
+Phân tích của Marinho cho thấy, mã khai thác đã tắt tính WebLogic nhằm giảm tải việc trên CPU. Phần lớn năng lực xử lý còn lại của CPU dành cho nhiệm vụ đào tiền.
+Nguy hiểm ở chỗ sau 23 ngày máy chủ bị lợi dụng để đào tiền, nhiều quản trị viên không hề biết hệ thống đã bị xâm nhập.
+Các nhà nghiên cứu của công ty bảo mật F5 cũng vạch trần một chiến dịch đào trộm tiền mã hóa khác của tin tặc tháng 12 năm ngoái. Chỉ trong thời gian rất ngắn, nhiều máy tính bị lợi dụng để đào tiền mã hóa Monero, kiếm về cho tin tặc 8.500 USD.
+Tin tặc từng sử dụng mã tấn công trong vụ đào trộm tiền mã hóa Monero để đánh cắp dữ liệu cá nhân của 143 triệu người dùng Mỹ.
+Để tăng thêm hiệu quả, các cuộc đào trộm tiền mã hóa gần đây còn sử dụng hai công cụ khai thác lỗi được Cơ quan An ninh Quốc Mỹ (NSA) phát triển nhưng sau đó (4/2017) bị một nhóm bí mật có tên Shadow Brokers đánh cắp và công khai ra ngoài.
+Các chiến dịch đào trộm tiền mã hóa được Morphus và F5 đưa ra ánh sáng sau phát hiện hồi tháng 10/2017 khi hàng loạt website và ứng dụng độc hại bí mật lợi dụng smartphone và máy tính người dùng để đào trộm tiền mã hóa.
+Tuy nhiên, khi đó kẻ tấn công chỉ nhắm tới smartphone đời thấp và máy tính người dùng có năng lực xử lý hạn chế. Hiện nay, tin tặc nhắm tới các máy chủ có năng lực tính toán cao gấp nhiều lần, giúp đào tiền nhanh hơn để chốt lời càng sớm càng tốt trước khi bị phát hiện.
+Theo Zing.

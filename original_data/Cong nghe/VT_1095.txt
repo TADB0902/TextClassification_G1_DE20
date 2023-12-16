@@ -1,0 +1,17 @@
+Tuần vừa qua chứng kiến cơn khủng hoảng mang tên lỗ hổng chíp nhớ ở hàng tỷ thiết bị được sản xuất trong vòng 20 năm qua trên phạm vi toàn cầu.
+Các nhà nghiên cứu đã phát hiện ra hai phiên bản của lỗ hổng bảo mật này là Meltdown và Spectre. Theo đó, lỗ hổng Meltdown chủ yếu ảnh hưởng đến bộ vi xử lý của Intel và ARM và các nhà nghiên cứu cũng đã bày tỏ sự lo ngại có thể dẫn đến những vụ tấn công thông qua kẽ hở này.
+Theo đó, các lỗ hổng cho phép kẻ tấn công chiếm quyền tiến trình bộ nhớ trên bộ vi xử lý bằng cách khai thác các quy trình chạy song song. Chúng cũng cho phép kẻ tấn công sử dụng mã JavaScrip chạy trong trình duyệt để truy cập vào bộ nhớ trong của thiết bị và lấy đi các dữ liệu quan trọng như mật khẩu và các thông tin có giá trị khác.
+Nghiên cứu đã cho thấy, các cuộc tấn công có thể dễ dàng thực hiện trên các máy Linux. Tuy nhiên Microsoft thì lại cho biết họ không nhận được bất kỳ thông tin nào cho thấy những lỗ hổng này đã được lợi dụng để tấn công vào khách hàng của mình cho đến thời điểm hiện tại.
+Với các máy tính chạy Windows thì việc bảo vệ được xem là khá phức tạp vì vẫn còn nhiều điều chưa rõ ràng. Microsoft, Google và Mozilla đều đang phát hành các bản vá lỗi cho trình duyệt của họ như một hàng phòng ngự đầu tiên. Google cho biết họ sẽ tung bản sửa lỗi với Chrome 64 vào ngày 23/1. Apple thì lặng lẽ lên kế hoạch sửa chữa trình duyệt Safari, thậm chí với cả macOS.
+Theo khuyến cáo của các chuyên gia thì người dùng Chrome, Edge và Firefox trên Windows cũng sẽ không cần phải làm gì nhiều ngoài việc cập nhật hệ điều hành.
+Đối với Windows, Microsoft cũng đã ban hành một bản vá bảo mật khẩn cấp thông qua Windows Update nhưng nếu bạn đang chạy phần mềm chống virus của một bên thứ ba thì có thể bạn sẽ không thấy bản vá đó. Các nhà nghiên cứu bảo mật đang cố gắng lên danh sách những phần mềm chống virus được hỗ trợ. Tuy nhiên, đến thời điểm này thì người dùng vẫn phải tiếp tục chờ đợi.
+Bản cập nhật phần mềm của Intel cũng được tung ra, bổ sung bảo vệ cho phần cứng. Những bản phân phối này sẽ được thực hiện bởi các phần mềm bản quyền OEM.
+Nếu bạn sở hữu môt máy tính xách tay hoặc máy tính chạy Windows, điều tốt nhất bạn nên làm ngay bây giờ là đảm bảo máy đã được cập nhật hệ điều hành mới nhất và cập nhật BIOS của Windows 10 từ Dell, HP, Lenovo hoặc một trong các nhà sản xuất PC uy tín khác. Hi vọng rằng Microsoft hoặc Intel sẽ tạo ra một công cụ đơn giản để kiểm tra mức độ bảo vệ cho cả bản cập nhật phần mềm Windows.
+Để làm được điều này, trước hết bạn phải kiểm tra hoặc làm quen với PowerShell. Cụ thể theo từng bước sau:
+Cập nhật lên phiên bản Chrome mới nhất (vào ngày 23/1) hoặc Firefox 57 nếu bạn sử dụng một trong hai trình duyệt.
+Kiểm tra windows Update và đảm bảo bản cập nhật KB4056892 đã được cài đặt cho Windows 10.
+Vào trang web OEM của máy tính để biết thông tin hỗ trợ và cập nhật phần mềm, áp dụng ngay lập tức.
+Tuy nhiên, các bước kể trên mới chỉ giúp người dùng chống lại lỗ hổng Meltdown, mối đe dọa trực tiếp của các lỗi hệ thống.
+Riêng lỗi Spectre vẫn chưa được biết đến nhiều. Các nhà bảo mật cho rằng lỗi này sẽ khó khai thác hơn là Meltdown. Theo The New York Times thì các bản sửa lỗi của Spectre sẽ phức tạp hơn vì cần thiết kế lại bộ vi xử lý và thay đổi phần cứng. Vì vậy, chúng ta có thể sẽ tiếp tục phải sống với nỗi lo ngại về cuộc tấn công mang tên Spectre trong những năm tới.
+Theo Theverge.
+Đ.Huệ.

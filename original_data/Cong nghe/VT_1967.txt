@@ -1,0 +1,19 @@
+Tháng 11/2017, Strava đăng tải bản đồ nhiệt cập nhật nhất về các hoạt động từng được đăng tải qua ứng dụng này với hơn 3.000 tỷ điểm dữ liệu GPS. Tuy nhiên, các nhà phân tích quân sự phát hiện ra bản đồ này có đủ chi tiết làm lộ các thông tin cực kỳ nhạy cảm về một bộ phận người dùng Strava, đó là lực lượng quân đội.
+Lộ nhiều thông tin nhạy cảm.
+Strava là ứng dụng có thể được sử dụng trên nhiều thiết bị bao gồm điện thoại thông minh và các thiết bị đeo theo dõi sức khỏe như Fitbit để nhìn thấy các đường chạy phổ biến trong thành phố.
+Các căn cứ quân sự Diego Garcia của Mỹ trên Thái Bình Dương hiển thị trên bản đồ nhiệt của Strava. Ảnh: CNN.
+Bản đồ nhiệt toàn cầu của Strava được nhận xét là hệ thống dữ liệu lớn nhất và là hình ảnh thể hiện rõ nhất mạng lưới các vận động viên toàn cầu. Bản đồ cập nhật mới nhất của Strava công bố cuối năm 2017 có dữ liệu nhiều hơn gấp 6 lần so với bản trước đó.
+Tuy nhiên, Nathan Ruser, một nhà phân tích của Viện các nhà phân tích xung đột Mỹ, đăng tải trên Twitter hôm 27/1 rằng, bản đồ của Strava khiến các căn cứ quân sự Mỹ hiện rõ trên bản đồ.
+Theo ông Ruser, Nếu binh lính sử dụng ứng dụng này như những người bình thường khác  bật lên để theo dõi sức khỏe trong quá trình tập thể dục, sự việc sẽ đặc biệt nguy hiểm, bởi Strava lưu lại hết các đường chạy thường xuyên của người dùng.
+Trong khi đó, ông Scott Lafoy, một nhà phân tích hình ảnh mã nguồn mở nói với CNN rằng, Về mặt chiến lược, chúng ta đều biết các căn cứ quân sự ở đó. Chúng ta biết rất nhiều địa điểm, và các dữ liệu trên Strava chỉ là những dữ liệu phụ thuộc.
+Cho dù những dữ liệu được đăng tải ẩn danh, thì bạn vẫn có thể tìm ra các thông tin có giá trị dựa trên lộ trình và thời gian biểu. Khi đó thì mọi chuyện lại trở nên nghiêm trọng, ông Lafoy cho biết thêm.
+Khi phóng to vào một trong các căn cứ lớn, nó còn tiết lộ cả bố trí nội bộ của các căn cứ này, do nó được hiển thị trên bản đồ bởi những đường chạy của vô số binh lính. Các căn cứ địa không nhìn thấy được trên hình ảnh vệ tinh của những nhà cung cấp dịch vụ thương mại như Google Maps hay Apple Maps, nhưng lại nhìn thấy rõ ràng qua Strava.
+Trong số các địa điểm bị lộ trên Strava, có một căn cứ nghi là của CIA tại Somalia, một khu vực hệ thống phòng thủ tên lửa Patriot ở Yemen và các địa điểm chiến dịch đặc biệt của Mỹ ở khu vực Sahel châu Phi.
+Căn cứ RAF Mount Pleasant thuộc Không quân Hoàng gia Anh ở quần đảo Falkland cũng bị lộ trên bản đồ nhiệt của Strava. Ảnh: CNN.
+Các căn cứ quân sự như Diego Garcia của Mỹ trên Thái Bình Dương hay căn cứ RAF Mount Pleasant thuộc Không quân Hoàng gia Anh ở quần đảo Falkland cũng hiển thị trên bản đồ nhiệt của Strava.
+Hạn chế đăng tải thông tin.
+Bộ Quốc phòng Mỹ trong một phản hồi đã nói rằng, hàng năm, Bộ đều có các cuộc huấn luyện liên quan cho các nhân viên của Bộ, theo đó khuyến cáo hạn chế công khai thông tin trên internet, trong đó bao gồm cả các tài khoản mạng xã hội cá nhân.
+Tuy nhiên, việc lộ các dữ liệu trên ứng dụng Strava cũng nhấn mạnh sự cần thiết phải rà soát lại về tình hình nhận thức khi nào các nhân viên quân sự có thể chia sẻ thông tin cá nhân, Người phát ngôn Lầu Năm Góc Audricia Harris nói.
+Ông Harris cũng cho biết, những vấn đề như thế này là đặc biệt nghiêm trọng. Bộ Quốc phòng đang xem xét tình hình và sẽ quyết định có cần đưa ra hướng dẫn nào không để đảm bảo an toàn cho các nhân viên của Bộ trên lãnh thổ Mỹ cũng như ở nước ngoài.
+Trong khi đó, đại diện của Strava nói rằng, công ty này cam kết giúp người dùng hiểu rõ hơn về các cài đặt riêng tư: Bản đồ toàn cầu của chúng tôi là một sự tập hợp và ẩn danh hàng tỷ hoạt động được đăng tải trên nền tảng của chúng tôi. Nó loại trừ các hoạt động được đánh dấu là riêng tư./.
+Thùy Linh/VOV.VN.

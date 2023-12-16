@@ -1,0 +1,134 @@
+Trường ĐH Ngân hàng TP HCM năm 2018 dự kiến tuyển 2.700 chỉ tiêu, với chỉ tiêu cao nhất (700) rơi vào ngành tài chính  ngân hàng. Năm nay, trường tuyển sinh theo phương thức xét tuyển dựa vào kết quả kỳ thi THPT quốc gia 2018, với các mã tổ hợp: A00. A01, D01, D90, D96. Lưu ý, năm nay các ngành chương trình đại trà sẽ tuyển sinh độc lập với chỉ tiêu và điểm chuẩn riêng gồm: tài chính - ngân hàng, kế toán, quản trị kinh doanh, kinh tế quốc tế, hệ thống thông tin quản lý, ngôn ngữ Anh, luật kinh tế.
+Trường ĐH Quốc tế - ĐHQG TP HCM năm nay cũng tuyển sinh dựa trên nhiều phương thức. Cụ thể: Xét tuyển dựa trên kết quả kỳ thi THPT Quốc gia 2018 (15%); xét tổng điểm của 3 môn thi trong kỳ thi THPT Quốc Gia theo khối đăng ký xét tuyển (Xét tuyển thẳng, ưu tiên xét tuyển theo quy chế tuyển sinh ĐH, CĐ chính quy năm 2018 của Bộ GD-ĐT (2%); Xét tuyển học sinh giỏi của các trường THPT theo quy định của ĐHQG (5%); Thi tuyển - kỳ kiểm tra năng lực của trường ĐH Quốc tế (65%); Xét tuyển dựa trên học bạ đối với học sinh có quốc tịch nước ngoài hoặc học sinh Việt Nam học chương trình THPT nước ngoài (3%); Xét tuyển dựa trên kết quả kỳ kiểm tra năng lực của ĐHQG TP HCM (10%).
+Trường ĐH Sư phạm Kỹ thuật TP HCM cũng chốt phương án tuyển sinh 2018. Theo đó, năm nay trường sẽ xét tuyển dựa vào kết quả thi THPT quốc gia năm 2018. Riêng các ngành hệ đào tạo chất lượng cao sẽ dành tối đa 40% chỉ tiêu xét theo điểm trung bình học bạ của từng môn theo tổ hợp trong 5 học kỳ (trừ học kỳ 2 lớp 12) từ 7.0 trở lên. Nhà trường sẽ giảm học phí cho các thí sinh nữ trúng tuyển vào trường với mức giảm 50% ở 8 ngành và giảm 25% ở 6 ngành học. Cụ thể:
+TT.
+Tên ngành đào tạo.
+Mã các ngành thuộc nhóm.
+Hệ đại trà.
+Hệ chất lượng cao dạy bằng tiếng Việt.
+Hệ chất lượng cao dạy bằng tiếng Anh.
+Tổ hợp môn xét tuyển (in đậm là môn chính nhân hệ số 2).
+Mã ngành.
+Chỉ tiêu.
+Mã ngành.
+Chỉ tiêu.
+Mã ngành.
+Chỉ tiêu.
+CNKT điện, điện tử **.
+7510301D.
+7510301C.
+7510301A.
+Toán, Lý, Hóa.
+Toán, Lý, Anh.
+Toán, Văn, Anh.
+Toán, Anh, Khoa học tự nhiên (KHTN).
+CN chế tạo máy *.
+7510202D.
+7510202C.
+7510202A.
+CNKT cơ điện tử *.
+7510203D.
+7510203C.
+7510203A.
+CNKT công trình XD *.
+7510102D.
+7510102C.
+7510102A.
+CNKT ô tô *.
+7510205D.
+7510205C.
+7510205A.
+CN thông tin.
+7480201D.
+7480201C.
+7480201A.
+Kỹ thuật dữ liệu.
+7480203D.
+CNKT cơ khí *.
+7510201D.
+7510201C.
+7510201A.
+CNKT nhiệt *.
+7510206D.
+7510206C.
+7510206A.
+Năng lượng tái tạo **.
+7510208D.
+Công nghệ kỹ thuật in.
+7510801D.
+7510801C.
+Công nghệ may.
+7540205D.
+7540205C.
+CNKT điện tử - viễn thông.
+7510302D.
+7510302C.
+7510302A.
+KT XD công trình giao thông *.
+7580205D.
+CNKT máy tính.
+7480108D.
+7480108C.
+7480108A.
+Quản lý xây dựng **.
+7580302D.
+CNKT ĐK và tự động hóa **.
+7510303D.
+7510303C.
+7510303A.
+Quản lý công nghiệp.
+7510601D.
+7510601C.
+Kế toán.
+7340301D.
+7340301C.
+Thương mại điện tử.
+7340122D.
+KT công nghiệp *.
+7520117D.
+Kỹ thuật y sinh (Điện tử YS) **.
+7520212D.
+Logistics & Qlý chuỗi cung ứng.
+7510605D.
+Sư phạm công nghệ.
+7140246D.
+CN chế biến lâm sản (chế biến gỗ) **.
+7549001D.
+Thiết kế đồ họa.
+7210403D.
+Văn, Vẽ 1 , Vẽ 2; Toán, Văn, Vẽ; Toán, Anh, Vẽ; Văn, Anh, Vẽ.
+Kiến trúc.
+7580101D.
+Toán, Văn, Vẽ; Toán, Lý, Vẽ; Toán, Anh, Vẽ; Văn, Anh, Vẽ.
+Công nghệ vật liệu.
+7510402D.
+Toán, Lý, Hóa; Toán, Lý, Anh; Toán, Hóa, Anh; Toán, Anh, KHTN.
+CNKT môi trường.
+7510406D.
+Toán, Lý, Hóa.
+Toán, Hóa, Sinh.
+Toán, Hóa, Anh.
+Toán, Anh, KHTN.
+Công nghệ thực phẩm.
+7540101D.
+7540101A.
+CNKT Hóa học.
+7510401D.
+Kỹ thuật nữ công.
+7810502D.
+Toán, Lý, Hóa; Toán, Văn, Anh; Toán, Hóa, Sinh; Toán, Hóa, Anh.
+Quản trị nhà hàng và dịch vụ ăn uống.
+7810202D.
+Toán, Lý, Hóa; Toán, Văn, Anh; Toán, Lý, Anh; Toán, Hóa, Anh.
+Thiết kế thời trang.
+7210404D.
+Toán, Anh, Vẽ; Toán, Văn, Vẽ.
+Sư phạm tiếng Anh.
+7140231D.
+Toán, Văn, Anh.
+Toán, Anh, KHXH.
+Ngôn ngữ Anh.
+7220201D.
+* Giảm 25% học phí nữ sinh; ** giảm 50% học phí nữ sinh.
+Trường ĐH Giao thông Vận tải TP HCM trước đó cũng công bố phương án tuyển sinh. Theo đó, trường tuyển sinh dựa trên kết quả kỳ thi THPT quốc gia 2018 trừ 30% chỉ tiêu cho phương thức xét tuyển học bạ THPT với các ngành (cả CLC và đại trà): khoa học hàng hải chuyên ngành vận hành khai thác máy tàu thủy, khoa học hàng hải chuyên ngành thiết bị năng lượng tàu thủy, kỹ thuật môi trường và kỹ thuật tàu thủy.
+H. Nhiên.

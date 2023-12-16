@@ -1,0 +1,15 @@
+Nếu một ngày nào đó bạn không may mắn gặp trường hợp iPhone của mình bị vô hiệu hóa hoặc bị khóa hoàn toàn do nhập mật mã sai, bạn có thể đối diện với tình thế tiến thoái lưỡng nan. Vấn đề có thể được thêm phức tạp nếu bạn không có một bản sao lưu iTunes hoặc chưa bao giờ sao lưu thiết bị của mình với iTunes.
+Bạn có thể khôi phục iPhone bị khóa nếu chịu bỏ ra chút thời gian.
+Khôi phục iPhone mà không có bản sao lưu iTunes là có thể nhưng chỉ khi sự kiên nhẫn của bạn đã sẵn sàng để thực hiện theo những hướng dẫn dưới đây, nó làm việc với tất cả các ứng dụng và dữ liệu.
+Nếu chưa bao giờ sao lưu iPhone thông qua iTunes, nó sẽ không cho phép bạn quay trở lại khi khi nó bị khóa. Trên thực tế, iTunes sẽ không thể phát hiện ra nó. Vì vậy câu hỏi đặt ra là làm thế nào có thể đối phó khi iPhone bị khóa và bị vô hiệu? Điều này được giải quyết thông qua tính năng Recovery Mode. Nhưng với điều này bạn sẽ mất tất cả dữ liệu vì nó sẽ xóa dữ liệu ứng dụng, danh bạ, hình ảnh, nhạc và hầu hết mọi thứ nằm trên thiết bị iOS của bạn.
+Nếu đã đồng bộ hóa và thiết lập sao lưu iCloud, khả năng tìm kiếm tất cả dữ liệu ứng dụng, ảnh và địa chỉ liên hệ của bạn trong iCloud rất cao. Trong trường hợp đó, bạn có thể tiếp tục với sự đảm bảo rằng bạn có thể khôi phục lại thiết bị từ một bản sao lưu iCloud và làm việc với tất cả mọi thứ. Khi đã đồng bộ hóa thiết bị với iTunes, bạn sẽ may mắn bởi bạn có thể sao lưu iPhone và khôi phục lại nó như là thiết bị mới mà không có bất kỳ vấn đề.
+- Kết nối iPhone với máy tính và mở iTunes.
+- Chọn iPhone từ thanh bên cạnh hoặc từ trên cùng bên phải màn hình.
+Hãy kết nối iPhone và đảm bảo tính năng Find my iPhone đã được vô hiệu hóa.
+- Trong tab Summary, chọn Back Up Now. Khi thiết bị của bạn được sao lưu thành công, nhấp vào Restore iPhone.
+Lưu ý: Nếu đã bật Find my iPhone trên thiết bị của mình, bạn sẽ không được phép khôi phục nó. Nếu iTunes tiến hành khôi phục không có vấn đề, thiết bị của bạn sẽ bị xóa sạch và khôi phục dưới dạng một thiết bị mới.
+Trong trường hợp iTunes phát ra lỗi hãy thử sử dụng Recovery Mode để khôi phục thiết bị như trong hướng dẫn dưới đây.
+- Nhấn/giữ nút bật/tắt và Home trong khoảng 10 giây. Giữ cả 2 nút cho đến khi màn hình Connect to iTunes xuất hiện. Lưu ý là đối với iPhone X, 8 và 8 Plus, bạn hãy nhấn và thả nút tăng âm lượng > nhấn và thả nút giảm âm lượng.
+Sau đó nhấn và giữ nút nguồn cho đến khi màn hình Recovery Mode xuất hiện. Tiếp theo kết nối thiết bị của bạn với máy tính và tiếp tục quá trình khôi phục.
+- Khi thiết bị của bạn đã được khôi phục thành công, thiết lập nó như bình thường. Trong quá trình thiết lập, bạn sẽ có tùy chọn Restore from iTunes backup. Chọn Restore from iTunes Backup và tìm đến bản sao lưu gần đây nhất.
+Kiến Tường (Theo iGeeksBlog).

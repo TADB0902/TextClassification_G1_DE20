@@ -1,0 +1,11 @@
+Các nhà mạng ký kết với đại diện Bộ TT-TT ngăn chặn tin nhắn rác.
+Hướng tiếp cận mới trong việc phối hợp tăng cường ngăn chặn tin nhắn rác được các nhà mạng thống nhất là:
+Xây dựng tập/bộ mẫu tin nhắn rác và thống nhất dùng chung: tập mẫu tin nhắn rác của từng nhà mạng được tổng hợp để thống nhất dùng chung trên tất cả các nhà mạng;
+Được cập nhật liên tục để huấn luyện cho các hệ thống chặn tin nhắn rác thông minh của từng mạng di động, qua đó kết hợp được năng lực của tất cả các hệ thống và biện pháp ngăn chặn tin nhắn rác của nhà mạng.
+Nâng cấp, đầu tư mới các hệ thống chặn lọc tin nhắn rác thông minh: sử dụng các kỹ thuật học máy, phân tích dữ liệu lớn, đánh giá tín nhiệm của thuê bao... kết hợp với việc sử dụng tập mẫu dùng chung để ngăn chặn các hành vi, chiêu thức biến hóa liên tục của các đối tượng phát tán tin nhắn rác.
+Công bố chỉ tiêu đánh giá hiệu quả ngăn chặn tin nhắn rác: chỉ tiêu này được xây dựng dựa trên các số liệu phản ánh của khách hàng về tin nhắn rác và số liệu chặn tin nhắn rác từ các hệ thống kỹ thuật của nhà mạng, bao gồm cả chặn nội mạng và liên mạng.
+Đây được coi là chỉ tiêu quan trọng để đánh giá chất lượng dịch vụ di động của các nhà mạng sau này và được công bố trên trang chỉ website của các nhà mạng để xã hội, người dân cùng giám sát kết quả, qua đó nhà mạng phải nỗ lực hơn trong việc chặn tin nhắn rác.
+Thời gian thực hiện cam kết là từ 1-7-2017.
+Để triển khai đúng cam kết này, Bộ TT-TT sẽ thành lập đoàn kiểm tra, giám sát việc thực hiện cam kết của nhà mạng nhằm đảm bảo hiệu quả, công bằng trong việc ngăn chặn tin nhắn rác.
+Bộ TT-TT cũng yêu cầu người đứng đầu các nhag mạng sẽ chịu trách nhiệm trước Bộ trưởng Bộ TT-TT về việc thực hiện cam kết này.
+Theo Bộ TT-TT, thời gian qua, dưới sự chỉ đạo quyết liệt của Bộ TT-TT, các nhag mạng đã có nhiều nỗ lực trong việc ngăn chặn tin nhắn rác, trong đó có việc khóa dịch vụ, thu hồi gần 20 triệu SIM kích hoạt sẵn trên các kênh phân phối. Tuy nhiên, do nhiều nguyên nhân nên tin nhắn rác vẫn tồn tại khá phổ biến và có chiều hướng ngày càng tinh vi, phức tạp.

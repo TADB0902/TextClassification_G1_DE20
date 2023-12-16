@@ -1,0 +1,7 @@
+Vừa mới đây, Brandon LeBlanc - quản lý cấp cao trong nhóm dự án Insiders của Microsoft đã chính thức xác nhận trên Twitter rằng: Sẽ không có phiên bản Windows 10 Mobile Insider mới nào được phát hành. Windows 10 Mobile sẽ được hỗ trợ đến tháng 12 năm 2019, nghĩa là người dùng vẫn nhận được các bản cập nhật bảo mật hàng tháng từ Microsoft nhưng hoàn toàn sẽ không bổ sung thêm bất kỳ tính năng nào khác.
+Tuy nhiên, đến một khoản thời gian nào đó Microsoft có thể hoàn toàn từ bỏ nền tảng này, lúc đó, hệ điều hành này vẫn có thể tiếp tục được sử dụng nếu yêu thích nhưng nó sẽ không còn được mạnh mẽ và tốt như trước và hãy chuẩn bị tinh thần để nói lời từ biệt với Windows 10 Mobile.
+No mobile builds are coming.
+Brandon LeBlanc (@brandonleblanc).
+Microsoft vẫn giữ lại ứng dụng Windows Insider, từ đó nếu người dùng muốn thử nghiệm những bản cập nhật ứng dụng khác có thể để điện thoại về chế độ Fast Ring. Trước đó, Microsoft đã xác nhận rằng họ không còn tập trung vào việc xây dựng phần cứng hoặc các tính năng Windows 10 Mobile mới.
+Theo Windowscentral.
+Sang Smith.

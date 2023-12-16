@@ -1,0 +1,6 @@
+Trên trang hỗ trợ của Apple, ngày càng nhiều các khiếu nại về lỗi không hiển thị màn hình khi có cuộc gọi đến. Kể từ tháng 12/2017, hàng trăm người dùng iPhone X đã đưa ra thắc mắc về việc có tiếng chuông điện thoại báo nhưng màn hình chỉ hiển thị sau 6 đến 8 giây để người nghe xác định được ai đang gọi và chấp nhận/từ chối cuộc gọi đó.
+(Nguồn: 9to5mac).
+Hiện tại, nguyên nhân của hiện tượng này chưa được làm rõ do lỗi phần mềm hay phần cứng. Một khách hàng cho biết sau khi cài đặt lại iPhone X, hiện tượng này chỉ biến mất được một thời gian ngắn, sau đó lại xuất hiện. Một người dùng khác, thậm chí đã được Apple đổi một chiếc iPhone X mới, nhưng vẫn gặp khó với việc màn hình không hiển thị khi có cuộc gọi ở chiếc điện thoại thay thế này.
+Ngoài ra, còn có cả khiếu nại về phần cảm ứng khi đang thực hiện cuộc gọi của iPhone X. Hiển thị màn hình không hề xuất hiện trở lại khi người nghe đưa thiết bị ra xa tai của mình.
+Apple cho biết công ty này đang nghiên cứu các khiếu nại trên, và không tiết lộ nguyên nhân gây ra lỗi hay thời điểm các lỗi sẽ được sửa chữa.
+A.M (Theo 9to5mac).

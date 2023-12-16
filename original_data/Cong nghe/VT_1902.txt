@@ -1,0 +1,7 @@
+Phương Nam Book City thứ 3 vừa khai trương tại một trung tâm thương mại ở Quận 10 (TP.HCM), đồng thời mở quầy bán sách bằng QR Code. Tại quầy sách này, có hơn 100 đầu sách bán chạy nhất sẽ được trưng bày để khách chọn lựa và thanh toán bằng ứng dụng.
+Đây là dự án hợp tác giữa Phương Nam và Zalo, giúp khách hàng mua sách bằng cách sử dụng ZaloPay.
+Quầy sách "ảo".
+Cụ thể, tại một quầy sách, hàng trăm quyển bán chạy thuộc nhiều chủ đề khác nhau sẽ được trưng bày. Người dùng mở ứng dụng ZaloPay để quét mã QR trên quầy. Hàng trăm quyển sách sẽ hiện ra trên ứng dụng, người dùng chỉ việc chọn tên sách cần mua, số lượng, sau đó chọn các hình thức thanh toán thông qua tài khoản ví điện tử hoặc liên kết với thẻ ngân hàng. Giao dịch được xử lý trong vòng 2 giây, khách hàng có thể đến quầy thu ngân nhận sách, chỉ trong 30 giây.
+Khách mang điện thoại đến quầy thu ngân nhận sách.
+Hình thức thanh toán qua QR Code nở rộ tại Trung Quốc, Ấn Độ, và dự báo sẽ phát triển ở nhiều quốc gia khác do tính tiện lợi của nó. Phương thức này không dùng tiền mặt, giảm thiểu nguy cơ lộ thông tin tài khoản thẻ so với việc dùng thẻ thanh toán.
+Hải Đăng.

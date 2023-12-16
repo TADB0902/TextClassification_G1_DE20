@@ -1,0 +1,18 @@
+Nhóm sinh viên ĐH Sư phạm Kỹ thuật TPHCM cùng thiết bị hỗ trợ bữa ăn cho người già và bệnh nhân Parkinson.
+Trần Tấn Thanh- sinh viên năm cuối khoa Cơ khí chế tạo máy - thành viên nhóm tác giả đề tài cho biết: Chứng kiến các cụ già, trẻ em và bệnh nhân mắc bệnh parkinson (bệnh liệt rung) bị run tay, khó khăn trong việc ăn uống, chúng em đã cùng nhau thiết kế, chế tạo máy hỗ trợ ăn uống với tên gọi Feedbot.
+Quá trình thực hiện đề tài, nhóm sinh viên đã đi thực tế khảo sát tại các bệnh viện, mái ấm, tiếp xúc với nhiều người già neo đơn trên địa bàn thành phố và những bệnh nhân bị bệnh parkinson gặp khó khăn trong ăn uống, sinh hoạt để từ đó nghiên cứu, chế tạo công cụ hỗ trợ.
+Thứ trưởng Bộ GD &ĐT Nguyễn Văn Phúc trao thưởng cho nhóm sinh viên ĐH Sư phạm Kỹ thuật TPHCM đạt giải nhất.
+Sau hai tháng thiết kế và chế tạo, nhóm bạn này đã cho ra đời chiếc máy hỗ trợ ăn uống với tên gọi Feedbot. Sản phẩm đã được thực nghiệm tại mái ấm Thiên Ân (quận Thủ Đức) và được đánh giá là thiết thực, hiệu quả.
+Chiếc máy được thiết kế đơn giản, hình oval và có ba khay đựng thức ăn có thể xoay tròn. Máy có gắn một thiết bị như một cánh tay, đính kèm muỗng xúc thức ăn.
+Bên trong máy là một bộ phận được tích hợp và có cảm biến nhằm định vị để nhận biết tư thế, vị trí cũng như chiều cao của người sử dụng, điều chỉnh sao cho phù hợp nhất để người bệnh có thể ăn uống thoải mái. Chiếc máy sẽ thực hiện công việc lấy thức ăn giúp người sử dụng.
+Sản phẩm đã được thực nghiệm tại mái ấm Thiên Ân và được đánh giá là thiết thực, hiệu quả.
+Chiếc máy ra đời với mục đích hỗ trợ người mắc bệnh parkinson trong việc ăn uống. Hiện tại, dù sản phẩm đã được người sử dụng thử đánh giá cao, nhưng vẫn còn trong quá trình vận hành thử nghiệm.
+Nhóm vẫn đang cải thiện và nâng cấp sản phẩm với mong muốn sẽ được sản xuất đại trà và đưa vào các bệnh viện, viện dưỡng lão để hỗ trợ các bệnh nhân.
+Để điều khiển chiếc máy này, các bạn sinh viên cũng thiết kế, lập trình một romoto điều khiển bằng hai phím bấm đơn giản, nhỏ gọn để truyền dữ liệu đến cánh tay robot (qua wifi) để người sử dụng điều khiển.
+Hai phím điều khiển này có thể giúp người sử dụng điều chỉnh độ cao của cánh tay lấy thức ăn, chọn món ăn, múc thức ăn. Nhóm sinh viên còn thiết kế một chương trình theo dõi, sau mỗi lần ăn, máy sẽ tự động thống kê các số liệu dinh dưỡng, tốc độ lấy thức ăn truyền về máy tính nhằm giúp các trung tâm quản lý, bệnh viện có thể theo dõi được chế độ ăn uống, số lần ăn, từ đó điều chỉnh chế độ ăn cho phù hợp.
+Chiếc máy hỗ trợ ăn uống với tên gọi Feedbot.
+Bạn La Hoàng Thắng cho biết thêm: Trong quá trình chế tạo, khó khăn lớn nhất là việc tìm vật liệu sao cho phù hợp, các phần mềm, cảm biến cần thiết kế, tạo lập để máy không chỉ hỗ trợ các bệnh nhân parkinson khó khăn trong việc ăn uống mà còn giúp họ nắm được thông số dinh dưỡng, lượng ca-lo sau mỗi bữa ăn để từ đó có một chế độ dinh dưỡng phù hợp.
+PGS Nguyễn Trường Thịnh- Trưởng khoa Cơ khí chế tạo máy (Trường Đại học Sư phạm Kỹ thuật TPHCM) nhận xét: Đây là một sản phẩm có nhiều ý nghĩa thực tiễn, gắn liền với nhu cầu thực tế xã hội và mang tính nhân văn cao.
+Sản phẩm không chỉ phục vụ người mắc bệnh parkinson, người già mà trẻ em cũng có thể sử dụng. Hiện, có nhiều nhà hảo tâm muốn tài trợ sản xuất máy feedbot hàng loạt để đưa vào phục vụ tại các bệnh viện và trung tâm dưỡng lão.
+Vân Anh.
+Vân Anh.

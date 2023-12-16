@@ -1,0 +1,25 @@
+Ảnh minh họa.
+Kiểm tra cài đặt của bạn.
+Bạn có thể tối ưu hóa trải nghiệm âm thanh trên thiết bị Android thông qua cài đặt. Tuy nhiên, không phải tất cả giao diện người dùng Android đều có tính năng này. Do đó, nếu trường hợp máy của bạn được trang bị sẵn, bạn có thể thực hiện theo các bước đơn giản dưới đây để nhanh chóng nâng cao cài đặt âm thanh của mình.
+Đối với thiết bị Samsung, bạn kết nối với bất kỳ thiết bị âm thanh nào bạn muốn sử dụng và thực hiện theo các bước sau:
+- Mở Settings và chạm vào Sounds and vibration.
+- Nhấn Sound quality and effects từ đây sẽ có một loạt các tùy chọn để nâng cao trải nghiệm âm thanh trên thiết bị.
+Trên giao diện MIUI của Xiaomi có sẵn một Enhancer cho tai nghe. Bạn chỉ cần cắm tai nghe, tùy chỉnh và tận hưởng. Giao diện còn cho phép lựa chọn giữa tai nghe in-ear và tai nghe bình thường.
+Xperia UI cho phép bạn sử dụng các thiết lập Clear audio và equalizer để tinh chỉnh. Bạn có thể truy cập thông qua các cài đặt.
+Với giao diện của HTC, bạn có thể bật / tắt BoomSound nhưng chúng tôi khuyên bạn không nên tắt nó vì nếu không chất lượng âm thanh sẽ rất tồi. Tuy nhiên, bạn không thể tối ưu hóa các thiết lập từ Oxygen, Optinmus hay Stock Android.
+Cài đặt một ứng dụng âm nhạc tốt hơn.
+Nếu ứng dụng âm nhạc hiện tại của bạn không mang lại chất lượng âm thanh tốt nhất, tốt nhất bạn nên lựa chọn thay thế bằng một ứng dụng khác mang đến nhiều sự lựa chọn nâng cao hơn. Hai phần mềm mà chúng tôi gợi ý cho bạn đó là PowerAMP và Equalizer +.
+PowerAMP cung cấp tùy chỉnh 10-band cùng nhiều tùy chỉnh chuyên sâu khác. Bạn sẽ phải chi trả một vài đô để sử dụng tất cả các tính năng tốt nhất nhưng chắc chắn số tiền bạn bỏ ra sẽ không uổng phí một chút nào.
+Sử dụng EQ.
+Các điều khiển âm thanh mặc định trên hầu hết các điện thoại không hoàn toàn chính xác. Một số chỉ có mức EQ cơ bản và thường chỉ hoạt động trong các ứng dụng nhạc mặc định và không kiểm soát âm thanh.
+Điều quan trọng cần lưu ý là không có ứng dụng nào hoàn hảo khi phần cứng không hoạt động đúng cách, tuy nhiên với một vài điều chỉnh đơn giản thì chất lượng âm thanh trên thiết bị có thể được cải thiện đáng kể. Vì vậy, hãy vào Google Play và tải xuống các ứng dụng chỉnh âm như Music Volume EQ và Bass Booster.
+Xem xét vị trí đặt loa của bạn.
+Mặc dù c nghe khá ngớ ngẩn nhưng điều đầu tiên bạn cần phải biết là âm thanh phát ra từ đâu trên thiết bị của bạn. Rất nhiều điện thoại được trang bị cả hai loa nhưng thường chỉ có một trong số hai loa tạo ra âm thanh. Còn nếu như loa của bạn bị khóa thì chất lượng âm thanh của bạn sẽ thấp và thậm chí không tồn tại.
+Kiểm tra âm thanh của thiết bị đến từ đâu khi chơi một số giai điệu và nghe âm thanh phát ra từ các lỗ khác nhau trên điện thoại cho đến khi bạn biết chính xác âm thanh phát ra từ đâu.Một khi biết được vị trí âm thanh phát ra từ đâu bạn sẽ biết cách điều chỉnh âm thanh sao cho đạt hiệu quả nhất hoặc cách đặt sao cho không chặn mất vị trí của loa.
+Một cách hiệu quả mà đơn giản đó là đặt điện thoại vào trong một cái cốc hoặc cái bát. Việc hướng loa vào các phía góc cũng giúp âm thanh phản xạ và bật ra ngoài theo nhiều hướng, mang lại trải nghiệm âm thanh tốt hơn.
+Kiểm tra xem loa có đang bị chặn hay không.
+Nếu điện thoại của bạn đang sử dụng vỏ bảo vệ, nó sẽ ảnh hưởng đến chất lượng âm thanh từ loa. Tất cả những âm thanh đến từ bên trong điện thoại sẽ bị nghẽn bởi lớp plastic hoặc cao su mà nhà sản xuất sẽ không tính đến khi thiết kế hệ thống loa. Đôi khi nó còn chặn các phần thiết yếu của điện thoại như đầu cắm âm thanh, micrô hoặc loa. Do đó, trước khi mua một thiết bị, hãy chắc chắn rằng bạn đã kiểm tra và thấy rằng thiết bị không bị chặn bởi bất cứ thứ gì.
+Sử dụng tai nghe.
+Thực tế là hầu hết các loa của điện thoại thông minh thường không đủ tốt để có được chất lượng âm thanh hoàn hảo, thậm chí khi đã cài đặt một ứng dụng âm nhạc hay EQ. Tuy nhiên, khi nghe bằng tai nghe thì chất lượng âm thanh lại tốt hơn hẳn.
+Do đó, hãy lựa chọn cho mình một chiếc tai nghe phù hợp với nhu cầu bản thân và mức giá cả phù hợp.
+Thanh Hà /

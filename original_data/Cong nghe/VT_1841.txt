@@ -1,0 +1,11 @@
+Trụ sở bí mật của Cơ quan An ninh Truyền thông Canada (CSE) nằm trong khu phức hợp ở Ottawa. Ảnh: báo chí Canada.
+Phóng viên TTXVN tại Canada dẫn tuyên bố của cơ quan trên cho biết đây là "bước đi chưa từng có" của CSE khi lần đầu tiên cơ quan này phát hành công cụ bảo vệ không gian mạng cho công chúng nhằm giúp các công ty và tổ chức bảo vệ tốt hơn hệ thống mạng cũng như máy tính trước các nguy cơ tiềm ẩn bị đánh cắp thông tin.
+Công cụ mang tên Assemblyline có chức năng phân tích phần mềm mã nguồn mở và được dùng để bảo vệ cơ sở hạ tầng thông tin của Chính phủ Canada.
+Assemblyline có cơ chế hoạt động giống như một băng chuyền, sử dụng các ứng dụng trợ giúp nhỏ để tầm quét nguy cơ độc hại trên mỗi tệp (file) gửi vào hệ thống, rồi sau đó tính điểm cho từng file để giúp các nhà phân tích phân loại các mối đe dọa cũ và mới trước khi tiến hành những phân tích cụ thể hơn.
+Assemblyline được phát triển từ năm 2010 và trở thành công cụ rất hữu ích trong việc tìm kiếm các phần mềm độc hại ẩn trong file văn bản vốn rất khó bị phát hiện.
+Đánh giá về Assemblyline, ông Scott Jones, phụ trách bảo mật công nghệ thông tin (IT) của CSE cho rằng đây là "một công cụ đắc lực giúp các nhà phân tích hiểu rõ họ cần phải làm gì".
+Trong khi đó, nhà nghiên cứu về an ninh mạng Olivier Bilodeau nhận định mặc dù Assemblyline chồng chéo với một số công cụ hiện tại như Army Knife của Thụy Sĩ nhưng tỏ ra vượt trội hơn vì có khả năng tích hợp nhiều công cụ nghiên cứu phần mềm độc hại trên cùng một nền tảng. Điều này cho phép Assemblyline có thể xử lý được các mạng lưới quy mô lớn như mạng lưới thông tin của chính phủ, ngân hàng.
+Trước đây rất hiếm khi CSE cung cấp thông tin chi tiết về các hoạt động của mình. Phần lớn những thông tin về cơ quan này chủ yếu lấy từ nguồn tài liệu rò rỉ của cựu nhân viên tình báo Mỹ Edward Snowden.
+Tuy nhiên gần đây, CSE đã quyết định công khai một phần hoạt động với lý do cần giúp người dân và các doanh nghiệp Canada phòng vệ tốt hơn trước sự gia tăng các mối đe dọa trên mạng.
+Canada hiện tham gia Five Eyes, một liên minh tình báo chuyên về chia sẻ thông tin giữa Anh, Australia, Canada, New Zealand và Mỹ.
+TTXVN/Báo Tin Tức.

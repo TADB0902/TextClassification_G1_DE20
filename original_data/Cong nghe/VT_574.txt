@@ -1,0 +1,7 @@
+Hôm qua, CNN đã phát đi những tin tức của mình, trong đó có một mẩu tin ngắn nói về một người đàn ông đã bị sa thải sau khi lan truyền hoang tin về Triều Tiên tấn công tên lửa Haiwaii. CNN cho biết người đàn ông này đã không hợp tác với cơ quan điều tra, khiến cho nhà chức trách nghĩ rằng sự đe dọa tên lửa là có thật. Vì thế mà dịch vụ tin nhắn khẩn cấp của chính phủ đã phát đi thông điệp này khiến cho người dân Mỹ hoang mang.
+Tin nhắn của CNN được gửi tới người dùng iPhone qua dịch vụ Apple News.
+Nhưng điều buồn cười là mẩu tin của CNN đã được gửi lặp đi lặp lại tới người dùng iPhone qua dịch vụ Apple News đến 20 lần. Rất nhiều người dùng tỏ ra khó chịu vì nhận được liên tiếp các mẩu tin cùng một nội dung.
+Sau khi nhận được những lời phàn nàn trên Twitter, CNN đã buộc phải đưa ra thông báo rằng vấn đề nằm ở máy chủ Apple News chứ không phải của hãng tin tức. Điều này có thể đúng bởi trước đây thuê bao Apple News cũng từng nhận được các tin tức lặp lại của hãng Fox.
+Hiện người dùng iPhone (có sử dụng dịch vụ Apple News) được khuyến cáo tạ, tắt dịch vụ để chờ tới khi Apple khắc phục xong sự cố trên máy chủ.
+Dưới đây là nguyên văn thông báo của CNN trên Twitter: "Chúng tôi được thông báo rằng một số người dùng Apple News gần đây đã nhận được nhiều mẩu tin giống nhau. Kiểm tra máy chủ của chúng tôi cho thấy CNN chỉ gửi một mẩu tin. Chúng tôi đang làm việc với Apple để xác định lỗi của họ, vì người dùng trên nền tảng CNN đã không gặp vấn đề này. Xin chân thành cáo lỗi".
+Hoài Nam.

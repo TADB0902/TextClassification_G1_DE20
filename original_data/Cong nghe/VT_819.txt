@@ -1,0 +1,19 @@
+Sao lưu luôn đóng vai trò quan trọng trong việc giữ các tập tin, tài liệu, ảnh, ghi chú của bạn một cách an toàn cho dù bạn sở hữu máy tính nào, máy tính xách tay, iPhone hay bất kỳ smartphone nào. Nhưng nội dung bài viết sẽ cung cấp cho bạn cách để sao lưu dữ liệu iPhone với iCloud.
+iCloud trên iPhone là tính năng tích hợp của Apple, nơi bạn có thể giữ các tập tin, tài liệu, danh bạ, ảnh một cách tự động để dễ quản lý và an toàn. Bật iCloud là phương pháp hay nhất để bảo mật dữ liệu trên iPhone. Bạn không cần phải lo lắng về việc iPhone bị mất hoặc thậm chí vô tình hư hỏng bởi bạn hoàn toàn có thể khôi phục dữ liệu trên nó sau đó.
+Cách sao lưu lên iCloud.
+Dưới đây là hướng dẫn từng bước về cách sao lưu dữ liệu iPhone chạy iOS 11 trở lên vào iCloud. Trước khi bắt đầu bạn cần phải bật iCloud và kích hoạt sao lưu iCloud trên iPhone của mình bằng cách vào Settings > Tap Name > iCloud > Đăng nhập với Apple ID và mật khẩu của bạn.
+Các bước kích hoạt sao lưu iCloud như sau:
+- Vào Settings.
+Truy cập vào iCloud thông qua phần quản lý tài khoản Apple ID trên iPhone.
+- Chạm vào tên của bạn ở đầu trong Settings > chạm iCloud.
+- Cuộn xuống và chạm vào iCloud Backup.
+- Bây giờ bật nút chuyển đổi bên cạnh iCloud Backup. Thiết bị iOS của bạn sẽ bắt đầu sao lưu mỗi đêm.
+- Hãy đảm bảo thiết bị của bạn đã được cắm, khóa và kết nối với Wi-Fi. Nếu muốn tự sao lưu bằng tay, bạn hãy chạm vào Back Up Now màu xanh lam.
+- Nhấn vào Back Up Now. Quá trình sao lưu iCloud sẽ bắt đầu. Có thể mất một khoảng thời gian tùy thuộc vào kết nối mạng và số lượng dữ liệu bạn đang sao lưu.
+Quá trình sao lưu dữ liệu trên iPhone lên iCloud.
+- Chờ và giữ kết nối với Wi-Fi cho đến khi quá trình sao lưu hoàn tất. Vậy là bạn đã sao lưu thành công dữ liệu của mình trên iCloud.
+Nếu trong trường hợp bạn đã khôi phục hoặc thiết lập lại iPhone của mình, bạn cũng có thể dễ dàng khôi phục bản sao lưu iCloud qua Wi-Fi từ iPhone hoặc iTunes.
+Cách khôi phục iCloud Backup trên iPhone.
+Khi thiết lập iPhone mới trong màn hình kích hoạt bạn sẽ có tùy chọn để khôi phục dữ liệu, bao gồm From iCloud Backup và From iTunes or Set up as New iPhone.
+Trong trường hợp này bạn phải chọn một tùy chọn Restore from iCloud Backup. Bây giờ, bạn đã khôi phục thành công dữ liệu từ bản sao lưu của iCloud.
+Kiến Tường (Theo iMangoss).

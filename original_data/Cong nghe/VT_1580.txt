@@ -1,0 +1,195 @@
+Việc ăn theo các nhân vật, sự kiện được nhiều người quan tâm để lập ra các tài khoản giả mạo lừa người dùng không phải là chiêu trò mới của hacker. Tuy nhiên, vẫn có không ít người dùng sập bẫy do với mỗi sự kiện, hacker lại thiên biến vạn hóa để thu hú.
+Như VietTimes đưa tin, Diễn đàn an ninh mạng Việt Nam -- WhiteHat.vn vừa đưa ra thông tin cảnh báo người dùng về tình trạng xuất hiện hàng loạt các tài khoản Facebook mạo danh cầu thủ, huấn luyện viên của đội tuyển U23 Việt Nam sau chiến thắng của đội trong trận bán kết AFC 2018.
+Diễn đàn WhiteHat.vn cho biết, sau chiến thắng ấn tượng của đội tuyển bóng đá U23 Việt Nam tại trấn bán kết giải Vô địch bóng đá U23 châu Á (AFC) 2018 diễn ra chiều 23/1, trên mạng xã hội Facebook đã xuất hiện hàng loạt các tài khoản mạo danh cầu thủ, huấn luyện viên của đội tuyển. Thống kê sơ bộ, tính tới 19h ngày 24/1 đã có gần 200 tài khoản giả mạo trang cá nhân của các cầu thủ Bùi Tiến Dũng, Nguyễn Quang Hải, Vũ Văn Thanh và huấn luyện viên Park Hang-seo.
+Theo chuyên gia an ninh mạng, về sau các tài khoản giả mạo có thể được chuyển đổi sang dạng fanpage để bán hàng gây phiền hà cho người dùng, hoặc nguy hiểm hơn là trở thành phương tiện tấn công lừa đảo của hacker.
+Theo các chuyên gia, việc ăn theo các nhân vật, sự kiện được nhiều người quan tâm để lập ra các tài khoản giả mạo lừa người dùng không phải là chiêu trò mới của hacker. Tuy nhiên, vẫn có không ít người dùng sập bẫy do với mỗi sự kiện, hacker lại thiên biến vạn hóa để thu hút và đánh lừa người dùng.
+Ông Nguyễn Hữu Cường - Admin Diễn đàn an ninh mạng Việt Nam WhiteHat.vn nhận định, các tài khoản giả mạo được tạo ra nhằm mục đích câu like, view, tăng số lượng bạn bè, lượt theo dõi. Về sau, những tài khoản này có thể được chuyển đổi sang dạng fanpage để bán hàng gây phiền hà cho người dùng, hoặc nguy hiểm hơn là trở thành phương tiện tấn công lừa đảo (Phishing) của hacker.
+Để tăng tính thuyết phục, tác giả của những tài khoản giả mạo thông báo đó là Facebook phụ của cầu thủ, huấn luyện viên do trang cá nhân chính thức đã vượt quá số lượng bạn bè, nên sẽ tương tác trên trang mới; hoặc tận dụng tính năng chỉnh sửa thông tin cá nhân để giả mạo số lượng người theo dõi, ông Cường chia sẻ.
+Dưới đây là danh sách hơn 170 tài khoản Facebook mạo danh tuyển thủ, huấn luyện viên U23 Việt Nam còn hoạt động, theo thống kê của WhiteHat, tính đến hôm qua (26/1):
+Dũng Bùi Tiến.
+facebook.com/cechtiendungFLCTH?ref=br_rs.
+facebook.com/tiendung.thumon?ref=br_rs.
+facebook.com/bui.tiendung.16144?ref=br_rs.
+facebook.com/cecchtien.dung?ref=br_rs.
+facebook.com/anh.neula.12?ref=br_rs.
+facebook.com/profile.php?id=100015704774012&ref;=br_rs.
+facebook.com/tuandz.15cm?ref=br_rs.
+facebook.com/bao.cau.16940?ref=br_rs.
+facebook.com/BuiTienDungoffiine?ref=br_rs.
+facebook.com/buitien.dung.587606?ref=br_rs.
+facebook.com/pii.thien.58?ref=br_rs.
+facebook.com/sy.tien.370515?ref=br_rs.
+facebook.com/profile.php?id=100024056871313&ref;=br_rs.
+facebook.com/quocbao.ngole.3?ref=br_rs.
+facebook.com/tiendungflcthanhhoa?ref=br_rs.
+facebook.com/dungtienbui.info?ref=br_rs.
+facebook.com/tiendung.cech?ref=br_rs.
+facebook.com/tiendung.bui.12177276?ref=br_rs.
+facebook.com/dung.buitien.3762584?ref=br_rs.
+facebook.com/profile.php?id=100024077658082&ref;=br_rs.
+facebook.com/bui.tiendung.75286?ref=br_rs.
+facebook.com/tiendung.bui.31521?ref=br_rs.
+facebook.com/profile.php?id=100023069294905&ref;=br_rs.
+facebook.com/tiendung.bui.50115?ref=br_rs.
+facebook.com/profile.php?id=100024080627487&ref;=br_rs.
+facebook.com/dung.buitien.94043?ref=br_rs.
+facebook.com/buitiendung.dung.376?ref=br_rs.
+facebook.com/U23BuiTienDung?ref=br_rs.
+facebook.com/bui.tiendung.9849?ref=br_rs.
+facebook.com/tiendung.bui23?ref=br_rs.
+facebook.com/profile.php?id=100010637326156&ref;=br_rs.
+facebook.com/buitien.dung.58760608?ref=br_rs.
+facebook.com/nguyen.tao.182940?ref=br_rs.
+facebook.com/kiukiu.dung?ref=br_rs.
+facebook.com/profile.php?id=100010519391664&ref;=br_rs.
+facebook.com/DungTienBui280297?ref=br_rs.
+facebook.com/tanmessi565?ref=br_rs.
+facebook.com/bui.tiendung.56679?ref=br_rs.
+facebook.com/bomac.quakhu.92167?ref=br_rs.
+facebook.com/cechtien.dung1?ref=br_rs.
+facebook.com/duyphuong.ha.9484?ref=br_rs.
+facebook.com/an.baonhi.77?ref=br_rs.
+facebook.com/profile.php?id=100009773675837&ref;=br_rs.
+facebook.com/hoangbao.kien.98?ref=br_rs.
+facebook.com/tiendung.bui.9843499?ref=br_rs.
+facebook.com/bui.tiendung.7906932?ref=br_rs.
+facebook.com/profile.php?id=100011459031831&ref;=br_rs.
+facebook.com/BuiTienDungU023?ref=br_rs.
+facebook.com/ciechbuitien.dung?ref=br_rs.
+facebook.com/bong.kem?ref=br_rs.
+facebook.com/bui.dungtien.92?ref=br_rs.
+facebook.com/tiendung.bui.716533?ref=br_rs.
+facebook.com/profile.php?id=100024045258730&ref;=br_rs.
+facebook.com/buitiendung2802?ref=br_rs.
+facebook.com/profile.php?id=100024176372763&ref;=br_rs.
+facebook.com/dung.buitien.77128?ref=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+Vũ Văn Thanh.
+facebook.com/profile.php?id=100020362299310&ref;=br_rs.
+facebook.com/profile.php?id=100024020901271&ref;=br_rs.
+Đỗ Duy Mạnh.
+facebook.com/profile.php?id=100024082095453&ref;=br_rs.
+facebook.com/camquan.quechoa.3?ref=br_rs.
+facebook.com/profile.php?id=100011586851599&ref;=br_rs.
+Bùi Tiến Dũng (hậu vệ).
+facebook.com/chelsea.nguyen.5070?ref=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+facebook.com/tiendungbui95?ref=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+facebook.com/profile.php?id=100024092865264&ref;=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+facebook.com/profile.php?id=100022666359710&ref;=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+Nguyễn Quang Hải.
+facebook.com/profile.php?id=100024170343329&ref;=br_rs.
+facebook.com/quangnguyen.hai.583?ref=br_rs.
+facebook.com/quanghai.nguyen.14473?ref=br_rs.
+facebook.com/hai.nguyenquang.7737769?ref=br_rs.
+facebook.com/quanghai.nguyen.5245961?ref=br_rs.
+facebook.com/quanghai.nguyen.9003?ref=br_rs.
+facebook.com/hai.nguyenquang.50159836?ref=br_rs.
+facebook.com/tinh.tranvan.583671?ref=br_rs.
+facebook.com/hai.nguyenquang.371?ref=br_rs.
+facebook.com/quanghai.nguyen.7399786?ref=br_rs.
+facebook.com/hai.nguyenquang.14203?ref=br_rs.
+facebook.com/quanghau.nguyen.9843?ref=br_rs.
+facebook.com/hai.nguyenquang.969300?ref=br_rs.
+facebook.com/profile.php?id=100024166868073&ref;=br_rs.
+facebook.com/hai.nguyenquang.5203?ref=br_rs.
+facebook.com/quanghai.nguyen.90038?ref=br_rs.
+facebook.com/profile.php?id=100024040672657&ref;=br_rs.
+facebook.com/profile.php?id=100013627727080&ref;=br_rs.
+facebook.com/quanghai.199?ref=br_rs.
+Nguyễn Công Phượng.
+facebook.com/profile.php?id=100012195936097&ref;=br_rs.
+facebook.com/profile.php?id=100009315793757&ref;=br_rs.
+facebook.com/nguyencongphuongu19vn?ref=br_rs.
+facebook.com/phuong.nguyencong.104203?ref=br_rs.
+facebook.com/congphuong.nguyen.750331?ref=br_rs.
+facebook.com/phuong.nguyencong.9047?ref=br_rs.
+facebook.com/venangmatem?ref=br_rs.
+facebook.com/congphuong.nguyen.9674227?ref=br_rs.
+facebook.com/phuong.nguyencong.3572846?ref=br_rs.
+facebook.com/profile.php?id=100017125501934&ref;=br_rs.
+facebook.com/congphuong.nguyen.7564129?ref=br_rs.
+facebook.com/congphuong.nguyen.547389?ref=br_rs.
+facebook.com/profile.php?id=100009760030876&ref;=br_rs.
+Lương Xuân Trường.
+facebook.com/truonghip95?ref=br_rs.
+facebook.com/luongxuan.truong.31?ref=br_rs.
+facebook.com/anh.arsenal.18?ref=br_rs.
+facebook.com/profile.php?id=100013588488546&ref;=br_rs.
+facebook.com/profile.php?id=100022950288107&ref;=br_rs.
+facebook.com/xuantruong.luong.7547?ref=br_rs.
+facebook.com/xuantruong.luong.564?ref=br_rs.
+facebook.com/xuantruong.luong.3110?ref=br_rs.
+facebook.com/omachi.hanh.79?ref=br_rs.
+facebook.com/xuantruong.luong.796?ref=br_rs.
+facebook.com/profile.php?id=100015744366533&ref;=br_rs.
+facebook.com/truong.luongxuan.9843?ref=br_rs.
+facebook.com/luong.xuantruong.3?ref=br_rs.
+facebook.com/xuantruong.luong.79025?ref=br_rs.
+facebook.com/hoas.buis.3?ref=br_rs.
+facebook.com/chilong.dan?ref=br_rs.
+facebook.com/LuongXuantruong99?ref=br_rs.
+facebook.com/profile.php?id=100008613512566&ref;=br_rs.
+facebook.com/profile.php?id=100010980787955&ref;=br_rs.
+facebook.com/truong.luongxuan.5621?ref=br_rs.
+facebook.com/luong.xuantruong.14?ref=br_rs.
+facebook.com/profile.php?id=100013908380061&ref;=br_rs.
+Park Hang Seo.
+facebook.com/hangseo.park.9465?ref=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+facebook.com/profile.php?id=100004236524688&ref;=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+facebook.com/seo.parkhang.94?ref=br_rs_WyJrZXl3b3Jkc191c2VycyJd.
+facebook.com/profile.php?id=100004236524688&ref;=br_rs.
+facebook.com/tranbamokey?ref=br_rs.
+facebook.com/nguyen.honggiang.52?ref=br_rs.
+facebook.com/profile.php?id=100015176190017&ref;=br_rs.
+facebook.com/hangseo.park.58?ref=br_rs.
+facebook.com/hangseo.park.925?ref=br_rs.
+facebook.com/hangseo.park.3954?ref=br_rs.
+facebook.com/nguyen.anhtu.3979489?ref=br_rs.
+facebook.com/hangseo.parck.5?ref=br_rs.
+facebook.com/vanthoi.tran.92754?ref=br_rs.
+facebook.com/taxigreen.taxigreen.9?ref=br_rs.
+facebook.com/phuochoaian.nguyen?ref=br_rs.
+facebook.com/profile.php?id=100006414738332&ref;=br_rs.
+facebook.com/phai.huynhquy?ref=br_rs.
+facebook.com/kym.anh.75054?ref=br_rs.
+facebook.com/profile.php?id=100018173164827&ref;=br_rs.
+facebook.com/pho.huong.902?ref=br_rs.
+facebook.com/te.quylo?ref=br_rs.
+facebook.com/profile.php?id=100023198800765&ref;=br_rs.
+facebook.com/profile.php?id=100016696388841&ref;=br_rs.
+facebook.com/profile.php?id=100010578849804&ref;=br_rs.
+facebook.com/profile.php?id=100017188808148&ref;=br_rs.
+facebook.com/tranphanhai1?ref=br_rs.
+facebook.com/hangseo.park.359?ref=br_rs.
+facebook.com/hangseo.park.77?ref=br_rs.
+facebook.com/hangseo.park.735?ref=br_rs.
+facebook.com/profile.php?id=100010737212494&ref;=br_rs.
+facebook.com/hangseo.park.528?ref=br_rs.
+facebook.com/long.chi.3720?ref=br_rs.
+facebook.com/profile.php?id=100021501915283&ref;=br_rs.
+facebook.com/profile.php?id=100015781841956&ref;=br_rs.
+facebook.com/hangseo.park.507?ref=br_rs.
+facebook.com/seo.parkhang.921?ref=br_rs.
+facebook.com/profile.php?id=100012288288920&ref;=br_rs.
+facebook.com/profile.php?id=100015567577611&ref;=br_rs.
+facebook.com/fanuy.shi?ref=br_rs.
+facebook.com/vanbac.hoang.94?ref=br_rs.
+facebook.com/tan.tivon?ref=br_rs.
+facebook.com/hoangviet1986?ref=br_rs.
+Phan Văn Đức.
+facebook.com/profile.php?id=100024089626294&ref;=br_rs.
+facebook.com/profile.php?id=100024172741563&ref;=br_rs.
+facebook.com/Duc.MU.195?ref=br_rs.
+Đoàn Văn Hậu.
+facebook.com/vanhau999?ref=br_rs.
+facebook.com/profile.php?id=100016458933563&ref;=br_rs.
+facebook.com/profile.php?id=100023256977792&ref;=br_rs.
+facebook.com/ayame.yamaguchi.54966?ref=br_rs.
+facebook.com/profile.php?id=100024167644535&ref;=br_rs.
+facebook.com/profile.php?id=100023162240597&ref;=br_rs.
+facebook.com/profile.php?id=100016531927264&ref;=br_rs.
+facebook.com/profile.php?id=100024044628129&ref;=br_rs.
+facebook.com/ronado.dinh.98?ref=br_rs.
+Nguyễn Văn Toàn.
+facebook.com/Vato.nguyen09?ref=br_rs.
+facebook.com/nguyenvan.toan.9277583?ref=br_rs.
+Xuân Lan.

@@ -1,0 +1,11 @@
+Hệ điều hành Polaris là nỗ lực tiếp theo của Microsoft nhằm cá nhân hóa Windows kể từ thời Windows RT. Windows RT là phiên bản Windows giới hạn với kho ứng dụng Windows Store (sau này đổi tên thành Microsoft Store) nhưng không thành công do thiếu ứng dụng và không được các nhà sản xuất thiết bị gốc (OEM) hỗ trợ.
+Không chịu bỏ cuộc, Microsoft tiếp tục thử nghiệm ý tưởng mới với Windows 10 S, thực chất là phiên bản hiện đại hơn của Windows RT nhưng có nhiều ứng dụng hơn, và quan trọng là hỗ trợ nâng cấp lên Windows 10 Pro nếu người dùng muốn.
+Có vẻ Windows 10 S chỉ là khởi đầu của kế hoạch lớn hơn, trong đó có hệ điều hành mới với tên mã Polaris, dự kiến ra mắt năm tới.
+Với Windows Polaris, Microsoft muốn cung cấp cho người dùng phiên bản Windows 10 nhẹ hơn, mà thực chất hướng tới người dùng không thường xuyên sử dụng các ứng dụng Win32 ngốn bộ nhớ như Photoshop, mà chỉ lướt web, đọc mail hoặc xem nội dung đa phương tiện.
+Ứng dụng dành cho các tác vụ loại này đã có sẵn trên Microsoft Store hoặc do chính Microsoft cung cấp. Theo WindowsCentral , để phiên bản hệ điều hành này nhẹ nhất có thể, Microsoft sẽ gỡ bỏ hoàn toàn việc hỗ trợ Win32.
+Điều đó đồng nghĩa với Polaris sẽ thiếu nhiều chức năng nâng cao như vẫn thường thấy trong phiên bản Windows 10 đầy đủ. Nhưng bù lại, Polaris sẽ chạy nhanh hơn, đồng bộ hơn và an toàn hơn.
+Polaris là phiên bản Windows 10 tinh giản dành cho các tác vụ nhẹ nhàng như lướt web, check mail.
+Nhằm cạnh tranh với iOS và ChromeOS, vốn hỗ trợ đầy đủ tính năng nhờ hệ sinh thái riêng, Polaris vẫn cho phép người dùng chạy ứng dụng Win32 trong môi trường ảo hóa. Khả năng này cho phép Microsoft bắn một mũi tên trúng hai đích: vừa hỗ trợ Win32 (nếu cần) mà không phải nhúng mã nguồn Win32 cho nặng nề thêm.
+Ý tưởng này xuất phát từ thực tế nhiều người dùng chủ yếu lướt web hoặc chát chít mà không có thêm nhu cầu nào khác. Microsoft sẽ có hệ điều hành phục vụ riêng cho mục đích này, tất nhiên nó sẽ nhẹ hơn và không có các tính năng phức tạp mà người dùng không cần tới, và thậm chí còn không biết tới sự tồn tại của chúng.
+Dự kiến Polaris sẽ sớm ra mắt trong năm 2019, và hiện Microsoft đã rục rịch thực hiện một số thay đổi để người dùng tiếp cận dần với hệ điều hành này.
+Gia Nguyễn.

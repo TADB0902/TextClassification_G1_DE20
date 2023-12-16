@@ -1,0 +1,15 @@
+Khi iOS 11 được ra mắt, Apple giới thiệu đến người dùng khả năng sử dụng công nghệ thực tế tăng cường (AR) trên các thiết bị iPhone 6S trở lên. Người dùng có thể trải nghiệm thực tế tăng cường vì AR đã có thể tương thích với camera, chip xử lý cũng như các cảm biến chuyển động của máy.
+Mặc dù vậy hiện tại, công nghệ AR vẫn chưa được ứng dụng nhiều và phong phú như mong đợi. Bài viết này sẽ giới thiệu qua về ứng dụng Dubface, với Dubface chúng ta có thể ghép khuôn mặt của mình vào những mẫu hình 3D có sẵn, để tạo ra các video chuyển động.
+Bạn cũng có thể sử dụng các video này để chuyển sang ảnh động và dùng làm hình nền máy nếu muốn.
+Hướng dẫn ghép mặt vào mẫu hình động AR trên iPhone.
+*Nguồn: thegioididong.com.
+Trước hết hãy tải về Dubface cho iPhone ở đây.
+Khi mở Dubface lên hãy chụp một bức ảnh chân dung sao cho khớp với tỷ lệ trên màn hình. Bạn có thể chụp ảnh bạn bè bằng camera sau hoặc sử dụng chính khuôn mặt của bạn thông qua camera trước. Khuôn mặt của bạn sẽ được lưu lại trong ứng dụng, bạn có thể xem lại chúng với tùy chọn ở góc trái bên dưới màn hình.
+Khi mở Dubface lên hãy chụp một bức ảnh chân dung sao cho khớp với tỷ lệ trên màn hình. Khuôn mặt của bạn sẽ được lưu lại trong ứng dụng, bạn có thể xem lại chúng với tùy chọn ở góc trái bên dưới màn hình.
+Sau đó hãy lựa chọn một hình động để ghép mặt với biểu tượng ở góc phải màn hình; đợi vài giây và nhấn đúp vào bất kỳ đâu trên màn hình để ứng dụng hiển thị nhân vật nhảy múa.
+Sau đó hãy lựa chọn một hình động để ghép mặt với biểu tượng ở góc phải màn hình; đợi vài giây và nhấn đúp vào bất kỳ đâu trên màn hình để ứng dụng hiển thị nhân vật nhảy múa.
+Ngoài ra, ứng dụng còn để bạn thêm biểu tượng cũng như thêm chữ cho sinh động.
+Ngoài ra, ứng dụng còn để bạn thêm biểu tượng cũng như thêm chữ cho sinh động.
+Bạn nhấn nút chụp hình ở giữa để bắt đầu quay hình và nhấn một lần nữa để kết thúc. Video sẽ được tạo ngay sau đó, bạn có thể lưu lại bằng cách nhấn vào nút share và chọn Save Video. Bằng công nghệ AR, bạn đã có thể tạo nên các video độc lạ với chính khuôn mặt của mình ở những khung cảnh quen thuộc thực tế hàng ngày.
+Bạn nhấn nút chụp hình ở giữa để bắt đầu quay hình và nhấn một lần nữa để kết thúc. Video sẽ được tạo ngay sau đó, bạn có thể lưu lại bằng cách nhấn vào nút share và chọn Save Video.
+Anh Hào (Tổng hợp).

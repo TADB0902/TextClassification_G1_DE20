@@ -1,0 +1,5 @@
+Young Makers Challenge là cuộc thi dành cho học sinh THCS, THPT đam mê sáng tạo khoa học, kỹ thuật. Tham gia cuộc thi, các thí sinh được học cách lập trình trên Arduino, trình bày ý tưởng, giải quyết vấn đề, làm việc nhóm, và biến ý tưởng thành hiện thực, gia nhập xu hướng của Cách mạng Công nghiệp 4.0.
+Anh Richard Tran - Đại diện của Young Makers Việt Nam tại Hà Nội - cho biết: Từ 127 dự án của các đội thi trên khắp khu vực miền Bắc, qua các vòng thi đầy kịch tính gồm vòng đơn, vòng thuyết trình và vòng teamwork, top 20 của cuộc thi đã bước vào vòng bán kết, trình bày với ban giám khảo về sản phẩm hoàn thiện của đội mình.
+Chung cuộc, 4 đội thi xuất sắc nhất đã lọt vào vòng chung kết toàn quốc tại Thành phố Hồ Chí Minh với những sản phẩm hết sức ấn tượng: Máy diệt khuẩn bằng Plasma; Máy đo huyết áp thông minh cho người già có kết nối 3G; Máy bắn phá và hút bụi và Máy nhắc uống thuốc thông minh - Capsual.
+4 đội này sẽ cạnh tranh với các đội thi khác đến từ Đà Nẵng và Thành phố Hồ Chí Minh để giành tấm vé đến Thung lũng Sillicon - phần thưởng đặc biệt của cuộc thi.
+Hải Bình.

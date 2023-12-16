@@ -1,0 +1,28 @@
+iPhone sẽ không đổ chuông khi có cuộc gọi đến nếu như bạn đang kích hoạt chế độ Do not disturb (đừng làm phiền), phần mềm gặp trục trặc hoặc các bản cập nhật iOS có vấn đề.
+Khởi động lại iPhone.
+Việc khởi động lại thiết bị đôi khi cũng sẽ giúp bạn khắc phục vấn đề. Đầu tiên, bạn hãy nhấn và giữa im nút Power + nút Home cho đến khi logo Apple xuất hiện trên màn hình. Nếu đang sử dụng các phiên bản đời mới, bạn đọc có thể tham khảo bài viết Cách khởi động lại mọi phiên bản iPhone.
+Vô hiệu hóa chế độ im lặng.
+iPhone được tích hợp một nút gạt nhỏ ở cạnh trái, cho phép bạn kích hoạt nhanh hoặc vô hiệu hóa chế độ im lặng. Do đó, nếu iPhone không đổ chuông, bạn hãy kiểm tra lại và chắc chắn rằng nút gạt đã được chuyển qua bên phải.
+Vô hiệu hóa Do no disturb.
+Do not disturb là tính năng khá hữu ích trên iPhone, giúp bạn có thể tập trung làm việc mà không lo bị làm phiền bởi các thông báo, tin nhắn Facebook hoặc cuộc điện thoại.
+Khi đang tham dự một cuộc họp hoặc muốn nghỉ ngơi trong vài giờ, bạn có thể kích hoạt tính năng Do not disturb để không bị làm phiền. Nếu muốn vô hiệu hóa, người dùng chỉ cần vuốt từ cạnh dưới màn hình lên để mở Control Center, chạm vào biểu tượng mặt trăng để tắt tính năng đừng làm phiền.
+Ngoài ra, bạn cũng có thể vào Settings (cài đặt) > Do Not Disturb (không làm phiền), tắt hai tùy chọn Manual và Scheduled (lịch dự kiến).
+Tháo ốp lưng iPhone.
+Trên mạng có rất nhiều loại case (ốp lưng) cho iPhone, tuy nhiên, một vài loại trong số đó có thiết kế khá dày và không phù hợp. Do đó, bạn hãy thử gỡ ốp lưng và gọi lại vào iPhone để kiểm tra, nếu không khả thi, người dùng có thể chuyển tiếp sang các bước tiếp theo.
+Tăng âm lượng.
+Hãy thử tăng âm lượng của iPhone lên mức cao nhất bằng cách nhấn vào nút bấm có biểu tượng dấu cộng ở cạnh trái thiết bị.
+Thay đổi nhạc chuông.
+Một số người cho biết họ đã khắc phục được vấn đề khi thay đổi nhạc chuông. Để làm được việc này, bạn hãy truy cập vào Settings (cài đặt) > Sounds (âm thanh) > Ringtone (nhạc chuông) và thay bằng một nhạc chuông khác.
+Ngoài ra, bạn cũng nên vào Settings (cài đặt) > Bluetooth để vô hiệu hóa Bluetooth, việc này sẽ đảm bảo rằng iPhone không kết nối với loa hoặc tai nghe Bluetooth bên ngoài.
+Cập nhật iOS.
+Các bản cập nhật phần mềm luôn đi kèm với những cải tiến, sửa lỗi và bổ sung thêm nhiều tính năng mới. Do đó, khi gặp phải tình trạng trên, bạn hãy kết nối Wi-Fi và đảm bảo rằng iPhone còn ít nhất 50% pin.
+Sau đó, bạn hãy vào Settings (cài đặt) > General (cài đặt chung) > Software Update (cập nhật phần mềm). Nếu bản cập nhật có sẵn, người dùng chỉ cần tải về và nhấp vào nút Install Now để cài đặt. Theo thông tin từ Apple, bản cập nhật iOS 9.3.5 có thể giúp người dùng tránh được phần mềm gián điệp từ NSO Group.
+Các bản cập nhật iOS được tung ra đều đặn và có thể cài đặt ngay trên iPhone, iPad, không phụ thuộc vào nhà sản xuất thiết bị gốc (OEM) như Android.
+Khôi phục cài đặt trên iPhone.
+Phương pháp này sẽ xóa sạch tất cả các thiết lập, bao gồm tất cả các tính năng liên quan đến âm thanh, đơn cử như âm lượng, thông báo.
+Đầu tiên, bạn hãy mở Settings (cài đặt) > General (cài đặt chung) > Reset (đặt lại) > Reset All Settings (đặt lại toàn bộ cài đặt), nhập vào passcode khi được yêu cầu. Tiếp theo, bạn hãy xác nhận lại một lần nữa để xóa sạch các cài đặt trước đó.
+Khôi phục cài đặt gốc.
+Nếu tất cả các phương pháp trên không thành công, bạn hãy thử khôi phục cài đặt gốc trên thiết bị. Lưu ý, việc này sẽ xóa sạch toàn bộ thiết lập, dữ liệu, cài đặt bàn phím, ngôn ngữ Do đó, trước khi thực hiện, hãy chắc chắn bạn đã sao lưu dữ liệu an toàn thông qua iCloud hoặc iTunes.
+Đầu tiên, bạn cũng vào Settings (cài đặt) > General (cài đặt chung) > Reset (đặt lại) > Erase All Contents and Settings (xóa toàn bộ nội dung và cài đặt), nhập passcode khi được yêu cầu. Cuối cùng nhấn Erase iPhone và xác nhận lại lần nữa.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+MINH HOÀNG.

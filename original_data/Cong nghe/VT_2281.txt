@@ -1,0 +1,10 @@
+Có tới hơn 35.000 smartphone bị nhiễm virus đánh cắp mật khẩu Facebook ở Việt Nam.
+Bkav mới đưa ra một thống kê cho biết có hơn 35.000 smartphone tại Việt Nam nhiễm virus GhostTeam, đây là loại virus được dùng để đánh cắp mật khẩu Facebook. Virus này phát tán thông qua một số ứng dụng trên Google Play.
+Cách thức lan truyền của GhostTeam là ẩn dưới những ứng dụng vô hại như: Đèn pin, la bàn, lịch vạn niên Sau khi người dùng tải một trong các ứng dụng này về, nó sẽ tự động tải tiếp một ứng dụng mang mã độc khác.
+Sự tinh vi của GhostTeam nằm ở chỗ sau khi mã độc được tải về, người dùng bỗng thấy trên ứng dụng vô hại hiện ra những cảnh báo an ninh cùng hướng dẫn xử lý. Người dùng theo phản xạ sẽ làm theo và khi đó, smartphone chính thức bị nhiễm virus.
+Quyền điều khiển điện thoại khi đó chính thức bị virus chiếm mất và mật khẩu Facebook lúc này sẽ dễ dàng bị đánh cắp. Bên cạnh đó, GhostTeam còn làm hiển thị các quảng cáo để kiếm tiền trên điện thoại của người dùng.
+Phó Chủ tịch phụ trách mảng Chống mã độc của Bkav, ông Vũ Ngọc Sơn, cho biết về GhostTeam: Việc hacker sử dụng một ứng dụng sạch trên Google Play làm công cụ lây nhiễm mã độc sẽ khiến người dùng rất khó đề phòng. Trong trường hợp này chỉ có cách sử dụng phần mềm diệt virus để được bảo vệ tự động.
+Bkav cũng khuyến cáo người dùng nên quét virus ngay cho smartphone và đổi mật khẩu Facebook để tránh bị mất tài khoản. Hiện tại, phần mềm diệt virus của Bkav đã cập nhật tất cả các biến thể của dòng virus này.
+Tất cả các ứng dụng độc hại của GhostTeam đều có ngôn ngữ mặc định là tiếng Việt, và hacker giao tiếp với các máy chủ lệnh, kiểm soát các lưu trữ trên các IP đến từ Việt Nam. Vì thế có khả năng cao những ứng dụng độc hại này do các hacker tại Việt Nam thực hiện.
+Trước sự lan truyền của GhostTeam, Google Play đã gỡ bỏ một số ứng dụng Việt ngầm chứa mã độc này. Vì thế, sự phát tán của GhostTeam đã bị dừng lại. Tuy nhiên, những máy đã vô tình cài các ứng dụng đó vẫn tiềm ẩn nguy cơ có thể bị mất mật khẩu Facebook.
+Ngọc Quang.

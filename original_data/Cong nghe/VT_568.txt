@@ -1,0 +1,38 @@
+ảnh Ars Technica.
+Google thừa nhận sự tồn tại của Fuchsia năm ngoái, khi David Burke, Phó Chủ tịch mảng Android gọi đó là một dự án thí nghiệm giai đoạn đầu.
+Một kỹ sư của Google tên là Mitch Blevins tuần trước đã mở một kênh YouTube và tải lên một số video trong đó ông đã trình diễn một số tính năng của Fuchsia. Nhờ đó, chúng ta đã có một số hình ảnh rõ ràng về Fuchsia  một hệ điều hành tương lai có thể thay thế cho Android và Chrome OS.
+Điểm phân biệt của Fuchsia với Android và Chrome OS là nhân của hệ điều hành. Fuchsia không dùng nhân Linux, thay vào đó là một nhân mới với tên gọi Zircon. Điều này có nghĩa là Fuchsia đã được phát triển như một hệ điều hành chạy đa nền tảng, không chỉ ở điện thoại và laptop.
+ảnh YouTube.
+Khi hệ điều hành khởi động, bạn sẽ được chào đón bằng màn hình khóa có nét giống với Android.
+Có ba nút ở dưới cùng bên phải, có thể nhấp chuột hoặc chạm (có thể dùng trachpad hoặc màn cảm ứng). Biểu tượng của Fuchsia ở phía trên bên trái.
+Đồng hồ ở trung tâm cũng gợi nhớ lại Android.
+ảnh YouTube.
+Nếu bạn tìm cách đăng nhập, Google sẽ thực hiện các quy trình thông thường, nhưng màn hình cuối cùng là màn hình trắng.
+ảnh YouTube.
+Bạn có thể đăng nhập với tài khoản Khách. Khi đăng nhập máy sẽ dẫn bạn đến màn hình chính. Giao diện màn hình chính có nhiều nét khác biệt so với các hệ điều hành phổ biến hiện nay trên smartphone và PC. Nó giống như giao diện Google Now được dãn rộng. Có một số thông tin hiển thị ở giữa màn hình như Wi-Fi và Thời gian. Ngoài ra còn có các nội dung mà Google chọn lọc để hiển thị lên màn hình.
+ảnh YouTube.
+Khi bạn vuốt lên, bạn sẽ truy cập vào nguồn dữ liệu do Google Now cung cấp. Google có thể đã thay thế Google Now với một trợ lý AI mạnh hơn, nhưng hình thức nguồn cấp dữ liệu vẫn giống với Google Now.
+Chỉ có ba thẻ ở đây và chúng chỉ là các thẻ mẫu (vì không có người dùng đăng nhập), nhưng chúng giống với loại thẻ dữ liệu dùng trên smartphone của Google - bao gồm cả hình tròn.
+ảnh YouTube.
+Đây là ứng dụng gọi điện của Fuchsia.
+Sự khác biệt lớn giữa màn hình chủ của Fuchsia và màn hình chủ của các hệ điều hành khác là Fuchsia không hiển thị ứng dụng. Không có phần dock, không có biểu tượng của máy tính để bàn, không có trình khởi chạy.
+Nhưng Google vẫn giữ lại thanh tìm kiếm nổi tiếng. Ở đây ta thấy dường như nó không chỉ tìm kiếm các nội dung trên web mà tìm ngay trên máy tính, tìm cả các ứng dụng.
+ảnh YouTube.
+Fuchsia cũng hỗ trợ chạy đa nhiệm. Google đã giới thiệu tính năng đa nhiệm từ Android 6.0 Marshmallow vào năm 2016. Có lẽ Fuchsia cũng có cách thức hỗ trợ đa nhiệm tương tự.
+Bạn có thể kéo hai cửa sổ của hai ứng dụng vào nhau. Thậm chí có một chế độ hợp nhất hai ứng dụng trong một cửa sổ như thể chúng là hai tab trình duyệt mà bạn có thể dễ dàng chuyển đổi.
+ảnh YouTube.
+Khi bạn đóng ứng dụng, bạn sẽ quay trở về màn hình chính.
+Bạn có thể nhấp chuột hoặc chạm vào dấu chấm nhỏ ở cuối màn hình để quay trở lại màn hình chủ. Nhưng nếu bạn thao tác như vậy khi đang ở trong ứng dụng thì sẽ thành gửi ứng dụng đó đến trình chuyển đổi ứng dụng.
+Không giống như hệ điều hành trên PC, trình chuyển đổi không phải là thanh dock ở dưới cùng mà là một "dòng sông" đầy đủ các ứng dụng xếp chồng lên nhau ở đầu theo thứ tự thời gian đảo ngược.
+ảnh YouTube.
+Bạn có thể cuộn qua phần dòng sông. Cuộn lên và tất cả các ứng dụng trước đây của bạn sẽ xuất hiện. Cách này của Fuchsia giống với hệ điều hành smartphone.
+ảnh YouTube.
+Nhấn vào biểu tượng Fuchsia ở giữa sẽ mở một bảng điều khiển giống như Cài đặt. Bảng điều khiển cài đặt được thiết kế rất đẹp. Có một vài thanh trượt để điều chỉnh âm lượng, độ sáng màn hình và một số nút giống như trên Android.
+Có một dãy ký tự "yard-polar-royal-crust" ở giữa, nhưng chúng tôi không hiểu chính xác là gì.
+ảnh YouTube.
+Fuchsia cũng hỗ trợ đầy đủ các tính năng smartphone. Như chúng tôi đã đề cập ở đầu bài, Fuchsia được thiết kế để chạy đa nền tảng. Nó có thể tự động chuyển đổi giữa chế độ điện thoại và máy tính bảng. Một số ứng dụng hỗ trợ chế độ điện thoại, một số không, nhưng nói chung hệ điều hành dường như được xây dựng để chuyển đổi một cách linh hoạt.
+ảnh YouTube.
+Các ứng dụng được thiết kế theo nguyên tắc Material Design, thích ứng với màn hình. Google ra mắt Material Design vào năm 2014, và cuốn sách hướng dẫn thiết kế nói rằng tính linh hoạt là một trong những điểm chính yếu của nó. Các ứng dụng sẽ tự động điều chỉnh theo kích thước màn hình và đồng thời thay đổi giao diện người dùng tương ứng.
+ảnh YouTube.
+Có chế độ điện thoại, máy tính bàn và máy tính bảng. Chế độ máy tính bảng trên Fuchsia giống như chế độ điện thoại với màn hình nằm ngang.
+Hoài Nam /

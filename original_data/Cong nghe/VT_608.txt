@@ -1,0 +1,27 @@
+Chọn công cụ tìm kiếm.
+Sử dụng Edge không có nghĩa bạn bỏ công cụ tìm kiếm của Google lại phía sau. Công cụ tìm kiếm mặc định của Edge là Bing nhưng bạn có thể thay đổi nó thành Google hoặc công cụ khác sử dụng OpenSearch.
+Bạn có thể thay đổi công cụ tìm kiếm mặc định trên Edge theo ý muốn.
+Để thay đổi công cụ tìm kiếm mặc định bạn hãy nhấp vào nút ba chấm ở góc trên cùng bên phải Edge, nhấp Settings, cuộn xuống đến View advanced settings và sau đó chọn Change search engine. Edge sẽ không liệt kê công cụ tìm kiếm cho đến khi bạn truy cập trang web của mình, do đó hãy nhập vào trang chủ Google trước khi thay đổi công cụ tìm kiếm của Edge.
+Kết nối Cortana với Edge.
+Cũng trong giao diện thiết lập nâng cao bạn sẽ thấy một nút chuyển đổi bên cạnh Have Cortana assist me in Microsoft Edge. Một khi nó được bật, trợ lý ảo Cortana sẽ xuất hiện trong Edge với một lời đề nghị giúp bạn. Thay vì nghe giọng nói của cô, bạn sẽ thấy biểu tượng vòng tròn của Cortana trong thanh URL của Edge khi cô ấy có thể giúp đỡ.
+Ví dụ, nếu đang đọc về iPhone 8, Cortana có thể giới thiệu cho bạn các bài báo về điện thoại sắp tới của Apple. Hoặc Cortana biết khi bạn đang nghe một bài hát trên YouTube và cung cấp cho bạn gợi ý lời bài hát đó.
+Xem trước các thẻ hiện tại.
+Nhấp vào mũi tên xuống nhỏ nằm bên phải các thẻ hiện tại và các thẻ mở rộng để hiển thị một hình thu nhỏ trang đó. Tính năng xem trước thẻ của Edge rất hữu ích nếu bạn có nhiều thẻ đang mở trong cùng một cửa sổ duyệt web. Bạn cũng có thể di chuột qua các thẻ để xem hình thu nhỏ của trang web đó.
+Xem trước các trang hiện tại sẽ rất tiện lợi khi bạn mở nhiều thẻ khác nhau.
+Nhóm các thẻ sang một bên.
+Đôi khi bạn cần dọn dẹp các thẻ đang mở nhưng không nhất thiết phải xóa chúng. Với Edge, bạn có thể đặt các thẻ hiện tại sang một bên và sau đó đưa chúng trở lại mà không cần phải truy cập lịch sử duyệt web. Chỉ cần nhấp vào nút nhỏ bên trái thẻ hiện tại để đặt chúng sang một bên. Chúng được giữ như một bộ sưu tập, cho phép bạn mở lại với tư cách một nhóm hoặc riêng lẻ.
+Nhóm các thẻ vào một bên để xem sau giúp tiết kiệm thời gian hơn là truy cập lịch sử duyệt web.
+Tùy chỉnh trang thẻ mới.
+Trên bảng điều khiển Settings chính, bạn có thể chọn những gì được hiển thị khi mở một thẻ mới. Bạn có ba lựa chọn: các trang web hàng đầu và nội dung được đề xuất; trang web hàng đầu hoặc trang trống.
+Hiển thị nút trang chủ.
+Nhằm sắp xếp lại giao diện, Edge đã ẩn nút trang chủ nhưng bạn hoàn toàn có thể khôi phục lại. Trên bảng thiết lập nâng cao, bạn có thể chuyển Show the home button sang trạng thái On và sau đó thiết lập trang chủ mặc định cho Edge hoặc bỏ trống.
+Ghim trang vào trình đơn Start.
+Bạn có thể ghim các trang web ưa thích nhất trên trình đơn Start của Windows 10 bằng cách truy cập trang đó trong Edge, nhấp vào nút ba chấm ở phía trên bên phải và nhấp vào Pin this page to Start. Nó sẽ xuất hiện ở cuối trang Start nhưng bạn luôn có thể kéo nó đến một vị trí thuận tiện hơn.
+Bạn hoàn toàn có thể ghim các trang web vào trình đơn Start để tiện lợi truy cập về sau.
+Để dành đọc sau.
+Đối với các trang dài đòi hỏi nhiều thời gian để đọc, hoặc đơn giản là muốn lưu lại đọc sau, hãy sử dụng chức năng Reading list của Edge. Chỉ cần nhấp vào nút dấu sao trong thanh URL của Edge để thêm trang vào mục ưa thích của Edge hoặc Reading list để lưu từng bài viết đọc sau. Khi hoàn tất đọc xong bài viết đó, chỉ cần nhấp chuột phải và chọn Delete để xóa nó khỏi danh sách.
+Khi muốn xem Reading list, hãy nhấp vào nút ba gạch ngang bên phải thanh URL của Edge và nhấp vào nút đặt bên phải nút sao.
+Chế độ đọc.
+Khi biểu tượng cuốn sách mở trong thanh URL hiện ra, bạn có thể nhấp vào nó để tách các quảng cáo và tập trung đọc nội dung một bài báo hoặc tác phẩm nào đó. Chế độ đọc trên Edge mang đến cảm giác tự nhiên hơn khi sử dụng thiết bị có màn hình cảm ứng thay vì chuột.
+Kiến Văn.
+Kiến Văn.

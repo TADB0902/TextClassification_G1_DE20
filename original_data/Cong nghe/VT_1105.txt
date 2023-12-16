@@ -1,0 +1,7 @@
+Nhiều dòng laptop HP bị phát hiện chứa phần mềm keylogger buộc công ty phải khắc phục - Ảnh: AFP.
+Theo Neowin , cách đây 8 tháng, một keylogger đã được phát hiện trong trình điều khiển âm thanh trên laptop HP buộc công ty phải sửa nó. Dường như công ty vẫn chưa rút ra bài học từ sai lầm đó khi tình hình tương tự tiếp tục xảy ra.
+Lần này, trình điều khiển bị ảnh hưởng là Synaptics touchpad xuất hiện trên hơn 460 máy tính xách tay HP ra đời từ năm 2012. Các thiết bị này bao gồm dòng EliteBook, Spectre, Pavilion và Envy... và bạn có thể tham khảo danh sách đầy đủ tại đây.
+Mặc dù bản thân keylogger được vô hiệu hóa theo mặc định nhưng nó vẫn là một lỗ hổng bảo mật. Nếu một bên thứ ba có quyền quản trị hệ thống là có thể kích hoạt nó.
+HP cũng đã xác nhận thông tin về keylogger khi ra thông báo trong một tuyên bố rằng: Một lỗ hổng bảo mật tiềm ẩn đã được xác định trong một số phiên bản nhất định của trình điều khiển Synaptics touchpad, ảnh hưởng đến tất cả các đối tác OEM của Synaptics. Bên thứ ba sẽ cần quyền quản trị để khai thác lỗ hổng. Cả Synaptics lẫn HP đều không có quyền truy cập dữ liệu khách hàng.
+Để cài đặt bản sửa lỗi trên máy tính, bạn có thể kiểm tra thông tin bảo mật trong liên kết phía trên, nơi trình điều khiển mới của từng máy tính được liệt kê. Bạn cũng có thể cài đặt nó tự động thông qua ứng dụng HP Support Assistant trên thiết bị.
+Thành Luân.

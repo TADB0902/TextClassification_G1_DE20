@@ -1,0 +1,16 @@
+(Nguồn: dailymail.co.uk).
+Một nghiên cứu mới đã tuyên bố rằng các nhà khoa học đã chữa trị thành công HIV trên động vật sống dựa vào công nghệ sửa đổi gene CRISPR.
+Theo Daily Mail, loại virus nguy hiểm này từ lâu vẫn được coi là rất khó nắm bắt vì khả năng lẩn trốn của chúng. Nhưng giờ đây, trong một nghiên cứu mới được công bố, các nhà khoa học Mỹ cho biết họ có thể gỡ bỏ hoàn toàn DNA HIV có trong tế bào người được cấy ghép trên chuột, từ đó tránh gây lây nhiễm bệnh.
+Kết quả nghiên cứu này là lần đầu tiên các nhà khoa học loại bỏ được hoàn toàn virus HIV trong các mô hình trên loài vật, mở đường cho việc thử nghiệm lâm sàng trên người.
+Điều đáng chú ý nhất là nghiên cứu do Trường Y khoa Lewis Katz thuộc Đại học Temple và Đại học Pittsburgh thực hiện với một mô hình được nhân hóa, trong đó chuột được cấy ghép các tế bào miễn dịch của người và cho nhiễm virus HIV.
+[Các nhà nghiên cứu Cuba thử nghiệm vắcxin điều trị HIV/AIDS].
+Công trình mới này do bác sỹ Wenhui Hu thuộc trường Lewis Katz dẫn dắt, được xây dựng trên nghiên cứu trước đây cũng của đội ngũ này, trong đó họ đã xóa bỏ được HIV-1 trên bộ gene của hầu hết các mô. Một năm sau, họ đã có thể loại bỏ virus trên mọi mô.
+Nghiên cứu mới của chúng tôi sâu rộng hơn, bác sỹ Hu cho biết. Chúng tôi đã xác nhận dữ liệu từ công trình trước đây và đã cải thiện tính hiệu quả của chiến lược sửa đổi gene. Chiến lược cũng được chứng minh là có hiệu quả trên hai mô hình chuột bổ sung, một thể hiện nhiễm virus cấp tính trên tế bào chuột và mô hình còn lại thể hiện sự nhiễm virus mãn tính, lâu dài trên tế bào người.
+Nhóm nghiên cứu đã thử nghiệm với ba nhóm chuột. Trong nhóm thứ nhất, họ cho chuột nhiễm virus HIV-1. Nhóm thứ hai, họ cho chuột nhiễm EcoHIV nặng (tương đương HIV-1 ở người). Nhóm thứ ba sử dụng mô hình chuột nhân hóa được cấy ghép tế bào miễn dịch người và cho nhiễm HIV-1.
+Khi điều trị cho nhóm đầu tiên, họ đã vô hiệu hóa được HIV-1 về mặt gene, giảm thể hiện RNA của các gene virus tới 95%.
+Nhóm thứ hai đặt ra một thử thách mới là virus lan truyền và nhân rộng rất mạnh mẽ. Trong lây nhiễm cấp tính, HIV nhân đôi rất tích cực, bác sỹ Khalili giải thích. Với những con chuột EcoHIV, chúng tôi đã điều tra được khả năng của chiến lược CRISPR/Cas9 trong việc ngăn chặn sự sinh sôi của virus và lây nhiễm có hệ thống.
+Chiến lược của họ loại bỏ 96% EcoHIV trên chuột, đưa ra kết quả đầu tiên của sự loại bỏ HIV-1 bằng hệ thống CRISPR/Cas9.
+Cuối cùng, họ xử lý mô hình động vật thứ ba là chuột nhân hóa với tế bào miễn dịch người, trong đó có các tế bào T, nơi HIV thường ẩn náu. Những con vật này mang theo gene HIV mạnh trong bộ gene của các tế bào T của con người, nơi virus có thể tránh khỏi bị phát hiện, bác sỹ Hu giải thích.
+Sau một lần điều trị với CRISPR/Cas9, các nhà khoa học đã loại bỏ được hoàn toàn các mảnh virus trong tế bào bị nhiễm virus nặng nề, gắn với các mô và cơ quan của chuột.
+Nghiên cứu mới đánh dấu một bước tiến lớn nữa hướng tới việc tìm ra một liều thuốc chữa trị tình trạng lây nhiễm HIV.
+Giai đoạn tiếp theo sẽ là lặp lại nghiên cứu này ở các loài linh trưởng, nhằm tìm hiểu sâu hơn việc loại bỏ DNA HIV-1 trong các tế bào T bị lây nhiễm nặng và những nơi trú ẩn khác của HIV-1, gồm có tế bào não," bác sỹ Khalili cho biết. "Mục tiêu cuối cùng của chúng tôi là một cuộc thử nghiệm lâm sàng trên người bệnh"./.

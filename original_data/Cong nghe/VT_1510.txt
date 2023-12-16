@@ -1,0 +1,12 @@
+Theo hãng bảo mật Kaspersky Lab, Skygofree mạnh tương đương phần mềm do thám do một công ty CNTT Italy bán ra trước đây. Phần mềm này từng gây nhiều lo ngại vì khả năng do thám quá mạnh.
+Chỉ với 48 dòng lệnh trong phiên bản mới nhất, Skygofree cho thấy nó đã được cải tiến liên tục từ khi được tạo ra cuối năm 2014. Mã độc này khai thác năm lỗ hổng riêng biệt để chiếm quyền root hệ thống và dễ dàng qua mặt các biện pháp bảo mật của Android.
+Skygofree có khả năng chụp ảnh, quay video, ghi âm, đọc tin nhắn, dữ liệu vị trí, các sự kiện ghi trong lịch và thông tin liên quan tới kinh doanh lưu trong bộ nhớ thiết bị.
+Do quá thông dụng, Android luôn là đích ngắm của mã độc nguy hại.
+Mã độc siêu mạnh Skygofree còn có thể tự động ghi lời thoại và tiếng ồn khi thiết bị nằm tại vị trí quy định. Một tính năng chưa từng thấy khác là khả năng đọc trộm tin nhắn WhatsApp và điều khiển thiết bị lây nhiễm kết nối tới mạng Wi-Fi do kẻ tấn công kiểm soát.
+Skygofree cũng có nhiều tính năng nâng cao khác, bao gồm khả năng kiểm soát thiết bị lây nhiễm tốt hơn. Mã độc còn được thiết kế cho Windows với khả năng ghi tác vụ bàn phím (keylogger) và cơ chế ghi âm hội thoại Skype.
+Skygofree có nhiều nét tương đồng với Pegasus, mã độc lây nhiễm trên Android và iOS được phát hiện tháng 8/2016. Khi đó, hàng loạt iPhone tại Các Tiểu vương quốc Ả-rập Thống nhất đã bị Pegasus tấn công.
+Pegasus vốn là công cụ do thám đầy đủ tính năng do công ty NSO Group của Israel phát triển. Pegasus có thể ghi tác vụ bàn phím, chụp ảnh màn hình, ghi âm và video trực tiếp, điều khiển từ xa qua tin nhắn SMS, trích xuất dữ liệu từ các ứng dụng hay dùng như WhatsApp, Skype, Facebook, Twitter và Viber.
+Skygofree trên Android là công cụ giáp điệp mạnh nhất từ trước tới nay, Kaspersky Lab nhận xét. Ba năm cải tiến liên tục giúp Skygofree trở thành công cụ do thám hoàn hảo hơn bao giờ hết.
+Qua phân tích mã nguồn Skygofree, Kaspersky Lab tìm thấy dấu vết dẫn tới tên miền h3g.co được công ty CNTT của Italia, Negg International, đăng ký.
+Kaspersky Lab cho biết Skygofree thường lây nhiễm qua các trang web giả danh nhà mạng di động. Dữ liệu phân tích cho thấy mã độc này đã lây nhiễm vào nhiều thiết bị tại Italy.
+Gia Nguyễn.

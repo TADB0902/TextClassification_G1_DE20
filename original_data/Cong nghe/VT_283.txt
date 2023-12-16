@@ -1,0 +1,43 @@
+Mỗi năm vào khoảng thời điểm này, chúng ta lại có hàng loạt tin tức về những vụ lộ hàng của Samsung, những tin đồn về chiếc smartphone mới nhất, và mọi người sẵn sàng cho những bài hand-on, đánh giá model smartphone mới.
+Nhưng đó không phải là điều duy nhất mà Samsung không thay đổi trong những năm qua  còn một điều nữa: sự chậm chạp trong việc tung ra những bản Android mới nhất cho các thiết bị của họ.
+Những tính năng nổi bật của Oreo.
+Ngay trong tuần này, Samsung đã công bố rằng đợt thử nghiệm Android Oreo dài lê thê sắp kết thúc. Điều đó có nghĩa là S8, S8+ và Note 8 sẽ sớm được nâng cấp lên Oreo. Tốt  nhưng chưa đủ tốt. Hàng loạt thiết bị từ các nhà sản xuất khác đã được cập nhật Oreo từ lâu, chứ không chỉ các sản phẩm của Google.
+Những lời phàn nàn về sự chậm chạp trong cập nhật Android của Samsung có lẽ đã khởi đầu từ tận năm 2012. Dù trong những năm qua, họ đã cải thiện được chất lượng của những bản cập nhật, sự chậm chạp của họ vẫn không hề thay đổi. Ngay cả với một bản cập nhật không hề đem lại nhiều điều đáng kể như Oreo (nếu so sánh với Nougat của 2016), Samsung vẫn mất đến một năm trời để bắt đầu đưa Oreo đến với thiết bị của người dùng.
+Nhưng rất có thể sự chậm chạp này là cố ý, không phải để đảm bảo chất lượng phần mềm, mà là để đảm bảo doanh thu của đời máy tiếp sau. Với Galaxy S9 sẽ ra mắt vào ngày 25/2 tới, và ngày phát hành dự kiến là 16/3, rõ ràng Samsung đang muốn sử dụng Android Oreo như một cần câu dụ khách hàng nâng cấp.
+Đại đa số người dùng muốn mua S9 đang sở hữu S6 hoặc S7  S6 sẽ không được cập nhật lên Oreo, trong khi S7 còn chưa biết phải đợi đến bao giờ. Việc được nâng cấp lên Android ngay lập tức, với tất cả những cải thiện về hiệu năng và tính năng mới chắc chắn là điểm nhấn mà Samsung muốn sử dụng để bán được thêm nhiều S9 hơn, dù chiếc smartphone này được dự đoán sẽ đắt hơn khoảng 100 USD so với S8.
+S9 được dự đoán sẽ đắt hơn S8 100 USD.
+Nhưng chúng ta cũng phải xét đến việc Samsung đang có số lượng smartphone khổng lồ chờ được cập nhật. Là nhà sản xuất có số model cần được nâng cấp lên Oreo nhiều nhất thế giới, Samsung phải đảm bảo rằng bản cập nhật mà họ tung ra đủ mượt mà trên máy của người dùng, dù đó là S8+ thời thượng hay A3 bình dân.
+Hiện tại, một danh sách vừa được tiết lộ trong bản beta Android Oreo của Samsung cho thấy sẽ có ít nhất 22 smartphone khác nhau được cập nhật lên Android, chưa kể 6 model tablet do họ sản xuất.
+Smartphone sẽ được cập nhật Oreo:
+Samsung Galaxy A3 2017.
+Samsung Galaxy A5 2017.
+Samsung Galaxy A7 2017.
+Samsung Galaxy A8 2016.
+Samsung Galaxy A8 2018.
+Samsung Galaxy A8+ 2018.
+Samsung Galaxy J3 2017.
+Samsung Galaxy J5 2017.
+Samsung Galaxy J7 2017.
+Samsung Galaxy J7+.
+Samsung Galaxy J7 Duos 2017.
+Samsung Galaxy J7 Max.
+Samsung Galaxy J7 Neo.
+Samsung Galaxy J7 Prime.
+Samsung Galaxy Note FE.
+Samsung Galaxy Note 8.
+Samsung Galaxy S7.
+Samsung Galaxy S7 Edge.
+Samsung Galaxy S8 Active.
+Samsung Galaxy S8.
+Samsung Galaxy S8+.
+Samsung Galaxy W2018.
+Tablet có thể được cập nhật Oreo:
+Samsung Galaxy Tab A 8.0 SM-T355.
+Samsung Galaxy Tab A 8.0 SM-T380/T385 2017.
+Samsung Galaxy Tab A 10.1 SM-T580.
+Samsung Galaxy Tab Active 2.
+Samsung Galaxy Tab E 8.0.
+Samsung Galaxy Tab S3 SM-T825.
+Đội ngũ phát triển của Samsung phải đảm bảo rằng mọi thứ, từ ứng dụng đến giao diện của những bản cập nhật này hoàn toàn tương thích với nhiều phiên bản smartphone khác nhau, được phân phối bởi nhiều nhà mạng khác nhau trên toàn cầu.
+iPhone và chuyện hàng giả, hàng nhái từ Trung Quốc.
+Phạm Lê.

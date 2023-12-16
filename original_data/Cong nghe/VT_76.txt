@@ -1,0 +1,9 @@
+Taxi bay Joby S2 được thiết kế bởi Joby Aviation.
+Với số tiền đầu tư trên, Joby Aviation sẽ sử dụng để phát triển một chiếc siêu máy bay không người lái (megadrone) có thể đạt tốc độ 321 km/h, được cung cấp năng lượng bởi hệ thống pin sạc.
+Theo Bloomberg, chiếc taxi bay Joby S2 được vận hành bằng động cơ điện với hệ thống phần mềm điều khiển rất phức tạp và được kỳ vọng sẽ thay đổi cách di chuyển trong tương lai.
+Nguyên mẫu của chiếc megadrone này gồm 16 cánh quạt điện, trong đó 12 chiếc được thiết kế giống như máy bay lên thẳng, đồng nghĩa với việc nó không cần đường băng cho cất hạ, cánh.
+Giám đốc điều hành của Joby Aviation nói khách hàng sẽ có thể gọi một chiếc taxi bay Joby S2 bằng cách sử dụng một ứng dụng trên điện thoại thông minh, tương tự như cách mà Uber hoặc Grab đang làm.
+Công nghệ vận hành tự động đang đạt nhiều tiến bộ đáng kể trong những năm gần đây với việc các công ty công nghệ cao và các nhà chế tạo xe hơi đưa nhiều phương tiện độc đáo vào thử nghiệm trên đường, trong khi một số nhà phát minh và các công ty startup phát triển nhiều mẫu ôtô bay với tham vọng phát triển loại hình vận tải công cộng mới - taxi bay.
+Liên quan đến việc phát triển taxi bay, hãng Airbus mới đây cũng đã thử nghiệm thành công mẫu máy bay không người lái Vahana. Theo đó, chiếc máy bay điện không người lái của hãng Airbus đã có chuyến bay thử nghiệm kéo dài chưa đầy một phút và toàn bộ quá trình cất cánh lẫn hạ cánh của Vahana đều hoàn toàn tự động, không có sự tham gia của phi công.
+Theo thiết kế, Vahara sở hữu 8 cánh quạt tạo lực đẩy, cho phép quá trình cất - hạ cánh theo phương thẳng đứng ở độ cao 5m so với mặt đất và chở được 1 người. Dự kiến, Airbus sẽ tiến hành hoạt động bay thử nghiệm bổ sung đối với Vahana trong thời gian tới.
+An Chi (tổng hợp).

@@ -1,0 +1,29 @@
+Ảnh minh họa.
+Năm 1991, Giáo sư Rob Hurle của đại học Quốc gia Australia tới Việt Nam mang theo một chiếc modem to bằng cục gạch đã thử nghiệm kết nối giữa các máy tính tại Việt Nam với máy tính tại Austrailia. Đây chính là thử nghiệm Internet đầu tiên của Việt Nam.
+Tới năm 1997, Internet được chính thức cung cấp như một dịch vụ viễn thông phổ biến tại Việt Nam. Lúc đó, chỉ có 2 doanh nghiệp cung cấp dịch vụ duy nhất trên thị trường là VNPT và NetNam.
+Việc truy cập của người dùng cũng gặp rất nhiều khó khăn vì kết nối quay số phụ thuộc hoàn toàn vào đường dây điện thoại. Mỗi khi sử dụng Internet, điện thoại cố định của khách hàng sẽ bận. Tốc độ kết nối rẩt chậm và cước phí được tính theo phút.
+Đến năm 2003, thay đổi lớn về công nghệ đã khiến Internet dần phổ biến hơn. Kết nối ADSL xuất hiện với tốc độ nhanh hơn và giá cước truy cập giảm tới 40%.
+Tại các thành phố lớn lúc này một lượng lớn người dùng bắt đầu được tiếp xúc với Internet thông qua các điểm truy cập Internet công cộng hoặc các quán cafe.
+Những dịch vụ cơ bản trên Internet cũng dần được sử dụng nhiều hơn như chat bằng IRC hay Yahoo Messenger, nghe nhạc trực tuyến bằng nhacso.net, manhhai,tk. Thương mại điện tử cũng dần xuất hiện ở hình thức sơ khai bằng các diễn đàn rao vặt, nơi những người có nhu cầu bán có thể đăng thông tin sản phẩm cùng số điện thoại của mình lên, chờ người có nhu cầu mua gọi điện hoặc nhắn tin.
+Lúc này cũng là thời kỳ mà các trò chơi trực tuyến trở thành hoạt động có đông người dùng Internet tham gia nhất. Đặc biệt là những người dùng ở lứa tuổi thanh, thiếu niên.
+Trong thời gian này, những dịch vụ OTT cũng bắt đầu xuất hiện với một lượng nhỏ người dùng.
+Nhưng thay vì là ứng dụng trên smartphone, những dịch vụ OTT này được các nhà cung cấp nước ngoài như Meebo, Nimbuzz cung cấp qua dạng wap trên điện thoại chạy mạng 2,5G hoặc ứng dụng Java.
+Người dùng thường sử dụng các dịch vụ này để chat Yahoo Messenger vì Yahoo chưa chính thức hỗ trợ điện thoại di động mà chỉ hỗ trợ trang wap.
+Ứng dụng Ola sau khi có phiên bản Java đã có thêm bản Android.
+Đến năm 2007, một dịch vụ tương tự của Việt Nam ra đời có tên gọi Ola. Đây cũng có thể coi là một trong những dịch vụ OTT đầu tiên của Việt Nam thu hút được lượng lớn người dùng.
+Năm 2009, dịch vụ Internet cáp quang (FTTH) được các nhà cung cấp dịch vụ trong nước giới thiệu, và một nhà mạng di động bắt đầu cung cấp dịch vụ 3G. Kết nối ADSL trở thành tiêu chuẩn của các gia đình ở thành phố, Internet dần trở thành dịch vụ phổ cập như điện thoại cố định và di động.
+Từ năm 2010, thị trường di động bắt đầu bùng nổ với các thiết bị thông minh. Hàng loạt dịch vụ mới từ các nhà cung cấp nước ngoài lẫn Việt Nam xuất hiện.
+Đến lúc này, gần 70% dân số Việt Nam đã sử dụng Internet. Nhờ Internet, thói quen của nhiều người dùng đã thay đổi.
+Thay vì chỉ dừng lại ở các trang rao vặt, thương mại điện tử đã phát triển đúng nghĩa với khả năng giúp người dùng chỉ ngồi ở nhà, chọn sản phẩm và chờ giao tới địa chỉ mình muốn.
+Việc di chuyển cũng trở nên tiện lợi và rẻ hơn nhờ các dịch vụ gọi xe hoạt động trên smartphone.
+Nhiều bộ ngành cũng mở tài khoản trên mạng xã hội để tương tác với người dân nhanh chóng và hiệu quả hơn.
+So sánh 50 triệu người dùng Internet hiện nay với 205.000 người dùng trong thời gian đầu, có thể thấy Việt Nam đang có tốc độ phát triển rất lớn.
+Tuy nhiên mặt trái cũng đã xuất hiện. Bộ trưởng Bộ Thông tin và Truyền thông Trương Minh Tuấn phát biểu tại sự kiện Kỷ niệm 20 năm ngày Internet Việt Nam do Hiệp hội Internet Việt Nam tổ chức: Hiện nay lượng thông tin xấu độc xuất hiện trên Internet và mạng xã hội ngày càng nhiều. Đặc biệt là lượng thông tin giả, tin bịa đặt, xuyên tạc".
+"Ngoài ra các vấn nạn như tấn công mạng, mất an toàn thông tin, thư rác, mã độc, tống tiền đang nhằm vào mục tiêu là các doanh nghiệp, cơ quan, tổ chức tại Việt Nam đang gia tăng cả về số lượng, quy mô và độ phức tạp, ông nói thêm.
+Tranh cãi giữa hình thức kinh doanh cũ và mới cũng đã nổ ra.
+Ông Lê Hồng Minh, CEO VNG cho rằng: Trong tương lai, sẽ không còn những tranh luận giữa phương thức kinh doanh cũ và mới. Internet và công nghệ hiện đại đã là một phần không thể tách khỏi của các lĩnh vực khác nhau".
+Những nỗi lo 20 năm trước khi mở cửa Internet lúc này đã trở thành hiện thực. Có những vấn đề như cách hành xử với doanh nghiệp nước ngoài trên mạng Internet, kể cả chính phủ nước ngoài như chính phủ Mỹ cũng chưa có câu trả lời.
+Phải chấp nhận thực tế, mở cửa Internet, tương lai sẽ không có khái niệm Việt Nam hay thế giới, chỉ có 1 thị trường cho tất cả các doanh nghiệp.
+Trong khi đó ông Đậu Anh Tuấn, Trưởng ban pháp chế VCCI cho biết: Việt Nam có hai điểm mạnh là thị trường và nhân tài số. Tuy nhiên chúng ta cũng có hai điểm yếu là chính sách và thuế.
+Trong con mắt của chuyên gia quốc tế, Việt Nam chưa mạnh về chính sách. Mỗi chính sách điều chỉnh phải mất 2 đến 3 năm nên khi điều chỉnh xong, có thể đã bị lạc hậu, các doanh nghiệp kinh doanh bài bản có thể gặp rủi ro.
+TÙNG LINH.

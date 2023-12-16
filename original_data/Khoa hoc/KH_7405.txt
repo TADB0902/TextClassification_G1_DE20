@@ -1,0 +1,29 @@
+Cơ sở của vi thấu kính hấp dẫn theo thuyết tương đối rộng.
+Trong thuyết tương đối rộng ra đời năm 1915, Einstein cho rằng các vật thể lớn sẽ gây ra lực hấp dẫn làm bẻ cong không thời gian.
+Ảnh minh họa không thời gian quanh Trái Đất bị bẻ cong do lực hấp dẫn của các sao khổng lồ (Ảnh: NASA).
+Quan điểm này đã được các nhà thiên văn ứng dụng để quan sát các sao và thiên hà nằm phía sau các vật thể lớn trong vũ trụ. Cụ thể là, các sao khổng lồ sẽ đóng vai trò tiền cảnh (foreground) bẻ cong ánh sáng từ các sao và thiên thể ở sau nó (hậu cảnh-background) tới chúng ta, làm chúng sáng hơn và có thể quan sát được bằng kính viễn vọng từ trái đất. Hiện tượng này được các nhà khoa học gọi là vi thấu kính hấp dẫn (gravitational microlensing).
+Thuyết tương đối rộng của Einstein là cơ sở để các nhà thiên văn ứng dụng thấu kính hấp dẫn vũ trụ quan sát các thiên thể, cụm thiên hà (galaxy cluster) xa xôi.
+Không chỉ vậy, Einstein cũng cho là chúng ta có thể đo lường khối lượng của một ngôi sao dựa trên việc quan sát ánh sáng của nó bị bẻ cong khi một vật thể băng qua trước nó.
+Vào thời của Einstein, do điều kiện còn hạn chế nên ông nghĩ rằng không có hy vọng quan sát trực tiếp hiện tượng này (vi thấu kính hấp dẫn) (nguyên văn lời Einstein trong một bài báo ông gửi cho tạp chí Science năm 1936).
+Trên thực tế, việc dùng vi thấu kính hấp dẫn mà Einstein dự đoán đã từng được thực hiện trong các kết quả đo lường nổi tiếng vào năm 1919. Khi đó, các phép đo ánh sáng sao vòng quanh một vụ nhật thực toàn phần đã cho thấy một trong những bằng chứng thuyết phục đầu tiên của thuyết tương đối rộng. Từ đó, lý thuyết miêu tả lực hấp dẫn có chức năng hình học cả trong không gian lẫn thời gian này đã thực sự trở thành quy luật định hướng cho vật lý hiện đại.
+Nghiên cứu đầu tiên tính được khối lượng sao lùn.
+Gần đây, cũng lại là tạp chí Science số ra ngày 9/6 đã đăng tải một nghiên cứu được xem là báo cáo đầu tiên về vi thấu kính hấp dẫn và kết quả tính khối lượng ngôi sao ở xa dựa trên ý tưởng của Einstein. Nghiên cứu này đi cùng với một bài báo liên quan của Terry Oswalt, một nhà thiên văn học đến từ đại học hàng không Embry-Riddle.
+Đi sâu vào chi tiết, nhóm của nhà thiên văn Kailash C. Sahu đã đo lường được các dịch chuyển trong vị trí của ngôi sao ở xa khi ánh sáng của nó đi chệch hướng quanh sao lùn trắng Stein 2051B ở gần đó. Nhóm làm được điều này là nhờ tận dụng độ phân giải góc vượt trội của kính viễn vọng không gian Hubble.
+Sau 8 ngày quan sát trong khoảng từ tháng 10/2013 đến tháng 10/2015, nhóm Sahu xác định được khối lượng của Stein 2051B bằng khoảng 2/3 khối lượng mặt trời.
+Ảnh chụp 8 quan sát sao lùn trắng Stein 2051B (đốm sáng) bằng Hubble trong 2 năm 2013-2015. Khi đi qua phía trước ngôi sao hậu cảnh ở xa (chấm xanh dương), sao lùn đã làm chệch hướng ánh sáng từ ngôi sao xa đến trái đất. (Ảnh: NASA).
+Phép toán này dựa trên luận điểm là: Sự chệch hướng trong vị trí của ngôi sao hậu cảnh ở xa có liên hệ trực tiếp tới khối lượng và lực hấp dẫn của sao lùn trắng và mức độ gần nhau khi hai ngôi sao đến đúng vị trí thẳng hàng, nhà thiên văn Oswalt giải thích trong bài báo đi kèm.
+Ảnh chụp sao lùn trắng Stein 2051B của Hubble và ngôi sao nhỏ hơn bên dưới có vẻ khá gần nó. Trên thực tế, Stein 2015 cách Trái Đất 17 năm ánh sáng còn ngôi sao kia xa tới 5.000 năm ánh sáng. (Ảnh: NASA).
+Vòng nhẫn Einstein không hoàn hảo.
+Nghiên cứu quốc tế của nhóm Sahu còn đặc biệt ở nhiều điểm khác.
+Sao lùn và ngôi sao xa nằm lệch nhau đã tạo nên một phiên bản vòng nhẫn Einstein không cân xứng.
+Vòng nhẫn Einstein là một vòng nhẫn hình tròn hoàn hảo xảy ra khi một ngôi sao ở hậu cảnh nằm đúng ngay giữa chúng ta và ngôi sao tiền cảnh (ảnh).
+(Ảnh: Supplied).
+Vòng nhẫn Einstein chính là một trường hợp đặc biệt của vi thấu kính hấp dẫn và được gọi làthấu kính đo lường thiên văn.Oswalt cho biết nhóm Sahu là những người đầu tiên quan sát được hiện tượng này trong một ngôi sao khác ngoài mặt trời.
+Tuy nhiên, vòng nhẫn trong quan sát của nhóm Sahu và độ sáng của nó quá nhỏ không thể đo lường và lại không cân xứng như vòng nhẫn Einstein trên lý thuyết nên ngôi sao ở xa sẽ lệch khỏi trung tâm so với vị trí chính xác của nó.
+Ảnh minh họa cách thức lực hấp dẫn của sao lùn trắng (white dwarf) bẻ cong không gian và ánh sáng của ngôi sao ở đằng sau nó, làm cho vị trí sao quan sát (observed star position) lệch khỏi trung tâm so với vị trí thực của nó (real star position) (Ảnh: NASA).
+Tầm quan trọng to lớn của nghiên cứu mới.
+Cũng theo Oswalt, các kết quả trên rất hữu ích với các nhà quan sát nghiệp dư vì ít nhất 97% các ngôi sao hình thành trong thiên hà Milky Way, kể cả mặt trời sẽ trở thành các sao lùn trắng tiết lộ với chúng ta các bí ẩn về tương lai cũng như lịch sử vũ trụ.
+Còn với giới thiên văn, công trình trên là cực kỳ quan trọng vì đã giúp giải quyết 3 vấn đề lớn:
+Đầu tiên làgiải mã bí ẩn tồn tại lâu nay về khối lượng và cấu tạo của sao lùn Stein 2051B.
+Tiếp đến, trong lý thuyết được trao giải Nobel năm 1930, nhà vật lý thiên thể Subrahmanyan Chandrasekhar đã chỉ ra mối quan hệ giữa khối lượng và bán kính của các sao lùn. Giờ đây, công trình của nhóm Sahu là bằng chứng tốt nhất khẳng định lý thuyết của Chandrasekhar và niềm tin trải dài gần một thế kỷ qua của chúng ta về Stein 2051B: Stein 2051B bình thường một cách hoàn hảo chứ không phải là một sao lùn khổng lồ với cấu trúc lạ.
+Cuối cùng, vi thấu kính hấp dẫn của Einstein sẽ là một công cụ mới rất hữu ích để xác định khối lượng các thiên thể. Trong những năm tới, nhiều cặp sao thẳng hàng khác sẽ được tiết lộ qua vô số quan sát mới một cách tình cờ, Oswalt kết luận.

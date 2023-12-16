@@ -1,0 +1,98 @@
+Thí sinh đến đăng ký tuyển sinh tại Đại học Duy Tân mùa tuyển sinh 2016.
+Theo đó, điểm nhận hồ sơ của tất cả các ngành đào tạo là 15,5 điểm - ngang với ngưỡng điểm đảm bảo chất lượng đầu vào do Bộ quy định (điểm sàn).
+Điểm Xét tuyển = Tổng điểm thi 3 môn + Điểm ưu tiên = 15.5 điểm.
+Ngoại trừ: điểm Xét tuyển.
+- Ngành Bác sĩ đa khoa : 21 điểm.
+- Ngành Dược sĩ đại học: 18 điểm.
+- Ngành Thiết kế số: 17 điểm.
+- Ngành Ngôn ngữ Anh (môn Anh Văn không nhân hệ số 2): 15.5 điểm.
+- Ngành Kiến trúc (môn vẽ nhân hệ số 2):
+* Ngành Kiến trúc chương trình trong nước: 16.5 điểm.
+* Ngành Kiến trúc chương trình chuẩn CSU (Mỹ): 15,5 điểm.
+TT.
+Ngành học.
+Mã ngành.
+Điểm.
+Tổ hợp Xét tuyển.
+Kỹ thuật mạng máy tính.
+1.Toán, Lý, Hóa.
+2.Toán, Lý, Văn.
+3.Toán, Văn, Anh.
+Toán, Văn, KHTN.
+Công nghệ phần mềm.
+Thiết kế đồ họa.
+Hệ thống thông tin quản lý.
+Điện tự động.
+Thiết kế số.
+Điện tử - Viễn thông.
+Quản trị kinh doanh tổng hợp.
+Quản trị kinh doanh marketing.
+Tài chính doanh nghiệp.
+Ngân hàng.
+Kế toán kiểm toán.
+Kế toán doanh nghiệp.
+Ngoại thương.
+Kinh doanh thương mại.
+Xây dựng dân dụng & công nghiệp.
+1.Toán, Lý, Hóa.
+2.Toán, Lý, Văn.
+Toán, Văn, KHTN.
+4.Toán, Hóa, Văn.
+Xây dựng cầu đường.
+Công nghệ quản lý xây dựng.
+Công nghệ & Kỹ thuật môi trường.
+1.Toán, Lý, Hóa.
+2.Toán, Văn, KHTN.
+3.Toán, Hóa, Sinh.
+4.Toán, Hóa, Văn.
+Quản lý Tài nguyên và Môi trường.
+1.Toán, Lý, Hóa.
+2.Toán, Hóa, Sinh.
+3.Toán, Văn, KHTN.
+4.Toán, Văn, KHXH.
+Công nghệ thực phẩm.
+1.Toán, Lý, Hóa.
+2.Toán, Lý, Văn.
+3.Toán, Văn, KHTN.
+4.Toán, Hóa, Sinh.
+Quản trị Du lịch & Khách sạn.
+1.Toán, Lý, Hóa.
+2.Toán, Văn, KHXH.
+3.Toán, Văn, Anh.
+4.Văn, Sử, Địa.
+Quản trị Du lịch & Lữ hành.
+Điều dưỡng đa khoa.
+1.Toán, Lý, Hóa.
+2.Toán, Hóa, Sinh.
+3.Toán, Văn, Sinh.
+4.Toán, Văn, KHTN.
+Dược sĩ đại học.
+1.Toán, Lý, Hóa.
+2.Toán, Hóa, Sinh.
+3.Toán, Văn, Sinh.
+4.Toán, Văn, KHTN.
+Văn - Báo chí.
+1.Văn, Sử, Địa.
+2.Toán, Văn, Anh.
+3.Toán, Văn, KHXH.
+4.Văn, Anh, Địa.
+Văn hóa du lịch.
+Truyền thông đa phương tiện.
+Quan hệ quốc tế.
+Tiếng Anh Biên - Phiên dịch.
+1.Toán, Văn, Anh.
+2.Văn, Sử, Anh.
+3.Văn, Địa, Anh.
+Văn, Anh, KHTN.
+Tiếng Anh du lịch.
+Kiến trúc công trình (vẽ *2).
+1.Toán, Lý, Vẽ.
+2.Toán, Văn, Vẽ.
+Toán, KHTN, Vẽ.
+Toán, KHXH, Vẽ.
+Kiến trúc nội thất (vẽ *2).
+Luật kinh tế.
+1.Toán, Lý, Hóa.
+2.Toán, Văn, KHXH.
+3.Toán, Văn, Anh.
+4.Văn, Sử, Địa.

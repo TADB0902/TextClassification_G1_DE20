@@ -1,0 +1,12 @@
+CEO Bkav Nguyễn Tử Quảng cho biết, cho tới nay, đối với bảo mật bằng sinh trắc học, vân tay vẫn là tốt nhất. (Nguồn: Bkav).
+Trước đông đảo giới truyền thông, sáng 15/11, Tập đoàn Bkav đã tổ chức buổi thử nghiệm, công bố nguyên lý, cách thức tìm ra lỗ hổng của hệ thống nhận diện khuôn mặt Face ID trên iPhone X của Apple.
+Theo Bkav, Apple cho biết hãng làm việc với các chuyên gia hóa trang của Hollywood để giúp công nghệ bảo mật Face ID ứng dụng trên iPhone X có khả năng phân biệt được các mặt nạ và không cho phép mở khóa điện thoại. Apple cũng cho biết, so với Touch ID, Face ID bảo mật hơn.
+Buổi thực nghiệm của Bkav cho thấy, với chiếc mặt nạ được tạo nên nhờ kết hợp kỹ thuật in 3D, ảnh 2D và một vài xử lý đặc biệt đã có thể qua mặt Face ID của iPhone X. Chi phí của chiếc mặt nạ ở thời điểm hiện tại khoảng 150 USD.
+Cận cảnh chiếc mặt nạ "đánh lừa" được Face ID trên siêu phẩm iPhone X. (Ảnh: T.H/Vietnam+).
+Nghiên cứu của Bkav chỉ ra rằng, có ba điểm mấu chốt trong công nghệ Face ID là một bức ảnh của người dùng được chụp để tạo ra hình ảnh bề mặt của khuôn mặt; một bức ảnh khác được chụp dưới dạng lưới điểm để tái tạo hình ảnh 3D của khuôn mặt (cả hai bức ảnh đều chụp bởi camera hồng ngoại); khả năng phân biệt mặt thật, giả của Face ID thông qua AI-trí thông minh nhân tạo.
+Phân tích của các kỹ sư của Bkav cho thấy, đối với các hình ảnh 2D, 3D có thể dễ dàng tạo vật thể đánh lừa. Phần AI sẽ phức tạp hơn song theo Bkav thì lỗ hổng trong AI của Face ID đã được hãng tiên đoán kể từ thời điểm Apple ra mắt iPhone X dựa trên các phân tích khoa học.
+Apple đã cho AI học đồng thời rất nhiều mặt thật và mặt nạ do Hollywood và các nghệ sĩ chế tạo ra. Với cách như vậy, AI của Apple sẽ chỉ có thể phân biệt một khuôn mặt hoặc là thật, hoặc là giả. Do đó, nếu tạo ra một khuôn mặt nửa thật, nửa giả sẽ đánh lừa được AI của Apple, ông Ngô Tuấn Anh, Phó Chủ tịch phụ trách An ninh mạng của Bkav nói.
+(Nguồn: Bkav).
+Theo ông Nguyễn Tử Quảng, CEO của Bkav, nghiên cứu của này của hãng là một PoC (Proof of Concept)-nghiên cứu nguyên lý gốc và không phải là một kịch bản khai thác. Dựa vào PoC này, sẽ có những kịch bản khai thác và cách khắc phục. Bkav đã có sẵn một số kịch bản và chỉ trao đổi với nhà sản xuất để không gây ảnh hưởng tới người sử dụng./.
+Phó Chủ tịch Bkav Ngô Tuấn Anh thực nghiệm mở iPhone X bằng mặt nạ mô phỏng khuôn mặt của mình.
+Yên Thủy (Vietnam+).

@@ -1,0 +1,8 @@
+Mã độc tống tiền WannaCry làm đau đầu các doanh nghiệp, tổ chức trong suốt thời gian qua.
+Theo thông báo được Công ty cổ phần Cảng Sài Gòn (mã CK: SGP) gửi tới Sở giao dịch chứng khoán Hà Nội, ngày 24/1/2018, hệ thống phần mềm kế toán của công ty đã bị nhiễm mã độc WannaCry, dẫn đến toàn bộ số liệu bị mã hóa không thể đọc được.
+Do sự cố, công tác lập báo cáo tài chính quý IV và cả năm 2017 bị ảnh hưởng, không thể hoàn thành và công bố thông tin trước ngày 30/1/2018 theo quy định.
+Trong thời gian khắc phục sự cố, Công ty cổ phần Cảng Sài Gòn đề nghị Ủy ban chứng khoán Nhà nước và Sở giao dịch chứng khoán Hà Nội xem xét chấp thuận cho gia hạn công bố thông tin với báo cáo tài chính quý IV và cả năm 2017.
+Bùng phát trong năm 2017, mã độc WannaCry chủ yếu khai thác lỗ hổng phiên bản máy chủ Windows 2008 R2 (đang được đa số các doanh nghiệp và cơ quan nhà nước Việt Nam sử dụng) và Windows XP vẫn còn tồn tại.
+Bên cạnh đó lỗ hổng còn khai thác qua giao thức SMB, giao thức chia sẻ tập tin và máy in được sử dụng nhiều tại các tổ chức cá nhân trên toàn thế giới, từ đó dẫn đến nguy cơ lan rộng rất cao.
+Việc nhiều tổ chức cá nhân chưa kịp nắm bắt thông tin kịp thời để vá lỗ hổng từ đó dẫn đến nguy cơ rất cao trong việc lây nhiểm mã độc trên diện rộng.
+P.V.

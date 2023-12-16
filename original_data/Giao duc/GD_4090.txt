@@ -1,0 +1,91 @@
+Đại Học Công nghệ Giao Thông Vận Tải, ĐH Hà Nội, Đh văn hóa nghệ thuật TW, ĐH Kiến Trúc:
+01: Bến xe Gia Lâm  Bến xe Yên Nghĩa.
+02: Bác Cổ - Bến xe Yên Nghĩa.
+19: Trần Khánh Dư  Thiên đường Bảo Sơn.
+21A: Bến xe Giáp Bát  Bến xe Yên Nghĩa.
+21B: KĐT Pháp Vân Tứ Hiệp - BX. Mỹ Đình.
+27: Bến xe Yên Nghĩa  Bến xe Nam Thăng Long.
+33: Bến xe Yên Nghĩa  Xuân Đỉnh.
+39: Công viên Nghĩa Đô  Tứ Hiệp.
+Danh sách các tuyến xe buýt tại Hà Nội đi qua các trường Đại học - Ảnh timbus.
+Đại Học Bách Khoa Hà Nội:
+03A: Bến xe Giáp Bát  Bến xe Gia Lâm.
+03B: Bến xe Nước Ngầm  Vincom  Phúc Lợi.
+21A: Bến xe Giáp Bát  Bến xe Yên Nghĩa.
+21B: KĐT Pháp Vân Tứ Hiệp - BX. Mỹ Đình.
+25: Bến xe Nam Thăng Long  Bến xe Giáp Bát.
+26: Mai Động  Sân Vận động Mỹ Đình.
+28: Bến xe Giáp Bát  Đại học Mỏ.
+32: Bến xe Giáp Bát  Nhổn.
+41: Bến xe Giáp Bát  Nghi Tàm.
+35A: Trần Khánh Dư  Nam Thăng Long.
+44: Trần Khánh Dư  Bên xe Mỹ Đình.
+51: Trần Khánh Dư  Công viên Cầu Giấy.
+08: Long Biên  Đông Mỹ.
+18: Đại học Kinh tế Quốc dân  Đại học Kinh tế Quốc dân.
+23: Nguyễn Công Trứ - Nguyễn Công Trứ.
+31: Bách Khoa Đại học Mỏ.
+Đại Học Giao Thông Vận Tải:
+07: Cầu Giấy  Nội Bài.
+09: Bờ Hồ - Bờ Hồ.
+20A: Cầu Giấy  Phùng.
+20B: Cầu Giấy  Sơn Tây.
+24: Long Biên  Ngã Tư Sở - Cầu Giấy.
+26: Mai Động  Sân Vận động Mỹ Đình.
+27: Bến xe Yên Nghĩa  Bến xe Nam Thăng Long.
+28: Bến xe Giáp Bát  Đại học Mỏ.
+32: Bến xe Giáp Bát  Nhổn.
+34: Bến xe Mỹ Đình  Bến xe Gia Lâm.
+38: Bến xe Nam Thăng Long  Mai Động.
+49: Trần Khánh Dư  KĐT Mỹ Đình II.
+55A: KĐT Times city  Cầu Giấy.
+55B: TTTM Aeon mall Long Biên - Bưởi - Cầu Giấy.
+09: Bờ Hồ - Bờ Hồ.
+16: Bến xe Mỹ Đình  Bến xe Nước ngầm.
+Đại Học Khoa Học Tự Nhiên, Đại Học Khoa Học Xã Hội và Nhân Văn.
+01: Bến xe Gia Lâm  Bến xe Yên Nghĩa.
+02: Bác Cổ - Bến xe Yên Nghĩa.
+05: Linh Đàm  Phú Diễn.
+19: Trần Khánh Dư  Thiên đường Bảo Sơn.
+21A: Bến xe Giáp Bát  Bến xe Yên Nghĩa.
+21B: KĐT Pháp Vân Tứ Hiệp - BX. Mỹ Đình.
+27: Bến xe Yên Nghĩa  Bến xe Nam Thăng LonG.
+29: Bến xe Giáp Bát  Tân Lập.
+44: Trần Khánh Dư  Bên xe Mỹ Đình.
+60B: BX Nước Ngầm  BV Nhiệt đới TW CS2.
+Đại Học Ngoại Thương:
+09: Bờ Hồ - Bờ Hồ.
+12: Công viên Nghĩa Đô  Đại Áng.
+26: Mai Động  Sân Vận động Mỹ Đình.
+27: Bến xe Yên Nghĩa  Bến xe Nam Thăng Long.
+24: Long Biên  Ngã Tư Sở - Cầu Giấy.
+Đại Học Sư Phạm Hà Nội, Đại Học Quốc Gia (ĐH Ngoại Ngữ, ĐH Công Nghệ, ĐH Kinh Tế):
+16: Bến xe Mỹ Đình  Bến xe Nước ngầm.
+20A: Cầu Giấy  Phùng.
+20B: Cầu Giấy  Sơn Tây.
+26: Mai Động  Sân Vận động Mỹ Đình.
+32: Bến xe Giáp Bát  Nhổn.
+34: Bến xe Mỹ Đình  Bến xe Gia Lâm.
+49: Trần Khánh Dư  KĐT Mỹ Đình II.
+13: CV nước Hồ Tây  Học viện Cảnh sát.
+Đại Học Công Đoàn:
+01: Bến xe Gia Lâm  Bến xe Yên Nghĩa.
+02: Bác Cổ - Bến xe Yên Nghĩa.
+09: Bờ Hồ - Bờ Hồ.
+23: Nguyễn Công Trứ - Nguyễn Công Trứ.
+12: Công viên Nghĩa Đô  Đại Áng.
+18: Đại học Kinh tế Quốc dân  Đại học Kinh tế Quốc dân.
+21A: Bến xe Giáp Bát  Bến xe Yên Nghĩa.
+21B: KĐT Pháp Vân Tứ Hiệp - BX. Mỹ Đình.
+26: Mai Động  Sân Vận động Mỹ Đình.
+44: Trần Khánh Dư  Bên xe Mỹ Đình.
+51: Trần Khánh Dư  Công viên Cầu Giấy.
+Đại Học Công Nghiệp.
+20A: Cầu Giấy  Phùng.
+20B: Cầu Giấy  Sơn Tây.
+29: Bến xe Giáp Bát  Tân Lập.
+32: Bến xe Giáp Bát  Nhổn.
+57: Nam Thăng Long  KCN Phú Nghĩa.
+Một số trường khác như: Đại Học Thăng Long (Khuất Duy Tiến kéo dài): 29, 60A; Đại Học Dược: 18, 23, 02, 45, 49, 04, 11, 34, 40, 45; Đại Học Điện Lực, CĐ Du Lịch HN: 07, 14, 27, 33, 38, 45, 53A, 46, 60A, 60B; Đại Học Dân Lập Đông Đô: 28, 12, 27; Đại Học Kinh Doanh và Công Nghệ: 19, 48; Đại Học Kinh tế, kỹ thuật công nghiệp : 19, 24, 52A, 52B, 04, 26, 30, 42; Đại Học Kinh tế Quốc Dân :08, 18, 19, 24, 03, 03b, 21a, 21b, 25, 28, 32, 41, 23, 26 (1 chiều đi SVĐ Quốc Gia); Đại Học Lao Động - Xã Hội : 35a, 50,51 ,84, 16, 24,27 ,50; Đại Học Luật Hà Nội: 09, 12, 26, 27; Đại Học Mỏ Địa Chất: 28, 31; Đại Học Văn Hóa: 18 ,23, 28, 1 chiều 49 (hướng đi KĐT Mỹ Đình 2) Giảng Võ (cổng sau): 18, 23, 49 (1 chiều đi Trần Khánh Dư); Học viện Nông Nghiệp: 11, 59; Đại Học Thương Mại, ĐH Sân Khấu Điện Ảnh (Hồ Tùng Mậu): 13, 20a, 20b, 26, 29, 32, 49, 70a, 70b, 73; Đại Học Y Hà Nội: 12,16,19,24, 18, 21, 23, 26, 35a, 44, 51.
+Ngoài ra, bạn có thể truy cập vào website: timbus.vn để tham khảo các tuyến buýt phù hợp với điểm đi và điểm đến của từng cá nhân. Các bạn tân sinh viên ngay từ bây giờ có thể làm vé tháng xe buýt để thuận tiện hơn trong việc đi lại.
+Phương Nam.

@@ -1,0 +1,7 @@
+Để phục vụ công tác giảng dạy, nghiên cứu, Trường ĐH Khoa học tự nhiên TP.HCM đã nhập về con robot có tên NAO.
+Robot NAO. Ảnh: Giảng viên cung cấp.
+NAO là robot mang hình dáng con người, được nhập từ Công ty Softbank - Nhật Bản, có chiều cao 58 cm, được tạo thành từ hàng trăm cảm biến, động cơ và phần mềm điều khiển bởi hệ điều hành NAOq iOS.
+Với mục tiêu mang robot đến gần với mọi người hơn, nhất là các bạn trẻ, Trường ĐH Khoa học tự nhiên TP.HCM đã tổ chức các khóa học lập trình ngắn hạn cho học sinh, sinh viên tiếp cận trực tiếp, đưa robot NAO tham gia triển lãm và các hoạt động khác của trường.
+Robot NAO tại một buổi học lập trình tại Trường ĐH Khoa học tự nhiên. Ảnh: Giảng viên cung cấp.
+Nhiều bạn trẻ rất hào hứng khi lần đầu tiên được tiếp xúc với một con robot hình dáng người thông minh, làm được nhiều động tác, nhiều việc giống như con người. Họ thích thú khi được trực tiếp lập trình điều khiển từng cử động của robot, lập trình tương tác các cảm biến âm thanh, hình ảnh để robot có thể nhận biết mình là ai và hiểu được mình nói gì.
+Đưa robot hình người vào giảng dạy và nghiên cứu nhằm góp phần kích thích niềm đam mê, yêu thích khám phá công nghệ của các bạn trẻ Việt Nam.

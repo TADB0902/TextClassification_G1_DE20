@@ -1,0 +1,26 @@
+Theo thống kê của Bộ Giáo dục và Đào tạo, trong 3.388 giảng viên trường cao đẳng sư phạm hiện nay chỉ 115 người có trình độ tiến sĩ, 2.187 người có trình độ thạc sĩ.
+Còn ở 14 trường đại học sư phạm có 1.358 tiến sĩ trong số 4.615 giảng viên. Ngoài số giảng viên có trình độ tiến sĩ thì có 2.702 giảng viên có trình độ thạc sĩ, 455 giảng viên chỉ ở trình độ cử nhân. Tổng quy mô đào tạo sinh viên của 14 trường đại học sư phạm là 151.208.
+Số lượng giảng viên cụ thể của các trường sư phạm như sau:
+STT.
+Tên trường.
+Quy mô sinh viên.
+Tiến sĩ.
+Thạc sĩ.
+Đại học.
+Tổng số.
+Trường Đại học Sư phạm - Đại học Huế.
+Trường Đại học Sư phạm - Đại học Đà Nẵng.
+Trường Đại học Sư phạm - Đại học Thái Nguyên.
+Trường Đại học Sư phạm Hà Nội.
+Trường Đại học Sư phạm Hà Nội II.
+Trường Đại học Sư phạm kỹ thuật Hưng Yên.
+Trường Đại học Sư phạm kỹ thuật Nam Định.
+Trường Đại học Sư phạm kỹ thuật Thành phố Hồ Chí Minh.
+Trường Đại học Sư phạm kỹ thuật Vinh.
+Trường Đại học Sư phạm Kỹ thuật Vĩnh Long.
+Trường Đại học Sư phạm Nghệ thuật Trung ương.
+Trường Đại học Sư phạm Thể dục thể thao Thành phố Hồ Chí Minh.
+Trường Đại học Sư phạm thể dục thể thao Hà Nội.
+Trường Đại học Sư phạm Thành phố Hồ Chí Minh.
+Tổng.
+Linh Hương.

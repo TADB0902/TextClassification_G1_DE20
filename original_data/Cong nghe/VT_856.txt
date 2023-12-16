@@ -1,0 +1,19 @@
+Công ty Cổ phần Cảng Sài Gòn (mã chứng khoán SGP) vừa có văn bản gửi Ủy ban Chứng khoán Nhà nước và Sở Giao dịch Chứng khoán Hà Nội về việc chậm trễ báo cáo tài chính quý IV/2017 và báo cáo tài chính năm 2017 đúng hạn.
+Đây là lần đầu tiên, một doanh nghiệp trên sàn chứng khoán ghi nhận bị virus tấn công dẫn đến không thể công bố báo cáo tài chính đúng hạn.
+Văn bản gửi Ủy ban Chứng khoán Nhà nước và Sở Giao dịch Chứng khoán Hà Nội.
+SGP cho biết, theo quy định, công ty sẽ phải công bố thông tin đối với Báo cáo tài chính quý IV/2017 và hạn chót là ngày 30/1. Tuy nhiên, ngày 24/1 vừa qua, hệ thống phần mềm kế toán PL-FS của Cảng Sài Gòn đã bị sự cố nhiễm virus khiến toàn bộ số liệu bị mã hóa, dẫn tới không thể đọc được dữ liệu.
+Do sự cố này nên công tác lập các báo cáo tài chính trong quý IV/2017 và cả năm 2017 của Cảng Sài Gòn bị ảnh hưởng, khiến Cảng Sài Gòn không thể hoàn thành và công bố thông tin đối với Báo cáo tài chính quý IV/2017 và Báo cáo tài chính (riêng, hợp nhất) cả năm 2017 theo đúng thời hạn quy định (ngày 30/1/2018).
+Cảng Sài Gòn đề nghị Ủy ban Chứng khoán Nhà nước và Sở giao dịch Chứng khoán Hà Nội chấp thuận cho công ty được gia hạn công bố thông tin về BCTC quý IV/2017.
+SGP gửi Sở giao dịch Chứng khoán Hà Nội bằng chứng doanh nghiệp bị nhiễm virus WannaCry.
+Cảng Sài Gòn cũng cho biết, đơn vị đang khắc phục sự cố với sự giúp đỡ từ Trung tâm ứng cứu khẩn cấp máy tính Việt Nam.
+Ngoài ra, SGP gửi Sở giao dịch Chứng khoán Hà Nội bằng chứng doanh nghiệp bị nhiễm virus WannaCry. Theo hình ảnh doanh nghiệp công bố, các tin tặc yêu cầu công ty chuộc dữ liệu bằng Bitcoin, thậm chí thông báo này còn hướng dẫn cho công ty phương thức để có thể mua được bitcoin.
+Virus mã độc WannaCry bùng nổ trên toàn thế giới vào tháng 5/2017, Việt Nam cũng là quốc gia chịu ảnh hưởng nghiêm trọng trong vụ tấn công này.
+WannaCry là loại virus mã hóa giữ liệu để tống tiền, với phạm vi lây lan chưa từng có trong lịch sử.
+Wanna Cry là một hình thức tấn công mạng liên quan đến việc các hacker chiếm quyền kiểm soát máy tính, khiến người dùng không thể truy cập cho đến khi trả tiền chuộc.
+Cụ thể, trong vụ việc năm ngoái, WannaCry yêu cầu chuộc dữ liệu bằng bitcoin, giai đoạn đó bitcoin cũng đang bắt đầu bùng nổ mạnh với đỉnh điểm có giá hơn 22.000 USD/bitcoin.
+Mặc dù virus mã độc WannaCry đã lắng xuống nhưng một doanh nghiệp vô tình nhiễm phải mã độc này sau gần 7 tháng tung hoành trên thế giới đã khiến nhiều người phải bất ngờ.
+Trước đó, Trung tâm ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) đã đưa ra cảnh báo WannaCry là mã độc cực kỳ nguy hiểm, có thể đánh cắp thông tin và mã hóa toàn bộ hệ thống máy chủ của tổ chức bị hại.
+Vì vậy, VNCERT yêu cầu các cơ quan trung ương, cơ quan chính phủ, bộ ngành, doanh nghiệp, tổ chức đề phòng về việc phòng ngừa và ngăn chặn tấn công mã độc WannaCrypt và các biến thể.
+Mặc dù vậy, virus WannaCry đã được khắc phục nhờ Marcus Hutchins, một chuyên gia IT 22 tuổi đến từ Anh.
+Video: Làm thế nào để tránh mã độc đào tiền ảo?
+Việt Vũ.

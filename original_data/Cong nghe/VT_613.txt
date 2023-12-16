@@ -1,0 +1,34 @@
+Ấn định 'tuổi thọ' cho mật khẩu đăng nhập trên Windows 1017 công cụ bảo vệ bạn khỏi hackerTối ưu hóa độ mượt video bằng Google Photos4 tiện ích Windows nên cập nhật thường xuyên5 mẹo bảo mật khi dùng tài khoản Microsoft3 ứng dụng chống nhìn trộm màn hình điện thoại Android.
+Internet đang ngày càng trở nên phổ biến và vẫn không ngừng phát triển. Bên cạnh những lợi ích tích cực, môi trường mạng này cũng có thể mang đến những tác hại khôn lường, đặc biệt là đối với trẻ nhỏ. Chính điều này đã khiến không ít bậc phụ huynh phải đau đầu tìm kiếm những giải pháp an toàn nhằm hạn chế tối đa tình trạng con em mình truy cập nhầm vào những trang web có nội dung không lành mạnh.
+Do vậy, nếu đang phải đối mặt với tình trạng trên, bạn có thể tham khảo ngay hướng dẫn của chúng tôi.
+Công cụ tìm kiếm Google.
+Ai cũng có thể vào trang web Google.com để tìm kiếm mọi thứ mà mình muốn, trẻ nhỏ cũng không phải là ngoại lệ. Vì vậy, làm sao để công cụ tìm kiếm này trở nên an toàn hơn với trẻ? Rất đơn giản, bạn chỉ cần kích hoạt Bộ lọc tìm kiếm an toàn của công cụ này bằng cách truy cập vào đường dẫn google.com/preferences hoặc nhấn nút Settings trên trang chủ Google và chọn Search settings.
+Tiếp đến, trong giao diện thiết lập vừa xuất hiện, hãy đánh dấu chọn vào mục Turn On SafeSearch. Bên cạnh đó, nếu muốn khóa cứng thiết lập trên, hãy nhấn vào liên kết Lock SafeSearch. Lúc này, Google sẽ yêu cầu bạn đăng nhập tài khoản Gmail của mình.
+Vẫn tại trang thiết lập, bạn cũng có thể vô hiệu hóa chức năng dự đoán nhanh kết quả bằng cách nhấn chọn Never showinstant results để không bao giờ hiển thị kết quả Instant. Bằng cách này, bạn có thể hạn chế tối đa các kết quả không chính xác, thậm chí trái ngược hoàn toàn với những gì trẻ đang tìm kiếm. Cuối cùng, hãy nhấn Save để lưu lại sau khi đã thiết lập xong.
+Ngoài ra, bạn cũng có thể áp dụng các thao tác tương tự trên thiết bị di động chạy hệ điều hành Android và iOS thông qua một số trình duyệt có sẵn trên máy.
+Thao tác tương tự trên thiết bị di dộng.
+YouTube.
+Đối với YouTube, tất cả việc bạn cần làm chỉ là kéo xuống cuối trang. Sau đó nhấn vào nút Restricted Mode , chọn On để bật chế độ hạn chế và cuối cùng là nhấn Save để hoàn tất.
+Từ bây giờ, YouTube sẽ loại bỏ những video có nội dung không lành mạnh khỏi danh sách kết quả tìm kiếm, giúp bảo vệ trẻ nhỏ khỏi những video không phù hợp lứa tuổi.
+YouTube cũng cho phép người dùng chặn những nội dung không phù hợp với trẻ nhỏ.
+iPhone và iPad.
+Nếu như trẻ thường xuyên sử dụng iPhone hoặc iPad, bạn cũng có thể dễ dàng ngăn chặn các loại nội dung không lành mạnh khi lướt web trên Safari chỉ bằng vài thao tác đơn giản. Cụ thể, bạn vào Settings > General > Restrictions.
+Nếu đây là lần đầu đăng nhập vào mục này, bạn hãy nhấn Enable Restrictions , sau đó nhập một mật khẩu gồm 4 chữ số.
+Tiếp đến, hãy tìm và nhấn chọn Website , sau đó đánh đấu chọn vào mục Limit Adult Content.
+Từ bây giờ, trình duyệt Safari sẽ chặn toàn bộ các trang web chứa nội dung nhạy cảm cũng như các nội dung không phù hợp với trẻ nhỏ.
+Kích hoạt chế độ lọc Limit Adult Content cho trình duyệt Safari.
+Android.
+Đối với thiết bị Android, bạn có thể chặn kết quả tìm kiếm không lành mạnh trên Google bằng cách kích hoạt chế độ Tìm kiếm an toàn (SafeSearch filter). Mặc dù tính năng này không chính xác 100% nhưng vẫn giúp trẻ tránh được hầu hết nội dung người lớn.
+Theo đó, sau khi khởi chạy ứng dụng Google, bạn hãy nhấn nút Menu (biểu tượng hình 3 gạch ngang ở góc trên bên phải), chọn Settings > Accounts and Privacy.
+Tiếp đến, hãy trượt thanh kích hoạt của tùy chọn SafeSearch filter là hoàn tất.
+Ngoài ra, bạn cũng có thể kích hoạt tính năng Kiểm soát truy cập của con trẻ hay có người gọi là công cụ giám sát dành cho phụ huynh (Parental Controls) cho cửa hàng ứng dụng trực tuyến Google Play bằng cách nhấn nút Menu (ở góc trên bên phải của giao diện Google Play) và chọn Settings.
+Sau đó, hãy nhấn tiếp vào mục Parental Controls , trượt thanh kích hoạt Parental Controls về vị trí On và nhập mã PIN gồm 4 chữ số.
+Từ bây giờ, hãy nhấn vào mục Apps and games , sau đó nhấn tiếp vào mục xếp hạng tương ứng với độ tuổi của trẻ.
+Một khi hoàn tất, hãy nhấn Save là hoàn tất.
+Thao tác chặn các nội dung không phù hợp trên Google Play.
+Sử dụng các phần mềm chặn web đen.
+Nếu vẫn chưa cảm thấy yên tâm với các phương pháp trên, bạn cũng có thể cài đặt một số phần mềm chuyên chặn web đen của các hãng thứ ba, chẳng hạn như Kaspersky Internet Security (trả phí).
+Cụ thể hơn, sau khi tải về và cài đặt, bạn hãy chọn trình đơn Parental Control trong cửa sổ chính của Kaspersky Internet Security, sau đó thiết lập mật khẩu theo ý mình.
+Lúc này, Kaspersky Internet Security sẽ cho phép bạn tùy chỉnh một loạt tính năng, bao gồm cả chặn những trang web có nội dung không lành mạnh.
+Ngoài ra, bạn cũng có thể dễ dàng chặn một số phần mềm không phù hợp với lứa tuổi cũng như không và một số ứng dụng khác theo từng mục cụ thể, chẳng hạn như bạo lực, cờ bạc, ngôn ngữ dung tục,...
+PC WORLD VN 03/2017.

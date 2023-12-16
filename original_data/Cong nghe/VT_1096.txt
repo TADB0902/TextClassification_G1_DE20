@@ -1,0 +1,7 @@
+Người dùng nên tạm hoãn cập nhật bản vá lỗi bộ xử lý Intel - Ảnh: AFP.
+Theo Neowin , báo cáo cho biết một lỗi trong bản cập nhật phần mềm từ Intel đã gây ra sự cố khiến công ty đề nghị một số khách hàng lớn và đối tác OEM trì hoãn việc cài đặt bản vá lỗi mới nhất.
+Báo cáo cho biết, lỗi này khiến một số mô hình bộ xử lý công ty, bao gồm dòng Broadwell và Haswell, tự khởi động lại. Mặc dù Intel hứa hẹn sẽ minh bạch hơn về các vấn đề xảy ra với công ty trong tương lai nhưng lỗi trên chỉ được người đứng đầu nhóm Trung tâm Dữ liệu của Intel, Navin Shenoy, thừa nhận sau khi bài báo của Wall Street Journal được đăng tải.
+Quan trọng hơn, công ty đã tư vấn các khách hàng lớn cần im lặng về những đề nghị trì hoãn cài đặt này, trong khi với người tiêu dùng thì công ty chỉ cho biết: Người dùng cuối nên tiếp tục cài đặt bản cập nhật được khuyến cáo bởi hệ thống và các nhà cung cấp hệ điều hành của họ.
+Một đối tác của Intell trích dẫn trong bài báo của Wall Street Journal cho rằng công ty này đang làm hại khách hàng vì công chúng đã cập nhật bản vá lỗi nhưng không nhận được bất kỳ thông tin quan trọng nào từ phía Intel cho biết việc này nên tạm dừng lại.
+Intel không phải là công ty duy nhất gặp lúng túng với các bản vá lỗi cho lỗ hổng Meltdown và Spectre khi mà điều này cũng ảnh hưởng đến bộ xử lý ARM và AMD. Các bản vá lỗ hổng của Microsoft đã gây ra vấn đề khởi động cho hệ thống trang bị bộ xử lý AMD, trong khi người dùng Ubuntu cũng báo cáo điều tương tự với các hệ thống được trang bị bộ xử lý Intel.
+Kiến Văn.

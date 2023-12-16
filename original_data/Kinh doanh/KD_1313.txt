@@ -1,0 +1,4 @@
+Doanh nghiệp khai báo thuế tại Cục Thuế.
+Hệ thống này có thể nhận chứng từ thu ngân sách Nhà nước phát sinh tại Kho bạc Nhà nước chuyển sang cơ quan thuế trong vòng 15 phút/lần. Bên nhận có đầy đủ thông tin trên bảng kê chứng từ và có thể xử lý chứng từ điện tử.
+Hệ thống nâng cấp lần này có bổ sung chức năng in giấy nộp tiền chuyển đổi từ chứng từ điện tử; cho phép tra cứu hoặc thực hiện truyền/nhận thông tin tra soát bảng kê, gắn chữ ký số giữa cơ quan thuế và Kho bạc Nhà nước; có thể tra cứu chứng từ khi nghi vấn sai thông tin và đề nghị điều chỉnh thông tin theo hình thức điện tử, gắn chữ ký số giữa cơ quan thuế với Kho bạc Nhà nước; có cả chức năng tra soát chứng từ sai thông tin, đối soát tổng số chứng từ đã nhận trên hệ thống TMS.
+CHẾ HÂN.

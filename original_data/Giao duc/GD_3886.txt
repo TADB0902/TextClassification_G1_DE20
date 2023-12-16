@@ -1,0 +1,28 @@
+Theo đó, thí sinh đạt tổng điểm 15,5 điểm trở lên (không nhân hệ số) của tổ hợp 3 môn xét tuyển tương ứng với ngành học được nộp hồ sơ xét tuyển trình độ đại học.
+Điểm kết quả thi THPT quốc gia năm 2017 áp dụng đối với thí sinh KV3 và không thuộc nhóm đối tượng ưu tiên, trong đó không có môn nào có điểm từ 1,0 trở xuống. Các khu vực ưu tiên kế tiếp giảm 0,5 điểm; các nhóm ưu tiên kế tiếp giảm 1,0 điểm.
+Điểm trúng tuyển xác định theo tổ hợp môn xét tuyển và công bằng giữa các thứ tự trong các nguyện vọng đăng ký.
+Stt.
+Tên Ngành học.
+Mã ngành.
+Tổ hợp môn thi.
+/ xét tuyển.
+Công nghệ thông tin.
+A00; A01; D01; D02; D03; D04; D05; D06; D26; D27; D28; D29; D30.
+Công nghệ Kỹ thuật Điện tử truyền thông.
+Kế toán.
+Quản trị kinh doanh.
+Quản trị Khách sạn.
+A00; A01; D01; D02; D03; D04; D05; D06; D26; D27; D28; D29; D30; C00.
+Quản trị Văn phòng.
+Hướng dẫn Du lịch (Việt Nam học).
+Công nghệ kỹ thuật Ô tô.
+A00; A01; D26; D27; D28; D29; D30.
+Công nghệ kỹ thuật Điện.
+Ngôn ngữ Anh.
+D01; D15.
+Dược học (Cấp bằng Dược sĩ).
+A00; B00.
+Quản lý đất đai.
+A00; A01; D01; D02; D03; D04; D05; D06; D26; D27; D28; D29; D30; B00.
+Quản lý Tài nguyên môi trường.
+A00; A01; D01; D02; D03; D04; D05; D06; D26; D27; D28; D29; D30; B00.

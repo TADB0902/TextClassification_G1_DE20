@@ -1,0 +1,14 @@
+Chắc hẳn, bạn đã từng thấy những chiếc gương hai chiều xuất hiện trong các phòng thẩm vấn trên phim ảnh. Những chiếc gương đặc biệt này cho phép người từ bên ngoài có thể nhìn được không gian bên trong, để quan sát trạng thái nghi phạm, tuy nhiên người từ bên trong không thể nhìn ra bên ngoài.
+Chiếc gương đặc biệt này cho phép người từ bên ngoài có thể nhìn được không gian bên trong, nhưng người từ bên trong không thể nhìn ra bên ngoài.
+Vậy tại sao những chiếc gương hai chiều này có thể làm được như vậy? Câu trả lời sẽ được giải thích trong bài viết này.
+Gương thường khác gương hai chiều như thế nào?
+Theo Wonderful Engineering, một chiếc gương thông thường đều phải trải qua quy trình tráng gương, sau đó phủ một lớp vật liệu phản chiếu như bạc, thiếc, niken hay nhôm. Mặt trước là một tấm thủy tinh trong suốt, một lớp đồng tránh oxy hóa kim loại và một lớp sơn bảo vệ lớp phủ phản chiếu. Khi ánh sáng đi vào kính và chạm tới bề mặt kim loại, tia sáng sẽ phản xạ lại. Đó cũng là lý do tại sao bạn có thể nhìn thấy chính hình ảnh phản chiếu của bản thân khi nhìn vào gương.
+Tuy nhiên, loại gương hai chiều cũng sử dụng lớp kim loại này nhưng mỏng hơn so với gương thông thường. Lớp phủ các phân tử phản chiếu bao trùm một nửa tổng diện tích bề mặt gương và nửa còn lại cho ánh sáng đi qua. Đặc điểm này giải thích tại sao, bạn có thể nhìn thấy không gian trong phòng thẩm vấn luôn rực sáng với điều kiện phòng đối diện để không gian tối nhất có thể, tránh ánh sáng truyền qua phòng thẩm vấn.
+Nguyên lý hoạt động của gương hai mặt.
+Gương hai chiều hoạt động theo nguyên tắc cường độ ánh sáng. Nếu cường độ ánh sáng ở cả hai mặt kính giống nhau, gương sẽ giống như một mảnh thủy tinh thông thường. Nhưng khi ánh sáng tập trung ở một bên và bên kia tối, tấm thủy tinh đó sẽ trở thành một chiếc gương với người đang ở trong không gian nhiều ánh sáng. Hiện tượng này thấy khá rõ khi bạn cố nhìn ra cửa vào ban đêm nhưng chỉ thấy ánh đèn trong nhà phản chiếu nhiều hơn.
+Gương hai mặt chúng ta vẫn thường thấy trên phim ảnh.
+Mẹo phân biệt gương hai chiều trong thực tế.
+Có một mẹo để phân biệt gương hai chiều và gương thông thường khá dễ dàng. Bạn hãy đặt ngón tay lên bề mặt gương. Nếu bạn thấy có khoảng cách giữa đầu ngón tay và hình ảnh phản xạ bên trong, đó là gương thông thường. Nhưng nếu hai đầu ngón tay chạm nhau, bạn có thể đang nhìn một chiếc gương hai chiều và nguy cơ cao đang bị theo dõi.
+Nếu hai đầu ngón tay chạm nhau, bạn có thể đang nhìn một chiếc gương hai chiều.
+Gương hai chiều có rất nhiều ứng dụng, đặc biệt trong các phỏng thẩm vấn, nghiên cứu khoa học, thị trường giám sát an ninh hay tạo các hiệu ứng sân khấu đặc biệt.
+Nguồn VNReview.

@@ -1,0 +1,183 @@
+Theo đó, ngành có ngưỡng xét tuyển thấp nhất là 18 điểm và cao nhất là 22,5 điểm.
+Ở hệ đào tạo đại trà, ngoài ngành Sư phạm tiếng Anh (có nhân hệ số 2 môn tiếng Anh) có ngưỡng xét tuyển là 30 điểm, thì các ngành còn lại có ngưỡng xét tuyển đầu vào cao nhất là Công nghệ Kỹ thuật ô tô với 22,5 điểm. Tiếp đó là các ngành Công nghệ Kỹ thuật Cơ điện tử, Công nghệ kỹ thuật điện - điện tử, Công nghệ kỹ thuật điều khiển và tự động hóa, Công nghệ kỹ thuật Hóa học, Công nghệ Thực phẩm... đều ở ngưỡng xét tuyển là 22 điểm.
+Hai ngành có điểm sàn thấp nhất năm nay là Kinh tế gia đình và công nghệ chế biến lâm sản, đều 18 điểm.
+Cụ thể:
+S TT.
+Mã Ngành XT.
+Tên ngành.
+Tổ hợp môn.
+Ngưỡng XT.
+HỆ ĐÀO TẠO ĐẠI TRÀ (XÉT ĐIỂM THI THPT).
+52140231D.
+Sư phạm tiếng Anh (Nhân hệ số 2 môn tiếng Anh).
+D01, D96.
+52210404D.
+Thiết kế thời trang (Nhân hệ số 2 môn tiếng Vẽ).
+V01, V02.
+52220201D.
+Ngôn ngữ Anh (Nhân hệ số 2 môn tiếng Anh).
+D01, D96.
+52340122D.
+Thương mại điện tử.
+A00, A01, D01, D90.
+52340301D.
+Kế toán.
+A00, A01, D01, D90.
+52480201D.
+Công nghệ thông tin.
+A00, A01, D01, D90.
+52510102D.
+Công nghệ kỹ thuật công trình xây dựng.
+A00, A01, D01, D90.
+52510201D.
+Công nghệ kỹ thuật cơ khí.
+A00, A01, D01, D90.
+52510202D.
+Công nghệ chế tạo máy.
+A00, A01, D01, D90.
+52510203D.
+Công nghệ kỹ thuật cơ điện tử.
+A00, A01, D01, D90.
+52510205D.
+Công nghệ kỹ thuật ô tô.
+A00, A01, D01, D90.
+52510206D.
+Công nghệ kỹ thuật nhiệt.
+A00, A01, D01, D90.
+52510301D.
+Công nghệ kỹ thuật điện, điện tử.
+A00, A01, D01, D90.
+52510302D.
+Công nghệ kỹ thuật điện tử, truyền thông.
+A00, A01, D01, D90.
+52510303D.
+Công nghệ kỹ thuật điều khiển và tự động hóa.
+A00, A01, D01, D90.
+52510304D.
+Công nghệ kỹ thuật máy tính.
+A00, A01, D01, D90.
+52510401D.
+Công nghệ kỹ thuật hóa học.
+A00, B00, D07, D90.
+52510402D.
+Công nghệ vật liệu.
+A00, A01, D07, D90.
+52510406D.
+Công nghệ kỹ thuật môi trường.
+A00, B00, D07, D90.
+52510501D.
+Công nghệ in.
+A00, A01, D01, D90.
+52510601D.
+Quản lý công nghiệp.
+A00, A01, D01, D90.
+52510603D.
+Kỹ thuật công nghiệp.
+A00, A01, D01, D90.
+52520212D.
+Kỹ thuật y sinh (Điện tử y sinh).
+A00, A01, D01, D90.
+52540101D.
+Công nghệ thực phẩm.
+A00, A01, D01, D90.
+52540204D.
+Công nghệ may.
+A00, A01, D01, D90.
+52580205D.
+Kỹ thuật xây dựng công trình giao thông.
+A00, A01, D01, D90.
+52810501D.
+Kinh tế gia đình.
+A00, B00, D01, D07.
+52540301D.
+Công nghệ chế biến lâm sản.
+A00, A01, D01, D90.
+52510605D.
+Logistic và quản lý chuỗi cung ứng.
+A00, A01, D01, D90.
+52480105D.
+Kỹ thuật dữ liệu.
+A00, A01, D01, D90.
+HỆ ĐÀO TẠO CHẤT LƯỢNG CAO BẰNG TIẾNG VIỆT (XÉT ĐIỂM THI THPT).
+52340301C.
+Kế toán (CLC).
+A00, A01, D01, D90.
+52480201C.
+Công nghệ thông tin (CLC).
+A00, A01, D01, D90.
+52510102C.
+Công nghệ kỹ thuật công trình xây dựng (CLC).
+A00, A01, D01, D90.
+52510201C.
+Công nghệ kỹ thuật cơ khí (CLC).
+A00, A01, D01, D90.
+52510202C.
+Công nghệ chế tạo máy (CLC).
+A00, A01, D01, D90.
+52510203C.
+Công nghệ kỹ thuật cơ điện tử (CLC).
+A00, A01, D01, D90.
+52510205C.
+Công nghệ kỹ thuật ô tô (CLC).
+A00, A01, D01, D90.
+52510206C.
+Công nghệ kỹ thuật nhiệt (CLC).
+A00, A01, D01, D90.
+52510301C.
+Công nghệ kỹ thuật điện, điện tử (CLC).
+A00, A01, D01, D90.
+52510302C.
+Công nghệ kỹ thuật điện tử, truyền thông (CLC).
+A00, A01, D01, D90.
+52510303C.
+Công nghệ kỹ thuật điều khiển và tự động hóa (CLC).
+A00, A01, D01, D90.
+52510304C.
+Công nghệ kỹ thuật máy tính (CLC).
+A00, A01, D01, D90.
+52510406C.
+Công nghệ kỹ thuật môi trường (CLC).
+A00, B00, D07.
+52510501C.
+Công nghệ in (CLC).
+A00, A01, D01, D90.
+52510601C.
+Quản lý công nghiệp (CLC).
+A00, A01, D01, D90.
+52540101C.
+Công nghệ thực phẩm (CLC).
+A00, B00, D07.
+52540204C.
+Công nghệ may (CLC).
+A00, A01, D01, D90.
+HỆ ĐÀO TẠO CHẤT LƯỢNG CAO BẰNG TIẾNG ANH (XÉT ĐIỂM THI THPT).
+52510102A.
+Công nghệ kỹ thuật công trình xây dựng (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510202A.
+Công nghệ chế tạo máy (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510203A.
+Công nghệ kỹ thuật cơ điện tử (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510205A.
+Công nghệ kỹ thuật ô tô (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510301A.
+Công nghệ kỹ thuật điện, điện tử (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510301A.
+Công nghệ kỹ thuật điện tử, truyền thông (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510302A.
+Công nghệ kỹ thuật điều khiển và tự động hóa (CLC tiếng Anh).
+A00, A01, D01, D90.
+52510201A.
+Công nghệ kỹ thuật cơ khí (CLC tiếng Anh).
+A00, A01, D01, D90.
+52480201A.
+Công nghệ thông tin (CLC tiếng Anh).
+A00, A01, D01, D90.
+52540101A.
+Công nghệ thực phẩm (CLC tiếng Anh).
+A00, B00, D07, D90.

@@ -1,0 +1,11 @@
+Mặc dù ý tưởng phát triển trí tuệ nhân tạo (AI) để dự đoán thời điểm người bệnh tử vong với độ chính xác cao (lên đến 90%) có vẻ gây hoang mang nhưng nhóm nghiên cứu ở ĐH Stanford cho rằng, điều này có thể nâng cao chất lượng chăm sóc cho bệnh nhân giai đoạn cuối và gia đình họ.
+Bằng cách xác định chính xác hơn thời điểm một bệnh nhân sẽ chết hoặc một bệnh nhân ốm nặng tử vong, những người chăm sóc có thể sắp xếp ưu tiên cho các mong ước của người bệnh và đảm bảo các cuộc trò chuyện quan trọng được diễn ra trước khi quá muộn.
+Trong nghiên cứu trên, nhóm nghiên cứu ở Stanford giải thích rằng thường có một sự khác biệt lớn giữa cách các bệnh nhân muốn sống trong suốt phần đời còn lại của họ và cách nó thực sự xảy ra như thế nào.
+Cụ thể, các nhà nghiên cứu phát hiện gần 80% người Mỹ muốn dành những ngày cuối cùng ở nhà.
+Tuy nhiên, đến cuối cùng, 60% người Mỹ lại qua đời trong bệnh viện.
+Trước vấn đề này, nhóm nghiên cứu tại ĐH Stanford đã huấn luyện một mạng neuron sâu về Dữ liệu ghi chép sức khỏe điện tử từ Bệnh viện Stanford và bệnh viện Nhi khoa Lucile Packard, bao gồm khoảng 2 triệu người lớn và trẻ em.
+"Chúng tôi có thể xây dựng một mô hình dự đoán cái chết bằng cách sử dụng các dữ liệu hoạt động được thu thập thường xuyên trong bối cảnh chăm sóc y tế, đối lập với một nghiên cứu thực nghiệm được thiết kế cẩn thận", Anand Avati, một nghiên cứu sinh tiến sĩ về khoa học máy tính tại Phòng thí nghiệm trí tuệ nhân tạo (AI) của ĐH Stanford cho biết.
+Theo nghiên cứu sinh Anand, quy mô dữ liệu sẵn có cho phép các chuyên gia xây dựng mô hình dự báo tử vong do mọi nguyên nhân, thay vì dựa vào bệnh án hoặc đặc điểm nhân khẩu học.
+Công cụ này không được thiết kế để tự hướng dẫn quá trình chăm sóc người bệnh.
+Thay vào đó, trí tuệ nhân tạo (AI) có khả năng dự đoán thời điểm người bệnh tử vong có thể được sử dụng kết hợp với các đánh giá của bác sĩ để đưa ra các quyết định chủ động trong việc sàng lọc bệnh nhân cho kế hoạch cuối đời của họ.
+Tâm Anh (theo Mail Online).

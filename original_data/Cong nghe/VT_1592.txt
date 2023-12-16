@@ -1,0 +1,10 @@
+ASUS NovaGo.
+ASUS vừa công bố mẫu laptop NovaGo (TP370) tại sự kiện công nghệ Snapdragon Technology Summit thường niên lần 2 tại Mỹ.
+Chiếc laptop gập xoay siêu mỏng nhẹ này được trang bị nền tảng Qualcomm Snapdragon 835 Mobile PC, cùng modem Gigabit Snapdragon X16 LTE mang lại tốc độ tải về tương đương như tốc độ Wi-Fi tại nhà (tốc độ truyền tải nhanh lên đến 1Gbps, cho phép người dùng tải về một video có độ dài 2 tiếng chỉ trong 10 giây).
+Laptop NovaGo hỗ trợ hệ điều hành Microsoft Windows 10 S, trang bị nền tảng Snapdragon 835 hiệu năng cao và tiết kiệm năng lượng cùng RAM 8GB, 256GB bộ nhớ UFS 2.0, 2 cổng USB 3.1 Gen 1 Type A cùng cổng HDMI.
+NovaGo sử dụng màn hình 13,3 inch, trọng lượng 1,39kg trên thân máy chỉ mỏng 14,9mm. Tích hợp eSIM và Nano SIM đảm bảo kết nối không giới hạn.
+Máy có khả năng kết nối với 4CA (4 LTE band aggregation) hỗ trợ nhiều băng tần. Bốn anten đảm bảo kết nối siêu nhanh qua mạng điện thoại LTE Advanced Cat 16, trong khi WiFi 802.11ac băng tần kép và công nghệ MU-MIMO mang lại tốc độ truyền tải lên đến 867Mbps.
+Cùng đó người dùng có thể đơn giản kích hoạt dữ liệu từ Windows Store ngay khoảnh khắc bước ra khỏi máy bay. Thêm vào đó, dữ liệu truyền qua 4G và 5G được mã hóa, đảm bảo an toàn hơn WiFi công cộng.
+NovaGo có thời lượng pin lên đến 22 tiếng và hơn 30 ngày chờ. Máy có khả năng phản hồi ngay lập tức như smartphone.
+Theo ASUS, phiên bản 4GB RAM/64GB UFS 2.0 sẽ có mức giá 599 USD và 8GB RAM/256GB UFS 2.0 sẽ có giá 799 USD.
+Phan Minh.

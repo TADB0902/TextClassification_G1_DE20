@@ -1,0 +1,10 @@
+Diebold Nixdorf và NCR Corp, 2 trong số các nhà sản xuất máy ATM lớn nhất thế giới, đã cảnh báo rằng tội phạm mạng đang nhắm tới các máy ATM ở Mỹ, bằng các công cụ khiến máy ATM nhả tiền ào ạt, một kỹ thuật hack gọi là jackpotting.
+Diebold Nixdorf và NCR Corp, 2 trong số các nhà sản xuất máy ATM lớn nhất thế giới, đã cảnh báo rằng tội phạm mạng đang nhắm tới các máy ATM ở Mỹ, bằng các công cụ khiến máy ATM nhả tiền ào ạt, một kỹ thuật hack gọi là jackpotting.
+Hai nhà sản xuất ATM không nói rõ đã có bao nhiêu nạn nhân hay có bao nhiêu tiền bị mất. Tuy nhiên, vấn nạn jackpotting đang gia tăng trên toàn thế giới trong những năm gần đây, mặc dù không rõ số tiền mặt đã bị đánh cắp vì nạn nhân và cảnh sát thường không tiết lộ chi tiết.
+ATM jackpotting - là một loại tội phạm tinh vi, trong đó các tên trộm cài đặt phần mềm độc hại hoặc phần cứng tại các máy ATM buộc các máy phải nhả ra lượng tiền mặt lớn. Từ lâu, ATM jackpotting đã là một mối đe dọa đối với các ngân hàng ở châu Âu và châu Á.
+Các cuộc tấn công ATM jackpotting mới nhất vừa xảy ra vào cuối tuần qua. Các công ty sản xuất máy ATM xác nhận họ đã gửi đi cảnh báo cho khách hàng. Đây là các vụ ATM jackpotting đầu tiên xảy ra tại Mỹ và đang khiến toàn bộ ngành công nghiệp ATM lo ngại.
+Tất cả các ngân hàng và nhà phát triển ATM cần kêu gọi hành động, có những bước đi thích hợp nhằm bảo vệ máy ATM chống lại những dạng tấn công này, cảnh báo phát đi nêu rõ.
+Một cảnh báo bí mật của Bộ An ninh Mỹ gửi tới các ngân hàng cho biết hacker đã nhắm mục tiêu và các máy ATM độc lập đặt tại các hiệu thuốc, các nhà bán lẻ lớn và các máy rút tiền tự động.
+Cảnh báo của Diebold Nixdorf đã mô tả các bước mà bọn tội phạm sử dụng để tấn công máy ATM. Chúng bao gồm truy cập vật lý, thay thế ổ đĩa cứng và sử dụng một dạng nội soi công nghiệp để nhấn nút nội bộ cần thiết nhằm thiết lập lại thiết bị.
+Công ty an ninh mạng của Nga Group IB thông báo rằng tội phạm không gian mạng đã tấn công từ xa máy rút tiền ở hơn một chục quốc gia trên khắp châu Âu vào năm 2016. Các vụ tấn công tương tự cũng được báo cáo vào năm đó ở Thái Lan và Đài Loan.
+Bảo Bình (Theo CNBC).

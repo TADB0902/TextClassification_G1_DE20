@@ -1,0 +1,7 @@
+iTunes sắp chính thức được phân phối thông qua Windows Store - Ảnh chụp màn hình.
+Theo Neowin , Microsoft công bố tại Build 2017 rằng họ đang làm việc với Apple để mang iTunes tới Microsoft Store vào cuối năm đó, nhưng đáng buồn là điều này đã không theo đúng kế hoạch khi Apple cần thời gian để có thể triển khai phát triển nó vào tháng 12.
+Giờ đây thời điểm phát hành của iTunes đến Microsoft Store đã đến gần sau khi IT Home ghi nhận bản cập nhật mới nhất dành cho iTunes không chỉ mang phiên bản của nó lên 12.7.3 mà còn giới thiệu một thư viện mới có tên iTunesUWP.dll.
+Tập tin dung lượng 264 kb này có thể được xem là xương sống trong việc tích hợp phần mềm với UWP. Hiện không rõ Apple quyết định tích hợp vào hệ sinh thái của Microsoft ra sao nhưng các khả năng có thể xảy ra bao gồm cả việc lập hóa đơn dựa trên thuê bao cho Apple Music.
+Một khi iTunes được cung cấp qua Microsoft Store, Apple cũng sẽ mở cơ hội tiếp cận cho người dùng Windows 10 S - hệ điều hành vốn bị hạn chế khả năng chạy các ứng dụng từ Microsoft Store.
+Mặc dù sự hiện diện của tập tin này gợi ý rằng một bản phát hành sẽ sớm diễn ra nhưng không có thông tin nào liên quan đến thời điểm iTunes mới chính thức đến tay người dùng.
+Thành Luân.

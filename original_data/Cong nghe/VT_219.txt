@@ -1,0 +1,8 @@
+Một năm sau khi phiên bản thử nghiệm của tên lửa siêu nhỏ SS-520-4 thất bại trong việc đưa vệ tinh TRICOM-1 chỉ nặng 3kg lên vũ trụ, Cơ quan khám phá không gian Nhật (JAXA) đã thành công phóng một tên lửa lên vũ trụ vào cuối tuần này. Nó đặc biệt ở chỗ tên lửa SS-520-5 được sử dụng là tên lửa có kích thước nhỏ nhất từ trước đến nay.
+Theo JAXA, vụ phóng này là một thử nghiệm công khai đem theo vệ tinh TRICOM-1R lên quỹ đạo thấp của trái đất. Nó sẽ quan sát trái đất với một loạt camera được trang bị và hiện tại đang hoạt động bình thường.
+Cất cánh vào lúc 2 giờ 3 phút chiều ngày 3/2 (giờ Nhật Bản, khoảng 4 giờ 3 phút giớ Việt Nam), quả tên lửa này chỉ cao 9,5m và đùong kính 52cm, nhỏ hon rất nhiều so với Falcon 9 của SpaceX (cao 70m) và sử dụng nhiên liệu thể rắn. Vệ tinh TRICOM 1R mà nó mang theo lên vũ trụ là một vệ tinh CubeSat đơn giản, được sản xuất bởi sinh viên trường Đại học Tokyo bằng các linh kiện có sẵn trên thị trường.
+Ncube-2, một vệ tinh CubeSat đơn giản của Na Uy.
+Lần phóng tên lửa này là một phần trong phong trào sử dụng các tên lửa nhỏ hơn để đưa các gói hàng nhỏ lên quỹ đạo của ngành công nghiệp vũ trụ. Hồi tháng trước, công ty New Zealand có tên Rocket Lab đã thành công phóng một tên lửa có tên Electron chứa bốn vệ tinh lên vũ trụ.
+Những thành công này sẽ mở đường cho việc giảm giá thành của các chuyến bay, và đặc biệt là mở ra cánh cửa lên vũ trụ cho những công ty nhỏ không thể chi trả cho một chuyến bay của SpaceX, Orbital ATK hay United Launch Alliance.
+Vệ tinh bí mật của chính phủ Mỹ đã... bị mất?
+Phạm Lê.

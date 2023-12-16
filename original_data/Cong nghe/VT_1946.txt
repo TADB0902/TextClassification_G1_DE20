@@ -1,0 +1,6 @@
+Cách đây hai năm, Innomdle Lab từng mang đến CES 2016 bản mẫu vòng đeo tay thông minh cho phép người dùng nhận cuộc gọi thông qua ngón tay.
+Tại CES 2018 lần này, công ty đã giới thiệu phiên bản hoàn chỉnh chiếc vòng đeo Sgnl có thể kết nối với smartphone thông qua Bluetooth.
+Thiết bị sử dụng cơ cấu truyền âm qua xương giống như Google Glass trước đây từng áp dụng: khi ghép nối Sgnl với điện thoại, người dùng nghe cuộc gọi bằng cách chạm ngón tay vào tai, rung động từ chiếc vòng sẽ truyền sang tay, đến đầu ngón tay và âm thanh sẽ truyền vào màng nhĩ. Một micro tích hợp trên vòng đeo sẽ nhận nhiệm vụ thu tiếng của người dùng.
+Để có thể truyền dẫn rung động âm thanh, Sgnl dùng một bộ phận dạng nút bấm gọi là "Body conduction unit" được lắp đặt ngay bên dưới. Thiết bị cũng có tính năng theo dõi, thông báo hoạt động thể thao và tương thích với hầu hết loại thiết bị đeo thông minh, smartphone.
+Sgnl không lưu trữ bất kỳ thông tin liên lạc nào của người dùng, nhưng nó có thể được thiết lập để lưu năm số có thể gọi nhanh mà không cần tương tác với điện thoại thông minh.
+Theo Innomdle Lab, vòng tay Sgnl sẽ được tung ra thị trường vào tháng 3/2018 với giá 249 USD.

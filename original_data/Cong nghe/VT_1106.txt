@@ -1,0 +1,26 @@
+iPhone liên tiếp gặp sự cố về pin trong 2 ngày vừa qua. Nguồn: Engadget.
+Cơn ác mộng cháy nổ smartphone.
+Hiểm họa cháy nổ đã trở thành mối quan tâm thực sự của giới công nghệ và các nhà sản xuất OEM từ sau hàng loạt vụ Galaxy Note 7 bất ngờ phát nổ trên tay người dùng vào năm 2016. Cơ quan Hàng không liên bang Mỹ (FAA) thậm chí đã ban hành lệnh cấm hành khách mang Galaxy Note 7. Theo Samsung, hãng đã thiêt hại 22 triệu USD để thu hồi toàn bộ 2.5 triệu máy bán ra.
+Video: Samsung đầu tư 128 triệu USD từ sau sự cố của Galaxy Note 7 để.
+đảm bảo an toàn cho người dùng. Nguồn: Samsung.
+Vậy điều gì đã xảy ra? Tháng 8/2016, Samsung công bố lý do Galaxy Note 7 phát nổ hàng loạt chính bởi viên pin Lithium-Ion giãn nở chạm vào khung máy gây đoản mạch. Năm 2017 có ít nhất 8 trường hợp người phản ánh sự cố pin tương tự trên iPhone 8/8 Plus chỉ sau 1 tháng ra mắt.
+Video: Vụ cháy iPhone 6 Plus xảy ra hồi tháng 3/2017 tại Australia. Nguồn: ViralHog.
+Trung tuần tháng 12/2017, Primate Labs phanh phui việc Apple cố tình làm chậm các mẫu iPhone cũ. Hãng cũng đã thừa nhận điều này và cho biết việc giảm hiệu năng thiết bị là để bảo vệ cho pin và linh kiện bên trong máy. Vẫn còn nhiều hoài nghi về câu trả lời này nhưng dù mục đích của Apple là gì thì rõ ràng vẫn chưa đủ để đảm bảo an toàn cho người dùng iPhone. Cụ thể là chỉ trong hơn 1 tuần đầu tiên của năm 2018 đã có liên tiếp 2 trường hợp nổ iPhone tại Thụy Sĩ và Tây Ban Nha gây thương tích cho 7 người.
+iPhone tiềm ẩn hiểm họa cháy nổ không?
+Ngoài những sự cố kể trên, các trường hợp nhỏ lẻ iPhone gặp sự cố xảy ra rải rác trong vòng 2 năm qua. Chưa có bất kỳ thống kê chính xác nào về số vụ cháy nổ iPhone. Apple là ông lớn trong ngành công nghiệp smartphone và đã phân phối hàng tỷ thiết bị trên toàn cầu. Theo USA Today , bộ ba iPhone ra mắt năm ngoái, iPhone 8/8 Plus và iPhone X đều là các mẫu smartphone bán chạy nhất năm 2017 với 233 triệu thiết bị, gấp 7 lần bộ ba flagship của Samsung (33 triệu thiết bị).
+Không chỉ Samsung và Apple mới gặp sự cố với pin Lithium-Ion. Nguồn: iMore.
+Tỷ lệ sản phẩm lỗi của Apple tính cho tới nay vẫn là cực kỳ thấp. Song nguy cơ xảy ra cháy nổ trên iPhone là có thật, đặc biệt là các máy với viên pin già. Khi xảy ra pin Lithium-Ion nóng chảy, quá trình bắt lửa đến bốc cháy xảy ra chỉ trong tích tắc. Điều này khiến nó trở nên cực kỳ nguy hiểm với số lượng lớn người sử dụng iPhone trên thế giới.
+Nguyên nhân gây ra hiện tượng cháy nổ.
+Nội thất bên trong của iPhone 8 Plus. Nguồn: iFixit.
+Bạn phải chấp nhận rằng công nghệ sản xuất pin cho smartphone không thể cải thiện qua một đêm. Tuy nhiên hạn chế về chất liệu Lithium-Ion không phải là yếu tố duy nhất. Đây là những nguyên gây ra tình trạng cháy nổ của pin Lithium-Ion:
+Lỗi phần cứng: Đây là một lỗi khá hiếm gặp do khuyết điểm trong quá trình gia công thiết bị. Đây là nguyên nhân chính của phần lớn trường hợp cháy nổ trên smartphone.
+Quá nhiệt: Một nguyên nhân khác khiến pin Lithium-Ion gặp sự cố là quá nhiệt. Apple khuyến cáo người nhiệt độ tối đa của iPhone khi sử dụng là 45 độ C. Nếu máy nóng hơn nhiệt độ này trong thời gian dài thì khá chắc chắn bên trong đang gặp trục trặc và có thể khiến pin Lithium-Ion bốc cháy. Các mẫu iPhone đều được hỗ trợ tính năng cảnh báo nhiệt. Chọn ốp phù hợp cũng là một cách để chiếc iPhone của bạn tản nhiệt tốt hơn.
+Sử dụng phụ kiện chất lượng thấp: Giá phụ kiện chính hãng dành cho iPhone không hề rẻ nhưng lại giúp bạn giảm bớt nỗi lo về cháy nổ iPhone. Tháng 11/2017, đã xảy ra trường hợp tử vong do sử dụng cáp kém chất lượng tại Đài Loan. Nạn nhân là một nữ sinh gốc Việt. Bạn có thể tiết kiệm chút chi phí song lại phải đối mặt với rủi ro từ phụ kiện không rõ nguồn gốc. Thực tế, sạc cáp hàng lô còn có nguy cơ cháy nổ còn lớn hơn cả iPhone. Thật không xứng đáng chút nào.
+Dấu hiệu nhận biết pin trên iPhone của bạn đang gặp sự cố.
+iPhone 8/8 Plus gặp sự cố phồng pin hàng loạt năm 2017. Nguồn: TheVerge.
+Ba dấu hiệu quan trọng bạn cần biết để đề phòng sự cố cháy nổ trên iPhone:
+Mặt lưng cong vênh: Dấu hiệu này xảy ra khi pin Lithium-Ion giãn nở quá mức khiến mặt lưng điện thoại lồi lên và cong vênh. Hãy để ý hiện tượng này bởi đây là dấu hiệu nhận biết dễ thấy nhất.
+Tiếng động lạ phát ra từ vị trí gần viên pin: Khi pin Lithium-Ion gặp sự cố thường sẽ phát ra tiếng động lạ. Nếu máy đang trong quá trình sạc hãy ngay lập tức ngắt kết nối với nguồn điện.
+iPhone nóng lên bất thường và không thể tản nhiệt: Đây là nguyên nhân khiến pin Lithium-Ion nóng chảy gây cháy nổ. Bạn nên ngừng sử dụng và đặt lên bề mặt chịu nhiệt để theo dõi.
+Sau vụ việc Apple làm chậm thiết bị cũ, hãng đã cố gắng đền bù cho người dùng bằng chương trình thay pin chính hãng chỉ 29 USD. Nếu bạn phát hiện một trong ba dấu hiệu trên, hãy tới các đại lý chính hãng của Apple để kiểm tra và khắc phục kịp thời.
+Việt Anh /

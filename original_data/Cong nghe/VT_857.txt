@@ -1,0 +1,7 @@
+Công ty Cổ phần Cảng Sài Gòn (SGP) vừa cho biết, hệ thống phần mềm kế toán PL-FS của họ bị dính mã độc WannaCry khiến công ty không thể lập báo cáo tài chính quý IV/2017 và báo cáo tài chính năm 2017 đúng hạn dự kiến vào ngày 30/1.
+Cảng Sài Gòn đề nghị Ủy ban Chứng khoán Nhà nước và Sở giao dịch Chứng khoán Hà Nội chấp thuận cho công ty được gia hạn công bố thông tin về BCTC quý IV/2017. Đồng thời, họ cũng cho biết sự cố đang được khắc phục với sự giúp đỡ từ Trung tâm ứng cứu khẩn cấp máy tính Việt Nam.
+WannaCry là một dạng mã độc tống tiền bùng nổ rất mạnh hồi giữa năm 2017, phương thức tấn công chính là mã hóa dữ liệu và thường yêu cầu công ty chuộc dữ liệu bằng Bitcoin. Trong giai đoạn giữa năm 2017, Việt Nam thuộc top 20 quốc gia bị ảnh hưởng nhiều nhất bởi WannaCry. Lần này, Cảng Sài Gòn cũng không ngoại lệ, thậm chí thông báo tống tiền còn hướng dẫn công ty cách để mua Bitcoin.
+Lo ngại việc nhiều công ty lớn có thể là nạn nhân tiếp theo, trung tâm ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) thậm chí đã phải đưa ra cảnh báo đến các cơ quan trung ương, cơ quan chính phủ, bộ ngành, doanh nghiệp, tổ chức cả nước về việc phòng ngừa và ngăn chặn tấn công mã độc WannaCrypt và các biến thể.
+Theo VNCERT, đây là mã độc cực kỳ nguy hiểm, có thể đánh cắp thông tin và mã hóa toàn bộ hệ thống máy chủ của tổ chức bị hại. Khi nhiễm mã độc này, hệ thống máy tính sẽ bị "đóng băng" bằng chuỗi mã, khiến các tổ chức, doanh nghiệp phải chi trả số tiền lớn để "chuộc" lại dữ liệu.
+Theo:
+Bảo Phương.

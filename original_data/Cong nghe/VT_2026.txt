@@ -1,0 +1,18 @@
+Viwa Alert - Ứng dụng phản ánh vi phạm giao thông ĐTNĐ trên smartphone.
+Để tăng cường sự giám sát của người dân, kịp thời tiếp nhận, xử lý thông tin phản ánh về giao thông Đường thủy nội địa (ĐTNĐ), Cục ĐTNĐ Việt Nam đã xây dựng phần mềm ứng dụng miễn phí Viwa Alert trên điện thoại di động. Phần mềm này cho phép người dân chụp ảnh và gửi trực tiếp những tồn tại, bất cập (hạ tầng, luồng tuyến, phao tiêu, báo hiệu, vị trí mất ATGT, thủ tục hành chính, công tác quản lý nhà nước tại cảng, bến thủy, và các hành vi vi phạm quy định trong lĩnh vực giao thông ĐTNĐ) về Cục ĐTNĐ Việt Nam.
+Ông Hoàng Hồng Giang - Cục trưởng Cục ĐTNĐ Việt Nam khẳng định, thông qua các thông tin phản ánh, Cục ĐTNĐ Việt Nam sẽ xử lý, kiến nghị kịp thời để tạo điều kiện cho người dân và doanh nghiệp trong sản xuất, kinh doanh có liên quan đến lĩnh vực ĐTNĐ.
+Hướng dẫn sử dụng phần mềm.
+Người sử dụng có thể dễ dàng tải và cài đặt Viwa Alert trên kho ứng dụng của các hệ điều hành Androi và iOS. Để tải và cài đặt ứng dụng, quý độc giả thực hiện các bước như sau:
+Đối với điện thoại sử dụng hệ điều hành Androi (như: Samsung, Sony, HTC, Oppo,).
+Bước 1: Vào kho ứng dụng CHPlay được cài đặt mặc định trên điện thoại.
+Bước 2: Sau khi truy cập vào kho ứng dụng CHPlay, bấm vào ô tìm kiếm ứng dụng (mũi tên trong hình) và gõ từ Viwa Alert để tìm kiếm ứng dụng.
+Bước 3: Từ danh sách kết quả tìm kiếm được, người dụng chọn ứng dụng Viwa Alert có biểu tượng như trong hình dưới.
+Bước 4: Người dùng bấm nút Cài đặt để thực hiện tải về và cài đặt ứng dụng vào điện thoại. Chờ có thông báo cài đặt thành công và sử dụng phần mềm.
+Bước 5: Sau khi cài đặt, người dùng có thể mở phần mềm bằng cách ấn nút Mở, đồng thời, trên màn hình nền cũng sẽ hiện biểu tượng của ứng dụng.
+Đối với các dòng máy iphone chạy hệ điều hành iOS, người dùng truy cập kho ứng dụng App Store được cài mặc định trên điện thoại và thao tác tương tự như trên.
+Chức năng của ứng dụng.
+Ngay khi truy cập vào ứng dụng Viwa Alert, thông tin phản ánh được hiển thị. Người dùng nhập các thông tin cần thiết như chọn mức độ vi phạm, chọn loại vi phạm, trực tiếp viết phản ánh. Đặc biệt, người dùng có thể ấn vào biểu tượng máy ảnh tại góc giữa bên phải màn hình để thực hiện chụp hình ảnh vi phạm cần phản ánh.
+Sau khi điền đầy đủ thông tin phản ánh, người dùng ấn nút GỬI PHẢN ÁNH để gửi nội dụng vi phạm cần phản ánh đến cơ quan chức năng để giải quyết.
+Mục Bản đồ có thể hiển thị vị trí hiện tại của người phản ánh vi phạm. Mục Lịch sử thể hiện các phản ánh vi phạm của người dùng.
+Trong trường hợp người dùng có vướng mắc về quá trình cài đặt và sử dụng phần mềm, hãy gửi thắc mắc về Tổ kỹ thuật  Phòng Khoa học công nghệ - Hợp tác quốc tế và Môi trường thuộc Cục ĐTNĐ Việt Nam qua địa chỉ Email: cntt.viwa@gmail.com để được hỗ trợ kịp thời.
+Công Thành.

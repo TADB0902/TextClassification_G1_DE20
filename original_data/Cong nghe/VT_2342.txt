@@ -1,0 +1,12 @@
+Kỳ thi THPT quốc gia 2017 vừa kết thúc, trong đó có môn thi Lịch sử khiến nhiều người thắc mắc. Cụ thể, ở câu 22, mã đề 302, đề thi đưa ra câu hỏi: Mỹ chính thức tiến hành chiến tranh phá hoại miền Bắc lần thứ nhất trong khi thực hiện chiến lược chiến tranh nào ở miền Nam Việt Nam?.
+Đáp án được công bố ngay sau khi kết thúc là phương án A (chiến tranh cục bộ), nhưng đáp án hiện tại đang được công khai trên cổng thông thông tin của Bộ GD-ĐT lại là phương án D (chiến tranh đặc biệt).
+Trong bài thi của mình, nhiều thí sinh chọn đáp án A ở câu 22 mã đề 302 cho rằng đáp án công bố trước đó các em tính được 0,25 điểm. Nhưng giờ đáp án lại thay đổi nên bỗng dưng bị mất 0,25 điểm.
+Trước những băn khoăn đó, chiều ngày 26/6, trao đổi với báo chí TS. Sái Công Hồng, Phó cục trưởng Cục Quản lý Chất lượng (Bộ GD&ĐT), cho biết sự khác nhau giữa đáp án là do bản thông tin ban đầu được sao chép từ đĩa nén, có lỗi nhảy ô và nhòe chữ. Đây là lỗi về kỹ thuật. Bên cạnh đó, ông Sái Công Hồng cũng cho hay không có sự thay đổi đáp án môn Lịch sử so với ban đầu.
+Đáp án câu 22 của môn lịch sử trong kỳ thi THPT Quốc gia thay đổi khiến cư dân mạng hoang mang.
+Với lời giải thích về đáp án môn Lịch sử do lỗi kỹ thuật, nhiều người dùng mạng cũng đã bày tỏ ý kiến riêng của mình.
+Nickname Nguyễn Phương phân tích: Không thể đổ lỗi do kỹ thuật, CD không chứa chữ "A", "B" như khi đánh máy. Chúng được mã bằng một chuỗi số 0,1. Ví dụ A = 00010001, D = 00011000 gọi là ABCDIC. Do đó có thể nói CD không thể "nhảy từ D sang A".
+Facebook Viet Hung bình luận: Lỗi kỹ thuật trong trường hợp này không thể chấp nhận được. Lỗi đó làm ảnh hưởng rất lớn đến tâm lý của các em đi thi.
+Lý do lỗi đánh máy thật hài hước và không chấp nhận được, là bình luận của facebook Thanh Hiền.
+Bên cạnh đó, một số cư dân mạng khác cho rằng những người công bố đáp án cũng cần rút kinh nghiệm, tránh xảy ra sơ suất không đáng có.
+Xem thêm:
+M.Thu.

@@ -1,0 +1,16 @@
+Thói quen quản lý và cài đặt ứng dụng trên iPad, iPhone qua iTunes không còn gì lạ lẫm với nhiều người. Tuy nhiên, từ phiên bản iTunes 12.7, mục Apps đã bị Apple loại bỏ. Điều này có nghĩa bạn sẽ không thể đồng bộ hóa ứng dụng trên các thiết bị và phải cài đặt lại ứng dụng không có sẵn trên Apps Store.
+Vấn đề này thực sự không quá nghiêm trọng. Tuy nhiên, với những người quen dùng iTunes để quản lý ứng dụng thì sẽ gặp đôi chút khó khăn.
+Cách sao lưu ứng dụng trên iPad, iPhone.
+Bước 1: Đầu tiên, bạn tải và cài đặt ứng dụng iMazing cho máy tính. Chú ý, bạn phải tải các bản tương thích với thiết bị chạy maxOS và Windows. Ứng dụng này có chức năng quản lý, sao lưu, khôi phục và cài đặt ứng dụng trên tất cả thiết bị iOS chỉ với vài thao tác đơn giản.
+Bước 2: Kết nối với thiết bị iOS (iPad, iPad hoặc iPod Touch) với máy tính và mở iMazing.
+Bước 3: Chọn Apps trong thanh menu bên trái.
+Bước 4: iMazing sẽ hiển thị toàn bộ ứng dụng được cài đặt trên iPhone. Bạn chỉ cần đánh dấu chọn các ứng dụng cần sao lưu vào máy tính (giữ phím Shift nếu muốn chọn nhiều ứng dụng cùng lúc).
+Bước 5: Sau đó, bạn bấm vào mục Manage Apps góc dưới và chọn Extract App. Bạn chọn tiếp nơi lưu trữ các ứng dụng rồi ấn OK.
+Bước 6: Cuối cùng, bạn bấm Back up nơ để làm ra một bản sao lưu mới. Khi này, iMazing sẽ bắt đầu trích xuất các ứng dụng bạn đã chọn lúc nãy vào máy tính. Các ứng dụng này có định ạng.imazingapp và nằm trong thư mục lưu trữ đã thiết lập lúc nãy.
+Chú ý, thời gian sao lưu sẽ phụ thuộc vào dung lượng của các phần mềm. Tiến trình sao lưu sẽ hiển thị ở góc trên bên phải ứng dụng.
+Các bước phục hồi ứng dụng trên iPad, iPhone.
+Bước 1: Kết nối thiết bị iOS (iPad, iPhone hoặc iPod Touch) với máy tính rồi mở iMazing.
+Bước 2: Chọn mục Apps ở thanh menu bên trái rồi chọn Manage Apps -> Restore App.
+Bước 3: Tìm thư mục lưu trữ ứng dụng lúc nãy hoặc chọn các tập tin.ipa mà bạn muốn cài đặt lên iPad, iPhone. Khi đó, iMazing sẽ khôi phục ứng dụng và toàn bộ dữ liệu cũng các nội dung liên quan.
+Bước 4: Quá trình khôi phục có thể theo dõi được thông qua thanh tiến trình ở góc trên bên phải. Khi hoàn thành, bạn chỉ cần khởi động lại thiết bị là xong.
+Quang Anh (Theo Kynguyenso).

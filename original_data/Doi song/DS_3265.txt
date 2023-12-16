@@ -1,0 +1,22 @@
+Các cặp thuốc dễ nhầm nhau.
+Theo TS.DS Võ Thị Hà: Kali là một khoáng chất có vai trò quan trọng đối với cơ xương và mô mềm, tham gia vào quá trình dẫn truyền xung động thần kinh, sự co bóp của tim, sản xuất năng lượng và duy trì trương lực nội bào, duy trì huyết áp bình thường cho cơ thể.
+Thuốc Kali clorid (KCl) có tác dụng bổ sung kali nên thường được sử dụng trong phòng ngừa và điều trị hạ kali máu.
+KCl có thể có các dạng bào chế khác nhau. Kali clorid ở dạng thuốc viên (viên nang hay viên nén với hàm lượng 100mg, 500mg, 600mg, 1.500mg) được sử dụng qua đường miệng trong phòng ngừa hay điều trị hạ kali máu ở mức độ nhẹ hay trung bình.
+Kali clorid ở dạng ống thuốc tiêm 10% dưới dạng 500mg/5ml hay 1g/10ml (đây là dung dịch ưu trương, đậm đặc) cần luôn được pha loãng với thể tích lớn NaCl 0,9% hoặc Glucose 5% rồi mới sử dụng qua đường tiêm truyền tĩnh mạch trong điều trị hạ kali máu ở mức độ nặng.
+Vấn đề sai sót do dùng Kali clorid có thể xảy ra. Dù đã triển khai cải tiến chất lượng bệnh viện, hàng năm vẫn có khoảng 44.000-98.000 bệnh nhân tử vong do sai sót y khoa tại Mỹ. Kali clorid (KCl) là thuốc liên quan gây nhiều trường hợp tử vong. Trong vòng 2 năm (từ năm 1996 đến 1998), Tổ chức y tế về thẩm định (JCAHO) Mỹ đã xem xét hơn 200 biến cố nghiêm trọng, trong đó có 10 trường hợp bệnh nhân tử vong do tiêm nhầm KCl đậm đặc đường tĩnh mạch.
+Các sai sót dùng KCl thường là sai đường dùng: KCl được chỉ định dùng đường uống, và tiêm nhầm đường tĩnh mạch hay dùng nhầm thuốc: Lọ KCl thường nhầm với lọ chứa NaCl (nước muối), calcium gluconat, heparin (chống đông) hoặc furosemide (lợi tiểu) do bao gói thuốc tương tự nhau.
+Nguyên nhân sai sót trong trường hợp tại BV đa khoa Đông Anh có thể là do ở Việt Nam không có dạng bào chế dạng dung dịch có sẵn dùng để uống, nên bác sĩ kê ống tiêm KCl đậm đặc cho bệnh nhi uống (vốn dạng này phải pha loãng và tiêm tĩnh mạch). Và điều dưỡng đã không để ý sự khác biệt trong sự thay đổi đường dùng này, dẫn đến sai sót.
+12 khuyến cáo về phòng sai sót liên quan KCl:
+- Tham vấn nhóm đa ngành gồm khoa dược, hội đồng thuốc điều trị, phòng quản lý chất lượng bệnh viện và cán bộ y tế để xác định và triển khai các chiến lược giảm biến cố liên quan dung dịch KCl đậm đặc.
+- Kê đơn chi tiết về tổng liều, thể tích pha loãng, tốc độ truyền, đường dùng.
+- Nên ghi chú về đường dùng nếu là dùng đường uống chứ không phải đường tiêm.
+- Ưu tiên dùng dạng uống cho bệnh nhân hạ kali máu mức độ nhẹ đến trung bình.
+- Ưu tiên kê đơn dạng túi đã được pha loãng trước. Dung dịch không chuẩn hóa nên được pha chế ở khoa dược khi có yêu cầu.
+- Đưa dung dịch KCl đậm đặc 10% hay 20% vào danh mục thuốc nguy cơ cao tại bệnh viện và cần có các biện pháp quản lý đặc biệt.
+- Thêm nhãn phụ cảnh báo phát quang với ống KCl đậm đặc THẬN TRỌNG. KCl đậm đặc. Nguy cơ tử vong nếu tiêm dung dịch chưa pha loãng. Pha loãng trước khi dùng.
+- Chọn khu vực thiết kế riêng để dữ trữ chỉ KCl đậm đặc.
+- Soạn các hướng dẫn chuẩn hóa về sử dụng và pha loãng KCl.
+- Chọn mua ống tiêm KCl đậm đặc có bao gói khác biệt với các thuốc khác như: Hạn chế mua các thuốc có bao gói tương tự nhau. Đào tạo CBYT về danh mục các thuốc có nguy cơ dễ nhầm lẫn (tên tương tự nhau, bao gói tương tự nhau).
+- Hạn chế tối đa việc lưu trữ các dung dịch KCl ưu trương tại khoa lâm sàng, ưu tiên lưu trữ và pha chế thuốc tập trung tại khoa dược và thiết kế kế hoạch cung ứng phù hợp khi khẩn cấp.
+- Có dược sĩ lâm sàng phân tích đơn thuốc và giám sát nếu kê đơn không theo chuẩn.
+LH.

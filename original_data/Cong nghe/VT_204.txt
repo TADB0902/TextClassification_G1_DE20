@@ -1,0 +1,15 @@
+Bảo mật dữ liệu riêng tư trong máy là vấn đề hàng đầu mà bất kì người sử dụng thiết bị công nghệ nào cũng quan tâm đến. Với không ít người, sự riêng tư về thông tin cá nhân còn thể hiện qua việc bảo mật nội dung tin nhắn. Để tránh tình trạng người nào đó, có thể do vô tình hay cố ý, xem được nội dung cuộc trò chuyện trên chiếc iPhone của mình thì bạn hãy thực hiện ngay 5 thao tác cực đơn giản sau đây nhé!
+Tắt hiển thị nội dung tin nhắn trên màn hình khóa.
+Để tắt hiển thị nội dung tin nhắn trên màn hình khóa, bạn hãy truy cập vào Settings (cài đặt) / Notifications (thông báo) / Messages (tin nhắn), sau đó vô hiệu hóa cả hai tùy chọn Show on Lock Screen (hiển thị trên màn hình khóa) và Show Previews (hiển thị bản xem trước).
+Bằng cách này, bạn vẫn có thể nhận được thông báo xem ai đã gửi tin cho bạn nhưng không hiển thị phần nội dung. Nếu bạn muốn xem được nội dung của những tin nhắn này bạn cần phải mở khóa thiết bị và truy cập vào ứng dụng Messages (Tin nhắn).
+Tắt tính năng chuyển tiếp tin nhắn.
+Nếu bạn đang sử dụng một tài khoản Apple ID cho nhiều thiết bị, hãy cẩn thận những nội dung mà bạn không mong muốn bị nhìn thấy có thể được gửi qua những thiết bị khác ngoài chiếc iPhone của bạn. Để giải quyết dứt điểm vấn đề này bạn hãy tắt ngay tính năng chuyển tiếp tin nhắn trên thiết bị thường hay sử dụng của mình bằng cách vào Settings (cài đặt) / Messages (tin nhắn) và gạt tắt các thiết bị không cần thiết trong Text Message Forwarding (chuyển tiếp tin nhắn).
+Tự động xóa tin nhắn cũ sau một khoảng thời gian nhận được.
+Để chắc chắn rằng không một ai có thể xem được những thông tin nhạy cảm của bản thân thông qua nội dung tin nhắn, bạn hãy kích hoạt tính năng tự hủy những tin nhắn đã xem.
+Đầu tiên bạn hãy truy cập Settings (cài đặt) / Messages (tin nhắn) và cuộn xuống cho đến khi thấy phần Messages History (lịch sử tin nhắn). Sau đó bạn hãy truy cập vào mục Keep Messages (lưu giữ tin nhắn), lúc này thiết bị sẽ có sẵn 3 gợi ý về mốc thời gian lưu giữ tin nhắn là 30 ngày, 1 năm và mãi mãi, bạn hãy chọn khoảng thời gian tự hủy tin phù hợp với lựa chọn của mình nhất.
+Lọc tin nhắn từ những người bạn không biết.
+Nếu bạn muốn chắc rằng tất cả những tin nhắn mà bản thân nhận được đều đến từ danh sách bạn bè, người thân quen biết, hãy bật ngay tính năng di chuyển các tin nhắn của những người lạ vào một danh sách riêng.
+Để thực hiện điều đó bạn vào mục Settings (cài đặt) / Messages (tin nhắn) và gạt sang phải mục Filter Unknown Senders (lọc người gửi không xác định).
+Tắt thông báo đã đọc.
+Cuối cùng, đôi lúc bạn vẫn sẽ gặp các trường hợp nhận được những tin nhắn khá khó xử như mượn tiền, nhờ vả, mà không biết phải nên gật đầu ok hay lảng luôn cho khỏe, thì việc tắt tính năng thông báo đã đọc là một điều cần thiết. Để đảm bảo mọi người không nhận được thông báo bạn đã đọc tin nhắn, hãy chọn Settings (cài đặt) / Messages (tin nhắn) và tắt bỏ tính năng Send Read Receipts (gửi thông báo đã đọc).
+Duy Huỳnh.

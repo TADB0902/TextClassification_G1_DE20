@@ -1,0 +1,7 @@
+Chiếc máy ảnh ghi lại chuyển động của ánh sáng.
+Các nhà khoa học tại Đại học Lund, Thụy Điển, chế tạo thành công chiếc máy ảnh nhanh nhất thế giới có khả năng chụp 5 nghìn tỷ bức ảnh mỗi giây, tức là mỗi bức ảnh được chụp trong 0,2 phần nghìn tỷ giây, theo UPI. Chiếc máy ảnh này có thể dùng để quan sát các quá trình siêu nhanh trong lĩnh vực hóa học, vật lý, sinh học và y sinh học. Kết quả nghiên cứu được công bố trên tạp chí FRAME hôm 15/3.
+Nhóm nghiên cứu sử dụng máy ảnh mới để ghi hình các photon đang di chuyển qua một khoảng cách tương đương với chiều rộng một tờ giấy. Trên thực tế, quá trình này diễn ra trong một pico giây, hay một phần nghìn tỷ giây. Bằng cách sử dụng máy ảnh, các nhà khoa học có thể chia nhỏ quá trình này thành một hoạt động có thể quan sát được.
+Thay vì chụp một ảnh mỗi lần, máy ảnh ghi lại nhiều hình ảnh cùng lúc và sau đó sử dụng thuật toán để sắp xếp chúng thành một chuỗi ảnh giống như phim.
+"Máy ảnh mới có thể chụp nhiều quá trình trong tự nhiên như các vụ nổ, plasma lóe sáng, cháy hỗn loạn, hoạt động não ở động vật và phản ứng hóa học", Elias Kristensson, thành viên của nhóm nghiên cứu, cho biết.
+Nhiều quá trình trong tự nhiên diễn ra rất nhanh, chúng không thể được ghi lại bằng phim chuyển động. Cách duy nhất để nghiên cứu những quá trình này là sử dụng phương pháp nhiếp ảnh tĩnh. Tuy nhiên, những chiếc máy ảnh nhanh nhất hiện nay chỉ chụp được 100.000 bức ảnh/giây.
+Theo VNE.

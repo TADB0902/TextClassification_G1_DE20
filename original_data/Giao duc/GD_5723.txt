@@ -1,0 +1,6 @@
+Chương trình môn học mới nội dung được giảm tải, hình thành một số môn học mới mang tính tích hợp.
+Cụ thể các môn học:
+- Tiểu học, các môn học bắt buộc gồm: Tiếng Việt, Toán, Ngoại ngữ 1, Đạo đức, Giáo dục lối sống, Tự nhiên và xã hội, Lịch sử và Địa lý, Khoa học, Tin học và Công nghệ, giáo dục thể chất, Nghệ thuật. Hai môn học tự chọn: Ngoại ngữ 1 và Tiếng dân tộc thiểu số.
+- THCS , các môn học bắt buộc gồm: Ngữ Văn, Toán, Ngoại ngữ 1, giáo dục công dân, Khoa học tự nhiên, Tin học, Công nghệ, giáo dục thể chất, Lịch sử và Địa lý, Nghệ thuật. Môn tự chọn: Tiếng dân tộc thiểu số và ngoại ngữ 2.
+- THPT , các môn bắt buộc chỉ còn: Toán, Ngữ văn, Ngoại ngữ 1, Giáo dục thể chất và giáo dục quốc phòng, an ninh. Ngoài ra, học sinh ở cấp học này được lựa chọn học theo nhóm gồm các môn Khoa học xã hội (Giáo dục kinh tế và pháp luật, Lịch sử và Địa lý), Khoa học Tự nhiên (Vật lý, Sinh học, Hóa học), Công nghệ và Nghệ thuật (Công nghệ, Tin học và Nghệ thuật).
+HOA HẠ.

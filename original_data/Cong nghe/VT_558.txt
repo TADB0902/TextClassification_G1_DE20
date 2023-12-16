@@ -1,0 +1,15 @@
+Monero.
+Tất cả các giao dịch và tài khoản đều ở trạng thái riêng tư và không thể tìm được nguồn danh tính, dù là thực tế hay trực tuyến.
+Không giống như các loại tiền ảo đã đề cập trước đây, Monero không phải được xây dựng trên tập mã lệnh của Bitcoin mà sử dụng giao thức CryptoNote.
+Mặc dù nó vẫn có những điểm chung với Bitcoin như blockchain và khả năng khai thác (mining), nhưng Monero mang đến khả năng ẩn danh mạnh mẽ, thuật toán cho CPU tối ưu hóa proof-of-Work (phân cấp), việc điều chỉnh liên tục Mining Difficulty (độ khó của việc khai thác) hoặc thuật toán cho phù hợp với kích thước khối.
+Monero tuyên bố là loại tiền ảo duy nhất cung cấp sự riêng tư hoàn toàn cho người bán, người mua và số tiền trong mỗi giao dịch. Mặc dù Zcash cũng cung cấp dịch vụ ẩn danh, nhưng sự khác biệt giữa Monero và Zcash là Zcash cho phép lựa chọn ẩn danh hay không, còn tất cả các giao dịch của Monero đều tự động hoàn toàn riêng tư.
+Do mang tính bảo mật cao nên Monero được các thị trường ngầm hồ hởi đón nhận. Tháng 6/2016, AlphaBay  trang web đen chuyên mua bán hàng cấm lớn nhất thế giới  tuyên bố sẵn sàng hỗ trợ phương thức thanh toán giao dịch bằng Monero.
+Sau sự kiện này, vốn hóa thị trường của Monero đang là 40 triệu USD (so với Bitcoin là 9 tỉ USD), đã tăng vọt lên 60 triệu USD. Nhà nghiên cứu bảo mật Công ty Webroot Tyler Moffitt cho rằng chắc chắn Monero sẽ được các trang web đen đón nhận, vì nó an toàn hơn Bitcoin.
+NEO.
+Bắt đầu từ năm 2014, NEO bắt đầu phát triển mạnh mẽ. Trước kia, đồng NEO còn có một tên gọi khác là AntShares, là mã nguồn mở đầu tiên và đôi khi được gọi là đồng Ethereum Trung Quốc.
+Sứ mệnh của đồng NEO được xác định là tái tạo lại cách thức mà nền thương mại đang được thực hiện. Các nhà phát triển đồng tiền ảo này tin rằng, NEO sẽ thúc đẩy phát triển công nghệ và cùng nhau tạo ra một tương lai tươi sáng.
+Từ sứ mệnh này, hệ thống tiền ảo này được xây dựng nhằm thay đổi nền kinh tế truyền thống để đến với kỷ nguyên mới của nền kinh tế thông minh.
+Hai dự án tiền ảo NEO và Bitcoin có rất nhiều điểm chung: Chúng đều có khả năng tương tự về các ứng dụng phân cấp và các hợp đồng thông minh; cả hai đều là mã nguồn mở và phi lợi nhuận. Tuy nhiên, không giống như đồng tiền Ethereum không nhận được sự ủng hộ của bất kỳ quốc gia nào, đồng NEO được Trung Quốc ủng hộ.
+NEO khác với Ethereum nhiều điểm, nhất là trong ngôn ngữ lập trình. Trong khi Euthereum có ngôn ngữ riêng của nó, được gọi là Solidity, mà các lập trình viên phải học để viết các hợp đồng hoặc các ứng dụng, thì NEO hỗ trợ một số ngôn ngữ lập trình phổ biến, bao gồm C# và Java, với các kế hoạch hỗ trợ Go và Python. Đây cũng được coi là những điểm hấp dẫn của đồng tiền này đối với các lập trình viên.
+(Còn tiếp).
+Kiều Phong.

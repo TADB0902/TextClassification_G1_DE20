@@ -1,0 +1,9 @@
+Liên kết trong tin nhắn SMS có thể làm treo cứng iPhone.
+Trong 2 ngày gần đây, một đường link xuất hiện đã khiến cho cả iPhone và Macbook gặp sự cố khi bấm vào. Người phát hiện ra lỗi này gọi đây là lỗi chaiOS. Theo đó khi đường dẫn này được gửi qua ứng dụng tin nhắn của iPhone và mở bằng trình duyệt Safari, iPhone sẽ bị treo. Khi khởi động lại, ứng dụng Tin nhắn sẽ không hoạt động được và liên tục thoát ra ngoài.
+Không chỉ iPhone, cả những máy tính Mac cũng gặp tình trạng này.
+Tuy nhiên trong ngày hôm qua, cách xử lý lỗi này đã được một tài khoản Twitter khác đăng tải.
+Cách sửa lỗi chaiOS đã được người dùng khác chia sẻ.
+Theo đó người dùng chỉ cần truy cập vào liên kết vincedes3/com/save.html, sau đó thực hiện theo hướng dẫn của trang web, ứng dụng nhắn tin của thiết bị sẽ hoạt động lại bình thường.
+Một lưu ý khi sử dụng cách này là bắt buộc người dùng phải truy cập bằng trình duyệt Safari và sau khi thực hiện hãy xóa tin nhắn chứa liên kết làm treo ứng dụng đi.
+Hiện nay lỗi chaiOS vẫn chưa được xác định rõ là do đâu và Apple cũng chưa có bất kỳ phản hồi nào về tình trạng này. Trước đây hệ điều hành iOS cũng có một lỗi khác khiến iPhone nhận tin nhắn SMS sẽ tự khởi động lại. Sau đó lỗi này được Apple khắc phục qua bản cập nhật hệ điều hành tiếp theo.
+TÙNG LINH.

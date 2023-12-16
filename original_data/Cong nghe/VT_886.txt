@@ -1,0 +1,11 @@
+Trong báo cáo công bố ngày 30/1, Cisco cho biết lỗ hổng trong trình duyệt Mozilla Firefox có thể cho phép tin tặc điều khiển máy tính nạn nhân từ xa.
+Cụ thể, nếu máy tính dùng bản Firefox Quantum cũ, tin tặc có thể lợi dụng để thực thi mã độc trên hệ thống bằng cách lừa người dùng nhấp vào đường link hoặc mở tệp tin nguy hiểm. Thao tác này sẽ giúp tin tặc cài đặt phần mềm, thay đổi mật khẩu và xâm nhập vào dữ liệu người dùng.
+Lỗ hổng chỉ có trên phiên bản Firefox dùng cho máy tính. Các bản Firefox cho iOS, Android và Amazon Fire TV không bị ảnh hưởng.
+Mozilla đã ngay lập tức cập nhật Firefox lên phiên bản 58.0.1. Đây là bản nâng cấp đầu tiên cho trình duyệt Firefox Quantum mới (Firefox 58) vừa được Mozilla phát hành cuối tuần trước.
+Người dùng Firefox được khuyến cáo nâng cấp ngay lên phiên bản 58.0.1 mới nhất.
+Mặc dù lượng người dùng Firefox Quantum không lớn như Google Chrome nhưng lỗ hổng nguy hiểm trên vẫn ảnh hưởng tới nhiều người.
+Theo số liệu của Mozilla, Firefox Quantum đạt 170 triệu lượt tải về sau khi được phát hành, và mỗi ngày vẫn có hàng triệu lượt tải về.
+Có vẻ chưa có bằng chứng nào cho thấy dữ liệu người dùng bị khai thác qua lỗ hổng này, phát ngôn viên của Mozilla nói với tờ tin Mashable.
+Tuy nhiên, người dùng Firefox được khuyến cáo cần cập nhật trình duyệt này ngay lập tức nhằm ngăn chặn nguy cơ có thể xảy ra. Thực tế cho thấy tin tặc không mất nhiều thời gian để khai thác lỗ hổng đã được công bố.
+Người dùng có thể tải bản cập nhật cho Firefox Quantum từ trang chủ Mozilla, hoặc từ thanh công cụ của trình duyệt vào Help > About Firefox.
+Gia Nguyễn.

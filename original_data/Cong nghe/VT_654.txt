@@ -1,0 +1,5 @@
+Tuy phương pháp được mô tả chỉ có thể phát hiện được 100 tế bào vi khuẩn trên mỗi ml dung dịch so với độ nhạy 10.000 tế bào vi khuẩn/ml bằng các phương pháp đánh giá nhanh khác nhưng nó có những lợi thế là chi phí thấp và dễ phổ cập rộng rãi.
+Phiên bản thương mại của hệ thống này rất hữu ích đối với các đầu bếp và các chuyên gia trong việc khắc phục các hậu quả của thiên tai, những người làm việc tại thực địa.
+Ý tưởng là thiết bị có chứa một phân tử của axit 3-mercaptophenylboronic. Nó chỉ hút vi khuẩn, tránh đường, chất béo, protein trong thực phẩm cũng như những hợp chất bẩn khác. Các hợp chất thực phẩm có thể được loại bằng cách dùng một chất có độ pH cao, rồi chỉ để lại vi khuẩn. Sau đó sử dụng kỹ thuật phát hiện hóa học (quang phổ Raman tăng cường bề mặt) bằng cách sử dụng hạt nano bạc.
+Sự hiện diện của vi khuẩn trong mẫu phân tích được xác định bằng mắt với kính hiển vi quang học. Các nhà khoa học đã trình làng một thiết bị cực nhỏ dùng cho điện thoại thông minh và một phần mềm giúp nhận diện trực quan vi khuẩn trong các mẫu nước uống và thức ăn.
+Vũ Trung Hương.

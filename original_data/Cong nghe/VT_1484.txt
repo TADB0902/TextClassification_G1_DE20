@@ -1,0 +1,5 @@
+Ứng dụng tên Bitcoin AR mới xuất hiện trên hệ điều hành iOS do Bryan Edelman, một lập trình viên ứng dụng tại Los Angeles, phát triển. Bitcoin AR cho phép người dùng theo dõi biến động giá của 15 loại tiền ảo. Trong đó có Bitcoin, Ethereum, Monero, Ripple...
+Bitcoin AR cung cấp thông tin từ Wikipedia và giá cả của tiền số.
+Ứng dụng sẽ quét tìm mặt phẳng bằng camera của điện thoại. Sau đó người dùng có thể chọn loại tiền muốn theo dõi và đặt nó vào vị trí mong muốn. Logo của loại tiền có dạng 3D chuyển động. Bên dưới logo là nơi hiển thị giá trị và vốn hóa thị trường.
+Ngoài cung cấp giá, ứng dụng còn cung cấp thông tin chi tiết của từng đồng tiền. Nội dung được trích từ Wikipedia, giúp những người muốn tìm hiểu nắm được kiến thức cơ bản về tiền số.
+Xuân Tiến.

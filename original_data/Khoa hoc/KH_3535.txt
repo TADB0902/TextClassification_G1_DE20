@@ -1,0 +1,24 @@
+Công nghệ chỉnh sửa gene trên người.
+Lần đầu tiên trên thế giới, các nhà khoa học đã sử dụng công nghệ chỉnh sửa gene để sửa chữa thành công một đột biến gây bệnh trong phôi người, thành tựu đánh dấu bước tiến lớn trong việc ngăn ngừa các bệnh di truyền.
+Tháng 7/2017, Tạp chí Công nghệ MIT đăng tải nghiên cứu của các nhà khoa học đến từ Đại học Khoa học và Sức khỏe Oregon (Mỹ) cho thấy, với công cụ có tên CRISPR, các nhà khoa học có thể chỉnh sửa gene trên trứng mới thụ tinh để sửa chữa các gen khuyết tật mang bệnh di truyền an toàn và hiệu quả.
+Được đánh giá là công cụ chỉnh sửa gene hiệu quả và mạnh nhất hiện nay, CRISPR không chỉ được sử dụng trên phôi người mà còn được sử dụng thành công trên cơ thể người trưởng thành.
+Mới đây, một bệnh nhân 44 tuổi sinh sống tại California (Mỹ) mắc chứng di truyền hiếm gặp là Hội chứng Hunter đã được thay đổi DNA vĩnh viễn với công nghệ sử dụng CRISPR của Công ty Công nghệ Sinh học Sangamo Therapeutics.
+2017 được ghi nhận là năm có nhiều đột phá trong khoa học  công nghệ.
+Đột phá về công nghệ lượng tử.
+Năm 2017 chứng kiến những tiến bộ mới nhất trong công nghệ lượng tử khi ngày 16/3, máy gia tốc hạt lớn nhất thế giới (LHC) phát hiện 5 hạt hạ nguyên tử mới có thể giúp giải thích cách thức trung tâm nguyên tử gắn kết với nhau. Sự tồn tại của những hạt này từng được các nhà khoa học dự đoán vào năm 1994, nhưng chưa thể chứng minh.
+Đây là một khám phá đáng chú ý, làm sáng tỏ cách thức các hạt quark kết hợp với nhau. Chúng ta sẽ hiểu rõ hơn về proton và neutron, cũng như các trạng thái đa quark kỳ lạ như pentaquark và tetraquark, Greig Cowan, chuyên gia tại Đại học Edinburgh, Anh cho biết.
+Ngoài ra, điện toán lượng tử (quantum computing) cũng đã đạt được tiến bộ đáng kể. Tháng 8 năm nay, Trung Quốc đã công bố vệ tinh của nước này lần đầu tiên thực hiện thành công thử nghiệm gửi mã lượng tử xuống hai trạm trên mặt đất ở khoảng cách 645 km và 1.200 km.
+Mã lượng tử được coi là loại tín hiệu được bảo mật nhất hiện nay và hiện chưa có công nghệ để can thiệp và giải mã loại tín hiệu này. Pan Jianwei, nhà khoa học dẫn đầu thí nghiệm tại Viện Khoa học Trung Quốc, cho biết cách truyền dữ liệu này hiệu quả hơn qua sợi quang học 20 lần.
+Liên lạc lượng tử có khả năng bảo mật siêu cao bởi photon lượng tử không bị phân chia hay nhân bản. Bởi vậy, nó không bị nghe lén, can thiệp hoặc bẻ khóa.
+SpaceX mở đầu kỷ nguyên tên lửa.
+SpaceX - công ty tư nhân chuyên chế tạo tên lửa đẩy do ông trùm công nghệ Elon Musk sáng lập năm 2002 là cái tên gây nhiều chú ý trong ngành công nghiệp vũ trụ năm nay với việc lần đầu tiên phóng thành công tên lửa tái sử dụng Falcon 9, báo hiệu kết thúc thời đại của những cuộc khám phá không gian đầy tốn kém.
+Tuy vậy, đó mới chỉ là bước đầu trong cuộc cách mạng vũ trụ mà SpaceX đang hướng tới. Với kế hoạch đưa con người lên sao Hỏa sinh sống và một tàu con thoi loại lớn có thể tái sử dụng, SpaceX đang dần đem lại những câu chuyện xảy ra trong phim viễn tưởng tới với đời thực.
+Tìm ra Trái đất thứ hai.
+Cuối cùng, một trong những phát hiện quan trọng nhất trong năm nay cũng liên quan tới cuộc sống ở ngoài Trái đất. Tháng 2/2017, các nhà khoa học làm việc tại Đài thiên văn Nam Âu và Cơ quan Hàng không Vũ trụ Mỹ (NASA) đã khám phá ra tám hành tinh ngoại bản giống Trái đất thuộc một hệ sao có tên gọi là TRAPPIST-1.
+Hệ sao TRAPPIST có khối lượng lớn hơn sao Mộc và nằm cách Mặt trời khoảng 39,5 năm ánh sáng. Dù các nhà thiên văn vẫn đang tiếp tục tranh luận về khả năng tồn tại sự sống của bảy hành tinh ngoại lai này, nhưng việc khám phá ra hàng loạt các hành tinh trong cùng một hệ thiên hà là một phát hiện đầy hứa hẹn trong cuộc tìm kiếm sự sống ngoài Trái đất.
+Tử cung nhân tạo.
+Tháng 4/2017, một nhóm các bác sĩ tại Bệnh viện Nhi Philadelphia (Mỹ) đã đăng một nghiên cứu đáng chú ý trên tạp chí khoa học Nature Communications. Theo đó, nhóm bác sĩ đã thành công trong việc nuôi dưỡng những chú cừu trong tử cung nhân tạo bằng nhựa. Tám chú cừu tham gia thử nghiệm đều phát triển bình thường trong tử cung nhân tạo và có cơ hội sống cao.
+Việc sáng tạo ra tử cung nhân tạo là một tiến bộ khoa học đáng ghi nhận, góp phần làm giảm các biến chứng khi sinh, nhất là hiện tượng sẩy thai, thai chết lưu vì quá trình phát triển của bào thai được giám sát chặt chẽ, quan sát được bằng mắt thường.
+Phát minh này cũng đặc biệt hữu ích với nhóm phụ nữ vô sinh muốn có con, hạn chế tình trạng đẻ thuê hay mang thai hộ. Ngoài ra, nó còn làm giảm gánh nặng tử vong do mang thai, sinh con ở phụ nữ, kéo dài tuổi sinh đẻ sinh học cho con người, kể cả những phụ nữ mắc bệnh nan y phải dùng tới thuốc...
+Hồng Hạnh.
+(theo Futurism).

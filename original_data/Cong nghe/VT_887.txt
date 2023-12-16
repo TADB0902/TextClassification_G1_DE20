@@ -1,0 +1,17 @@
+Apple công khai phát hành bản cập nhật iOS khắc phục lỗi và thêm một số cải tiến trong một số phiên bản để nâng cao trải nghiệm người dùng cũng như việc sử dụng trơn tru hơn. Tuy nhiên mỗi lần bạn cập nhật, thiết bị có thể chậm hơn một chút và trong một số trường hợp, bạn buộc phải trở lại phiên bản iOS cũ hơn.
+Bạn hoàn toàn có thể làm chủ được việc cập nhật trên iOS.
+Khi bạn vô tình chạm nhẹ vào tùy chọn Download and Install trong phần Software Update, nó sẽ tải về bản cập nhật phần mềm mới nhất và yêu cầu bạn cài đặt nó trên iPhone. Với bản cập nhật phần mềm đã tải xuống, nó có thể tự động cài đặt phiên bản iOS mới nhất bất cứ lúc nào mà không cần tương tác từ bạn.
+Vì vậy, để thoát khỏi vấn đề cập nhật phần mềm tự động cài đặt, có một tùy chọn để bạn vô hiệu hóa và hủy tính năng này. Điều này áp dụng cho thiết bị iOS như iPhone chạy phiên bản iOS 11 hoặc mới hơn.
+Hủy cập nhật phần mềm tự động.
+- Truy cập Settings > General > Software Update.
+Cancel Auto Install để tắt tính năng cài đặt bản cập nhật iOS tự động.
+- Ở đó bạn sẽ thấy tùy chọn Cancel Auto Install.
+- Đơn giản chỉ cần nhấn vào đó và nó sẽ ngừng cập nhật phần mềm tự động.
+Dừng cập nhật phần mềm tự động.
+- Truy cập đến Settings.
+- Tìm đến phần iPhone Storage.
+Chọn Delete Update để xóa các dữ liệu bên trong bản cập nhật iOS đã tải về.
+- Cuộn xuống dưới bạn sẽ thấy tập tin bản cài đặt iOS.
+- Chạm vào và chọn Delete Update.
+Kể từ bây giờ bạn có thể dừng việc cập nhật phần mềm tự động trên iPhone. Trong tương lai, bạn có thể quay trở lại thực hiện cập nhật bằng tay cho thiết bị.
+Kiến Tường (Theo iMangoss).

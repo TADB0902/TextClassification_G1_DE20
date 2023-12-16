@@ -1,0 +1,14 @@
+Kiến tạo hệ sinh thái - Điện toán đám mây cùng Cloud8 Siêu năng lực tính toán trong cách mạng công nghiệp 4.0 Cloud8: Đẩy nhanh điện toán đám mây trong doanh nghiệp Hệ sinh thái cloud trong cách mạng công nghiệp 4.0.
+Việc thay thế một máy chủ vật lý truyền thống bằng dịch vụ máy chủ Cloud đang được nhiều tổ chức, doanh nghiệp lựa chọn. Khi máy chủ vật lý gặp nhiều rủi ro và khả năng gián đoạn dịch vụ cao do các vấn đề như: hư hỏng thiết bị phần cứng, nâng cấp máy chủ mất nhiều thời gian đôi khi không thể nâng cấp Điều này có thể gây thiệt hại và ảnh hưởng lớn đối với các hoạt động kinh doanh của doanh nghiệp.
+Máy chủ Cloud hoàn toàn có thể khắc phục được nhược điểm của máy chủ vật lý đảm bảo hạ tầng CNTT hoạt động liên tục, hiệu quả vượt trội với 5 lợi ích:
+Tiết kiệm chi phí : không mất chi phí đầu tư ban đầu lớn dành cho phần cứng, hạ tầng CNTT. Doanh nghiệp chỉ cần chi trả cho những gì sử dụng máy chủ Cloud chất lượng cao.
+Khả năng thu hẹp và mở rộng hệ thống nhanh : doanh nghiệp chủ động việc sử dụng máy chủ Cloud theo từng giai đoạn phát triển của doanh nghiệp, giúp tài nguyên luôn được sử dụng hợp lý, không bị lãng phí hay dư thừa tài nguyên mang lại hiệu quả cao.
+Đảm bảo hạ tầng hoạt động liên tục : Hạ tầng máy chủ Cloud với quy mô lớn đặt tại các trung tâm dữ liệu đạt tiêu chuẩn cao giúp hệ thống luôn sẵn sàng đáp ứng, không làm gián đoạn dịch vụ khi có sự cố xảy ra, tránh ảnh hưởng tới các hoạt động kinh doanh của doanh nghiệp.
+Nâng cao năng lực cạnh tranh của doanh nghiệp : hỗ trợ doanh nghiệp tiếp cận và sử dụng công nghệ cao và bắt kịp xu hướng phát triển của thế giới.
+An toàn dữ liệu : Dữ liệu được mã hóa khi ra môi trường Internet, được nhân bản nhiều lần nhằm đảm bảo tính an toàn của dữ liệu.
+Với hình thức sử dụng máy chủ Cloud hiện nay, doanh nghiệp sẽ chuyển hầu hết trách nhiệm về vận hành hệ thống, quản lý hạ tầng, bảo mật và đảm bảo chất lượng dịch vụ cho nhà cung cấp dịch vụ.
+Khi đó doanh nghiệp sẽ giảm rất nhiều chi phí và chỉ tập trung vào nhiệm vụ chính là kinh doanh, không phải bận tâm nhiều đến việc quản lý, kiểm soát hạ tầng CNTT. Các doanh nghiệp phù hợp sử dụng hệ thống máy chủ Cloud như:
+- Các doanh nghiệp sử dụng về ứng dụng phần mềm như ERP, CRM, phần mềm kế toán,
+- Các Doanh nghiệp sử dụng email, website, lưu trữ dữ liệu,
+- Các doanh nghiệp ứng dụng di động (mobile app), game.
+PC World VN 05/2017.

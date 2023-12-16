@@ -1,0 +1,13 @@
+Báo Infonet xin giới thiệu hướng dẫn giải môn Toán mã đề MH03 đề thi minh họa THPT quốc gia 2017 do thầy Nguyễn Bá Tuấn  Giảng viên ĐH Công nghiệp Hà Nội biên soạn.
+Hướng dẫn giải môn Toán mã đề MH03.
+Nhận xét về đề minh họa lần này, thầy Nguyễn Bá Tuấn cho biết: "Nhìn chung đây là một đề phù hợp, đảm bảo việc thí sinh làm 90 phút có thể giải quyết trọn vẹn 50 câu.
+Đề được cấu trúc từ dễ đến khó, các câu ở cùng mức độ được xáo trộn với nhau. Về bản chất vẫn là ở mỗi chuyên đề đều có câu ở mức độ nhận biết, thông hiểu, vận dụng, vận dụng cao.
+Tuy nhiên, đề này khó hơn đề thi minh họa lần 1 nhưng có thể nói dễ hơn đề minh họa lần 2 ở chỗ không có một số câu rất khó như đề lần 2.
+Đề có một số điểm nổi bật như sau:
+Phần bài toán thực tế rất được ưu ái trong các đề trước thì lần này đề lại không có.
+Phần đồ thị và bảng biến thiên xuất hiện nhiều, cụ thể là các câu: 7, 11, 15, 22, 32. Với đầy đủ các mức độ. Đặc biệt câu 32 có sự xuất hiện của đồ thị hàm liên quan đến trị tuyệt đối.
+Việc sử dụng máy tính cầm tay vẫn có thể thực hiện với một số câu, để thực hiện các câu khó hơn đòi hỏi học sinh phải nắm bản chất kiến thức từ đó sử dụng máy tính như một công cụ để thực hiện ý tưởng. Cụ thể là các câu: 2, 3, 5, 10, 12, 13, 14,18,19, 22,24,31,33,34,35,37,40,41,42,44 ( 20 câu). Tất nhiên trong 20 câu này không phải học sinh nào dùng casio cũng làm được, để làm được các câu khó các em cần nắm chắc kiến thức cơ bản sách giáo khoa cùng với sự sáng tạo trong làm bài chứ không đơn thuần chỉ là bấm máy.
+Phần hình học không gian cổ điển với 8 câu và có đủ phần khối đa diện và khối tròn xoay. Các bài toán phần khối tròn xoay có đủ về nón, trụ, cầu. Riêng phần tìm bán kính mặt cầu ngoại tiếp khối đa diện luôn được đưa vào, học sinh cần chú ý điều này.
+Đây là một đề hay của Bộ GD&ĐT, các câu được chau chuốt cẩn thận và có tính toán đến nhiều phương án giải một câu trong đó có thể giải bằng những cách rất nhanh, phù hợp với thi trắc nghiệm.
+Ví dụ như câu 48 nếu học sinh để ý sẽ thấy gọi A(-2;1) và B(4;7) thì MA+MB=AB để xảy ra điều này cần có M thuộc đoạn AB từ đó học sinh giải rất nhanh (M là điểm biểu diễn số phức đã cho trong đề. Để làm được điều này tốn không ít công sức để tạo đề. Tuy nhiên nếu có một câu khó hơn để lọc ra học sinh xuất sắc thì sẽ là tuyệt vời hơn.
+Hoàng Thanh.

@@ -1,0 +1,25 @@
+GDG DevFest Hanoi 2017 (Google Developer Festival Hanoi 2017) là chuỗi sự kiện công nghệ với mục đích hỗ trợ, giúp đỡ, xây dựng cộng đồng lập trình viên đồng thời cập nhật những công nghệ mới nhất của Google.
+Thời gian: Thứ Bảy, ngày 18/11/2017.
+Địa điểm: Tầng 4, tòa nhà VTC Online, 18 Tam Trinh, Hà Nội.
+Tiếp nối thành công của GDG DevFest Hanoi 2016 với sự tham dự của hơn 2000 lập trình viên, GDG DevFest Hanoi 2017 đã sẵn sàng đem đến cộng đồng lập trình viên một sự kiện công nghệ rất được mong chờ với nhiều hội thảo chia sẻ chủ đề hấp dẫn như ngôn ngữ lập trình mới Kotlin, Android O và Machine Learning cùng đội ngũ diễn giả, chuyên gia công nghệ trong nước và quốc tế.
+Các chủ đề của GDG DevFest Hanoi 2017 bao gồm:
+How to move from Java to Kotlin - Lê Văn Giáp (Mobile Tech Leader VC Corp).
+System security on cloud - Phạm Phương Tú (Google Cloud Expert).
+The applicability of machine learning in image analysis - Vũ Hoài Nam (IT Lecturer - Posts and Telecommunications Institute of Technology).
+App Ads Revenue Optimization using Firebase Analytics - Nguyễn Thị Loan ( AppotaX Project Manager - Adsota).
+SUSI.AI - Personal Assistants Framework - Đặng Hồng Phúc (Founder - FOSSASIA).
+Gross-Promotion - Nguyễn Minh Long (RichAdX Project Manager - MOG).
+Intro to Serverless BigData Processing on GCP - Allen Day (Google).
+Và còn nhiều chủ đề hấp dẫn khác sẽ được tiếp tục cập nhật trên website và fanpage.
+Điểm mới mẻ hứa hẹn sẽ đem lại những trải nghiệm thú vị cho người tham dự tại GDG DevFest Hanoi 2017 lần này chính là GDG Mini Hackathon Hanoi 2017  cuộc thi lập trình dành riêng cho những người yêu thích công nghệ và mong muốn có cơ hội giao lưu, học hỏi các chuyên gia đến từ Google.
+Nằm trong trong khuôn khổ sự kiện, GDG Mini Hackathon Hanoi 2017 là sân chơi công nghệ được thiết kế và tổ chức bởi GDG Hanoi với mong muốn giúp các bạn trẻ rèn luyện kỹ năng làm việc nhóm, phương thức tư duy đa chiều thông qua việc ứng dụng những công nghệ của Google như Firebase, Google Cloud,... vào sản phẩm thực tế.
+Timeline cuộc thi GDG Mini Hackathon Hanoi 2017:
+Vòng 1: Đăng ký online Thời gian đăng ký: từ 23/10/2017 đến 08/11/2017.
+Vòng 2: Hackathon Thời gian: 7:30 - 18:00 ngày 18/11/2017.
+Vòng 3: Pitching Thời gian: 18:00 - 21:00 ngày 18/11/2017.
+Cơ cấu giải thưởng cuộc thi GDG Mini Hackathon Hanoi 2017:
+1 Giải Nhất: 10.000.000 VNĐ + Certificate từ Google Developers.
+1 Giải Nhì: 5.000.000 VNĐ + Certificate từ Google Developers.
+1 Giải Ba: 3.000.000 VNĐ + Certificate từ Google Developers.
+Về Google Developer Group Hanoi (GDG Hanoi): là Cộng đồng lập trình viên Google tại Hà Nội, quản lý trực tiếp bởi hai đơn vị Google Developers Relation Team - Google US và Google Developers Relation Team - Google Singapore. GDG Hanoi là đơn vị được phép tổ chức tất cả các sự kiện dành cho lập trình viên của Google tại Hà Nội và luôn sẵn sàng hợp tác với các cá nhân và tổ chức nhằm xây dựng phát triển cộng đồng lập trình viên Việt Nam.
+PV.

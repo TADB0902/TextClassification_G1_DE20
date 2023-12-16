@@ -1,0 +1,22 @@
+Đôi khi bạn đang sử dụng bộ sạc đi kèm thiết bị, bộ sạc chính hãng của Apple gặp phải tình trạng iPhone sạc không vào. Điều này gây bất tiện lớn với người dùng, bởi khi đó bạn sẽ không thể trò chuyện hay gọi cho đối tác được. Lúc này, bạn hãy thử các phương pháp dưới đây để khắc phục nhé!
+Khởi động lại iPhone.
+Để loại trừ khả năng iPhone không gặp vấn đề liên quan đến phần mềm, bạn hãy khởi động lại iPhone bằng các cách sau:
+Thông thường, chỉ cần giữ nút nguồn khoảng vài giây cho đến khi xuất hiện thông báo Slide to power off (trượt để tắt nguồn). Sau đó, hãy nhấn nút nguồn để bật iPhone.
+Bên cạnh đó, bạn có thể ép thiết bị khởi động lại bằng cách sau:
+- iPhone 7 và 7 Plus: Bấm và giữ nút nguồn + giảm âm lượng cho đến khi logo Apple xuất hiện.
+- iPhone 6S trở về trước: Bấm giữ phím nguồn + Home cho đến khi logo Apple xuất hiện.
+Kiểm tra cáp sạc, cổng sạc.
+Kiểm tra cáp sạc iPhone.
+Một trong những nguyên nhân chính khiến iPhone không thể sạc pin thường là do cáp sạc bị đứt. Lúc này, bạn hãy thử bằng một dây cáp và củ sạc khác, chuyển sang sử dụng ổ cắm điện thay vì sạc pin thông qua cổng USB trên máy tính.
+Kiểm tra cổng sạc, cổng kết nối Lightning trên iPhone.
+Nếu tình hình vẫn chưa được cải thiện, thì rất có thể cổng sạc, cổng kết nối Lightning trên iPhone bị dính bụi dẫn đến hiệu quả sạc không cao, do đó bạn có thể sử dụng bình khí nén hoặc tăm bông để thổi và làm sạch.
+Cập nhật hệ điều hành iOS mới nhất.
+Nếu thấy iPhone sạc pin quá lâu hoặc sạc không vào, bạn hãy thử kiểm tra và cập nhật iOS lên phiên bản mới nhất. Trước khi cập nhật, bạn hãy nhớ sao lưu lại toàn bộ dữ liệu và các ứng dụng trên thiết bị để tránh xảy ra sự cố đáng tiếc.
+Để cập nhật lên hệ điều hành iOS mới nhất, bạn chỉ cần vào Settings (cài đặt) > General (cài đặt chung) > Software Update (cập nhật phần mềm).
+Thay pin mới cho iPhone.
+Sau thời gian dài sử dụng, viên pin trên iPhone chắc chắn sẽ bị giảm chất lượng và chai. Vì vậy, nếu pin của bạn đã bị chai quá nhiều và kém đi, bạn hãy nghĩ đến việc thay một viên pin mới. Điều này không những có thể giúp bạn cải thiện tình hình mà còn tăng hiệu suất cho iPhone.
+Sửa chữa tại các trung tâm có uy tín.
+Nếu bạn đã thực hiện theo các các trên mà vẫn không cải thiện được tình hình thì rất có thể iPhone của bạn bị lỗi liên quan đến phần cứng của máy, mà lỗi này bạn không thể tự khắc phục được hay không có đủ các thiết bị máy móc cần thiết để sửa chữa.
+Vì vậy, bạn cần mang máy đến các trung tâm sửa chữa lớn và uy tín để được sữa chữa.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Trung Nguyên.

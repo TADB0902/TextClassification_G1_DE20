@@ -1,0 +1,5 @@
+Trung tâm Ứng cứu khẩn cấp máy tính Việt Nam (VNCERT) thuộc Bộ TT&TT;, Cơ quan điều phối ứng cứu sự cố quốc gia đã có thông tin cảnh báo về vụ lộ thông tin của 1,4 tỷ tài khoản thư điện tử. Trong 1,4 tỷ tài khoản thư điện tử trên thế giới bị lộ thông tin, Trung tâm VNCERT đã phân tích và phát hiện số tài khoản sử dụng thư điện tử tại Việt Nam có đuôi.vn là 437.664 tài khoản, bao gồm cả các tài khoản sử dụng thư điện tử của cơ quan nhà nước có đuôi gov.vn là 930 tài khoản. Đáng lo ngại hơn, trong số này có rất nhiều tài khoản sử dụng thư điện tử của các tập đoàn, doanh nghiệp hạ tầng quan trọng của Việt Nam.
+Giao diện trang web khonggianvang.vn.
+Việc lộ các thông tin tài khoản sử dụng thư điện tử và mật khẩu sẽ tạo điều kiện cho tin tặc sử dụng tài khoản, mật khẩu đó để dò thông tin và đăng nhập nhiều hệ thống thông tin. Nếu thành công, tin tặc sẽ chiếm đoạt tài khoản và sử dụng vào việc tấn công, đánh cắp và phá hủy hệ thống thông tin, dữ liệu.
+Theo hướng dẫn của Cục An toàn thông tin, kết quả kiểm tra sẽ được gửi tới địa chỉ email của người dùng sau khi đơn vị này hoàn thành việc kiểm tra thông tin.
+VÂN KHÁNH.

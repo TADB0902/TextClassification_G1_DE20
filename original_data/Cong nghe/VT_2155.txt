@@ -1,0 +1,12 @@
+iPhone X giới thiệu bởi Apple cách đây không lâu được cho là đánh dấu bước khởi đầu của việc đưa hình thức bảo mật bằng cảm biến vân tay vào quá khứ, mở ra trang sử mới cho cơ chế nhận diện khuôn mặt tân tiến.
+FaceID trên iPhone X chính thức đến với công chúng.
+Tuy vậy, chưa chắc diễn biến đã xảy ra đúng như những gì người ta mường tượng về tương lai màu hồng dành cho cảm biến nhận diện khuôn mặt. Cụ thể, một sáng chế mới đây từ Đại học Bang New York tại Buffalo đã được ra mắt với cơ chế đọc được nhịp tim độc nhất của mỗi người để mở khóa bảo mật, nhưng không cần phải gắn kết trực tiếp vào cơ thể mà có thể dò tìm từ một khoảng cách.
+Chúng tôi sử dụng cảm biến radar Doppler mới để phát triển nên hệ thống sinh trắc học nhịp tim này. Nó có thể nhận diện được nhịp tim mỗi người mà không cần tiếp xúc như các thiết bị thường thấy, Wenyao Xu, giáo sư hỗ trợ tại Đại học Buffalo phát biểu. Với cách thức như một máy phát sóng Wi-Fi, cảm biến của chúng tôi có thể tạo ra các xung tín hiệu và nhận được phản hồi từ xa, kết hợp với bộ phận xác định nhịp tim và hình thái sinh học cơ thể. Dữ liệu đó là những đặc trưng duy nhất tùy vào mỗi người, không thể có sự trùng lặp.
+Ưu điểm:
+- Bảo mật cực cao: Cơ chế nhận diện sát sao, không hề dễ dàng can thiệp hoặc bị hack từ xa. Nhịp tim là dữ liệu rất khó để thu thập và mô phỏng, không giống như cảm biến vân tay hay thậm chí cả rủi ro khi nhận diện khuôn mặt.
+- Tiện lợi gấp bội: Không cần tiếp xúc cơ thể trực tiếp và cứng nhắc. Có thể tự ngắt hoặc kết nối lại khi nhận diện thấy chủ nhân không/đang ở gần.
+- Cách hoạt động: 8 giây cho lần quét đầu tiên. Những lần sau nhanh chóng và tiện lợi hơn nhiều.
+- Độ an toàn bức xạ: Đảm bảo chắc chắn. Cường độ chỉ như sóng Wi-Fi thông thường.
+- Độ chính xác: Cực cao - 98%, đã thử nghiệm trên 78 đối tượng tham gia và tiếp tục quy mô lên 500, 1000.
+Sáng chế sẽ được giới thiệu chính thức tại Hội nghị Quốc tế Hằng năm lần thứ 23 về Công nghệ Truyền thông và Điện toán Di động ở Utah (Mỹ).
+NPQM.

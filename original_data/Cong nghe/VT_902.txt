@@ -1,0 +1,10 @@
+12.000 máy chủ ở Việt Nam có nguy cơ bị tấn công bởi lỗ hổng Stack Clash. Ảnh minh họa: Internet.
+Đây là cảnh báo được Bkav đưa ra sáng nay, 21/6. Cụ thể, theo thống kê của Bkav, hơn 12.000 máy chủ web tại Việt Nam có nguy cơ bị tấn công qua khai thác Stack Clash, một lỗ hổng trên hệ điều hành Linux.
+Trước đó, Diễn đàn an ninh mạng Việt Nam đã thông tin về cảnh báo từ hãng an ninh mạng Qualys về Stack Clash bắt nguồn từ cơ chế bảo vệ của trình quản lý bộ nhớ trên các hệ điều hành đang được sử dụng phổ biến.
+Stack là một vùng bộ nhớ được các chương trình máy tính sử dụng để lưu trữ dữ liệu trong quá trình thực thi. Vùng này có thể tự động mở rộng và thu hẹp tùy thuộc vào nhu cầu của việc chạy code. Hacker có thể lợi dụng điều này để tạo xung đột giữa stack của ứng dụng với các vùng bộ nhớ gần đó và ghi đè nội dung.
+Để khai thác Stack Clash, những kẻ tấn công cần có quyền truy cập nội bộ. Tuy nhiên, các chuyên gia cho biết, Stack Clash có thể được kết hợp với các lỗ hổng khác để thực hiện tấn công. Về mặt lý thuyết, lỗ hổng cũng có thể bị khai thác từ xa thông qua một số ứng dụng cụ thể.
+Theo các chuyên gia, các hệ điều hành Linux, FreeBSD, OpenBSD, NetBSD và Solaris đều bị ảnh hưởng bởi Stack Clash. Đội ngũ phát triển Linux và BSD đang nghiên cứu để đưa ra bản vá cho lỗ hổng.
+Lỗ hổng Stack Clash được phát hiện từ năm 2004. Qua các năm, một số cơ chế bảo vệ cho hệ điều hành đã được các nhà phát triển nguồn mở đưa ra. Tuy nhiên, theo nghiên cứu của Qualys, các giải pháp đó không thể ngăn chặn hacker có quyền truy cập người dùng trong hệ thống.
+Qualys cho rằng các hệ điều hành khác như Windows, OS X/MacOS của Apple và Android trên nền Linux của Google cũng có thể bị ảnh hưởng bởi lỗ hổng nhưng chưa tiến hành nghiên cứu cụ thể.
+Bkav cũng cho hay, với tỷ lệ lỗ hổng website tại Việt Nam là 40%, nguy cơ mất an ninh với các hệ thống là rất lớn.
+Duy Vũ.

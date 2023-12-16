@@ -1,0 +1,7 @@
+Các lãnh đạo của Coincheck họp báo công bố sự cố tin tặc tấn công ở Tokyo vào tối 26-1. Ảnh: NHK.
+Tờ Nikkei Asian Review đưa tin Coincheck phát hiện tất cả số tiền ảo có tên gọi NEM bị chuyển đi bất hợp pháp từ các ví giữ tiền ảo của khách hàng tại sàn này vào lúc khoảng 3 giờ sáng ngày 26-1. Đến 11 giờ cùng ngày, Coincheck phát hiện ra lỗ hổng an ninh và chặn tất cả các hoạt động rút tiền ảo đồng thời ngưng giao dịch tất cả các loại tiền ảo ngoài trừ bitcoin.
+Coincheck cho biết đang xác minh xem có bao nhiều khách hàng ảnh hưởng để cân nhắc các biện pháp giải quyết thích hợp, bao gồm đền bù cho số tiền ảo NEM bị mất cắp.
+Tại cuộc họp báo vào tối 26-1, Giám đốc điều hành Coincheck Koichiro Wada nói rằng Coincheck xin lỗi và bày tỏ hối tiếc sâu sắc về sự việc.
+Coincheck là một trong bốn sàn giao dịch tiền ảo lớn nhất Nhật Bản. Một nguồn tin cho biết dù Coincheck không công bố đang quản lý bao nhiêu tài khoản giao dịch của khách hàng nhưng sàn tiền ảo này có thể nắm giữ số tài sản của khách hàng trị giá hàng trăm tỉ yen.
+Năm 2014, sàn giao dịch tiền ảo Mt. Gox ở Tokyo, từng xử lý 80% lượng giao dịch bitcoin toàn cầu, nộp đơn xin phá sản sau khi bị tin tặc tấn công lấy cặp 850.000 bitcoin, trị giá khoảng nửa tỉ đô la Mỹ vào thời điểm đó.
+Chánh Tài.

@@ -1,0 +1,19 @@
+Quay phim màn hình trên Android (không cần root).
+Mới đây, hãng phần mềm Wondershare vừa tung ra ứng dụng MirrorGo, cho phép người dùng ghi lại các thao tác trên màn hình, đồng bộ dữ liệu, hỗ trợ các thiết bị ngoại vi như chuột, bàn phím, trả lời thông báo từ điện thoại ngay trên máy tính và đặc biệt là không yêu cầu thiết bị phải root.
+Trước khi sử dụng, bạn hãy vào Settings (cài đặt) > About phone/tablet (giới thiệu điện thoại), chạm 7 lần vào mục Build Number (số hiệu phiên bản) cho đến khi xuất hiện thông báo bạn đã là nhà phát triển. Sau đó, truy cập tiếp vào mục Developer option (tùy chọn nhà phát triển) và kích hoạt tùy chọn USB Debugging (gỡ lỗi USB).
+- Bước 1: Khi hoàn tất các thao tác trên, bạn hãy cài đặt ứng dụng MirrorGo cho máy tính. Lưu ý, hiện tại chỉ mới có sẵn phiên bản dành cho hệ điều hành Windows.
+- Bước 2: MirrorGo cung cấp hai lựa chọn cho phép người dùng kết nối smartphone với máy tính thông qua dây cáp USB hoặc WiFi. Nếu sử dụng WiFi, bạn cần phải cài thêm ứng dụng MirrorGo dành cho Android.
+- Bước 3: Khi quá trình kết nối hoàn tất, màn hình điện thoại sẽ hiển thị trên máy tính. Đi kèm theo đó là một loạt công cụ hữu ích như Screenshot (chụp ảnh màn hình), Transfer file (chuyển dữ liệu qua lại giữa hai thiết bị), Android Recorder (quay phim màn hình).
+- Bước 4: Để ghi lại màn hình, bạn hãy bấm vào biểu tượng máy quay trên thanh công cụ. Lúc này sẽ có một thông báo xuất hiện trên smartphone, người dùng chỉ cần nhấn cho phép để bắt đầu. Video sau khi hoàn tất sẽ được lưu lại trên cả smartphone và máy tính.
+Nếu muốn hình ảnh hiển thị rõ nét hơn, bạn chỉ cần nhấp vào biểu tượng bánh xe răng cưa, chọn Display & Brightness > Resolution settings > Ultra HD quality. Ngoài ra, người dùng còn có thể cấu hình để nhận thông báo từ điện thoại ngay trên máy tính, đồng bộ dữ liệu.
+Theo thử nghiệm của người viết, việc quay phim màn hình điện thoại thông qua cáp USB cho chất lượng hình ảnh rõ nét và ổn định hơn so với WiFi.
+Quay phim màn hình iPhone (không cần jailbreak).
+Có khá nhiều giải pháp hỗ trợ quay phim màn hình trên iPhone mà không cần jailbreak, đơn cử như phần mềm Shou (chưa tương thích iOS 10), LonelyScreen (thao tác chậm), QuickTime Player (yêu cầu phải sử dụng máy Mac) Tuy nhiên, nổi trội hơn cả vẫn là Vidyo.
+- Bước 1: Đầu tiên, bạn hãy mở trình duyệt Safari và truy cập vào đây, nhấn Install để cài đặt Vidyo.
+- Bước 2: Tiếp theo, bạn cần phải cấp quyền cho ứng dụng bằng cách vào Settings (cài đặt) > General (chung) > Device Management (quản lý thiết bị) > Case France > Trust (tin cậy).
+- Bước 3: Để quay phim màn hình trên iPhone, bạn hãy mở ứng dụng Vidyo. Thiết lập các thông số về nguồn âm thanh, nguồn hình ảnh (màn hình, camera trước/sau) rồi nhấn Start > Done.
+- Bước 4: Tiếp theo, bạn hãy vuốt từ dưới màn hình lên để truy cập vào Control Center, chọn AirPlay > Vidyo > Done. Khi tiếng beep vang lên, việc ghi hình sẽ bắt đầu (lúc này thanh thông báo sẽ hiển thị màu đỏ). Để kết thúc, bạn chỉ cần vào AirPlay > Turn off.
+Lưu ý, nếu video ghi hình không được lưu lại, bạn cần phải kích hoạt tùy chọn Keep Track Files.
+Nhìn chung, so với các ứng dụng cùng chức năng, Vidyo tỏ ra vượt trội hơn rất nhiều về cả tính năng lẫn giao diện. Hỗ trợ quay video Full HD 60fps, chỉnh sửa video, âm thanh trực tiếp trong ứng dụng và còn rất nhiều tính năng khác mà bạn có thể khám phá thêm trong quá trình trải nghiệm.
+Lưu ý, nếu đã nâng cấp thiết bị lên iOS 11, người dùng chỉ cần sử dụng trực tiếp công cụ quay màn hình có sẵn thay vì phải cài đặt thêm các ứng dụng của bên thứ ba.
+Theo Kynguyenso.

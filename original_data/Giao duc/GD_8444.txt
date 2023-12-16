@@ -1,0 +1,23 @@
+Không giống như vẽ tranh hay viết lách, nơi bạn hoàn toàn có thể trở nên nổi tiếng nhờ tài năng thiên phú, lập trình đòi hỏi phải học từ những điều căn bản nhất. Một điều may mắn là nhờ tầm quan trọng của lập trình ngày nay, bạn có vô số website đào tạo miễn phí để nhập môn lĩnh vực phức tạp này.
+Dưới đây là 10 website để bạn bắt đầu làm quen với lập trình:
+Codecademy.
+Đúng như tên gọi, Codecademy dạy bạn mọi thứ cơ bản để lập trình. Nó làm điều này thông qua các khóa học cụ thể, cung cấp đủ nguyên liệu để học theo chủ đề lựa chọn. Codecademy có nhiều đề tài từ học một ngôn ngữ cụ thể (HTML, Java, Python) đến học cách viết một website. Nếu thực sự yêu thích Codecademy, bạn có thể mua gói trả tiền để mở khóa các chương trình hấp dẫn.
+2. edX.
+Dù edX là một website cung cấp tất cả khóa học theo yêu cầu, nó có khá nhiều các khóa học lập trình máy tính trong thư viện. edX do hai đại học hàng đầu thế giới là MIT và Harvard thành lập năm 2012, vì thế bạn chắc chắn được tiếp cận các khóa học chất lượng ở đây. Bạn có thể tự học hoặc chọn giảng viên.
+MIT Open Courseware.
+Nói về MIT, không thể không nhắc đến chương trình học trực tuyến của họ. Bạn có thể tìm kiếm trong thư viện hoặc duyệt trong mục khoa học máy tính để tìm các khóa học liên quan. Có khá nhiều chương trình, chẳng hạn Nhập môn khoa học máy tính, C++ primer, và chúng đều miễn phí. Có một chút khác biệt so với các website lập trình miễn phí khác là bạn tải về các nguyên liệu thô thay vì video hay bài học.
+Khan Academy.
+Nếu muốn một bộ sưu tập video để theo dõi ở nhà, Khan Academy là những gì bạn cần. Chỉ cần duyệt qua mục lập trình của họ và chọn ra những gì bạn thích nhất. Các chủ đề cơ bản trải rộng từ lập trình là gì cho đến các tính năng lập trình cơ bản.
+Udemy.
+Dù Udemy tính phí các khóa học, nó vẫn cung cấp một số khóa miễn phí để học thử. Bạn có thể chọn Free trong bộ lọc giá khi tìm kiếm. Mỗi khóa học lại có xếp hạng và số người tham dự, đồng nghĩa bạn có thể khoanh vùng khóa nào đáng học.
+Free Code Camp.
+Free Code Camp là website khá thú vị: Bạn học lập trình trực tuyến cùng họ, sau khoảng 1 năm, bạn có thể tham gia phát triển các dự án nguồn mở cho tổ chức phi lợi nhuận. Ý tưởng là bạn sử dụng thời gian và kinh nghiệm tại Free Code Camp để chuyển hóa thành danh mục ngoài đời thực, giúp tìm được việc làm. Free Code Camp yêu cầu tạo tài khoản GitHub trong quá trình đăng ký.
+GitHub.
+GitHub chứa đầy các mẹo lập trình. Nó được Victor Felder duy trì, người tạo ra cơ sở dữ liệu nguyên liệu lập trình miễn phí và hợp pháp. Kết quả là bạn có một kho tài liệu để học và tận dụng.
+The Code Player.
+Trong số tất cả các website dạy lập trình miễn phí, The Code Player là lựa chọn tốt cho những ai muốn học theo ví dụ. Chọn một khóa học, nó sẽ cung cấp cho các bạn từng bước xây dựng cái gì đó từ đầu. Sau đó, bạn có thể tự lập trình hoặc sao chép đoạn mã cho dự án riêng.
+The Odin Project.
+The Odin Project giúp bạn biết được cách phát triển một website như thế nào. Các khóa học của nó cho phép bạn làm quen với các ngôn ngữ như Ruby on Rails, HTML5, Javascript Điều khiến Odin Project đặc biệt thú vị là sau khi học xong, bạn được cung cấp một số mẹo khi đăng ký làm lập trình web.
+Code Wars.
+Code Wars là lựa chọn tuyệt vời khi bạn đã học xong các khóa cơ bản về lập trình và muốn có một nơi để vừa học, vừa thử thách kỹ năng. Bạn có thể tham gia vào các bài thi của cộng đồng (kata) liên quan đến ngôn ngữ mà bạn học. Viết giải pháp và gửi lên, sau khi cuộc thi kết thúc, mọi giải pháp đều được công bố. Bạn có thể xem mọi người xử lý vấn đề như thế nào và rút ra bài học cho mình.
+Du Lam (Theo Maketecheasier).

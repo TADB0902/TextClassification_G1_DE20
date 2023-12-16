@@ -1,0 +1,7 @@
+Cụ thể, phiên bản tiếng Nga của Google mới đây cập nhật thông tin về người chiến thắng trong cuộc bầu cử năm 2018 đi kèm với bức chân dung của Tổng thống Putin. Sai sót này được phát hiện vào ngày 22/1 khi người dùng mạng gõ từ "cuộc bầu cử năm 2018" trên trang công cụ tìm kiếm lớn nhất hành tinh.
+Tuy nhiên, kết quả trên chỉ tồn tại trong vòng 20 phút bởi các kỹ thuật viên của Google nhanh chóng khắc phục sai sót.
+Google Nga cập nhật thông tin về người đắc cử trong cuộc bầu cử Nga năm 2018.
+Trên thực tế, lỗi này do sai sót trong thuật toán tìm kiếm của Google. Một người nào đó điền kết quả Tổng thống Putin đắc cử vào Wikipedia, trang bách khoa toàn thư mở cho phép tất cả mọi người có thể chỉnh sửa, thêm thông tin. Google tiếp nhận thông tin từ nguồn sửa đổi này, dẫn tới nhầm lẫn.
+Cuộc bầu cử Tổng thống Nga sẽ diễn ra vào ngày 18/3 tới. Theo phân tích của giới quan sát, rất khó có đối thủ nào có thể ngăn ông Putin tiến tới chiếc ghế quyền lực ở điện Kremlin nhiệm kỳ thứ 4.
+(Nguồn: Daily Mail).
+Song Hy.

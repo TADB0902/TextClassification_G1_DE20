@@ -1,0 +1,6 @@
+Intel lại đang phải tìm cách giải quyết sự cố trong bản vá lỗi Spectre và Meltdown - Ảnh: AFP.
+Theo Neowin , dựa trên bài kiểm tra mới nhất, người đứng đầu nhóm Data Center của Intel Navin Shenoy cho biết lỗ hổng bản vá khiến nhiều hệ thống bị khởi động lại cũng ảnh hưởng đến các bộ xử lý khác của hãng, bao gồm Ivy Bridge, Sandy Bridge, Skylake và Kaby Lake trong thử nghiệm nội bộ của công ty.
+Ở thời điểm hiện tại Intel vẫn chưa xác định được nguyên nhân của vấn đề, tuy nhiên Shenoy hứa họ đang có những tiến bộ đáng kể trong lĩnh vực này. Ông nói thêm công ty sẽ cung cấp mã vạch thử nghiệm cho các nhà cung cấp để xác nhận vào tuần tới.
+Bài đăng trên blog của Intel cũng nêu ra những phát hiện của Intel về tác động của bản vá lỗi này đối với hiệu suất làm việc trên các hệ thống, đặc biệt là trên các máy chủ chạy kiến trúc bộ xử lý Intel Xeon Scalable mới nhất của hãng.
+Việc xử lý công việc phụ thuộc vào Java và các công việc khác cho thấy sự chậm lại tương đối nhỏ, chỉ 4%. Sự chậm lại đáng kể nhất xảy ra trong bài kiểm I/O, với một số cho thấy nó khiến hiệu suất chậm lại khoảng 25%.
+Kết thúc bài viết, Shenoy nói thêm rằng công ty đang tìm cách giảm các tác động đến hiệu suất hoạt động đã được tìm thấy nhưng vẫn đảm bảo giảm thiểu tác động từ lỗ hổng.

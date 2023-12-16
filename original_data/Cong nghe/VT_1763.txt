@@ -1,0 +1,15 @@
+iPhone X là smartphone trang bị màn hình OLED tốt nhất để cung cấp trải nghiệm đa phương tiện tuyệt vời, đặc biệt nhờ công nghệ Super Retina Display. Để tăng cường trải nghiệm xem phim vào ban đêm, bạn có thể bật chế độ Dark Mode trên iPhone X, được biết đến với tên Smart Invert.
+Smart Invert có chức năng đảo ngược màu sắc màn hình ngoại trừ hình ảnh, nội dung đa phương tiện và một số ứng dụng sử dụng các kiểu màu tối. Điều tốt nhất của tính năng này đó là nó giúp giảm căng thẳng mắt, giúp bạn thích xem nội dung truyền thông trong một thời gian dài.
+Thế nhưng, Smart Invert cũng giúp pin trên iPhone X kéo dài hơn nhiều do đặc điểm nổi bật trên màn hình OLED về việc tiết kiệm năng lượng khi hiển thị màu tối, đặc biệt nếu bạn bật màn hình trong thời gian dài. Dưới đây là cách để bạn khai thác tính năng hữu dụng này.
+Kích hoạt Dark Mode.
+- Đầu tiên, bạn hãy mở ứng dụng Settings trên iPhone X, sau đó hãy nhấn vào General.
+- Tiếp theo, bạn nhấn vào Accessibility.
+- Chạm vào Display Accommodations.
+- Lúc này hãy nhấn vào nút Invert Colours.
+- Cuối cùng, chuyển công tắc bên cạnh Smart Invert sang trạng thái On.
+Bây giờ hãy kiểm tra màn hình iPhone của bạn. Nó sẽ hiển thị nội dung khá tốt trong quá trình xem phim, video hoặc duyệt web, nhất là trong ban đêm.
+Kích hoạt Classic Invert.
+Classic Invert là một chế độ đảo màu, khi được kích hoạt nó sẽ đảo ngược màu sắc của màn hình hiển thị, bao gồm cả hình ảnh và nội dung truyền thông đa phương tiện, điều này cũng sẽ giúp bạn thuận tiện hơn để xem nội dung trên màn hình.
+Để kích hoạt Classic Invert, bạn hãy mở ứng dụng Settings và truy cập theo đường dẫn General > Accessibility > Display Accommodations > Invert Colors. Tại đây chuyển Classic Invert sang trạng thái On.
+Nhìn chung, đó là cách để bạn có thể tận dụng đầy đủ tính năng đảo màu sắc trên iPhone X. Sử dụng các lựa chọn phù hợp cho từng điều kiện sử dụng sẽ khiến trải nghiệm của bạn thêm phần hấp dẫn hơn, đặc biệt trên màn hình OLED của iPhone X.
+Kiến Tường (Theo iGeeksBlog).

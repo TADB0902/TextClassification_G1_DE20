@@ -1,0 +1,8 @@
+Samsung từng tuyên bố chuẩn bộ nhớ đồ họa GDDR6 sẽ đạt tốc độ 14Gbps và ra mắt thị trường vào cuối năm nay. Tuy nhiên, hãng đã dời qua đầu năm 2018 với sự tinh chỉnh để tốc độ bộ nhớ tăng lên đến 16Gbps. Các sản phẩm mẫu (các card đồ họa thế hệ mới của Nvidia) sẽ có mặt tại hội chợ công nghệ CES 2018 sắp tới.
+Lộ trình ra mắt các thế hệ card đồ họa của Nvidia.
+GDDR6 mang tới những cải tiến đáng kể so với chuẩn GDDR5X hiện tại. Samsung - đối tác làm chip nhớ cho Nvidia hứa hẹn chuẩn bộ nhớ đồ họa mới cho khả năng xử lý video và hình ảnh ở tốc độ 16Gbps cùng băng thông 64GB/s, tương đương tốc độ truyền tải 12 bộ phim độ phân giải Full HD (5GB dữ liệu quy đổi) trên một giây.
+Hiện tốc độ của chuẩn GDDR5X được trang bị trên card đồ họa Nvidia GTX 1080 Ti có tốc độ 11Gbps, yêu cầu điện thế 1,5 V. Chuẩn GDDR6 có tốc độ gần như nhanh hơn 50% mà chỉ cần điện thế 1,35 V. Thông tin cho biết, những sản phẩm sử dụng chuẩn bộ nhớ mới này sẽ có dung lượng từ 8 GB - 32 GB.
+Bộ nhớ chuẩn GDDR6 sẽ mang tới những cải tiến đáng kể so với bản tiền nhiệm.
+Samsung cũng cho biết hãng sẽ giới thiệu chuẩn bộ nhớ HBM thế hệ thứ 3 vào năm 2019/2020, tạo ra thêm một sự lựa chọn bên cạnh chuẩn GDDR6. Sẽ rất thú vị khi gã khổng lồ của Hàn Quốc có thể đưa tốc độ bộ nhớ của GDDR6 vào trong chuẩn HMB thế hệ thứ 3, khi mà tốc độ của HBM2 hiện tại chỉ đạt 1,9Gbps.
+Tốc độ bộ nhớ và băng thông được sử dụung trên một số card đồ họa hiện tại.
+Minh Ty.

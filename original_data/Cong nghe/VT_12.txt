@@ -1,0 +1,11 @@
+Báo cáo lần đầu tiên được đăng tải bởi tờ Financial Times liên quan đến một cuộc thảo luận trên diễn đàn hỗ trợ cộng đồng của Apple, ghi nhận hàng trăm người than phiền màn hình iPhone X bị chậm trễ khi phải mất 10 giây mới bật lên trong suốt thời gian cuộc gọi điện thoại đến, ngăn không cho họ chạm vào nút Chấp nhận hoặc Từ chối.
+iPhone X gặp sự cố khiến nhiều người khó Chấp nhận hoặc Từ chối cuộc gọi.
+Theo blog công nghệ Ấn Độ, PiunikaWeb, cho biết khiếu nại tương tự nhau trên trang hỗ trợ của Apple xuất hiện nhiều vào tháng Giêng nhưng có vẻ chủ sở hữu iPhone X đã gặp vấn đề này ngay từ khi thiết bị được tung ra vào tháng 11.
+Dựa vào các thông tin này, có vẻ như iPhone X bị ảnh hưởng sẽ đổ chuông khi nó nhận được cuộc gọi điện thoại, nhưng màn hình không bật hiển thị ID người gọi hoặc nút Chấp nhận và Từ chối trong khoảng thời gian ngắn, đôi khi dài hơn 10 giây, khiến cuộc gọi bị bỏ qua.
+Vấn đề dường như không được khắc phục trong bản cập nhật phần mềm iOS 11.2.5 mới nhất, và dựa trên các khiếu nại cho thấy có vẻ tất cả các phiên bản iOS 11.2 đều bị ảnh hưởng. Các phiên bản iOS 11 trước đó cũng có thể bị vấn đề.
+Được biết ngoài diễn đàn hỗ trợ của Apple, một chục khiếu nại khác từ người dùng cũng đã được đăng tải trên Twitter và Reddit.
+Vấn đề xảy ra nhiều đối với các thành viên iPhone X chạy iOS 11.2.
+Apple có thể thu thập dữ liệu từ các khách hàng bị ảnh hưởng để các kỹ sư của họ có thể điều tra vấn đề, như thường lệ với bất kỳ vấn đề phần cứng hoặc phần mềm tiềm ẩn nào, vì vậy người dùng hãy liên hệ với bộ phận hỗ trợ của Apple nếu bị ảnh hưởng. Vấn đề có thể được đề cập trong bản cập nhật phần mềm trong tương lai từ công ty.
+Được biết Apple đã xử lý một số vấn đề về phần cứng và phần mềm của iPhone X trong những tháng gần đây, bao gồm đường màu xanh lá cây xuất hiện trên một số mà nhình, tạm thời không phản ứng với nhiệt độ thấp và camera sau không tự động lấy nét.
+Tuần trước báo cáo cho biết Apple đã trì hoãn một số tính năng mới lên kế hoạch cho iOS 12 để dời sang năm sau nhằm thêm thời gian điều chỉnh tối ưu hóa hiệu năng và chất lượng hệ điều hành di động này.
+Kiến Tường (Theo MacRumors).

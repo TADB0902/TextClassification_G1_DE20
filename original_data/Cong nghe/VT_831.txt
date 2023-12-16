@@ -1,0 +1,31 @@
+Mở chương trình khi đăng nhập.
+Nhiều người dùng thường có thói quen mỗi khi khởi động máy tính xong thì sẽ mở một số chương trình cụ thể nào đó để làm việc, chẳng hạn như trình duyệt web, chương trình email hoặc phần mềm soạn thảo văn bản. Nhằm tiết kiệm thời gian thực hiện hàng loạt thao tác như thế, bạn có thể tận dụng công cụ Task Scheduler của hệ điều hành Windows để tự động mở những chương trình đó.
+Trước hết, hãy thực hiện theo những bước sau đây để bắt đầu thiết lập các tác vụ tự động. Trong giao diện công cụ Task Scheduler của Windows, hãy nhấn vào trình đơn Action > Create Basic Task. Tiếp theo, trong cửa sổ Create Basic Task Wizard , hãy đặt tên cho tác vụ mà bạn muốn tạo rồi nhấn Next.
+Ở màn hình Trigger , hãy chọn khung thời gian là When I log on để thực hiện thao tác mỗi khi khởi động và đăng nhập Windows, sau đó nhấn Next. Trong màn hình Action , hãy nhấn tùy chọn Start a program rồi nhấn nút Next và sau đó nhấn nút Browse để trỏ đến đường dẫn chương trình tương ứng. Tiếp theo, nhấn Next lần nữa và cuối cùng nhấn Finish để hoàn thành quá trình thiết lập.
+Xóa tập tin trong thư mục.
+Trong máy tính, thường sẽ có một vài thư mục cần được thường xuyên dọn dẹp gọn gàng. chẳng hạn như thư mục Downloads. Vì thế, chúng ta nên tạo một tác vụ để hệ thống tự động dọn dẹp thay vì phải thực hiện bằng tay.
+Trước hết, hãy mở trình soạn thảo Notepad và nhập vào đoạn mã sau: REM Remove files older than 7 days forfiles /p C:\NAME\Downloads /s /m *. * /c cmd /c Del @path /d -7. Trong đó, thông số NAME cần được thay thế bằng tên tài khoản mà bạn đang sử dụng để đăng nhập vào máy tính. Con số 7 cuối cùng được dùng để chỉ định số ngày mà tác vụ này sẽ được tự động thực hiện lại.
+Tiếp theo, hãy nhấn vào trình đơn File > Save As của Notepad và đặt tên tập tin cùng định dạng.BAT. Sau đó, hãy nhấn đúp để mở tập tin và kiểm tra xem nó có hoạt động hay không bằng cách kiểm tra thư mục Downloads có được dọn dẹp hay chưa.
+Bước tiếp theo, hãy tạo tác vụ tự động trong Task Scheduler tương tự như thủ thuật trước bằng cách vào trình đơn Action > Create Basic Task. Có thể đặt tên cho tác vụ này là Folder Clearup. Trong phần Trigger , bạn có thể ấn định khung thời gian mà tác vụ cần lặp lại, chẳng hạn như Weekly cho phù hợp với thông số 7 ngày trong câu lệnh tập tin.BAT. Lưu ý là bạn có thể chọn bất kỳ ngày bắt đầu nào trong tuần theo ý của mình.
+Trong phần Action , hãy nhấn tùy chọn Start a program rồi nhấn nút Next và sau đó nhấn nút Browse để trỏ đến đường dẫn tập tin.BAT. Cuối cùng, nhấn Next lần nữa và Finish để hoàn thành.
+Gửi email với tập tin đính kèm.
+Nếu công việc của bạn cần thường xuyên gửi email với tập tin đính kèm theo định kỳ thì giải pháp sử dụng Task Scheduler là một lựa chọn phù hợp. Chẳng hạn, sáng thứ Hai hàng tuần bạn cần gửi báo cáo công việc cho cấp trên có cùng tiêu đề và đính kèm một tập tin Excel định dạng.CSV (nội dung thay đổi theo tuần).
+Để thực hiện, ngoài trình Task Scheduler của Windows thì cần phải sử dụng thêm một tiện ích có tên là SendEmail. Về cơ bản, đây là một phần mềm hoạt động dựa trên nền tảng giao diện dòng lệnh Command Tool.
+Trước hết, hãy tạo tác vụ tự động trong Task Scheduler bằng cách vào trình đơn Action > Create Basic Task. Trong phần Trigger , ấn định khung thời gian mà tác vụ cần lặp lại là Weekly. Trong phần Action , hãy nhấn tùy chọn Start a program rồi nhấn nút Next rồi nhấn nút Browse để trỏ đến nơi chứa tập tin SendEmail.EXE.
+Lưu ý là trong hộp Add arguments (optional) ngay bên dưới, hãy nhập vào đoạn mã sau: -f ADDRESS -u SUBJECT -m MESSAGE -a FILE -t ADDRESS -s SERVER [:PORT] -xu USERNAME -xp PASSWORD -o NAME=VALUE.
+Trong đó, ý nghĩa của từng thông số là:
+-f ADDRESS : Địa chỉ email của người gửi.
+-t ADDRESS : Địa chỉ email của người nhận.
+-u SUBJECT : Tựa đề của email.
+-m MESSAGE : Nội dung của email.
+-a FILE : Tên các tập tin đính kèm.
+-s SERVER [:PORT] : Địa chỉ máy chủ SMTP và cổng giao tiếp.
+-xu USERNAME : Tên tài khoản đăng nhập SMTP.
+-xp PASSWORD : Mật khẩu tài khoản đăng nhập SMTP.
+-o NAME=VALUE : Máy chủ SMTP có sử dụng giao thức TLS (hoặc SSL) hay không.
+Chuyển hệ thống sang chế độ ngủ và đánh thức.
+Nếu bạn muốn chuyển máy tính của mình vào chế độ ngủ (Sleep) cố định ở một khoảng thời gian cụ thể nào đó, hãy mở trình soạn thảo Notepad và tạo một tập tin.BAT có nội dung như sau: Rundll32.exe Powrprof.dll,SetSuspendState Sleep.
+Tiếp theo, hãy dùng tiện ích Task Scheduler để tạo tác vụ tự động chuyển máy tính sang chế độ Sleep bằng cách vào trình đơn Action > Create Basic Task. Trong phần Trigger , bạn có thể ấn định khung thời gian tùy ý theo nhu cầu mỗi khi bạn muốn bật máy tính. Trong phần Action , hãy nhấn tùy chọn S tart a program rồi nhấn nút Next và sau đó nhấn nút Browse để trỏ đến đường dẫn tập tin.BAT vừa tạo trước đó. Cuối cùng, nhấn Next lần nữa và Finish để hoàn thành.
+Để đánh thức hệ thống, bạn hãy dùng Task Scheduler để tạo tác vụ tự động bằng cách chọn Action > Create Task (thay vì dùng Create Basic Task giống các phần khác). Trước tiên, trong thẻ General bạn hãy đặt tên cho tác vụ. Tiếp theo, trong thẻ Trigger, hãy nhấn nút New và ấn định khung thời gian tùy ý theo nhu cầu mỗi khi bạn muốn bật máy tính và nhấn OK.
+Chuyển sang thẻ Action , hãy nhấn nút New rồi chọn Display a message trong khung Action và nhập vào nội dung mà bạn muốn hiển thị mỗi khi máy tính khởi động, rồi nhấn nút OK. Cuối cùng, chuyển sang thẻ Conditions và đánh dấu ô tùy chọn Wake the computer to run this task. Sau đó nhấn nút OK để hoàn thành.
+Huy Thắng.

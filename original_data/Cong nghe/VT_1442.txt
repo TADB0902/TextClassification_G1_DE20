@@ -1,0 +1,13 @@
+Có rất nhiều nguyên nhân khiến tốc độ WiFi bị chậm đi, đơn cử như đứt cáp, cấu hình sai thông số, bị người khác xài ké... Làm thế nào để kiểm tra ai đang xài ké WiFi nhà bạn?
+4 cách giúp smartphone không bị nóng.
+(PLO)- Nhiều ứng dụng chạy nền, chơi game liên tục... là những nguyên nhân khiến smartphone bị nóng lên. Làm thế nào để hạn chế tình trạng trên?
+Yêu cầu:
+- Smartphone Android đã root.
+Thao tác cài đặt Pixel Netcut cũng tương tự những ứng dụng thông thường khác.
+- Bước 2: Sau khi hoàn tất, bạn hãy mở ứng dụng và cấp quyền khi được yêu cầu. Để kiểm tra danh sách các thiết bị đang kết nối WiFi, bạn hãy nhấn vào nút Scan hoặc biểu tượng mũi tên xoay vòng ở góc trên bên phải.
+- Bước 3: Lúc này danh sách các thiết bị đang kết nối WiFi sẽ được liệt kê, kèm theo đó là địa chỉ IP, địa chỉ MAC... Nếu không biết đâu là thiết bị lạ, bạn có thể chọn một mục bất kỳ trong danh sách để xem tên nhà sản xuất thiết bị.
+Bên cạnh mỗi thiết bị đều có một công tắc màu xanh. Đây là công tắc dùng để loại bỏ những thiết bị lạ ra khỏi router. Người dùng chỉ cần chuyển nó sang bên trái và thiết bị đó sẽ không thể kết nối WiFi.
+Ngoài ra, Pixel NetCut còn được tích hợp một số công cụ chẩn đoán mạng khá hữu dụng, đơn cử như khi chọn một thiết bị từ danh sách, bạn có thể thấy cổng (port) nào đang còn trống, cũng như thời gian ping và độ trễ.
+4 cách gỡ bỏ các ứng dụng dư thừa trên smartphone.
+(PLO) - Việc gỡ bỏ các ứng dụng dư thừa sẽ giúp smartphone có nhiều không gian lưu trữ và hoạt động mượt mà hơn.
+MINH HOÀNG.

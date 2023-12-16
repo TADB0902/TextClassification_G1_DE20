@@ -1,0 +1,17 @@
+Trò chơi Giải ô chữ.
+Theo cô Nguyễn Trịnh Minh Hằng, với trò chơi này giáo viên nên tổ chức trước khi củng cố bài hoặc sau khi củng cố bài học. Giáo viên chọn các từ, cụm từ có nghĩa trong bài học để tạo các ô chữ. Với trò chơi này giáo viên có thể chia lớp thành các đội thi đấu với nhau.
+Luật chơi như sau: Giáo viên chọn 1 học sinh làm trọng tài, chia lớp thành các đội chơi. Giáo viên công bố số chữ cái trong từng ô chữ và thông tin về ô chữ đó. Sau khi giáo viên đọc dứt câu hỏi, đội nào giơ tay trước, đội đó được quyền trả lời, nếu trả lời đúng được 10 điểm, trả lời sai nhường quyền trả lời cho đội khác.
+Nếu giáo viên đang đọc câu hỏi đội nào giơ tay đội đó phạm luật, mất quyền trả lời. Sau khi tất cả các ô chữ được mở, cuộc chơi kết thúc. Đội thắng cuộc là đội được nhiều điểm hơn.
+Cách thiết kế: Nếu dạy không máy chiếu, giáo viên có thể kẻ trước ô trống lên bảng phụ, sau khi học sinh trả lời đúng ô chữ nào thì dùng bút viết chữ đó vào đúng vị trí ô chữ. Nếu dạy trình chiếu thì giáo viên thiết kế trên Power point rồi tạo hiệu ứng để các ô chữ lần lượt xuất hiện trong quá trình tổ chức trò chơi.
+Theo cô Nguyễn Trịnh Minh Hằng, tác dụng của trò chơi này là, giáo viên sẽ giúp học sinh nhớ sâu được một số thông tin liên quan đến bài học và tạo một không khí thực sự sôi nổi trong tiết học, gây sự hứng thú, hào hứng cho học sinh đối với bộ môn.
+Ví dụ 1: Bài 5 " Vũ trụ; Hệ mặt trời và Trái Đất -Địa lí 10. Hệ quả của chuyển động tự quay quanh trục của Trái Đất - Địa lý lớp 10, giáo viên có thể thiết kế trò chơi ô chữ như sau:
+Ví dụ 2: Tiết 1 Liên Minh châu Âu (EU), giáo viên có thể thiết kế trò chơi giải ô chữ như sau:
+Trò chơi Ai là người đi du lịch nhiều nước trên thế giới.
+Luật chơi như sau: Giáo viên hoặc một học sinh nêu tên một châu lục (Châu Mỹ, Châu Âu, Châu Phi V.V..) học sinh ghi tên một số quốc gia, mà các em nhớ.
+Giáo viên nêu tên một quốc gia, yêu cầu học sinh ghi tên một thủ đô, núi, cao nguyên, sông ngòi, khoáng sản, sản phẩm công nghiệp, nông sản, các đới khí hậu chủ yếu mà các em biết về quốc gia đó (ví dụ: Hoa Kỳ - Thủ đô là Washington... Cu Ba: sản phẩm nông nghiệp: Mía ).
+Giáo viên có thể tổ chức kiểm tra viết cho cả lớp, thi xem em nào nhớ được nhiều nhất. Giáo viên nhận xét và cho điểm. Trò chơi này giáo viên có thể áp dụng khi dạy bài 5 Địa lí các khu vực và châu lục (Châu Mỹ la tinh, châu Phi, khu vực Trung Á và Tây Nam Á).
+Khi học về châu Mỹ La tinh, giáo viên tiến hành cho học sinh chơi trò nêu tên và thủ đô của các nước khu vực và nêu thêm về những nét văn hóa, phong tục tập quán, lễ hội của các quốc gia đó.
+Ví dụ: Giáo viên nêu tên nước Braxin, học sinh sẽ ghi tên thủ đô Brasilia, một học sinh khác ghi có nền văn hóa latinh độc đáo, tiếp tục một học sinh khác ghi có lễ hội carnaval, đội bóng đá Braxin hùng mạnh v.v.v.
+Thông qua trò chơi này học sinh sẽ nhớ nhiều địa danh hơn nữa, không những địa danh mà nhiều nét văn hóa, lễ hội, phong tục tập quán của nhiều quốc gia hơn.
+"Qua trò chơi này, một lần nữa tôi muốn tạo cho học sinh không khí thoải mái, sôi nổi như là đang đi du lịch, tham quan ngoài trời để các em không cảm thấy mệt mỏi, chán học môn Địa lí, không còn cảm thấy môn địa lí khô và cứng nhắc" - cô Nguyễn Trịnh Minh Hằng chia sẻ.
+Bài viết được biên tập, lược ghi và có sử dụng tư liệu từ báo cáo tham luận của cô Nguyễn Trịnh Minh Hằng - giáo viên Trường THPT Nội trú tỉnh Lạng Sơn tại Hội thi "Cô giáo tài năng duyên dáng toàn quốc năm 2017".

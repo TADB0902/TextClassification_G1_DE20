@@ -1,0 +1,10 @@
+Ảnh: Reuters.
+Các nhà khoa học tại Đại học Bách khoa Liên bang Thụy Sĩ vừa chế tạo thành công robot lươn có khả năng phát hiện ô nhiễm trong nước- một phát minh thú vị tiếp theo robot rùa, châu chấu và cá sấu của nhóm.
+Nó có tên là Envirobot, chiều dài 1,5 m, được tạo thành từ các modul riêng lẻ chứa các động cơ điện nhỏ. Những động cơ này làm thay đổi độ cong của robot, cho phép nó bơi trong nước mà không khuấy bùn hoặc gây ảnh hưởng đến các sinh vật dưới nước.
+Các modul này được trang bị những cảm biến hóa học, vật lý và sinh học. Nếu một modul ngừng hoạt động, nó sẽ được thay thế ngay lập tức.
+Một số modul có chứa các cảm biến để đo lường độ dẫn và nhiệt độ, một số khác có các buồng được thiết kế để chứa nước. Những modul chứa nước này cũng có thể chứa vi khuẩn, các loài giáp xác nhỏ và tế bào cá.
+Khi quan sát phản ứng của những sinh vật trên khi tràn vào các buồng của robot, các nhà nghiên cứu có thể đọc được loại chất ô nhiễm nào có trong nước và độc tính nói chung. Hiện tại, nhóm mới chỉ thử nghiệm điều này trong phòng thí nghiệm và họ cho biết có hiệu quả cao.
+Nhà khoa học Alessandro Crepsi thuộc nhóm phát triển Envirobot cho biết: Robot này có thể thay đổi hình dạng. Mỗi bộ phận trong cơ thể robot có thể chuyển động và dao động tự do ở một mức độ nhất định để tạo ra những chuyển động giống động tác bơi lội của lươn. Đây là điều khiến robot di chuyển được trong nước mà không cần chân vịt hoặc bất cứ bộ phận chuyển động nào khác.
+Theo các nhà khoa học, Envirobot có kích thước khá nhỏ song nó có thể lấy mẫu tại các ao hồ và xử lý dữ liệu ngay tại chỗ, vì thế các nhà khoa học có thể phát hiện ngay yếu tố gây ô nhiễm mà không cần mang mẫu vật đến phòng thí nghiệm.
+Hiện tại, robot này đang được thử nghiệm tại Hồ Geneva, một thí nghiệm được thiết kế để kiểm tra khả năng theo dõi sự thay đổi độ dẫn của nước. Nhóm nghiên cứu đã bơm muối vào một khu vực cụ thể gần bờ và thả cho Envirobot tự bơi. Nó đã thành công trong việc lập bản đồ các biến thể về độ dẫn từ muối và tạo ra một bản đồ nhiệt độ của khu vực.
+Lâm Hoàng.

@@ -1,0 +1,6 @@
+Robot này có tên gọi Envirobot, có chiều dài 1,5m, được tạo thành từ các modul riêng lẻ chứa các động cơ điện nhỏ. Những động cơ này làm thay đổi độ cong của robot, cho phép nó bơi trong nước mà không khuấy bùn hoặc gây ảnh hưởng đến các sinh vật dưới nước.
+Robot lươn có khả năng phát hiện ô nhiễm trong nước. Ảnh: Reuters.
+Các modul này được trang bị những cảm biến hóa học, vật lý và sinh học. Những cảm biến này giúp các nhà khoa học có thể nhận biết được hình thức ô nhiễm, hay độc tính có trong nước. Đây là phương pháp được cho là hiệu quả và có độ tin cậy cao. Nếu một modul ngừng hoạt động nó sẽ được thay thế ngay lập tức.
+Nhà khoa học Alessandro Crepsi, thuộc nhóm phát triển Envirobot cho biết: Robot này có thể thay đổi hình dạng. Mỗi bộ phận trong cơ thể robot có thể chuyển động và dao động tự do ở một mức độ nhất định, để tạo ra những chuyển động giống động tác bơi lội của lươn. Đây là điều khiến robot di chuyển được trong nước mà không cần chân vịt hoặc bất cứ bộ phận chuyển động nào khác.
+Theo các nhà khoa học, Envirobot có kích thước khá nhỏ song nó có thể lấy mẫu tại các ao hồ và xử lý dữ liệu ngay tại chỗ vì thế các nhà khoa học có thể phát hiện ngay yếu tố gây ô nhiễm mà không cần mang mẫu vật đến phòng thí nghiệm. Hiện tại, robot này đang được thử nghiệm tại Hồ Geneva, Thụy Sỹ./.
+Hồng Anh/VOV-Trung tâm Tin.

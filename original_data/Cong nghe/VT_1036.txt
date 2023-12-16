@@ -1,0 +1,13 @@
+Vì thuế giá trị gia tăng (VAT) vừa được áp dụng tại một vài quốc gia nên Apple nhanh chóng đưa ra phản ứng của mình bằng cách điều chỉnh giá ứng dụng và mua sắm trên App Store, bắt đầu từ tuần tới.
+Theo PhoneArena, các quốc gia áp dụng thay đổi liên quan đến thuế VAT đối với hàng trực tuyến gồm Armenia (20%), Belarus (20%), Ả Rập Xê Út (5%), Thụy Sĩ (giảm từ 8% xuống 7,7%), Thổ Nhĩ Kỳ (18%), Các Tiểu vương quốc Ả Rập Thống nhất (5%). Với các quốc gia này, thuế sẽ do chính Apple tự thu và thanh toán.
+Dựa trên những thay đổi này thì giá ứng dụng và mua hàng trong ứng dụng tại các quốc gia sau sẽ tăng lên, bao gồm Thổ Nhĩ Kỳ, Nigeria, Belarus và Armenia. Trong khi đó một số quốc gia giảm, gồm Cộng hòa Séc và Ấn Độ.
+Apple vừa đưa ra chính sách điều chỉnh giá ứng dụng và mua sắm trên App Store. Ảnh: Reuters.
+Dưới đây là nội dung cụ thể của email:Một e-mail của gã khổng lồ công nghệ đã được gửi đến cho các nhà phát triển app nhằm thông báo cho họ về sự thay đổi. Nó sẽ giúp họ có thời gian đặt lại giá và chuẩn bị cho mức giá mới cho các ứng dụng và tính năng in-app purchase mới. Họ cũng sẽ có thể thay đổi chi phí đăng ký sử dụng dịch vụ thông qua iTunesConnect, cũng như theo dõi giá cả thị trường trên mục Pricing and Availability ở MyApps (tính năng cho phép các developer quản lý ứng dụng của họ).
+"Khi thuế và mức trao đổi ngoại tệ thay đổi, đôi khi chúng tôi cần phải cập nhật giá mới trên App Store. Bắt đầu từ 1/1/2018, VAT sẽ áp dụng cho các ứng dụng và in-app purches sẽ thay đổi ở một số nước. Chúng tôi sẽ chịu trách nhiệm thu và đóng thuế từ khác hàng tại các nước như Armenia, Belarus, Thổ Nhĩ Kỳ, Ả Rập Xê Út và các tiểu vương quốc Ả Rập  nơi đã có thuế giá trị gia tăng mới. Thụy Điển đã nằm trong danh sách này từ trước.
+Armenia: 20% Belarus: 20% Saudi Arabia: 5% Thụy Điển: giảm từ 8% xuống còn 7.7% Thổ Nhĩ Kỳ: 18% Các tiểu vương quốc Ả Rập thống nhất: 5%. Từ tuần sau, giá mới sẽ được chính thức áp dụng.
+Cộng hòa Séc: Giá sẽ giảm đối với ứng dụng và in-app purchase. Ấn Độ: Giá sẽ giảm đối với ứng dụng và in-app purchase. Thổ Nhĩ Kỳ, Nigeria, Belarus, Armenia: Giá sẽ tăng đối với ứng dụng và in-app purchase. Bạn có thể thay đổi giá của các dịch vụ tự động đăng ký mới thông qua iTunes Connect.
+Mục Pricing and Availability trong My Apps sẽ cập nhật với giá mới. Bạn cũng có thể tải về bảng giá mới của các ứng dụng hiện tại ngay bay giờ.
+Nếu như bạn có thắc mắc gì, hãy liên lạc với chúng tôi.
+Thân gửi, đội ngũ App Store.
+Đây không phải là lần đầu tiên Apple điều chỉnh lại giá ứng dụng. Trước đó, hãng cũng đã tăng giá bán iPhone 7 và máy tính Macbook trên các cửa hàng trực tuyến hoạt động tại Anh.
+Vũ Đậu (T/h).

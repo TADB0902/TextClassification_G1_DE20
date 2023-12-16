@@ -1,0 +1,11 @@
+CEO Bkav Nguyễn Tử Quảng thông tin về cách thức "qua mặt" công nghệ Face ID của Apple.
+Khi ra mắt iPhone X mới đây, Apple cho biết hãng đã làm việc với các chuyên gia hóa trang của Hollywood để giúp công nghê bảo mật Face ID ứng dụng trên thiết bị có khả năng phân biệt được các mặt nạ và không cho phep unlock điện thoại. Apple tuyên bố với Touch ID, Face ID bảo mật hơn.
+Sau khi nhận điện thoại iPhone X vào ngày 5/11, Bkav đã tiến hành thực nghiệm với mặt nạ được tạo nên nhờ kết hợp kỹ thuật in 3D, ảnh 2 D và xử lý đặc biệt đã qua mặt được Face ID của iPhone X.
+Tại buổi công bố, ông Nguyễn Tử Quang, CEO Bkav cho biết: Theo giới thiệu của Apple, iPhone X có thể nhận dạng khuôn mặt thật, phân biệt khuôn mặt 3D. Tuy nhiên, bằng việc tái tạo mặt nạ có khuôn mặt nửa thật, nửa giả và đã vượt qua công nghệ nhận diện khuôn mặt Face ID.
+Từ việc vượt qua được công nghệ Face ID của Apple, các kỹ sư Bkav nhận thấy: Đối với các hình ảnh 2D và 3D có thể dễ dàng tạo vật thể đánh lừa; phần AI sẽ phức tạp hơn nhưng khi phân tích tái tạo nửa thật, nửa giả trên khuôn mặt vẫn có thể vượt qua được công nghệ Face ID. Để vượt qua công nghệ này, Bkav mất khoảng 9 tiếng tái tạo mặt nạ. Tuy nhiên, khi đã phát hiện lỗ hổng này, Bkav có thể tái tạo khuôn mặt trong khoảng 15 phút.
+Ông Ngô Tuấn Anh, Phó Chủ tịch phụ trách An ninh mạng của Bkav cho biết: Điểm yếu của công nghệ này là Apple đã cho AI học đồng thời rất nhiều mặt thật và mặt nạ do Hollywood và các nghệ sĩ chế tạo ra. Với cách làm như vậy, AI của Apple sẽ chỉ có thể phân biệt một khuôn mặt hoặc là thật hoặc là giả hoàn toàn.
+Bkav đưa ra kết luận côn nghệ Face ID của Apple nói riêng và công nghệ nhận diện khuôn mặt nói chung vẫn chưa đủ trưởng thành sau 10 năm. Cho đến nay, vân tay vẫn là công nghệ tốt nhất về sinh trắc học, ông Nguyễn Tử Quang cho biết.
+Với việc Face ID bị đánh bại bởi mặt nạ, chuyên gia Bkav khuyến cáo các tổ chức an ninh quốc gia, tập đoàn lớn, những người giàu có cần lưu ý khi sử dụng tính năng bảo mật này. Việc khai thác có thể khó khăn với người bình thường nhưng lại đơn giản với những người chuyên nghiệp.
+Với ứng dụng thương mại điện tử qua điện thoại ngày càng phát triển, nếu không khắc phục sớm lỗ hổng Face ID sẽ gây thiệt hại lớn khi bị hacker tấn công.
+Clip về mặt nạ có thể mở khóa Face ID của iPhone X:
+Xuân Cường/Báo Tin tức.

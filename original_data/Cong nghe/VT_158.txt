@@ -1,0 +1,12 @@
+Bạn hoàn toàn có thể làm chủ việc điều chỉnh độ sáng màn hình iPhone - Ảnh chụp màn hình.
+Bạn hoàn toàn có thể làm giảm độ sáng màn hình thấp hơn mức tiêu chuẩn iOS bằng tính năng Accessibilit của iOS. Dưới đây là cách làm điều đó.
+Khởi động ứng dụng Settings từ màn hình chính và nhấn vào General, chọn Accessibility và chạm vào Display Accommodations.
+Truy cập vào Display Accommodations thông qua Accessibility.
+Nhấn nút chuyển đổi bên cạnh Reduce White Point.
+Khi thực hiện việc này bạn sẽ thấy một thanh trượt phần trăm xuất hiện bên dưới công tắc chuyển đổi và độ sáng màn hình của bạn sẽ bị giảm nhẹ.
+Kéo thanh trượt sang trái và phải để tăng hoặc giảm cường độ. Bạn sẽ nhận thấy rằng các kết quả tỷ lệ phần trăm cao hơn trong một màn hình. Lưu ý rằng nếu bạn trượt nó đến 100% và nó vẫn không đủ sáng, bạn có thể điều chỉnh thêm bằng thanh trượt chính trong Control Center. Sử dụng hai thanh trượt này phối hợp với nhau để tạo ra một môi trường mờ mà bạn hài lòng nhất.
+Một khi đã đạt được điều mong muốn bạn có thể thiết lập nút Home để kích hoạt và vô hiệu hóa việc làm mờ bằng cách nhấn ba lần nút Home. Xong hãy chuyển về màn hình chính của Accessibility, cuộn xuống và chạm vào Accessibility Shortcut, nhấn Reduce White Point.
+Nhấn Reduce White Point để khai thác tính năng như ý muốn.
+Giờ đây, bất cứ khi nào bạn nhấn nút Home ba lần nó sẽ bật và tắt tính năng này, cho phép bạn nhanh chóng làm mờ màn hình trong thời gian ngủ.
+Lưu ý rằng bạn đang thiết lập cài đặt này để xem màn hình của mình trong phòng tối, vì vậy bạn có thể thực hiện các điều chỉnh này khi đang ở trong phòng tối để có được mức mà mình muốn. Một khi đã đặt chúng, nó sẽ tự động lưu những cài đặt đó.
+Thành Luân.

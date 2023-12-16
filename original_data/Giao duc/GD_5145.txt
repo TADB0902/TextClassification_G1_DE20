@@ -1,0 +1,93 @@
+Danh sách các trường bao gồm:
+Đại học Hải Phòng.
+Đại học Công nghệ TP.HCM.
+Học viện Nông nghiệp.
+Đại học Văn Lang.
+Trường Đại học Giao thông vận tải.
+Đại học Cần Thơ.
+Học viện Ngân Hàng.
+Trường Đại học Mở TP.HCM.
+Trường Đại học Sài Gòn.
+Trường Đại học Công nghệ - Đại học QG Hà Nội.
+Trường Đại học Kinh tế Quốc Dân.
+Trường Đại học Công nghệ thông tin Gia Định.
+Đại học Điện lực.
+Đại học Sư Phạm Hà Nội.
+Trường Đại học Tài nguyên và Môi trường Hà Nội.
+Đại học Nha Trang.
+Đại học công nghệ giao thông vận tải.
+ĐH Ngoại thương.
+ĐH Y Dược- ĐH Thái nguyên.
+Đại học Y Hà Nội.
+Đại học Khoa học xã hội và nhân văn - ĐHQGHN.
+Khoa Quốc tế - ĐH Quốc Gia Hà Nội.
+Đại học Sư phạm TP.HCM.
+Đại học Tôn Đức Thắng.
+Đại học Thủ Dầu Một.
+Đại học Nguyễn Tất Thành.
+Đại học Nông - Lâm TP.HCM.
+Khoa Y - ĐHQG TP.HCM.
+Trường ĐH Kinh tế Luật - ĐHQG TP.HCM.
+Đại học Thương Mại.
+Trường ĐH Công nghệ thông tin - ĐHQG TP.HCM.
+Đại học Bách Khoa Hà Nội.
+Đại học Y dược Thái Bình.
+Đại học Ngoại thương.
+ĐH Dược Hà Nội.
+Khoa Công nghệ thông tin và truyền thông - ĐH Đà Nẵng.
+Khoa Công nghệ - ĐH Đà Nẵng.
+Viện nghiên cứu và Đào Việt Anh - ĐH Đà Nẵng.
+Trường Phân Hiệu DHDN tại Kom Tum năm 2017.
+Đại học Kỹ Thuật Y Dược - Đại học Đà Nẵng.
+Đại học Ngoại Ngữ - Đại học Đà Nẵng.
+Đại học Sư Phạm - Đại học Đà Nẵng.
+Đại học Bách Khoa - Đại học Đà Nẵng.
+Trường Đại học Kinh tế - ĐH Đà Nẵng.
+Trường Đại học Sư Phạm Kỹ Thuật TP.HCM.
+Trường Cao Đẳng Sĩ Quan Không Quân.
+Trường Đại Học Văn hóa nghệ thuật Quân Đội.
+Trường Sĩ Quan Kỹ Thuật Quân Sự.
+Trường Sỹ Quan Phòng Hóa.
+Trường Sĩ Quan Đặc Công.
+Trường Sĩ Quan Tăng Thiết Giáp.
+Trường Sĩ Quan Không Quân.
+Trường Sĩ Quan Thông Tin.
+Trường Sĩ Quan Công Binh.
+Trường Sĩ Quan Pháo Binh.
+Trường Sĩ Quan Lục Quân 2.
+Trường Sĩ Quan Lục Quân 1.
+Trường Sĩ Quan Chính Trị.
+Học Viện Hải Quân.
+Trường Học viện Hậu Cần.
+Trường Học viện biên phòng.
+Trường Học viện Khoa học quân sự.
+Trường Học Viện Quân Y.
+Trường Học viện Kỹ thuật quân sự.
+Trường Đại học Bách Khoa TP.HCM.
+Trường Đại học Quốc tế - ĐHQG TP.HCM.
+Học viện Phòng không không quân.
+Trường Đại học Công nghiệp thực phẩm TP.HCM.
+Trường Đại học Giao Thông Vận Tải TP.HCM.
+Trường Đại học Tân Trào.
+Đại học Thái Bình Dương.
+Đại học Văn Lang.
+Đại học Văn Hiến.
+Cao đẳng Kỹ thuật Cao Thắng.
+Đại học Kỹ thuật Hậu cần Công an nhân dân Bắc + Nam.
+Đại học phòng cháy chữa cháy Bắc + Nam.
+Đại học Cảnh sát nhân dân.
+Đại học An ninh nhân dân.
+Học viện cảnh sát nhân dân.
+Học viện an ninh nhân dân.
+Học viện chính trị công an nhân dân.
+Đại học Sư phạm kỹ thuật Nam Định.
+Đại học Trà Vinh.
+Đại học Xây dựng miền Trung.
+Đại học Sân khấu điện ảnh Hà Nội.
+Đại học Mỹ thuật Công nghiệp.
+Đại học Phú Yên.
+Đại học Tài chính - Ngân hàng.
+Đại học Kinh Bắc.
+Đại học Luật TPHCM.
+Lưu ý: Thí sinh trúng tuyển đợt 1 phải nộp giấy chứng nhận kết quả thi đến cho trường trước 17h ngày 7/8.
+Nguồn VTC.

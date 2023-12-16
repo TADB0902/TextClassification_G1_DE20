@@ -1,0 +1,16 @@
+Từ nhiều năm nay, tin tặc có thể thể hack mật khẩu hoặc mã PIN của điện thoại thông minh bằng cách quay lén người dùng từ xa. Nhưng chúng cũng có thể sử dụng các cảm biến tích hợp trong thiết bị để đạt được mục đích của mình.
+Các nhà khoa học chỉ ra rằng tất cả các hành động của người sử dụng trên điện thoại thông minh để lại dấu vết chuyển động trên thiết bị.
+Một số nhà nghiên cứu bảo mật đến từ trường đại học của Newcastle (Anh) vừa tiết lộ rằng các trang web độc hại và các ứng dụng có thể do thám người dùng điện thoại thông minh... bằng cách phân tích chuyển động của máy ảnh khi người dùng nhập mã PIN hoặc mật khẩu vào thiết bị.
+Trong nghiên cứu được công bố trên Tạp chí quốc tế về bảo mật thông tin, các nhà khoa học chỉ ra rằng tất cả các hành động của người sử dụng trên điện thoại thông minh (bấm, di chuyển, soạn thư...) để lại dấu vết chuyển động trên thiết bị. Theo họ, khi lần theo các dấu vết này, 70% cơ hội giúp cho tin tặc hoặc người có ý đồ xấu khám phá ra mã gồm bốn chữ số ngay lần đầu tiên chạm vào thiết bị của người dùng và 100% cơ hội sau 5 lần thử.
+Bảo mật hay hiệu dụng?
+Hầu hết các mô hình điện thoại thông minh, máy tính bảng và các thiết bị kết nối khác đều được trang bị nhiều cảm biến chuyển động, theo tiến sĩ Maryam Mehrnezhad, một trong những nhà nghiên cứu. Các ứng dụng di động và các trang web có thể thu thập một số lượng lớn thông tin nhạy cảm mà không cần xin phép người dùng trong khi họ truy cập vào những trang web hoặc ứng dụng đó.
+Theo các nhà nghiên cứu, nhà mạng di động, nhà sản xuất và nhà phát minh trình duyệt nhận thức được vấn đề này nhưng họ chưa tìm ra lời giải. Đó là một cuộc đấu tranh giữa bảo mật và tính hiệu dụng, tiến sĩ Mehrnezhad cho biết. Chúng ta đều muốn sở hữu mô hình điện thoại thông minh mới nhất cung cấp trải nghiệm tốt nhất, nhưng các cảm biến được trang bị trên điện thoại thông minh luôn là một mối đe dọa thực sự đối với việc bảo mật dữ liệu của chúng ta.
+Lời khuyên tăng cường bảo mật.
+Phải làm gì để tránh bị hack mật khẩu? Các nhà nghiên cứu khuyên chúng ta một số quy tắc đơn giản :
+- Thường xuyên thay đổi mật khẩu.
+- Luôn cập nhật các ứng dụng và hệ điều hành của điện thoại thông minh.
+- Đóng các ứng dụng đang chạy ngầm ở chế độ nền khi không sử dụng và xóa các ứng dụng khi bạn không còn sử dụng đến chúng.
+- Chỉ cài đặt các ứng dụng từ cửa hàng được chứng nhận (nguồn gốc rõ ràng).
+- Kiểm tra các yêu cầu truy cập đối với các ứng dụng trước khi cài đặt chúng và có thể thay thế chúng bằng những ứng dụng khác ít có nguy cơ bị xâm nhập.
+Bước tiếp theo trong nghiên cứu đó là xem xét những rủi ro khác do các công cụ giám sát mang đến. Các công cụ này có khả năng được sử dụng để giải mã các chuyển động nhỏ nhất từ cổ tay đến chạy, đi bộ hoặc các vận động cơ thể khác./.
+Quế Ánh/VOV.VN.

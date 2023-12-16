@@ -1,0 +1,9 @@
+Samsung đã gợi ý rằng Galaxy S9 có thể bao gồm công nhận dạng khuôn mặt tiên tiến hơn nhưng bây giờ những đầu mối liên quan mới được vén màn.
+Galaxy S9 sẽ mang đến tính năng nhận dạng khuôn mặt chính xác hơn so với tiền nhiệm.
+Báo cáo từ SamCentral cho biết, trong quá trình tìm kiếm dữ liệu APK cài đặt phiên bản Oreo beta của Galaxy Note 8, họ đã phát hiện ra một tính năng ẩn bên trong mang tên Intelligent Scan. Tính năng này được ghi nhận là có thể sử dụng cả nhận dạng khuôn mặt dựa trên camera kết hợp máy quét mống mắt với độ phân giải cũng như bảo mật tốt hơn nhằm cải thiện khả năng nhận dạng ở điều kiện thiếu sáng.
+Khả năng quét mống mắt trên Galaxy S8 và Note 8 là rất tinh vi, điều này hứa hẹn sẽ mang lại trải nghiệm nhất quán hơn khi bạn mở khóa điện thoại hoặc truy cập thông tin bảo mật.
+Chưa rõ nó hoạt động ra sao, nhưng một video đi kèm tính năng này cung cấp cả máy quét mống mắt và máy ảnh đều hoạt động cùng một lúc bất kể điều kiện, nhưng không chắc liệu điều đó có nghĩa là kết hợp dữ liệu chung hay sử dụng nó như một bản dự phòng cho phương pháp kia hay không. Ví dụ, máy quét mống mắt có thể được ưu tiên ở ban đêm hay không.
+Bạn có thể nhận dạng khuôn mặt với Galaxy S9 ngay cả trong ban đêm.
+Do tính năng này hiện không được cung cấp cho người dùng nên nó có thể được giới thiệu với Galaxy S9 khi sản phẩm ra mắt vào tháng Hai. Không loại trừ nó sẽ được hỗ trợ trên điện thoại cũ khi mà Galaxy S8 và Note 8 nhận bản cập nhật Oreo chính thức.
+Câu hỏi đặt ra là liệu chúng có nhận được cùng một mức độ tính năng hay khôngbởi nó phụ thuộc vào chip xử lý, như Exynos 9810 và có thể Snapdragon 845 hướng đến S9. Những chip hiện đại này có thể phát hiện khuôn mặt 3D kiểu iPhone X kết hợp bộ xử lý sinh trắc học an toàn, do đó bạn có thể cần S9 sử dụng khuôn mặt của mình để xác nhận thanh toán hoặc các tính năng khác phụ thuộc vào vấn đề bảo mật.
+Kiến Tường (Theo Engadget).

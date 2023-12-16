@@ -1,0 +1,34 @@
+Tất cả các câu hỏi đều đảm bảo tính chính xác khoa học.
+Về cấu trúc, đề thi tham khảo môn Toán kì thi THPT quốc gia 2018 bao gồm kiến thức cả lớp 11 và lớp 12. Trong đó có khoảng 20% câu hỏi thuộc Chương trình lớp 11 và khoảng 80% câu hỏi thuộc Chương trình lớp 12.
+Cấu trúc Đề thi gồm 50 câu: khoảng 25 câu ở mức độ dễ, cơ bản và các câu còn lại ở mức độ vận dụng và vận dụng cao. Một số câu trong đó rất khó, có tính chất phân loại rất cao.
+Trong đó: Đạo hàm và ứng dụng với các nội dung liên quan: giới hạn; tiệm cận; đọc bảng biến thiên, nhận dạng đồ thị, tiếp tuyến, biện luận phương trình, cực trị gồm 13 câu;
+Hàm số mũ và logarit: 6 câu; số phức: 4 câu; đa diện: 2 câu; mặt nón, mặt trụ, mặt cầu: 2 câu; góc và khoảng cách: 4 câu; nguyên hàm, tích phân và ứng dụng: 6 câu; xác suất - tổ hợp: 4 câu; hình học giải tích không gian: 8 câu (có nhiều câu vận dụng); dãy số: 1 câu (kết hợp với logarit).
+Tất cả các câu hỏi trong đề thi đều đảm bảo tính chính xác khoa học bám sát chương trình sách giáo khoa và có nội dung nằm ở phần chung của chương trình môn toán lớp 11 và 12 hệ THPT (cơ bản và nâng cao) và Chương trình môn toán lớp 11 và 12 hệ giáo dục thường xuyên, không vi phạm các nội dung giảm tải.
+Các câu hỏi trong đề đã được biên soạn đảm bảo đề cập hết các đơn vị kiến thức học sinh đã được học, các kĩ năng học sinh cần có theo yêu cầu của chương trình.
+Độ khó được phân hóa dần.
+Học sinh luôn phải cẩn thận với các câu có chứa những từ phủ định như sai, không đúng, không phải. Hãy khoanh các câu này lại và đọc kĩ, làm cẩn thận, tránh lạc đề vì chúng ta thường quen với việc tìm phương án đúng.
+Các câu trong đề thi được sắp xếp từ dễ đến khó tạo điều kiện thuận lợi cho các thí sinh khi làm bài.
+Với những câu cơ bản, học sinh chỉ cần nắm vững lí thuyết và các dạng bài tập cơ bản trong sách giáo khoa là có thể làm được.
+Với những câu có tính phân loại, học sinh phải có tư duy tốt và sự vận dụng kiến thức của các phần khác nhau (tổng hợp) thì mới giải quyết được.
+Đề thi như vậy, vừa kiểm tra được kiến thức cơ bản, vừa có tính phân hóa cao.
+Độ khó được phân hóa dần: 10 câu đầu nhận biết; 15 câu sau mức độ thông hiểu; 10 câu tiếp theo mức độ vận dụng thấp; 15 câu tiếp theo mức độ vận dụng cao.
+Đặc biệt, mỗi đơn vị kiến thức đều có câu ở mức độ vận dụng cao được phát biểu dưới dạng khá lạ gây mất tinh thần cho học sinh.
+Các câu ở mức độ dễ cũng cần phải thật cẩn thận, có kiến thức chắc chắn mới làm đúng hết được trong thời gian ngắn nhất được.
+Đề thi cũng phân hóa được học sinh. Để có thể tiếp cận các câu 45 đến 50 học sinh phải thật xuất sắc có năng lực tự học tự sáng tạo cao.
+Còn từ câu 35 đến 40 học sinh cần phải có kiến thức vững vàng, chắc chắn, và năng lực học tập tốt mới làm được.
+Cách giáo viên ôn tập tốt cho học sinh.
+Thi trắc nghiệm không yêu cầu trình bày logic như tự luận mà chủ yếu là cách tư duy, làm thế nào để đưa ra đáp án nhanh nhất; chỉ cần nháp ngắn gọn các bước thông qua việc thể hiện các công thức, quan trọng là kết quả tuyệt đối chính xác.
+Giáo viên dạy thật kĩ các kiến thức cơ bản trong sách giáo khoa, hệ thống ôn tập lại từng chủ đề có trong cấu trúc đề thi minh họa. Trong quá trình dạy học phân tích những sai lầm mà học sinh dễ mắc phải, dạy học sinh cách đọc hiểu đáp án.
+Các thầy cô cũng cần lưu ý học sinh, ngoài làm những bài toán cụ thể còn biết tổng quát hóa bài toán, ghi nhớ các kết quả tổng quát.
+Đồng thời, hướng dẫn học sinh cách tiếp cận với một vấn đề lạ, cách liên hệ các kiến thức trong từng câu hỏi, cách tìm ra hướng giải quyết một cách nhanh nhất đối với mỗi câu hỏi ở các mức độ.
+Việc tạo ra cho học sinh thói quen chịu áp lực về thời gian trước một đề thi cũng vô cùng cần thiết. Ngoài ra, nên thường xuyên cập nhật trao đổi chuyên môn đồng nghiệp để tìm ra được phương pháp tốt nhất trước những bài toán khó, những vấn đề mới tới học sinh.
+Những điều học sinh cần đặc biệt lưu ý.
+Học sinh tự hệ thống kiến thức theo từng đơn vị kiến thức của mỗi soắn sao cho phù hợp với năng lực bản thân, dễ hiểu, dễ nhớ, dễ thuộc: nên tham khảo phần ôn tập, tổng kết sau mỗi chương trong SGK. Giải quyết, nghiên cứu kĩ, phân tích mổ xẻ kĩ các ví dụ, bài tập trong SGK.
+Các em cũng nên tham khảo đề thi thử của các trường hoặc trên web: Lấy đề về tự làm như thi thật, sau đó đối chiếu với đáp án để rút kinh nghiệm, sửa chữa những sai lầm về kĩ năng tính toán, về tốc độ làm bài, về phân phối thời gian , tuyển chọn các câu hỏi theo các đơn vị kiến thức theo từng mức độ dễ - khó, thường xuyên xem lại để ngấm, thấm các dạng câu hỏi có thể gặp.
+Thi trắc nghiệm không yêu cầu trình bày logic như tự luận mà chủ yếu là cách tư duy, làm thế nào để đưa ra đáp án nhanh nhất; chỉ cần nháp ngắn gọn các bước thông qua việc thể hiện các công thức, quan trọng là kết quả tuyệt đối chính xác.
+Muốn tư duy nhanh để đưa ra phương án giải quyết thì phải bám vào các từ khóa (như: cực đại, cực tiểu, đồng biến, nghịch biến, môđun, thể tích, phương trình mp, đt) có trong câu dẫn hoặc các phương án lựa chọn A, B, C, D: đọc xem câu dẫn hay các phương án lựa chọn đề bài hỏi nội dung gì thì lập tức liên tưởng đến các phần kiến thức, kĩ năng xử lí, tính toán liên quan đến nội dung đó.
+Trong quá trình học tập, ôn luyện, phải có ý thức xây dựng được thói quen đánh dấu lại các dạng bài mình thường sai hoặc bị nhầm lẫn, sau đó tìm hiểu nguyên nhân và tự kiểm tra lại sự thay đổi, tiến bộ của bản thân sau một thời gian nhất định.
+Tránh sa đà vào các câu khó, mà nên kiểm tra kĩ lại những câu mình đã làm được vì các câu có số điểm bằng nhau dù là dễ hay khó. Khi kiểm tra các câu đã làm được, hoặc là rà soát các công thức, các bước biến đổi, tính toán đúng chưa, hoặc lấy luôn dữ liệu của phương án để thử lại vào đề bài. Còn đối với các câu rất khó thì có thể sử dụng phương pháp loại trừ, phỏng đoán dựa trên cơ sở kiến thức của bản thân.
+Học sinh luôn phải cẩn thận với các câu có chứa những từ phủ định như sai, không đúng, không phải. Hãy khoanh các câu này lại và đọc kĩ, làm cẩn thận, tránh lạc đề vì chúng ta thường quen với việc tìm phương án đúng.
+Tất cả các câu hỏi trong đề thi đều đảm bảo tính chính xác khoa học bám sát chương trình sách giáo khoa và có nội dung nằm ở phần chung của chương trình môn toán lớp 11 và 12 hệ THPT (cơ bản và nâng cao) và Chương trình môn toán lớp 11 và 12 hệ giáo dục thường xuyên, không vi phạm các nội dung giảm tải.
+Hiếu Nguyễn (ghi).

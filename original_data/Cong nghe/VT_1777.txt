@@ -1,0 +1,8 @@
+StoryWeaver khởi đầu từ Tổ chức phi chính phủ (NGO) Pratham Books có trụ sở tại Ấn Độ, với mục tiêu đem đến khả năng đọc - viết - dịch miễn phí các câu truyện cho trẻ em. Vì thế mà dự án StoryWeaver nhận được chi phí tài trợ từ Google.org.
+Dự án này giúp thu hẹp khoảng cách giáo dục ở những nơi trẻ em còn nhiều hạn chế tiếp cận nguồn tri thức, xóa bỏ những giới hạn về địa lý, văn hóa cũng như ngôn ngữ.
+Bên cạnh đó, sự tham của đội ngũ nhân viên Google trên toàn thế giới trong việc dịch truyện đã tạo ra nguồn nội dung đa ngôn ngữ cho StoryWeaver trong đó có nhiều truyện cổ tích Việt được dịch ra nhiều thứ tiếng và ngược lại.
+Những câu truyện cổ tích Việt Nam được dịch sang nhiều thứ tiếng và ngược lại.
+Các nhân viên Google ở nhiều quốc gia đã cùng tham gia chiến dịch kêu gọi nội bộ "1.000 câu chuyện cho trẻ em" trên nền tảng mở StoryWeaver bao gồm các câu chuyện tiếng Việt, tiếng Thái, tiếng Hàn Quốc, tiếng Trung, Tamil, Hindu, tiếng Nhật...
+Phụ huynh hay giáo viên có thể tìm thấy nguồn truyện tiếng Việt theo các cấp độ cho trẻ tại đây hầu hết là truyện tranh bằng những hình ảnh minh họa vui nhộn, sắp xếp theo 4 cấp, phù hợp với độ tuổi của trẻ.
+Tất cả nội dung của StoryWeaver đều miễn phí, có thể dễ dàng tải về và truy cập từ nhiều thiết bị khác nhau. Hiện nền tảng đã có 20.000 đầu sách, truyện. Hệ thống được hỗ trợ việc tích hợp cổng dịch thuật Translate API, công cụ dịch thuật và cả những chuyên gia dịch thuật của Google để gia tăng hiệu quả chuyển ngữ.
+Xuân Tiến.

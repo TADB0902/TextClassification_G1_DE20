@@ -1,0 +1,8 @@
+Lỗ hổng nằm trong phần mềm quản lý vân tay Lenovo Fingerprint Manager Pro được cài sẵn trên các máy ThinkPad, ThinkCentre và ThinkStation. Phần mềm này sử dụng thuật toán mã hóa yếu kém nên bất cứ ai truy cập trực tiếp vào hệ thống (không cần tài khoản quản trị) cũng có thể đọc được dữ liệu vân tay và mật khẩu quản trị.
+Lỗ hổng này chỉ ảnh hưởng tới phần mềm Fingerprint Manager Pro trên Windows 7, Windows 8 hoặc Windows 8.1. Các mẫu laptop Lenovo dùng Windows 10 và hỗ trợ đăng nhập vân tay khác không bị ảnh hưởng.
+Phần mềm quản lý vân tay trên máy tính Lenovo từng dính lỗ hổng cách đây ba năm.
+Trong thông báo phát đi cuối tuần trước, đại diện Lenovo thừa nhận lỗ hổng trên có thể cho phép kẻ xấu với tài khoản đăng nhập thông thường có thể lấy được thông tin đăng nhập và dữ liệu vân tay.
+Rất nhiều mẫu ThinkPad, kể cả phiên bản ThinkPad X1 Carbon đắt tiền, đều dính lỗ hổng trên. Trong số này, bao gồm các mẫu máy: ThinkPad L560, ThinkPad P40 Yoga/ P50s; ThinkPad T440/ T440p/ T440s/ T450/ T450s/ T460/ T540p/ T550/ T560; ThinkPad W540/ W541/ W550s; ThinkPad X1 Carbon (Type 20A7, 20A8), X1 Carbon (Type 20BS, 20BT); ThinkPad X240/ X240s/ X250/ X260; và ThinkPad Yoga 14 (20FY)/ Yoga 460.
+Ngoài ThinkPad, dòng máy tính để bàn ThinkCentre với đại diện M73, M73z, M78, M79, M83, M93, M93p, M93z, và máy trạm ThinkStation với đại diện E32, P300, P500, P700, P900 cũng nằm trong diện bị ảnh hưởng.
+Cách đây ba năm, Lenovo cũng phát hiện và khắc phục một lỗ hổng tương tự trong phần mềm quản lý vân tay. Với lỗ hổng trên, Lenovo khuyến cáo người dùng cần nâng cấp lên phiên bản Fingerprint Manager Pro 8.01.87 mới nhất.
+Gia Nguyễn.

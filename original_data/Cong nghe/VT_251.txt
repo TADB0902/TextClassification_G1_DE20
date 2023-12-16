@@ -1,0 +1,10 @@
+Thông tin trên vừa được Apple đề cập trong thông cáo báo chí xác nhận hãng đang bị chính phủ Mỹ điều tra về sự cố làm chậm iPhone.
+Apple từng giải thích tính năng làm chậm iPhone nhằm giúp máy không bị khởi động lại đột ngột, nhất là với iPhone dùng pin cũ. Tuy nhiên, iFan trên khắp thế giới không đồng tình với lời biện hộ này. Một số chính phủ thậm chí còn bắt đầu điều tra xem Apple có vi phạm luật kinh doanh hay không.
+Apple đã có một số động thái sửa sai từ tháng 12 năm ngoái khi đưa ra chương trình thay pin giá rẻ cho iPhone, đồng thời hứa hẹn sẽ có tính năng phần mềm cho phép người dùng iPhone cũ tự ý quyết định có nên tắt tính năng làm chậm iPhone đi không.
+Hy vọng iFan sẽ sớm không phải chịu cảnh iPhone rùa bò.
+Những thông tin này vừa được đề cập trong thông báo xác nhận Apple đang bị chính phủ Mỹ điều tra.
+Ngoài giải pháp thay pin giá rẻ, chúng tôi đã bắt đầu phát triển tính năng iOS mới cho phép hiển thị tình trạng của pin, theo đó sẽ khuyến nghị người dùng có nên thay pin mới hay không. Ngoài ra, người dùng có thể tự quyết định sử dụng hay tắt tính năng quản lý năng lượng. Tất cả nâng cấp này sẽ có trong phiên bản beta tháng tới và người dùng sẽ được trải nghiệm chúng vào mùa xuân này, thông báo của Apple cho biết.
+Thông báo trên được Apple gửi cho truyền thông ngày 31/1. Điều đó có nghĩa bản beta (phiên bản dành cho nhà phát triển) trong tháng này của iOS 11.3 sẽ có phần tắt tính năng làm chậm iPhone.
+Cuối tháng trước, Apple đã giới thiệu bản beta đầu tiên của iOS 11.3 tích hợp nhiều nâng cấp mới nhưng lại không có tính năng theo dõi sức khỏe pin và phần cho phép tắt tính năng làm chậm iPhone.
+Theo khuyến cáo của chuyên gia, nếu iPhone bị chậm, việc tắt tính năng làm chậm sẽ không giúp giải quyết triệt để vấn đề. Giải pháp duy nhất là thay pin mới.
+Gia Nguyễn.

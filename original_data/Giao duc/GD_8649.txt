@@ -1,0 +1,15 @@
+Ảnh minh họa.
+Lịch thi, hình thức thi, thời gian làm bài:
+Ngày thi.
+Giờ cắt túi đề thi tại phòng thi.
+Giờ phát đề cho thí sinh.
+Giờ bắt đầu làm bài.
+07 giờ 50 phút.
+07 giờ 55 phút.
+08 giờ.
+Đối với thí sinh THPT: Thi tự luận đối với môn Ngữ văn. Thi tự luận kết hợp với trắc nghiệm đối với các môn Toán, Vật lí, Hóa học, Sinh học, Lịch sử, Địa lí; môn Tiếng Anh thi viết kết hợp cả 03 kỹ năng: nghe, đọc và viết; môn Tin học thi theo hình thức lập trình trên máy vi tính, ngôn ngữ lập trình là Free Pascal hoặc C++.
+Đối với thí sinh GDTX: Thi viết đối với môn Ngữ văn. Thi tự luận kết hợp với trắc nghiệm đối với môn Toán, Lịch sử, Địa lí.
+Đối với các môn thi có hình thức thi tự luận kết hợp với trắc nghiệm: điểm dành cho các câu hỏi tự luận chiếm khoảng 30% số điểm của bài thi.
+Sở GD&ĐT lưu ý giám thị là giáo viên không dạy các môn thi và không có con, em ruột, em ruột của vợ (hoặc chồng) dự thi. Riêng giám thị môn thi Tin học, Tiếng Anh, Sở GD&ĐT có quy định cụ thể và điều động đối với từng đơn vị.
+Giám khảo: Là cán bộ, giáo viên có năng lực chuyên môn; không có con, em ruột, em ruột của vợ (hoặc chồng) dự thi; đã tham gia bồi dưỡng đội tuyển HSG lớp 12 cấp tỉnh nhưng không là người phụ trách đội tuyển của môn giảng dạy trong kỳ thi chọn HSG, HVG lớp 12 cấp tỉnh năm học 2017-2018 của đơn vị.
+Lập Phương.

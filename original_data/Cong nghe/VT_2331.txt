@@ -1,0 +1,6 @@
+TPBank hiện đang có kế hoạch tích hợp T'Aio trên website, eBank và TPBank sẽ chủ động hơn trong việc mở rộng các tính năng của T'Aio.
+Với trợ lý ảo có tên gọi là T'Aio, tốc độ phản hồi của T'Aio khi nhận được đề nghị giao tiếp thông tin từ khách hàng chưa tới 5 giây, hoạt động 24/7 và liên tục học hỏi, hoàn thiện qua những lần hỗ trợ khách hàng để dần trở nên thông minh và giống con người hơn nhờ ứng dụng trí thông minh nhân tạo (AI - artificial intelligence). Khi nhận được câu hỏi từ khách hàng, T'Aio sẽ phân tích các câu trả lời có sẵn trong hệ thống dữ liệu và điểm confidence level (mức độ tự tin có thể trả lời). Trong trường điểm tự tin cao và vượt qua mức có thể thả lời, T'Aio sẽ phản hồi khách hàng.
+TPBank hiện đang có kế hoạch tích hợp T'Aio trên website, eBank và TPBank sẽ chủ động hơn trong việc mở rộng các tính năng của T'Aio.
+Cùng với T'Aio, TPBank đã trở thành ngân hàng đầu tiên tại Việt Nam ứng dụng trí thông minh nhân tạo AI. T'Aio sẽ nằm trong hệ sinh thái ngân hàng số của TPBank bao gồm eBank, eToken, LiveBank, mPOS tạo nên những chuẩn mực mới trong việc phục vụ khách hàng.
+Ngân hàng TPBank cũng đã ra mắt phiên bản TPBank eBank BIZ version 3.0 dành cho doanh nghiệp giúp khách hàng có thể thực hiện hầu hết các giao dịch ngân hàng từ các thiết bị điện tử, xác nhận giao dịch bằng chữ ký số mà không cần tới ngân hàng.
+B.B.

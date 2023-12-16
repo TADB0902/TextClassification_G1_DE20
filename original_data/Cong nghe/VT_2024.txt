@@ -1,0 +1,21 @@
+Trong những ngày qua, khái niệm "Cách mạng Công nghiệp 4.0" được nhắc đến nhiều trên truyền thông và mạng xã hội. Cùng với đó là những hứa hẹn về cuộc "đổi đời" của các doanh nghiệp tại Việt Nam nếu đón được làn sóng này. Vậy cuộc cách mạng này nên được hiểu như thế nào?
+Định nghĩa về Cách mạng Công nghiệp 4.0.
+Theo Gartner , Cách mạng Công nghiệp 4.0 (hay Cách mạng Công nghiệp lần thứ Tư) xuất phát từ khái niệm "Industrie 4.0" trong một báo cáo của chính phủ Đức năm 2013. "Industrie 4.0" kết nối các hệ thống nhúng và cơ sở sản xuất thông minh để tạo ra sự hội tụ kỹ thuật số giữa Công nghiệp, Kinh doanh, chức năng và quy trình bên trong.
+Nếu định nghĩa từ Gartner còn khó hiểu, Klaus Schwab, người sáng lập và chủ tịch điều hành Diễn đàn Kinh tế Thế Giới mang đến cái nhìn đơn giản hơn về Cách mạng Công nghiệp 4.0 như sau:
+"Cách mạng công nghiệp đầu tiên sử dụng năng lượng nước và hơi nước để cơ giới hóa sản xuất. Cuộc cách mạng lần 2 diễn ra nhờ ứng dụng điện năng để sản xuất hàng loạt. Cuộc cách mạng lần 3 sử dụng điện tử và công nghệ thông tin để tự động hóa sản xuất. Bây giờ, cuộc Cách mạng Công nghiệp Thứ tư đang nảy nở từ cuộc cách mạng lần ba, nó kết hợp các công nghệ lại với nhau, làm mờ ranh giới giữa vật lý, kỹ thuật số và sinh học".
+Lịch sử 4 cuộc cách mạng công nghệ của nhân loại.
+Theo ông Klaus Schwab, tốc độ đột phá của Cách mạng Công nghiệp 4.0 hiện "không có tiền lệ lịch sử". Khi so sánh với các cuộc cách mạng công nghiệp trước đây, 4.0 đang tiến triển theo một hàm số mũ chứ không phải là tốc độ tuyến tính. Hơn nữa, nó đang phá vỡ hầu hết ngành công nghiệp ở mọi quốc gia. Và chiều rộng và chiều sâu của những thay đổi này báo trước sự chuyển đổi của toàn bộ hệ thống sản xuất, quản lý và quản trị.
+Cách mạng Công nghiệp 4.0 sẽ diễn ra như thế nào?
+Nối tiếp từ định nghĩa của Klaus Schwab, Cách mạng Công nghiệp 4.0 sẽ diễn ra trên 3 lĩnh vực chính gồm Công nghệ sinh học, Kỹ thuật số và Vật lý.
+Những yếu tố cốt lõi của Kỹ thuật số trong CMCN 4.0 sẽ là: Trí tuệ nhân tạo (AI), Vạn vật kết nối - Internet of Things (IoT) và dữ liệu lớn (Big Data).
+Trên lĩnh vực công nghệ sinh học, Cách mạng Công nghiệp 4.0 tập trung vào nghiên cứu để tạo ra những bước nhảy vọt trong Nông nghiệp, Thủy sản, Y dược, chế biến thực phẩm, bảo vệ môi trường, năng lượng tái tạo, hóa học và vật liệu.
+Cuối cùng là lĩnh vực Vật lý với robot thế hệ mới, máy in 3D, xe tự lái, các vật liệu mới (graphene, skyrmions) và công nghệ nano.
+Hiện Cách mạng Công nghiệp 4.0 đang diễn ra tại các nước phát triển như Mỹ, châu Âu, một phần châu Á. Bên cạnh những cơ hội mới, cách mạng công nghiệp 4.0 cũng đặt ra cho nhân loại nhiều thách thức phải đối mặt.
+Cơ hội đi kèm thách thức và rủi ro toàn cầu.
+Mặt trái của Cách mạng Công nghiệp 4.0 là nó có thể gây ra sự bất bình đẳng. Đặc biệt là có thể phá vỡ thị trường lao động. Khi tự động hóa thay thế lao động chân tay trong nền kinh tế, khi robot thay thế con người trong nhiều lĩnh vực, hàng triệu lao động trên thế giới có thể rơi vào cảnh thất nghiệp, nhất là những người làm trong lĩnh vực bảo hiểm, môi giới bất động sản, tư vấn tài chính, vận tải.
+Máy móc thay thế lao động chân tay sẽ đẩy hàng triệu công nhân vào tình trạng thất nghiệp. Ảnh: Siemens.
+Báo cáo của Diễn đàn Kinh tế thế giới đã đặt ra vấn đề này theo các giai đoạn khác nhau. Giai đoạn đầu tiên sẽ là thách thức với những lao động văn phòng, trí thức, lao động kỹ thuật. Giai đoạn tiếp theo sẽ là lao động giá rẻ, có thể sẽ chậm hơn. Với sự chuyển động của cuộc cách mạng này, trong khoảng 15 năm tới thế giới sẽ có diện mạo mới, đòi hỏi các doanh nghiệp thay đổi.
+Sau đó, những bất ổn về kinh tế nảy sinh từ Cách mạng Công nghiệp 4.0 sẽ dẫn đến những bất ổn về đời sống. Hệ lụy của nó sẽ là những bất ổn về chính trị. Nếu chính phủ các nước không hiểu rõ và chuẩn bị đầy đủ cho làn sóng công nghiệp 4.0, nguy cơ xảy ra bất ổn trên toàn cầu là hoàn toàn có thể.
+Bên cạnh đó, những thay đổi về cách thức giao tiếp trên Internet cũng đặt con người vào nhiều nguy hiểm về tài chính, sức khỏe. Thông tin cá nhân nếu không được bảo vệ một cách an toàn sẽ dẫn đến những hệ lụy khôn lường.
+Cách mạng công nghiệp lần 4 mang đến cơ hội, và cũng đầy thách thức với nhân loại.
+Khương Nha - Duy Tín.

@@ -1,0 +1,8 @@
+Thận trọng khi tải các ứng dụng từ Goolge Play.
+Đáng chú ý, đây là những ứng dụng được người dùng Việt Nam thường xuyên sử dụng như: lịch vạn niên, đèn pin, máy quét mã QR, ứng dụng la bàn, ứng dụng tối ưu hóa và dọn rác.
+Theo phân tích từ các chuyên gia an ninh mạng, cơ chế tấn công của hacker là: Hacker đưa các ứng dụng tiện ích như: lịch vạn niên, đèn pin với các quyền truy cập thông thường lên Google Play;
+Sau đó, nếu cài đặt các ứng dụng này, người dùng sẽ nhận được những cảnh báo giả mạo. Ví dụ như điện thoại bị nhiễm mã độc hay điện thoại bị chậm và kèm theo là các hướng dẫn xử lý. Làm theo các các hướng dẫn này, điện thoại người dùng sẽ bị nhiễm mã độc thực sự.
+Mã độc hiển thị trang đăng nhập Facebook để lừa người dùng đăng nhập, sau đó chiếm mật khẩu tài khoản Facebook của họ. Cuối cùng, hacker sử dụng các tài khoản Facebook chiếm được để đăng tải các quảng cáo, thông tin giả mạo nhằm tiếp tục phát tán mã độc.
+Bkav cho biết, hiện tại, các ứng dụng này đã được gỡ bỏ khỏi Google Play. Tuy nhiên, với những điện thoại đã cài ứng dụng từ trước thì vẫn đang bị nhiễm mã độc. Bkav Mobile Security đã cập nhật các biến thể của dòng mã độc này, người sử dụng có thể dùng Bkav để quét và xử lý mã độc. Sau khi xử lý virus, người dùng cần đổi ngay mật khẩu Facebook.
+Cũng theo các chuyên gia an ninh mạng, để phòng tránh các mã độc tương tự, người dùng chỉ nên cài các ứng dụng biết rõ nguồn gốc xuất xứ và nhà sản xuất; Không làm theo các hướng dẫn từ các trang quảng cáo nếu không biết rõ về nó và cài thường trực phần mềm diệt virus cho điện thoại để được bảo vệ tự động.
+Hà Linh.

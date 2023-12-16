@@ -1,0 +1,14 @@
+Cảnh báo biến thể mới của mã độc Mirai nhắm đến thiết bị IoT tại Việt Nam.
+Phân tích một biến thể mới của Mirai các chuyên gia Bkav phát hiện hacker đang nhắm mục tiêu đến Việt Nam.
+Mirai là dòng mã độc đã tấn công hàng loạt thiết bị IoT trên thế giới, thông qua việc dò mật khẩu mặc định từ nhà sản xuất để lây nhiễm.
+Trong biến thể mới Bkav phân tích, danh sách mật khẩu được mã độc sử dụng để tấn công xuất hiện thông tin tài khoản mặc định của nhà mạng tại Việt Nam.
+Sự bùng nổ của IoT khiến vấn đề an ninh trên các thiết bị như Router Wifi, Camera IP trở thành chủ đề nóng trong thời gian gần đây. Kết quả nghiên cứu của Bkav năm 2016 cũng cho thấy có hơn 5,6 triệu router trên khắp thế giới có lỗ hổng, riêng tại Việt Nam con số này là 300.000, tương đương với 300.000 hệ thống mạng đang trong tình trạng bỏ ngỏ.
+Sau khi tấn công, kiểm soát thiết bị IoT, hacker có thể huy động các thiết bị này trở thành botnet trong các cuộc tấn công từ chối dịch vụ DDoS hoặc kiểm soát toàn bộ truy cập của người dùng trong mạng, thực hiện các hình thức tấn công MitM, Phishing để ăn cắp tài khoản ngân hàng, mạng xã hội, email...
+Ông Ngô Tuấn Anh, Phó Chủ tịch phụ trách An ninh mạng của Bkav khuyến cáo: Để phòng tránh nguy cơ bị truy cập trái phép, người sử dụng cần phải kiểm tra, thay đổi mật khẩu quản trị các thiết bị IoT đồng thời tắt tính năng cho phép truy cập thiết bị từ mạng Internet bên ngoài khi không sử dụng.
+Về phía nhà cung cấp dịch vụ, thiết bị cũng cần thông báo việc phải thay đổi mật khẩu mặc định cho khách hàng sau khi lắp đặt và đưa thiết bị vào sử dụng.
+15 triệu máy tính nhiễm virus trong quý III/2017, USB là nguyên nhân chính.
+Theo thống kê từ hệ thống giám sát virus của Bkav, số lượng máy tính bị nhiễm virus tại Việt Nam trong quý III/2017 vẫn ở mức rất cao, lên tới 15 triệu lượt máy. Trong đó, con đường lây nhiễm virus chính vẫn là qua USB, chiếm tới hơn 50%.
+Lý giải cho việc USB vẫn đang là nguồn lây nhiễm virus nhiều nhất, các chuyên gia Bkav phân tích, mặc dù USB là phương tiện phổ biến để sao lưu, trao đổi dữ liệu giữa các máy tính, nhưng ý thức về sử dụng USB an toàn vẫn chưa được cải thiện nhiều. Cũng theo thống kê của Bkav trong năm 2016, có tới 83% USB từng bị nhiễm virus trong năm.
+Để hạn chế việc lây nhiễm của virus lây lan qua USB cũng như tự bảo vệ dữ liệu của bản thân, người dùng cá nhân cần trang bị phần mềm diệt virus thường trực để quét USB trước khi sử dụng, hạn chế sử dụng USB trên các máy lạ.
+Với các cơ quan doanh nghiệp, cần trang bị giải pháp kiểm soát chính sách an ninh đồng bộ, trong đó có kiểm soát, phân quyền sử dụng USB theo nhu cầu và độ quan trọng của từng máy.
+Theo Tú Ân/ baodautu.vn.

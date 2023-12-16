@@ -1,0 +1,10 @@
+iPhone Lock và SIM ghép "thần thánh" tiếp tục bị "đột tử" trong 2 - 3 ngày nay.
+Theo thông tin đăng tải trên báo Tri thức trực tuyến , từ ngày hôm qua 6/12 tới thời điểm sáng nay 7/12, hàng loạt người sử dụng iPhone Lock với SIM ghép "thần thánh" bất ngờ bị Apple đưa vào "sổ tử" bởi bản cập nhật mới của "Quả táo khuyết" đã khiến chiếc SIM ghép này không thể kích hoạt sử dụng cho iPhone lock.
+Sau đó, các cửa hàng xác nhận SIM ghép thần thánh phiên bản mới đã bị khóa lại. Tương tự với SIM "thần thánh" đời đầu, người dùng không thể kích hoạt sóng trên máy khóa mạng bằng SIM ghép mới. Các trường hợp người dùng khôi phục cài đặt gốc hoặc đổi SIM mới trên khay SIM ghép cũ đều không thể kích hoạt. Trong khi đó, người đã kích hoạt máy trước đó vẫn có thể sử dụng bình thường, không chịu ảnh hưởng gì.
+SIM ghép là một bảng mạch dùng để đánh lừa hệ thống của Apple nhằm kích hoạt những chiếc iPhone lock (Ảnh: VNN).
+Theo Vietnamnet , nhiều người dùng iPhone lock Việt Nam cũng đã phản ánh điện thoại của họ bị khóa không rõ nguyên do. Sau khi tháo SIM hoặc reset lại máy, những chiếc điện thoại bị rơi vào trạng thái chưa active.
+Tìm hiểu về vụ việc trên, PV phát hiện rằng iPhone lock bị khóa chỉ xảy ra với trường hợp sử dụng phôi SIM 4G. Với phôi SIM 3G, việc sử dụng máy vẫn bình thường và không bị gián đoạn.
+Lý giải về hiện tượng này, anh Mai Đào Chí Bảo, một người có nhiều năm kinh nghiệm bán iPhone cho biết: Việc iPhone Lock đột tử hàng loạt có thể là do những động thái từ fix lỗi từ phía Apple. Do đó, người dùng và bản thân cả những người bán iPhone lock tại Việt Nam ở trong thế hoàn toàn bị động.
+Trước câu hỏi về cách khắc phục tình trạng trên, anh Bảo cho rằng gần như không thể. Người dùng sẽ phải đợi một thời gian nữa để biết liệu có thể fix máy bằng phần mềm. Nếu muốn sử dụng máy luôn, người dùng cần bỏ SIM 4G đang xài và chuyển về SIM 3G để sử dụng.
+Tuy vậy, do 4G đang dần phổ biến tại Việt Nam, một số nhà mạng như Viettel đã khóa việc chuyển ngược từ 4G về 3G. Điều này cũng đồng nghĩa người dùng khó có cơ hội dùng lại chiếc iPhone lock với số cũ. Họ sẽ phải dùng một SIM 3G khác để có thể tái sử dụng chiếc điện thoại này.
+Thảo Nhi (t/h).

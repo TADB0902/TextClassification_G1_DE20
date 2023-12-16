@@ -1,0 +1,21 @@
+Lỗ hổng được phát hiện bên trong phần mềm Fingerprint Manager Pro (một ứng dụng được cài sẵn trên các sản phẩm của Lenovo), cho phép người dùng đăng nhập vào máy tính bằng dấu vân tay thay vì phải nhập mật khẩu.
+38 mẫu smartphone bị cài sẵn phần mềm độc hại.
+(PLO)- Mới đây, hãng bảo mật Check Point đã phát hiện ra 38 mẫu smartphone bị cài sẵn phần mềm độc hại trước khi chúng được chuyển đến tay người tiêu dùng.
+Ảnh: Internet.
+Theo đó, những dữ liệu nhạy cảm (tên đăng nhập, mật khẩu...) được lưu trữ trên Fingerprint Manager Pro sử dụng thuật toán mã hóa khá yếu, do đó rất dễ bị tin tặc tấn công và giải mã. Tuy nhiên, Lenovo cho biết lỗ hổng này chỉ có thể bị khai thác khi tin tặc ngồi thực hiện trực tiếp trên thiết bị chứ không thể thao tác từ xa.
+Những dòng laptop Lenovo bị ảnh hưởng bao gồm ThinkPad, ThinkCentre và ThinkStation. Lưu ý, chỉ những thiết bị chạy Windows 7, 8 và 8.1 mới bị ảnh hưởng bởi lỗ hổng này, những ai đã nâng cấp lên Windows 10 có thể an tâm sử dụng.
+Hiện Lenovo đã tung ra bản cập nhật để khắc phục lỗ hổng liên quan đến phần mềm Fingerprint Manager Pro (phiên bản 8.01.87).
+Dưới đây là danh sách các thiết bị Lenovo bị ảnh hưởng:
+ThinkPad L560.
+ThinkPad P40 Yoga, P50s.
+ThinkPad T440, T440p, T440s, T450, T450s, T460, T540p, T550, T560.
+ThinkPad W540, W541, W550s.
+ThinkPad X1 Carbon (Type 20A7, 20A8), X1 Carbon (Type 20BS, 20BT).
+ThinkPad X240, X240s, X250, X260.
+ThinkPad Yoga 14 (20FY), Yoga 460.
+ThinkCentre M73, M73z, M78, M79, M83, M93, M93p, M93z.
+ThinkStation E32, P300, P500, P700, P900.
+Nếu cảm thấy hữu ích, bạn đừng quên chia sẻ bài viết cho nhiều người cùng biết hoặc để lại bình luận khi gặp rắc rối trong quá trình sử dụng.
+Lenovo bị phạt vì cài sẵn phần mềm quảng cáo.
+(PL)- Sau đợt tranh luận kéo dài hơn hai năm với Ủy ban thương mại liên bang (Mỹ), cuối cùng Lenovo phải nhận án phạt lên tới 3,5 triệu USD do cài sẵn phần mềm quảng cáo (adware) trái phép trên laptop trước khi bán ra.
+TIỂU MINH.

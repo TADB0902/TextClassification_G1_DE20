@@ -1,0 +1,13 @@
+Trí tuệ nhân tạo mới có thể đoán chính xác ai đó có đồng tính hay không dựa trên hình ảnh khuôn mặt của họ. Kết quả nghiên cứu cho thấy máy có thể "gaydar" tốt hơn đáng kể so với con người.
+Minh hoạ về công nghệ phân tích khuôn mặt trong thử nghiệm. Ảnh: The Guardian.
+Nghiên cứu của đại học Stanford đã gây ra sự tranh cãi khi đưa ra thuật toán máy tính có thể phân biệt chính xác giới tính giữa nam và nữ đồng tính lên đến 81%.Người ta nghi ngại liệu thuật toán này có đặt ra câu hỏi về nguồn gốc sinh học của xu hướng tình dục, đạo đức công nghệ phát hiện khuôn mặt và tiềm năng cho loại phần mềm trên để vi phạm quyền riêng tư của người dân hoặc bị lạm dụng vì mục đích chống cộng đồng LGBT.
+Theo Economist , các thông tin thử nghiệm trong nghiên cứu được dựa trên mẫu hơn 35.000 hình ảnh mặt người đàn ông và phụ nữ đăng công khai trên một trang web hẹn hò của Mỹ.
+Hai nhà khoa học Michal Kosinski và Yilun Wang đã sử dụng các tính năng nhận diện của "mạng nơron sâu" (hệ thống toán học tinh vi học cách phân tích hình ảnh dựa trên tập dữ liệu lớn) để thực hiện nghiên cứu trên.
+Kết quả nghiên cứu cho thấy đàn ông và phụ nữ đồng tính có xu hướng, đặc điểm và các biểu hiện nổi bật. Ví dụ như "phong cách chải chuốt", thường xuất hiện ở những người đàn ông đồng tính, giúp trở nên nữ tính hơn và ngược lại.
+Các dữ liệu cũng xác định những đặc điểm ngoại hình nhất định. Những người đàn ông đồng tính thường có khuôn hàm hẹp, mũi dài hơn và trán lớn hơn đàn ông bình thường. Ngoài ra, phụ nữ đồng tính có hàm trên và trán nhỏ hơn so với phụ nữ bình thường.
+AI có thể nhận diện giới tính chính xác hơn con người. Ảnh: The Next Web.
+Mặc dù chỉ là thử nghiệm nhưng trí tuệ nhân tạo này tạo nên mối nghi ngại lớn. Với hàng tỷ hình mặt người được lưu trữ trên các trang mạng xã hội và trong cơ sở dữ liệu của chính phủ, thông tin công khai ấy có thể được sử dụng để phát hiện ra khuynh hướng tình dục của người dân và không có sự đồng ý của họ.
+"Chắc chắn là đáng lo ngại.Giống như bất kỳ công cụ mới nào, nếu nó rơi vào tay kẻ xấu, nó có thể được sử dụng cho mục đích bệnh hoạn. Nếu bạn có thể lập hồ sơ người dân dựa trên sự xuất hiện, sau đó định danh và làm những điều khủng khiếp với họ, điều đó thực sự rất tồi tệ", Nick Rule, giáo sư tâm lý học tại Đại học Toronto, người đã công bố nghiên cứu khoa học về gaydar nói.
+VIDEO: Bot Dota 2 hạ gục người chơi chuyên nghiệp.
+Trong TI7 Dendi thua trận trước OpenAI Bot.
+Gia Minh.

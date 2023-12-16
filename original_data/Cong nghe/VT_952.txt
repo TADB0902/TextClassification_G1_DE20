@@ -1,0 +1,7 @@
+Người dùng nên cập nhật khẩn cấp bản sửa lỗi từ Microsoft - Ảnh: AFP.
+Theo Neowin , việc tung ra bản cập nhật là hành động kịp thời của Microsoft sau khi công ty phát hiện những tác động tiêu cực của bản vá lỗ hổng từ Intel gây ảnh hưởng đến hệ thống. Trước đó vào ngày 22.1, Intel khuyến cáo khách hàng ngừng triển khai bản vá lỗi vi xử lý ảnh hưởng bởi lỗ hổng Meltdown và Spectre sau khi phát hiện một lỗi khiến máy tính của một số người dùng tắt bất ngờ.
+Mặc dù ban đầu công ty chỉ gửi lời cảnh báo đến một số khách hàng lớn chưa cài đặt các bản vá, nhưng ngay lập tức công ty đã mở rộng lời khuyên đến tất cả người dùng, hứa hẹn về bản vá lỗi đầy đủ hơn.
+Bên cạnh đó Intel cũng đề xuất rằng bản cập nhật mới từ các đối tác OEM sẽ giúp giảm thiểu các sự cố trong khi vẫn tiếp tục làm việc để hoàn thiện bản sửa lỗi toàn diện và không có lỗi xảy ra. Bản cập nhật KB4078130 mới đây là một ví dụ điển hình, nơi Microsoft nhấn mạnh rằng nó chỉ vô hiệu hóa tác động từ bản vá của Intel đối với hệ thống.
+Cũng trong báo cáo từ Microsoft, mặc dù vài tuần kể từ khi những lỗ hổng được công bố, Microsoft cho biết vẫn chưa có cuộc tấn công nào khai thác lỗ hổng Spectre.
+Dĩ nhiên điều này không có nghĩa là người dùng bỏ qua các bản vá lỗi. KB4078130 hiện được cung cấp đến tất cả các thiết bị Windows 7 (SP1), Windows 8.1 và Windows 10, cho cả người dùng cuối và máy chủ, hoặc cũng có thể thực hiện bằng cách tải về bản vá lỗi từ Microsoft.
+Kiến Văn.

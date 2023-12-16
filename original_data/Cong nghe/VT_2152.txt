@@ -1,0 +1,6 @@
+Nhiều thiết bị Windows sẽ sớm được tích hợp máy quét mống mắt - Ảnh: Neowin.
+Trước đó, Microsoft đã giới thiệu một số công nghệ thú vị về chức năng bảo mật trên Windows 10, trong đó đáng chú ý nhất là Windows Hello. Tính năng bảo mật này cho phép người dùng đăng nhập vào thiết bị của mình bằng cách sử dụng khuôn mặt hoặc dấu vân tay của mình. Mặc dù đây là một tính năng được đánh giá tốt nhưng dường như Microsoft đang muốn tiến xa hơn.
+Ghi nhận từ Patently Mobile cho biết Microsoft đã cấp bằng sáng chế cho một hình thức bảo mật máy quét mống mắt để mở đường cung cấp đến các thiết bị tương lai. Trong đơn đăng ký bằng sáng chế, Microsoft cho biết thiết bị chứa một số yếu tố có thể giúp làm sáng mắt từ nhiều góc độ. Trong quá trình làm sáng, máy ảnh sẽ chụp ảnh tất cả các trường hợp khác nhau của mắt và tạo ra các điểm dữ liệu riêng biệt để cấp phép đăng nhập vào thiết bị.
+Với các dữ liệu nói trên, công nghệ của Microsoft có thể phân biệt một mắt thực với mắt trên bức ảnh. Phương pháp nhận dạng mới này cần tăng cường bảo mật bằng cách thực hiện thêm các bước để xác nhận dữ liệu được trình bày.
+Đương nhiên đây chỉ là một hồ sơ bằng sáng chế, vì vậy công nghệ này hoàn toàn có thể không được Microsoft đưa vào thực tế thông qua một sản phẩm tiêu dùng.
+Kiến Văn.

@@ -1,0 +1,10 @@
+Phương pháp mới cung cấp một hình ảnh vân tay chính xác hơn so với các phương pháp chuẩn vẫn được sử dụng trong pháp y - Ảnh: Analytical Chemistry.
+Các nhà nghiên cứu nói rằng phương pháp này cung cấp một hình ảnh vân tay chính xác hơn so với các phương pháp chuẩn vẫn được sử dụng trong pháp y.
+Nói chung, khi thu thập dấu vân tay tại hiện trường tội phạm, các chuyên gia pháp y sử dụng một loại bột dựa trên nền carbon, các loại thuốc nhuộm hữu cơ hoặc các chất huỳnh quang để phát hiện dấu vết của các ngón tay và lòng bàn tay. Việc lựa chọn chất phản ứng phụ thuộc vào tính chất và màu sắc của bề mặt.
+Để tăng độ tương phản của các dấu vân tay, các nhà nghiên cứu Trung Quốc sử dụng các chất phát huỳnh quang khi chúng bị tia cực tím chiếu vào. Nhưng một số bề mặt, bao gồm cả kim loại và nhựa thì lại phát ra ánh sáng huỳnh quang khi bị tia cực tím tác động và điều này có thể che giấu các chi tiết của dấu vân tay.
+Nhà nghiên cứu Quan Yuan ở Đại học Vũ Hán và các đồng nghiệp đã quyết định loại bỏ sự sai lệch. Vì bề mặt vật liệu không còn phát huỳnh quang sau khi ánh sáng cực tím bị tắt nên họ tìm kiếm một loại vật liệu phát sáng lâu hơn, thậm chí sẽ phát sáng cả sau khi ngừng chiếu xạ tia cực tím.
+Họ tổng hợp được các loại hạt nano dựa trên nền hợp chất kẽm và germanium (Zn2GeO4), chứa 1,0% gali và 0,5% mangan. Bề mặt của các hạt nano đã được sửa đổi đặc biệt để gắn kết tốt hơn với các axit amin còn được lưu trong các dấu vân tay.
+Trong quá trình thử nghiệm, các tác giả của sáng chế đã dùng pipet đưa dung dịch nước với các hạt nano lên trên bề mặt, nơi lưu giữ các dấu vân tay. Sau nửa giờ, họ loại bỏ chất lỏng và khu vực bề mặt được rửa sạch bằng dung dịch đệm phosphate.
+Sau khi bức xạ cực tím được hướng trực tiếp lên bề mặt, nó bắt đầu phát huỳnh quang và che khuất sự phát sáng của dấu vân tay. Nhưng ngay khi nguồn tia cực tím bị tắt, chỉ còn dấu vân tay phát quang màu lục nhạt, khiến mọi người có thể nhìn thấy rõ ràng tất cả các đặc tính của các đường vân tay.
+Ngoài ra, phương pháp mới còn có thể xác định các dấu vân tay lưu lại từ 60 ngày trước, một việc làm quá khó khi sử dụng các phương pháp xác định vân tay truyền thống.
+Vũ Trung Hương.
