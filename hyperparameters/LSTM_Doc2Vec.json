@@ -1,1 +1,3 @@
-{"lstm_units_1": 256, "lstm_units_2": 224, "dense_units": 384, "dropout_rate": 0.30000000000000004, "learning_rate": 0.0029085506178643137,"epochs": 10, "batch_size": 256}
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7cbd6b56d6b18e0d192136a14faa47269172eea58797c4b51a2e00dfeb9f56f
+size 171

@@ -1,1 +1,3 @@
-{"gru_units_1": 448, "gru_units_2": 128, "dense_units": 320, "dropout_rate": 0.2, "learning_rate": 0.0003678798568175657, "epochs": 10, "batch_size": 256}
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c557de1b1b0be4eac38d054a7dbd8cd11c68eb28b3f23dc71401c3686e1a1da
+size 154
