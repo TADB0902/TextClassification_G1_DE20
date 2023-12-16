@@ -1,0 +1,1 @@
+{"gru_units_1": 448, "gru_units_2": 128, "dense_units": 320, "dropout_rate": 0.2, "learning_rate": 0.0003678798568175657, "epochs": 10, "batch_size": 256}
